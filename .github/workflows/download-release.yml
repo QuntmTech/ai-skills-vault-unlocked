@@ -1,0 +1,68 @@
+name: Build private download
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing draft release tag (for example v0.2.0)
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: download-release-${{ inputs.tag }}
+  cancel-in-progress: false
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Require private repository and existing draft
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ inputs.tag }}
+        run: |
+          [[ "$RELEASE_TAG" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]]
+          test "$(gh repo view --json isPrivate --jq .isPrivate)" = true
+          test "$(gh release view "$RELEASE_TAG" --json isDraft --jq .isDraft)" = true
+      - name: Validate all packages
+        working-directory: 🔧 ADVANCED
+        run: |
+          python3 -m pip install -r requirements-dev.txt
+          python3 -m unittest discover -s tests -v
+          python3 scripts/build_repository.py --check
+          python3 scripts/audit_exports.py --check
+          python3 scripts/build_easy_library.py --check
+      - name: Build and verify download
+        run: |
+          git archive --format=zip --prefix=AI-SKILLS-VAULT-UNLOCKED/ -o /tmp/AI-SKILLS-VAULT-UNLOCKED.zip HEAD
+          python3 - <<'PY'
+          import json, zipfile
+          from pathlib import Path
+          manifest = json.loads(Path('🔧 ADVANCED/metadata/easy-library.json').read_text())
+          with zipfile.ZipFile('/tmp/AI-SKILLS-VAULT-UNLOCKED.zip') as archive:
+              assert archive.testzip() is None
+              entries = [e for e in manifest['entries'] if e.get('zip')]
+              assert len(entries) == manifest['summary']['zip_count']
+              for entry in entries:
+                  path = entry['zip']
+                  assert archive.read('AI-SKILLS-VAULT-UNLOCKED/' + path) == Path(path).read_bytes(), path
+              print(f'Verified {len(entries)} packaged skill ZIPs')
+          PY
+          sha256sum /tmp/AI-SKILLS-VAULT-UNLOCKED.zip
+      - name: Attach download and publish private release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ inputs.tag }}
+        run: |
+          gh release upload "$RELEASE_TAG" /tmp/AI-SKILLS-VAULT-UNLOCKED.zip
+          gh release edit "$RELEASE_TAG" --target "$GITHUB_SHA" --draft=false --latest
