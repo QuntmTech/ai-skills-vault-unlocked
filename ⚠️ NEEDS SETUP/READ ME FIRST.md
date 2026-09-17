@@ -2,7 +2,8 @@
 
 Packaged ZIPs here mention special tools, accounts, host paths or nested skills.
 These are heuristic flags, not proof that a skill is incompatible.
-Check the searchable menu for each skill's requirements before upload.
+For details without a website, use the matching readable Skill Reference in COPY & PASTE.
+The searchable menu is an optional alternative.
 
 ## No ZIP generated
 

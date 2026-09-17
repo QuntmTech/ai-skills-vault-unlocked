@@ -2,14 +2,29 @@
 
 **Your private, ready-to-browse library. No Terminal or manual zipping required.**
 
-## Start here
+## Download and use — no website required
 
-On your computer, double-click **📍 START HERE.html** for search, topic filters,
-requirements and direct ZIP links.
+### [⬇ Download the complete ready-packaged vault](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest)
 
-On GitHub, open the [browse list](📦%20READY%20FOR%20CLAUDE/BROWSE%20ALL%20SKILLS.md).
-To use the offline menu, choose **Code → Download ZIP**, extract that download
-once, then open **📍 START HERE.html**. Keep the individual skill ZIPs zipped.
+1. Open the download link above. Under **Assets**, choose
+   **AI-SKILLS-VAULT-UNLOCKED.zip**.
+2. Extract that outer ZIP once.
+3. Open **📦 READY FOR CLAUDE**, then the topic you want.
+4. Select the skill's existing **.zip** file in Claude's skill-upload control.
+   **Do not extract or re-ZIP the individual skill.**
+
+There are **472 prebuilt skill ZIPs** in total. Skills mentioning special tools,
+plugins or accounts are separated under **⚠️ NEEDS SETUP → Packaged - Review
+Requirements**. Read their requirements before using them.
+Packages with missing resources are listed for repair rather than labeled ready.
+
+The repository's **Code → Download ZIP** button also includes the prepared ZIPs.
+The repository is private, so downloads require access. Nothing is public yet.
+
+**Optional:** double-click **📍 START HERE.html** to search instead of browsing
+folders. It is a convenience, not an installation requirement.
+The [Markdown browse list](📦%20READY%20FOR%20CLAUDE/BROWSE%20ALL%20SKILLS.md)
+also works directly on GitHub.
 
 ## Four places to go
 
@@ -22,7 +37,7 @@ once, then open **📍 START HERE.html**. Keep the individual skill ZIPs zipped.
 
 ## Upload to Claude
 
-1. Find a skill in the menu and read its requirements.
+1. Pick a skill ZIP from its topic folder and read the included guidance.
 2. Select its ZIP using Claude's skill-upload control.
 3. Try a harmless example and confirm that it works for you.
 

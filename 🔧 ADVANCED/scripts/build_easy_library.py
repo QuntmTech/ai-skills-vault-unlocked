@@ -119,8 +119,8 @@ def outputs(root=ROOT, vault=VAULT):
     generated[vault / START] = template.replace("__LIBRARY_DATA__", safe_payload(manifest)).encode()
     # Markdown works on GitHub, where the offline HTML page is not rendered.
     lines = ["# Browse skills and downloads", "",
-             "Download the entire repository ZIP and extract it once for offline search.",
-             "Then open 📍 START HERE.html. No Python or manual skill zipping is required.", "",
+             "Download the GitHub release ZIP and extract it once. Browse the topic folders directly.",
+             "The HTML search page is optional. No website, Python or manual skill zipping is required.", "",
              "Packaging checked does not mean tested inside Claude. Review tool requirements.",
              "Identical whole packages share one ZIP; all source copies remain in Advanced.", ""]
     for title in sorted({row["category"] for row in rows}):
@@ -137,7 +137,7 @@ def outputs(root=ROOT, vault=VAULT):
         generated[vault / COPY / "Project Instructions" / name] = (root / "project-instructions" / name).read_bytes()
     generated[vault / READY / "READ ME FIRST.md"] = (
         "# Ready-made Claude ZIPs\n\n"
-        "1. Open 📍 START HERE.html in the main folder and choose a skill.\n"
+        "1. Open a topic folder here and choose a skill ZIP. The website is optional.\n"
         "2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.\n"
         "3. In Claude, use Customize → Skills → add/create → upload (labels may vary).\n"
         "4. Try a harmless task and confirm the skill activates.\n\n"
@@ -151,7 +151,8 @@ def outputs(root=ROOT, vault=VAULT):
     problem_lines = ["# Needs setup or repair", "",
                      "Packaged ZIPs here mention special tools, accounts, host paths or nested skills.",
                      "These are heuristic flags, not proof that a skill is incompatible.",
-                     "Check the searchable menu for each skill's requirements before upload.", "",
+                     "For details without a website, use the matching readable Skill Reference in COPY & PASTE.",
+                     "The searchable menu is an optional alternative.", "",
                      "## No ZIP generated", ""]
     for row in rows:
         if row["status"] == "Needs repair — no ZIP":

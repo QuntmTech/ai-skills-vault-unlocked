@@ -1,7 +1,7 @@
 # Browse skills and downloads
 
-Download the entire repository ZIP and extract it once for offline search.
-Then open 📍 START HERE.html. No Python or manual skill zipping is required.
+Download the GitHub release ZIP and extract it once. Browse the topic folders directly.
+The HTML search page is optional. No website, Python or manual skill zipping is required.
 
 Packaging checked does not mean tested inside Claude. Review tool requirements.
 Identical whole packages share one ZIP; all source copies remain in Advanced.

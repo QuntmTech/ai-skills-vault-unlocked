@@ -1,6 +1,6 @@
 # Ready-made Claude ZIPs
 
-1. Open 📍 START HERE.html in the main folder and choose a skill.
+1. Open a topic folder here and choose a skill ZIP. The website is optional.
 2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.
 3. In Claude, use Customize → Skills → add/create → upload (labels may vary).
 4. Try a harmless task and confirm the skill activates.
