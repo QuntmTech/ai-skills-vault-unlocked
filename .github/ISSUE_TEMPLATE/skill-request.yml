@@ -1,0 +1,28 @@
+name: Skill request
+description: Suggest a skill or command for the vault
+title: "[Skill request]: "
+labels: [enhancement]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: Link to the original source and license.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Why it belongs in the vault
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Safety checks
+      options:
+        - label: I reviewed the files for credentials and private data.
+          required: true
+        - label: I confirmed a redistribution license is available.
+          required: true
+

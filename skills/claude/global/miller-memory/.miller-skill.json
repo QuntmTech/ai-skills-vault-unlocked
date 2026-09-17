@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 3,
+  "catalogOwnerHash": "fd852d6b959a21afe16b07d79c6d1157762ce58aa99dd1792d8255c73c434a7e",
+  "kind": "catalog",
+  "bundleHash": "8bd26fd4667b33aabe2e18b600ef782c0dff6929797c251f42bd051ff3c70ac8",
+  "files": [
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "2ee49119d340f7a78ecef5569390b1b1525329b21de4852a842be73c94d61fa6"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "5c9952cbcf9c7bb9399ea77456806c23b51f1ebf9ea51acb34d39cf6f4e0d27c"
+    }
+  ]
+}

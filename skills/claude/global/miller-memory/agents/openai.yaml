@@ -1,0 +1,4 @@
+interface:
+  display_name: "Miller Memory"
+  short_description: "Search Miller memories and connected information"
+  default_prompt: "Use $miller-memory to find relevant Miller memories, meetings, and connected information."
