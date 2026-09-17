@@ -23,6 +23,17 @@
 - After fixing the catalog's missing favicon request, browser console:
   zero errors and zero warnings.
 
+## General project-instruction addition
+
+PROJECT COMPASS adds a short core, topic-specific handbook, private context
+template, reader checks, curation notes and generated combined copy.
+The compilation was reviewed for personal identifiers and unsafe inherited
+instruction patterns. A fresh-reader review passed the scope, authority,
+verification and privacy scenarios; its wording/security suggestions were
+incorporated. The instruction-pack tests bring the local suite to 26 tests.
+This addition does not change the skill catalog counts or resolve the
+collection's existing publication gates below.
+
 ## What is not yet verified
 
 1. **Redistribution rights.** 111 entries contain detected license evidence,

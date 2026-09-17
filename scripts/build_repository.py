@@ -12,6 +12,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from urllib.parse import quote
 from skillverse import contained, frontmatter, inspect
+from build_instruction_pack import instruction_outputs
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -206,6 +207,7 @@ def generated_outputs() -> dict[Path, str]:
     template = (ROOT / "scripts/catalog-template.html").read_text()
     payload = json.dumps(public_rows, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
     return {
+        **instruction_outputs(ROOT),
         CATALOG_JSON: json_text(catalog),
         CATALOG_MD: catalog_markdown(catalog),
         INVENTORY_JSON: json_text(inventory),

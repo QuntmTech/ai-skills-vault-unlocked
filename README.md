@@ -13,6 +13,13 @@ Double-click [the searchable catalog](catalog/index.html). It works offline:
 no server, account, analytics or external scripts.
 Prefer text? Open the [Markdown catalog](catalog/skills-catalog.md).
 
+### General project instructions
+
+Use [PROJECT COMPASS](project-instructions/README.md) for a concise, generalized
+project-instruction system: a short core, a deeper handbook, a private context
+template and a [single copy/paste version](project-instructions/COPY-PASTE-ALL.md).
+It is a document pack, not another skill, and contains no imported private profiles.
+
 ## What is inside?
 
 - **925 source entries:** 839 skill copies and 86 Claude commands.
@@ -63,6 +70,7 @@ metadata/      Content hashes, duplicates and review reports
 scripts/       Search, inspect, export and validate
 tests/         Export and preservation regression tests
 docs/          Setup, architecture and publishing gates
+project-instructions/  General-purpose PROJECT COMPASS compilation
 dist/          Personal exports; ignored by Git
 ```
 
