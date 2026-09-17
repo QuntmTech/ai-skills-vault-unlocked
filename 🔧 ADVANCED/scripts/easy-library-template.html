@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="data:,">
+<title>🧠 AI SKILLS VAULT — UNLOCKED</title>
+<style>
+:root{--paper:#f5f3eb;--ink:#172e29;--muted:#50645f;--line:#cbd6cc;--accent:#14583f;--tint:#e2ebdf}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 system-ui,sans-serif}
+header,main,footer{max-width:1160px;margin:auto;padding:32px}header{padding-top:50px}
+.eyebrow{font:700 12px/1.5 monospace;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+h1{font:600 clamp(36px,6vw,68px)/1.08 Georgia,serif;letter-spacing:-.035em;margin:18px 0}h1 span{color:var(--accent)}
+.intro{max-width:670px;font-size:20px;color:var(--muted)}a{color:var(--accent);text-underline-offset:3px}
+.steps{display:flex;flex-wrap:wrap;gap:24px;margin:28px 0;padding:20px 0;border-block:1px solid var(--line)}
+.steps b{font:600 22px Georgia,serif;margin-right:8px}.steps span{flex:1;min-width:220px}
+.notice{padding:16px 20px;background:var(--tint);border-left:4px solid var(--accent);border-radius:0 8px 8px 0}
+nav{display:flex;gap:20px;flex-wrap:wrap;margin-top:20px}
+.controls{display:flex;flex-wrap:wrap;gap:12px;position:sticky;top:0;background:var(--paper);padding:14px 0;border-bottom:1px solid var(--line)}
+input,select,button{font:inherit;padding:12px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink)}
+input{flex:2;min-width:190px}select{flex:1;min-width:190px}button{cursor:pointer}
+:focus-visible{outline:3px solid #247553;outline-offset:3px}
+article{display:grid;grid-template-columns:1fr auto;gap:24px;padding:26px 0;border-bottom:1px solid var(--line)}
+h2{font-size:21px;margin:0;overflow-wrap:anywhere}.description{max-width:760px;color:var(--muted);margin:8px 0}
+.meta{font-size:13px;color:var(--muted)}.badge{display:inline-block;border-radius:4px;padding:3px 8px;background:var(--tint);font-size:12px;font-weight:650}
+.action{display:inline-block;align-self:start;background:var(--accent);color:white;padding:10px 16px;border-radius:7px;text-decoration:none;white-space:nowrap}
+details{margin-top:12px}summary{cursor:pointer;font-size:14px}details p{font-size:14px;margin:6px 0}
+.links{display:flex;gap:16px;flex-wrap:wrap;margin-top:10px}#count{font-size:14px;color:var(--muted)}
+#more{margin-top:24px}footer{font-size:13px;color:var(--muted);padding-bottom:50px}
+@media(max-width:640px){header,main,footer{padding:22px}.controls{position:static}.controls>*{width:100%;flex:auto}article{grid-template-columns:1fr;gap:10px}.action{justify-self:start}.steps{gap:10px}}
+</style>
+<header>
+<div class="eyebrow">Your offline skill library · Private preparation collection</div>
+<h1>🧠 AI SKILLS VAULT<br><span>UNLOCKED.</span></h1>
+<p class="intro">Find what you need. Pick a ready-made ZIP. No Terminal, no manual zipping.</p>
+<div class="steps"><span><b>01</b> Search a task or topic.</span><span><b>02</b> Read the requirements.</span><span><b>03</b> Upload the skill ZIP in Claude.</span></div>
+<p class="notice">ZIP packaging is checked. <strong>No skills have been live-import tested here.</strong>
+Tool-dependent skills are marked separately. Review each skill before enabling it; choose one version of a same-name skill.</p>
+<nav><a href="📋 COPY &amp; PASTE/Project Instructions/COPY-PASTE-ALL.md">Copy &amp; paste project instructions</a>
+<a href="📦 READY FOR CLAUDE/READ ME FIRST.md">Upload help</a>
+<a href="🔧 ADVANCED/README.md">Advanced / originals</a></nav>
+</header>
+<main>
+<div class="controls">
+<input type="search" id="query" aria-label="Search skills" placeholder="What do you want to do? Design, writing, code…">
+<select id="category" aria-label="Topic"><option value="">All topics</option></select>
+<select id="status" aria-label="Readiness">
+<option value="">Everything</option><option value="Packaging checked">Packaging checked</option>
+<option>Needs tool/setup review</option><option>Needs repair — no ZIP</option><option>Command — not a skill ZIP</option>
+</select></div>
+<p id="count" aria-live="polite"></p>
+<section id="results" aria-label="Skills"></section>
+<button type="button" id="more">Show more skills</button>
+<noscript>Open 📦 READY FOR CLAUDE/BROWSE ALL SKILLS.md for the complete list.</noscript>
+</main>
+<footer>Exact duplicate packages share one ZIP; distinct versions remain separate. Every original copy is preserved.
+This page works offline and does not install anything. No analytics or external scripts.
+On GitHub, use the Markdown browse list or download and extract the repository once to use this page.</footer>
+<script id="library-data" type="application/json">__LIBRARY_DATA__</script>
+<script>
+const library=JSON.parse(document.getElementById('library-data').textContent),data=library.entries;
+const q=document.getElementById('query'),category=document.getElementById('category'),status=document.getElementById('status'),results=document.getElementById('results'),more=document.getElementById('more');
+let limit=30;
+function el(tag,text,cls){const n=document.createElement(tag);n.textContent=text;if(cls)n.className=cls;return n}
+function link(text,path,cls){const a=el('a',text,cls);a.href=path.split('/').map(encodeURIComponent).join('/');return a}
+for(const value of [...new Set(data.map(e=>e.category))].sort()){const o=el('option',value);o.value=value;category.append(o)}
+function render(){
+ const term=q.value.toLowerCase().trim();
+ const items=data.filter(e=>(!category.value||e.category===category.value)&&(!status.value||e.status===status.value)&&
+ (e.label+' '+e.display_name+' '+e.description+' '+e.copies.join(' ')).toLowerCase().includes(term)).sort((a,b)=>a.display_name.localeCompare(b.display_name));
+ results.replaceChildren();
+ document.getElementById('count').textContent=items.length+' matching entries · '+library.summary.zip_count+' prepared ZIPs across the library · 0 live-import verified';
+ if(!items.length)results.append(el('p','No matches with these filters. Try “Everything” or a broader search.'));
+ for(const e of items.slice(0,limit)){
+  const row=el('article',''),body=el('div','');
+  const brief=e.description.length>350?e.description.slice(0,347)+'…':e.description;
+  body.append(el('span',e.category,'eyebrow'),el('h2',e.display_name),el('p',brief,'description'),el('span',e.status,'badge'));
+  body.append(el('p','ID '+e.id+' · '+e.label+(e.copies.length>1?' · '+e.copies.length+' identical copies preserved':''),'meta'));
+  const details=el('details','');details.append(el('summary','Requirements & original files'));
+  if(e.signals.length)for(const signal of e.signals)details.append(el('p',signal));
+  else details.append(el('p','No specific setup signals detected. This is not proof of host compatibility.'));
+  details.append(el('p','Packaging checks do not verify runtime behavior, safety or redistribution rights.'));
+  const links=el('div','','links');links.append(link('Read original',e.source));
+  if(e.reference)links.append(link('Copy/paste reference',e.reference));details.append(links);body.append(details);row.append(body);
+  if(e.zip){const a=link(e.status==='Packaging checked'?'Get skill ZIP':'Get ZIP · setup needed',e.zip,'action');a.download='';row.append(a)}
+  else row.append(link('Read source',e.source,'action'));
+  results.append(row);
+ }
+ more.hidden=limit>=items.length;
+}
+for(const control of [q,category,status])control.addEventListener('input',()=>{limit=30;render()});
+more.addEventListener('click',()=>{limit+=30;render()});render();
+</script>
+</html>

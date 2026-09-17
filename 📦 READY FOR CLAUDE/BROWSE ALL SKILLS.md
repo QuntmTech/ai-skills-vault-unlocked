@@ -1,0 +1,599 @@
+# Browse skills and downloads
+
+Download the entire repository ZIP and extract it once for offline search.
+Then open 📍 START HERE.html. No Python or manual skill zipping is required.
+
+Packaging checked does not mean tested inside Claude. Review tool requirements.
+Identical whole packages share one ZIP; all source copies remain in Advanced.
+
+## Claude Code Commands
+
+- [agent-sort](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/agent-sort.md) — Command — not a skill ZIP
+- [aside](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/aside.md) — Command — not a skill ZIP
+- [build-fix](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/build-fix.md) — Command — not a skill ZIP
+- [checkpoint](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/checkpoint.md) — Command — not a skill ZIP
+- [claw](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/claw.md) — Command — not a skill ZIP
+- [code-review](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/code-review.md) — Command — not a skill ZIP
+- [context-budget](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/context-budget.md) — Command — not a skill ZIP
+- [cpp-build](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/cpp-build.md) — Command — not a skill ZIP
+- [cpp-review](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/cpp-review.md) — Command — not a skill ZIP
+- [cpp-test](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/cpp-test.md) — Command — not a skill ZIP
+- [devfleet](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/devfleet.md) — Command — not a skill ZIP
+- [docs](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/docs.md) — Command — not a skill ZIP
+- [e2e](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/e2e.md) — Command — not a skill ZIP
+- [eval](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/eval.md) — Command — not a skill ZIP
+- [evolve](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/evolve.md) — Command — not a skill ZIP
+- [feature-dev](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/feature-dev.md) — Command — not a skill ZIP
+- [flutter-build](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/flutter-build.md) — Command — not a skill ZIP
+- [flutter-review](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/flutter-review.md) — Command — not a skill ZIP
+- [flutter-test](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/flutter-test.md) — Command — not a skill ZIP
+- [gan-build](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/gan-build.md) — Command — not a skill ZIP
+- [gan-design](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/gan-design.md) — Command — not a skill ZIP
+- [go-build](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/go-build.md) — Command — not a skill ZIP
+- [go-review](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/go-review.md) — Command — not a skill ZIP
+- [go-test](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/go-test.md) — Command — not a skill ZIP
+- [gradle-build](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/gradle-build.md) — Command — not a skill ZIP
+- [harness-audit](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/harness-audit.md) — Command — not a skill ZIP
+- [hookify](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/hookify.md) — Command — not a skill ZIP
+- [hookify-configure](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/hookify-configure.md) — Command — not a skill ZIP
+- [hookify-help](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/hookify-help.md) — Command — not a skill ZIP
+- [hookify-list](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/hookify-list.md) — Command — not a skill ZIP
+- [instinct-export](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/instinct-export.md) — Command — not a skill ZIP
+- [instinct-import](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/instinct-import.md) — Command — not a skill ZIP
+- [instinct-status](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/instinct-status.md) — Command — not a skill ZIP
+- [jira](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/jira.md) — Command — not a skill ZIP
+- [kotlin-build](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/kotlin-build.md) — Command — not a skill ZIP
+- [kotlin-review](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/kotlin-review.md) — Command — not a skill ZIP
+- [kotlin-test](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/kotlin-test.md) — Command — not a skill ZIP
+- [learn](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/learn.md) — Command — not a skill ZIP
+- [learn-eval](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/learn-eval.md) — Command — not a skill ZIP
+- [loop-start](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/loop-start.md) — Command — not a skill ZIP
+- [loop-status](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/loop-status.md) — Command — not a skill ZIP
+- [model-route](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/model-route.md) — Command — not a skill ZIP
+- [multi-backend](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/multi-backend.md) — Command — not a skill ZIP
+- [multi-execute](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/multi-execute.md) — Command — not a skill ZIP
+- [multi-frontend](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/multi-frontend.md) — Command — not a skill ZIP
+- [multi-plan](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/multi-plan.md) — Command — not a skill ZIP
+- [multi-workflow](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/multi-workflow.md) — Command — not a skill ZIP
+- [orchestrate](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/orchestrate.md) — Command — not a skill ZIP
+- [plan](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/plan.md) — Command — not a skill ZIP
+- [pm2](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/pm2.md) — Command — not a skill ZIP
+- [projects](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/projects.md) — Command — not a skill ZIP
+- [promote](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/promote.md) — Command — not a skill ZIP
+- [prompt-optimize](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/prompt-optimize.md) — Command — not a skill ZIP
+- [prp-commit](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/prp-commit.md) — Command — not a skill ZIP
+- [prp-implement](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/prp-implement.md) — Command — not a skill ZIP
+- [prp-plan](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/prp-plan.md) — Command — not a skill ZIP
+- [prp-pr](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/prp-pr.md) — Command — not a skill ZIP
+- [prp-prd](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/prp-prd.md) — Command — not a skill ZIP
+- [prune](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/prune.md) — Command — not a skill ZIP
+- [python-review](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/python-review.md) — Command — not a skill ZIP
+- [quality-gate](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/quality-gate.md) — Command — not a skill ZIP
+- [refactor-clean](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/refactor-clean.md) — Command — not a skill ZIP
+- [resume-session](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/resume-session.md) — Command — not a skill ZIP
+- [review-pr](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/review-pr.md) — Command — not a skill ZIP
+- [rules-distill](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/rules-distill.md) — Command — not a skill ZIP
+- [rust-build](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/rust-build.md) — Command — not a skill ZIP
+- [rust-review](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/rust-review.md) — Command — not a skill ZIP
+- [rust-test](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/rust-test.md) — Command — not a skill ZIP
+- [santa-loop](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/santa-loop.md) — Command — not a skill ZIP
+- [save-session](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/save-session.md) — Command — not a skill ZIP
+- [sessions](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/sessions.md) — Command — not a skill ZIP
+- [setup-pm](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/setup-pm.md) — Command — not a skill ZIP
+- [skill-create](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/skill-create.md) — Command — not a skill ZIP
+- [skill-health](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/skill-health.md) — Command — not a skill ZIP
+- [tdd](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/tdd.md) — Command — not a skill ZIP
+- [test-coverage](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/test-coverage.md) — Command — not a skill ZIP
+- [update-codemaps](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/update-codemaps.md) — Command — not a skill ZIP
+- [update-docs](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/update-docs.md) — Command — not a skill ZIP
+- [verify](../%F0%9F%94%A7%20ADVANCED/commands/claude/global/verify.md) — Command — not a skill ZIP
+- [ccvitals:configure](../%F0%9F%94%A7%20ADVANCED/commands/claude/plugins/ccvitals%20%E2%80%94%20configure.md) — Command — not a skill ZIP
+- [ccvitals:setup](../%F0%9F%94%A7%20ADVANCED/commands/claude/plugins/ccvitals%20%E2%80%94%20setup.md) — Command — not a skill ZIP
+- [vercel:_conventions](../%F0%9F%94%A7%20ADVANCED/commands/claude/plugins/vercel%20%E2%80%94%20_conventions.md) — Command — not a skill ZIP
+- [vercel:bootstrap](../%F0%9F%94%A7%20ADVANCED/commands/claude/plugins/vercel%20%E2%80%94%20bootstrap.md) — Command — not a skill ZIP
+- [vercel:deploy](../%F0%9F%94%A7%20ADVANCED/commands/claude/plugins/vercel%20%E2%80%94%20deploy.md) — Command — not a skill ZIP
+- [vercel:env](../%F0%9F%94%A7%20ADVANCED/commands/claude/plugins/vercel%20%E2%80%94%20env.md) — Command — not a skill ZIP
+- [vercel:status](../%F0%9F%94%A7%20ADVANCED/commands/claude/plugins/vercel%20%E2%80%94%20status.md) — Command — not a skill ZIP
+
+## Coding & Development
+
+- [agent-introspection-debugging](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0002-agent-introspection-debugging-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ai-regression-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0006-ai-regression-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [android-clean-architecture](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Coding%20%26%20Development/0010-android-clean-architecture-claude.zip) — Packaging checked; 2 identical source copies
+- [api-connector-builder](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0011-api-connector-builder-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [apify-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0014-apify-automation-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [backend-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0018-backend-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [brooks-review](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0025-brooks-review-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [brooks-test](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0027-brooks-test-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [claude-api](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0034-claude-api-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [cloudflare-deploy](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0037-cloudflare-deploy-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [code-tour](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0038-code-tour-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [codebase-recon](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0039-codebase-recon-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [cpp-coding-standards](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0053-cpp-coding-standards-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [cpp-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0054-cpp-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [csharp-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0056-csharp-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [dart-flutter-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0060-dart-flutter-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [defi-amm-security](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0065-defi-amm-security-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [deploy-pipeline](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0066-deploy-pipeline-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [deployment-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0067-deployment-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [django-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0070-django-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [django-security](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0071-django-security-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [django-tdd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0072-django-tdd-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [django-verification](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0073-django-verification-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [docker-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0076-docker-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [dotnet-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0079-dotnet-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [e2e-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0080-e2e-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [frontend-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Coding%20%26%20Development/0092-frontend-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [github-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0094-github-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [golang-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0096-golang-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [improve-codebase-architecture](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0103-improve-codebase-architecture-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [java-coding-standards](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Coding%20%26%20Development/0108-java-coding-standards-claude.zip) — Packaging checked; 2 identical source copies
+- [kotlin-coroutines-flows](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0112-kotlin-coroutines-flows-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [kotlin-exposed-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Coding%20%26%20Development/0113-kotlin-exposed-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [kotlin-ktor-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0114-kotlin-ktor-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [kotlin-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0115-kotlin-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [kotlin-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0116-kotlin-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [laravel-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0117-laravel-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [laravel-plugin-discovery](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0118-laravel-plugin-discovery-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [laravel-security](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0119-laravel-security-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [laravel-tdd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0120-laravel-tdd-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [laravel-verification](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0121-laravel-verification-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [mcp-builder](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0128-mcp-builder-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [mcp-server-patterns](../%F0%9F%94%A7%20ADVANCED/skills/cc-switch/managed/mcp-server-patterns/SKILL.md) — Needs repair — no ZIP; 2 identical source copies
+- [nodejs-keccak256](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0133-nodejs-keccak256-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [perl-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0141-perl-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [perl-security](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0142-perl-security-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [perl-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0143-perl-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [plankton-code-quality](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0144-plankton-code-quality-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [python-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0151-python-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [python-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0152-python-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [rust-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0160-rust-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [rust-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0161-rust-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [security-bounty-hunter](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0164-security-bounty-hunter-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [security-review](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0165-security-review-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [security-scan](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0166-security-scan-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [springboot-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0175-springboot-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [springboot-security](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0176-springboot-security-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [springboot-tdd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0177-springboot-tdd-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [springboot-verification](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0178-springboot-verification-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [swift-actor-persistence](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0180-swift-actor-persistence-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [swift-concurrency-6-2](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0181-swift-concurrency-6-2-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [swift-protocol-di-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0182-swift-protocol-di-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [tdd-workflow](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0184-tdd-workflow-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [vercel-deploy](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0194-vercel-deploy-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [webapp-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0199-webapp-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [x-api](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0202-x-api-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [security-ownership-map](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0215-security-ownership-map-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [security-threat-model](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0216-security-threat-model-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [review-agent](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0224-review-agent-claude.zip) — Needs tool/setup review
+- [improve-codebase-architecture](../%F0%9F%94%A7%20ADVANCED/skills/codex/agent-skills/improve-codebase-architecture/SKILL.md) — Needs repair — no ZIP
+- [0.44.0:benchmark-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0508-benchmark-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:vercel-plugin-eval](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0511-vercel-plugin-eval-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [github:gh-address-comments](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0530-gh-address-comments-claude.zip) — Needs tool/setup review
+- [github:gh-fix-ci](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0531-gh-fix-ci-claude.zip) — Needs tool/setup review
+- [github:github](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0532-github-claude.zip) — Needs tool/setup review
+- [github:yeet](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0533-yeet-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-operating-review](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0569-artifact-template-operating-review-claude.zip) — Needs tool/setup review
+- [supabase:supabase](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0593-supabase-claude.zip) — Needs tool/setup review
+- [supabase:supabase-postgres-best-practices](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0594-supabase-postgres-best-practices-claude.zip) — Needs tool/setup review
+- [vercel-plugin:ai-gateway](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0596-ai-gateway-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:ai-sdk](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0598-ai-sdk-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:ai-sdk](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0599-ai-sdk-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel-plugin:auth](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0602-auth-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:bootstrap](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0604-bootstrap-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:chat-sdk](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0606-chat-sdk-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:chat-sdk](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0607-chat-sdk-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel-plugin:deployments-cicd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0610-deployments-cicd-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:env-vars](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0612-env-vars-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:knowledge-update](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0614-knowledge-update-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [vercel-plugin:microfrontends](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0618-microfrontends-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:next-best-practices](../%F0%9F%94%A7%20ADVANCED/skills/codex/plugins/vercel-plugin%20%E2%80%94%20next-best-practices/SKILL.md) — Needs repair — no ZIP; 6 identical source copies
+- [vercel-plugin:next-cache-components](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0622-next-cache-components-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:next-cache-components](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0623-next-cache-components-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel-plugin:next-forge](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0626-next-forge-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:next-forge](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0627-next-forge-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel-plugin:next-upgrade](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0630-next-upgrade-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:next-upgrade](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0631-next-upgrade-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel-plugin:nextjs](../%F0%9F%94%A7%20ADVANCED/skills/codex/plugins/vercel-plugin%20%E2%80%94%20nextjs/SKILL.md) — Needs repair — no ZIP; 3 identical source copies
+- [vercel-plugin:react-best-practices](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0636-react-best-practices-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:routing-middleware](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0638-routing-middleware-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:runtime-cache](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0640-runtime-cache-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:shadcn](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0642-shadcn-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:turbopack](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0644-turbopack-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:vercel-agent](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0646-vercel-agent-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:vercel-cli](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0648-vercel-cli-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [vercel-plugin:vercel-cli](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0649-vercel-cli-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel-plugin:vercel-connect](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0652-vercel-connect-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [vercel-plugin:vercel-firewall](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0654-vercel-firewall-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:vercel-functions](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0656-vercel-functions-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [vercel-plugin:vercel-react-best-practices](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0658-vercel-react-best-practices-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel-plugin:vercel-sandbox](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0660-vercel-sandbox-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:vercel-sandbox](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0661-vercel-sandbox-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel-plugin:vercel-storage](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0664-vercel-storage-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:verification](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0666-verification-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:workflow](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0668-workflow-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [vercel-plugin:workflow](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0669-workflow-claude.zip) — Needs tool/setup review; 6 identical source copies
+- [vercel:agent-browser](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0672-agent-browser-claude.zip) — Needs tool/setup review
+- [vercel:agent-browser-verify](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0673-agent-browser-verify-claude.zip) — Needs tool/setup review
+- [vercel:ai-elements](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0674-ai-elements-claude.zip) — Needs tool/setup review
+- [vercel:ai-gateway](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0675-ai-gateway-claude.zip) — Needs tool/setup review
+- [vercel:ai-generation-persistence](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0676-ai-generation-persistence-claude.zip) — Needs tool/setup review
+- [vercel:ai-sdk](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0677-ai-sdk-claude.zip) — Needs tool/setup review
+- [vercel:auth](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0678-auth-claude.zip) — Needs tool/setup review
+- [vercel:bootstrap](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0679-bootstrap-claude.zip) — Needs tool/setup review
+- [vercel:cdn-caching](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0680-cdn-caching-claude.zip) — Needs tool/setup review
+- [vercel:chat-sdk](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0681-chat-sdk-claude.zip) — Needs tool/setup review
+- [vercel:cms](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0682-cms-claude.zip) — Needs tool/setup review
+- [vercel:cron-jobs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0683-cron-jobs-claude.zip) — Needs tool/setup review
+- [vercel:deployments-cicd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0684-deployments-cicd-claude.zip) — Needs tool/setup review
+- [vercel:env-vars](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0686-env-vars-claude.zip) — Needs tool/setup review
+- [vercel:eve](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0687-eve-claude.zip) — Needs tool/setup review
+- [vercel:geist](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0688-geist-claude.zip) — Needs tool/setup review
+- [vercel:geistdocs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0689-geistdocs-claude.zip) — Needs tool/setup review
+- [vercel:investigation-mode](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0690-investigation-mode-claude.zip) — Needs tool/setup review
+- [vercel:json-render](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0691-json-render-claude.zip) — Needs tool/setup review
+- [vercel:knowledge-update](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0692-knowledge-update-claude.zip) — Needs tool/setup review
+- [vercel:micro](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0694-micro-claude.zip) — Needs tool/setup review
+- [vercel:microfrontends](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0695-microfrontends-claude.zip) — Needs tool/setup review
+- [vercel:ncc](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0696-ncc-claude.zip) — Needs tool/setup review
+- [vercel:next-cache-components](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0697-next-cache-components-claude.zip) — Needs tool/setup review
+- [vercel:next-forge](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0698-next-forge-claude.zip) — Needs tool/setup review
+- [vercel:next-upgrade](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0699-next-upgrade-claude.zip) — Needs tool/setup review
+- [vercel:nextjs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0700-nextjs-claude.zip) — Needs tool/setup review
+- [vercel:observability](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0701-observability-claude.zip) — Needs tool/setup review
+- [vercel:payments](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0702-payments-claude.zip) — Needs tool/setup review
+- [vercel:react-best-practices](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0703-react-best-practices-claude.zip) — Needs tool/setup review
+- [vercel:routing-middleware](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0704-routing-middleware-claude.zip) — Needs tool/setup review
+- [vercel:runtime-cache](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0705-runtime-cache-claude.zip) — Needs tool/setup review
+- [vercel:satori](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0706-satori-claude.zip) — Needs tool/setup review
+- [vercel:shadcn](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0707-shadcn-claude.zip) — Needs tool/setup review
+- [vercel:sign-in-with-vercel](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0708-sign-in-with-vercel-claude.zip) — Needs tool/setup review
+- [vercel:swr](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0709-swr-claude.zip) — Needs tool/setup review
+- [vercel:turbopack](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0710-turbopack-claude.zip) — Needs tool/setup review
+- [vercel:turborepo](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0711-turborepo-claude.zip) — Needs tool/setup review
+- [vercel:v0-dev](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0712-v0-dev-claude.zip) — Needs tool/setup review
+- [vercel:vercel-agent](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0713-vercel-agent-claude.zip) — Needs tool/setup review
+- [vercel:vercel-api](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0714-vercel-api-claude.zip) — Needs tool/setup review
+- [vercel:vercel-cli](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0715-vercel-cli-claude.zip) — Needs tool/setup review
+- [vercel:vercel-connect](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0716-vercel-connect-claude.zip) — Needs tool/setup review
+- [vercel:vercel-firewall](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0717-vercel-firewall-claude.zip) — Needs tool/setup review
+- [vercel:vercel-flags](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0718-vercel-flags-claude.zip) — Needs tool/setup review
+- [vercel:vercel-functions](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0719-vercel-functions-claude.zip) — Needs tool/setup review
+- [vercel:vercel-queues](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0720-vercel-queues-claude.zip) — Needs tool/setup review
+- [vercel:vercel-sandbox](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0721-vercel-sandbox-claude.zip) — Needs tool/setup review
+- [vercel:vercel-services](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0722-vercel-services-claude.zip) — Needs tool/setup review
+- [vercel:vercel-storage](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0723-vercel-storage-claude.zip) — Needs tool/setup review
+- [vercel:verification](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0724-verification-claude.zip) — Needs tool/setup review
+- [vercel:workflow](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0725-workflow-claude.zip) — Needs tool/setup review
+- [claude-mem:learn-codebase](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0734-learn-codebase-claude.zip) — Needs tool/setup review
+- [dx:review-claudemd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0752-review-claudemd-claude.zip) — Needs tool/setup review
+- [superpowers:receiving-code-review](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0758-receiving-code-review-claude.zip) — Needs tool/setup review
+- [superpowers:requesting-code-review](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0759-requesting-code-review-claude.zip) — Needs tool/setup review
+- [superpowers:systematic-debugging](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0761-systematic-debugging-claude.zip) — Needs tool/setup review
+- [superpowers:test-driven-development](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0762-test-driven-development-claude.zip) — Needs tool/setup review
+- [superpowers:using-git-worktrees](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0763-using-git-worktrees-claude.zip) — Needs tool/setup review
+- [vercel:cdn-caching](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0773-cdn-caching-claude.zip) — Needs tool/setup review
+- [vercel:eve](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0778-eve-claude.zip) — Needs tool/setup review
+- [vercel:eve](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0779-eve-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [vercel:knowledge-update](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0780-knowledge-update-claude.zip) — Needs tool/setup review
+- [vercel:vercel-cli](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0797-vercel-cli-claude.zip) — Needs tool/setup review
+- [vercel:vercel-connect](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0799-vercel-connect-claude.zip) — Needs tool/setup review
+- [vercel:vercel-functions](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0801-vercel-functions-claude.zip) — Needs tool/setup review
+- [vercel:workflow](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0807-workflow-claude.zip) — Needs tool/setup review
+
+## Design & Media
+
+- [all-images-ai-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0008-all-images-ai-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [api-design](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0012-api-design-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [canvas-design](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0031-canvas-design-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [design-an-interface](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0068-design-an-interface-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [dmux-workflows](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0074-dmux-workflows-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [frontend-design](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0091-frontend-design-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [frontend-slides](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0093-frontend-slides-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [imagegen](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0102-imagegen-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [liquid-glass-design](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Design%20%26%20Media/0123-liquid-glass-design-claude.zip) — Packaging checked; 2 identical source copies
+- [manim-video](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0126-manim-video-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [remotion-video-creation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0157-remotion-video-creation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [sora](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0174-sora-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [swiftui-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0183-swiftui-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ui-demo](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0192-ui-demo-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [video-editing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0196-video-editing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [videodb](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0197-videodb-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [figma-implement-design](../%F0%9F%94%A7%20ADVANCED/skills/cc-switch/community/figma-implement-design/SKILL.md) — Needs repair — no ZIP; 2 identical source copies
+- [figma-use](../%F0%9F%94%A7%20ADVANCED/skills/cc-switch/community/figma-use/SKILL.md) — Needs repair — no ZIP; 2 identical source copies
+- [pptx](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0214-pptx-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [theme-factory](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0218-theme-factory-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [imagegen](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0221-imagegen-claude.zip) — Needs tool/setup review
+- [design-an-interface](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0470-design-an-interface-claude.zip) — Needs tool/setup review
+- [google-drive:google-slides](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0542-google-slides-claude.zip) — Needs tool/setup review
+- [google-drive:google-slides](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0543-google-slides-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-design-report](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0561-artifact-template-design-report-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-system-design](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0576-artifact-template-system-design-claude.zip) — Needs tool/setup review
+- [presentations:Presentations](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0581-presentations-claude.zip) — Needs tool/setup review
+- [claude-mem:design-is](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0730-design-is-claude.zip) — Needs tool/setup review
+- [frontend-design:frontend-design](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0753-frontend-design-claude.zip) — Needs tool/setup review
+
+## Marketing & Business
+
+- [brand-guidelines](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0020-brand-guidelines-claude.zip) — Packaging checked; 2 identical source copies
+- [email-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0082-email-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [investor-materials](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0105-investor-materials-claude.zip) — Packaging checked; 2 identical source copies
+- [investor-outreach](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0106-investor-outreach-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [lead-intelligence](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0122-lead-intelligence-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [market-research](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0127-market-research-claude.zip) — Packaging checked; 2 identical source copies
+- [seo](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0167-seo-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [social-graph-ranker](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0172-social-graph-ranker-claude.zip) — Packaging checked; 2 identical source copies
+- [social-media](../%F0%9F%94%A7%20ADVANCED/skills/cc-switch/managed/social-media/SKILL.md) — Needs repair — no ZIP; 2 identical source copies
+- [ads](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0227-ads-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-apple](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0228-ads-apple-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-audit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0229-ads-audit-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-budget](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0230-ads-budget-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-competitor](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0231-ads-competitor-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-create](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0232-ads-create-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-creative](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0233-ads-creative-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-dna](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0234-ads-dna-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-generate](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0235-ads-generate-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-google](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0236-ads-google-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-landing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0237-ads-landing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-linkedin](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0238-ads-linkedin-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-math](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0239-ads-math-claude.zip) — Packaging checked; 2 identical source copies
+- [ads-meta](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0240-ads-meta-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-microsoft](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0241-ads-microsoft-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-photoshoot](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0242-ads-photoshoot-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-plan](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0243-ads-plan-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-test](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0244-ads-test-claude.zip) — Packaging checked; 2 identical source copies
+- [ads-tiktok](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0245-ads-tiktok-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ads-youtube](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0246-ads-youtube-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [openai-templates:artifact-template-business-review](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0560-artifact-template-business-review-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-market-trends-report](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0566-artifact-template-market-trends-report-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-sales-pipeline](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0572-artifact-template-sales-pipeline-claude.zip) — Needs tool/setup review
+- [vercel-plugin:marketplace](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0616-marketplace-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [vercel:email](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0685-email-claude.zip) — Needs tool/setup review
+- [vercel:marketplace](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0693-marketplace-claude.zip) — Needs tool/setup review
+- [vercel:marketplace](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0781-marketplace-claude.zip) — Needs tool/setup review
+
+## Research & Data
+
+- [data-scraper-agent](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0062-data-scraper-agent-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [database-migrations](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0063-database-migrations-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [deep-research](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0064-deep-research-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [exa-search](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0087-exa-search-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [finance-billing-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0089-finance-billing-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [llm-trading-agent-security](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0124-llm-trading-agent-security-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [paperjsx](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0139-paperjsx-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [research-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0158-research-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [search-first](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0163-search-first-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [deep-research-work:deep-research](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0528-deep-research-claude.zip) — Needs tool/setup review
+- [hugging-face:hf-cli](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0544-hf-cli-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-community-evals](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0545-huggingface-community-evals-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-datasets](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0546-huggingface-datasets-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-gradio](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0547-huggingface-gradio-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-jobs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0548-huggingface-jobs-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-llm-trainer](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0549-huggingface-llm-trainer-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-paper-publisher](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0550-huggingface-paper-publisher-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-papers](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0551-huggingface-papers-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-trackio](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0552-huggingface-trackio-claude.zip) — Needs tool/setup review
+- [hugging-face:huggingface-vision-trainer](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0553-huggingface-vision-trainer-claude.zip) — Needs tool/setup review
+- [hugging-face:transformers-js](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0554-transformers-js-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-experiment-analysis](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0562-artifact-template-experiment-analysis-claude.zip) — Needs tool/setup review
+- [spreadsheets:excel-live-control](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0584-excel-live-control-claude.zip) — Needs tool/setup review
+- [spreadsheets:Spreadsheets](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0585-spreadsheets-claude.zip) — Needs tool/setup review
+- [claude-mem:mem-search](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Research%20%26%20Data/0736-mem-search-claude.zip) — Needs tool/setup review
+
+## Tools & Workflows
+
+- [agent-harness-construction](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0001-agent-harness-construction-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [agent-sort](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0003-agent-sort-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [agentic-engineering](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0004-agentic-engineering-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [ai-first-engineering](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0005-ai-first-engineering-claude.zip) — Packaging checked; 2 identical source copies
+- [algorithmic-art](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0007-algorithmic-art-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [amazon-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0009-amazon-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [automation-audit-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0016-automation-audit-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [autonomous-loops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0017-autonomous-loops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [blueprint](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0019-blueprint-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [brooks-audit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0022-brooks-audit-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [brooks-debt](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0023-brooks-debt-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [brooks-health](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0024-brooks-health-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [brooks-sweep](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0026-brooks-sweep-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [browseai-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0028-browseai-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [browser](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0029-browser-claude.zip) — Needs tool/setup review
+- [browser-tool-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0030-browser-tool-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [carrier-relationship-management](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0032-carrier-relationship-management-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [caveman](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0033-caveman-claude.zip) — Packaging checked; 3 identical source copies
+- [claude-devfleet](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0035-claude-devfleet-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [clickhouse-io](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0036-clickhouse-io-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [coding-standards](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0040-coding-standards-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [compose-multiplatform-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0041-compose-multiplatform-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [configure-ecc](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0042-configure-ecc-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [connect](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0043-connect-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [connect-apps](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0044-connect-apps-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [connections-optimizer](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0045-connections-optimizer-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [continuous-agent-loop](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0048-continuous-agent-loop-claude.zip) — Packaging checked; 2 identical source copies
+- [continuous-learning](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0049-continuous-learning-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [continuous-learning-v2](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0050-continuous-learning-v2-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [cost-aware-llm-pipeline](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0051-cost-aware-llm-pipeline-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [council](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0052-council-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [crosspost](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0055-crosspost-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [customer-billing-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0057-customer-billing-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [customs-trade-compliance](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0058-customs-trade-compliance-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [dailybot-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0059-dailybot-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [dashboard-builder](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0061-dashboard-builder-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [diagnose](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0069-diagnose-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [doc-coauthoring](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0075-doc-coauthoring-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [domain-model](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0078-domain-model-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [ecc-tools-cost-audit](../%F0%9F%94%A7%20ADVANCED/skills/cc-switch/managed/ecc-tools-cost-audit/SKILL.md) — Needs repair — no ZIP; 2 identical source copies
+- [energy-procurement](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0083-energy-procurement-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [enterprise-agent-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0084-enterprise-agent-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [eval-harness](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0085-eval-harness-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [evm-token-decimals](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0086-evm-token-decimals-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [fal-ai-media](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0088-fal-ai-media-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [foundation-models-on-device](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0090-foundation-models-on-device-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [golang-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0095-golang-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [google-workspace-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0097-google-workspace-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [grill-me](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0098-grill-me-claude.zip) — Packaging checked; 2 identical source copies
+- [healthcare-phi-compliance](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0099-healthcare-phi-compliance-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [hipaa-compliance](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0100-hipaa-compliance-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [hookify-rules](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0101-hookify-rules-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [inventory-demand-planning](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0104-inventory-demand-planning-claude.zip) — Packaging checked; 2 identical source copies
+- [iterative-retrieval](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0107-iterative-retrieval-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [jira-integration](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0109-jira-integration-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [jpa-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0110-jpa-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [knowledge-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0111-knowledge-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [logistics-exception-management](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0125-logistics-exception-management-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [messages-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0130-messages-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [nanoclaw-repl](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0131-nanoclaw-repl-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [nestjs-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0132-nestjs-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [notion-knowledge-capture](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0134-notion-knowledge-capture-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [notion-spec-to-implementation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0136-notion-spec-to-implementation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [openai-docs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0138-openai-docs-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [playwright](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0145-playwright-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [postgres-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0146-postgres-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [product-capability](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0147-product-capability-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [production-scheduling](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0148-production-scheduling-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [project-flow-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0149-project-flow-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [prompt-optimizer](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0150-prompt-optimizer-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [qa](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0153-qa-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [quality-nonconformance](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0154-quality-nonconformance-claude.zip) — Packaging checked; 2 identical source copies
+- [ralphinho-rfc-pipeline](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0155-ralphinho-rfc-pipeline-claude.zip) — Packaging checked; 2 identical source copies
+- [regex-vs-llm-structured-text](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0156-regex-vs-llm-structured-text-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [returns-reverse-logistics](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0159-returns-reverse-logistics-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [screenshot](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0162-screenshot-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [setup-matt-pocock-skills](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0168-setup-matt-pocock-skills-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [setup-pre-commit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0169-setup-pre-commit-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [skill-creator](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0170-skill-creator-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [skill-stocktake](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0171-skill-stocktake-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [strategic-compact](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0179-strategic-compact-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [team-builder](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0185-team-builder-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [terminal-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0186-terminal-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [to-issues](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0187-to-issues-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [to-prd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0188-to-prd-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [token-budget-advisor](../%F0%9F%94%A7%20ADVANCED/skills/cc-switch/managed/token-budget-advisor/SKILL.md) — Needs repair — no ZIP; 2 identical source copies
+- [triage-issue](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0190-triage-issue-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [ubiquitous-language](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0191-ubiquitous-language-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [unified-notifications-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0193-unified-notifications-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [verification-loop](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0195-verification-loop-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [visa-doc-translate](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0198-visa-doc-translate-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [workspace-surface-audit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0200-workspace-surface-audit-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [zoom-out](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0203-zoom-out-claude.zip) — Packaging checked; 2 identical source copies
+- [gh-address-comments](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0206-gh-address-comments-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [gh-fix-ci](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0207-gh-fix-ci-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [internal-comms](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0209-internal-comms-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [jupyter-notebook](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0210-jupyter-notebook-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [last30days](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0211-last30days-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [linear](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0212-linear-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [notion-meeting-intelligence](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0213-notion-meeting-intelligence-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [sentry](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0217-sentry-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [web-artifacts-builder](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0219-web-artifacts-builder-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [xlsx](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0220-xlsx-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [openai-docs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0222-openai-docs-claude.zip) — Needs tool/setup review
+- [plugin-creator](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0223-plugin-creator-claude.zip) — Needs tool/setup review
+- [skill-creator](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0225-skill-creator-claude.zip) — Needs tool/setup review
+- [skill-installer](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0226-skill-installer-claude.zip) — Needs tool/setup review
+- [browser](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0276-browser-claude.zip) — Needs tool/setup review
+- [browser-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0277-browser-automation-claude.zip) — Needs tool/setup review
+- [diagnose](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0471-diagnose-claude.zip) — Needs tool/setup review
+- [grill-me](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0473-grill-me-claude.zip) — Packaging checked
+- [miller-memory](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0475-miller-memory-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [qa](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0476-qa-claude.zip) — Needs tool/setup review
+- [setup-pre-commit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0477-setup-pre-commit-claude.zip) — Needs tool/setup review
+- [to-issues](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0478-to-issues-claude.zip) — Packaging checked
+- [to-prd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0479-to-prd-claude.zip) — Needs tool/setup review
+- [ubiquitous-language](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0481-ubiquitous-language-claude.zip) — Needs tool/setup review
+- [zoom-out](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0483-zoom-out-claude.zip) — Packaging checked
+- [0.44.0:benchmark-agents](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0505-benchmark-agents-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:benchmark-e2e](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0506-benchmark-e2e-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:benchmark-sandbox](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0507-benchmark-sandbox-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:plugin-audit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0509-plugin-audit-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:release](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0510-release-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [app-69b31dc2110c8191b8b47dc98fe5a052:collect-files-with-request](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0520-collect-files-with-request-claude.zip) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:inspect-dropbox-file](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0522-inspect-dropbox-file-claude.zip) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:organize-dropbox-folder](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0523-organize-dropbox-folder-claude.zip) — Needs tool/setup review
+- [browser:control-in-app-browser](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0525-control-in-app-browser-claude.zip) — Needs tool/setup review
+- [chrome:control-chrome](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0526-control-chrome-claude.zip) — Needs tool/setup review
+- [computer-use:computer-use](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0527-computer-use-claude.zip) — Needs tool/setup review
+- [google-drive:google-docs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0534-google-docs-claude.zip) — Needs tool/setup review
+- [google-drive:google-docs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0535-google-docs-claude.zip) — Needs tool/setup review
+- [google-drive:google-drive](../%F0%9F%94%A7%20ADVANCED/skills/codex/plugins/google-drive%20%E2%80%94%20google-drive/SKILL.md) — Needs repair — no ZIP
+- [google-drive:google-drive](../%F0%9F%94%A7%20ADVANCED/skills/codex/plugins/google-drive%20%E2%80%94%20google-drive%20%E2%80%94%20Copy%202/SKILL.md) — Needs repair — no ZIP
+- [google-drive:google-drive-comments](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0538-google-drive-comments-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [google-drive:google-sheets](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0540-google-sheets-claude.zip) — Needs tool/setup review
+- [google-drive:google-sheets](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0541-google-sheets-claude.zip) — Needs tool/setup review
+- [notion:notion-knowledge-capture](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0555-notion-knowledge-capture-claude.zip) — Needs tool/setup review
+- [notion:notion-meeting-intelligence](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0556-notion-meeting-intelligence-claude.zip) — Needs tool/setup review
+- [notion:notion-spec-to-implementation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0558-notion-spec-to-implementation-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-analytics-dashboard](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0559-artifact-template-analytics-dashboard-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-financial-budget](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0563-artifact-template-financial-budget-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-investment-committee-memo](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0564-artifact-template-investment-committee-memo-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-legal-memorandum](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0565-artifact-template-legal-memorandum-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-minimal-letterhead](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0567-artifact-template-minimal-letterhead-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-operating-calendar](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0568-artifact-template-operating-calendar-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-project-kickoff](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0570-artifact-template-project-kickoff-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-project-tracker](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0571-artifact-template-project-tracker-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-simple-dark-mode](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0573-artifact-template-simple-dark-mode-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-simple-light-mode](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0574-artifact-template-simple-light-mode-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-strategy-memorandum](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0575-artifact-template-strategy-memorandum-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-team-alignment](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0577-artifact-template-team-alignment-claude.zip) — Needs tool/setup review
+- [openai-templates:artifact-template-three-statement-forecast](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0578-artifact-template-three-statement-forecast-claude.zip) — Needs tool/setup review
+- [plugin-management:plugin-management](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0580-plugin-management-claude.zip) — Needs tool/setup review
+- [sites:sites-building](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0582-sites-building-claude.zip) — Needs tool/setup review
+- [sites:sites-hosting](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0583-sites-hosting-claude.zip) — Needs tool/setup review
+- [stripe:connect-recommend](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0586-connect-recommend-claude.zip) — Needs tool/setup review
+- [stripe:stripe-apps](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0587-stripe-apps-claude.zip) — Needs tool/setup review
+- [stripe:stripe-best-practices](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0588-stripe-best-practices-claude.zip) — Needs tool/setup review
+- [stripe:stripe-directory](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0589-stripe-directory-claude.zip) — Needs tool/setup review
+- [stripe:stripe-docs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0590-stripe-docs-claude.zip) — Needs tool/setup review
+- [stripe:stripe-projects](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0591-stripe-projects-claude.zip) — Needs tool/setup review
+- [stripe:upgrade-stripe](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0592-upgrade-stripe-claude.zip) — Needs tool/setup review
+- [template-creator:template-creator](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0595-template-creator-claude.zip) — Needs tool/setup review
+- [visualize:visualize](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0726-visualize-claude.zip) — Needs tool/setup review
+- [andrej-karpathy-skills:karpathy-guidelines](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0727-karpathy-guidelines-claude.zip) — Needs tool/setup review
+- [claude-mem:babysit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0728-babysit-claude.zip) — Needs tool/setup review
+- [claude-mem:cloud-sync](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0729-cloud-sync-claude.zip) — Needs tool/setup review
+- [claude-mem:do](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0731-do-claude.zip) — Needs tool/setup review
+- [claude-mem:how-it-works](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0732-how-it-works-claude.zip) — Needs tool/setup review
+- [claude-mem:knowledge-agent](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0733-knowledge-agent-claude.zip) — Needs tool/setup review
+- [claude-mem:make-plan](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0735-make-plan-claude.zip) — Needs tool/setup review
+- [claude-mem:mode-creator](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0737-mode-creator-claude.zip) — Needs tool/setup review
+- [claude-mem:oh-my-issues](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0738-oh-my-issues-claude.zip) — Needs tool/setup review
+- [claude-mem:pathfinder](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0739-pathfinder-claude.zip) — Needs tool/setup review
+- [claude-mem:smart-explore](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0740-smart-explore-claude.zip) — Needs tool/setup review
+- [claude-mem:standup](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0741-standup-claude.zip) — Needs tool/setup review
+- [claude-mem:timeline-report](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0742-timeline-report-claude.zip) — Needs tool/setup review
+- [claude-mem:version-bump](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0743-version-bump-claude.zip) — Needs tool/setup review
+- [claude-mem:weekly-digests](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0744-weekly-digests-claude.zip) — Needs tool/setup review
+- [claude-mem:what-the](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0745-what-the-claude.zip) — Needs tool/setup review
+- [claude-mem:wowerpoint](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0746-wowerpoint-claude.zip) — Needs tool/setup review
+- [dx:clone](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0747-clone-claude.zip) — Needs tool/setup review
+- [dx:gha](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0748-gha-claude.zip) — Needs tool/setup review
+- [dx:half-clone](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0749-half-clone-claude.zip) — Needs tool/setup review
+- [dx:handoff](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0750-handoff-claude.zip) — Needs tool/setup review
+- [dx:reddit-fetch](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0751-reddit-fetch-claude.zip) — Needs tool/setup review
+- [superpowers:brainstorming](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0754-brainstorming-claude.zip) — Needs tool/setup review
+- [superpowers:dispatching-parallel-agents](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0755-dispatching-parallel-agents-claude.zip) — Needs tool/setup review
+- [superpowers:executing-plans](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0756-executing-plans-claude.zip) — Needs tool/setup review
+- [superpowers:finishing-a-development-branch](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0757-finishing-a-development-branch-claude.zip) — Needs tool/setup review
+- [superpowers:subagent-driven-development](../%F0%9F%94%A7%20ADVANCED/skills/claude/plugins/superpowers%20%E2%80%94%20subagent-driven-development/SKILL.md) — Needs repair — no ZIP
+- [superpowers:using-superpowers](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0764-using-superpowers-claude.zip) — Needs tool/setup review
+- [superpowers:verification-before-completion](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0765-verification-before-completion-claude.zip) — Needs tool/setup review
+
+## Writing & Documents
+
+- [api2pdf-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0013-api2pdf-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [article-writing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0015-article-writing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [brand-voice](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Writing%20%26%20Documents/0021-brand-voice-claude.zip) — Packaging checked; 2 identical source copies
+- [content-engine](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0046-content-engine-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [content-hash-cache-pattern](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0047-content-hash-cache-pattern-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [docx](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0077-docx-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [notion-research-documentation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0135-notion-research-documentation-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [nutrient-document-processing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0137-nutrient-document-processing-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [pdf](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0140-pdf-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [write-a-skill](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0201-write-a-skill-claude.zip) — Needs tool/setup review; 3 identical source copies
+- [humanizer](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0208-humanizer-claude.zip) — Needs tool/setup review; 2 identical source copies
+- [app-69b31dc2110c8191b8b47dc98fe5a052:clean-up-dropbox-content](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0519-clean-up-dropbox-content-claude.zip) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:find-dropbox-content](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0521-find-dropbox-content-claude.zip) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:share-dropbox-content](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0524-share-dropbox-content-claude.zip) — Needs tool/setup review
+- [documents:documents](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0529-documents-claude.zip) — Needs tool/setup review
+- [notion:notion-research-documentation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0557-notion-research-documentation-claude.zip) — Needs tool/setup review
+- [pdf:pdf](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0579-pdf-claude.zip) — Needs tool/setup review
+- [superpowers:writing-plans](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0766-writing-plans-claude.zip) — Needs tool/setup review
+- [superpowers:writing-skills](../%F0%9F%94%A7%20ADVANCED/skills/claude/plugins/superpowers%20%E2%80%94%20writing-skills/SKILL.md) — Needs repair — no ZIP

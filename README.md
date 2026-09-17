@@ -1,98 +1,55 @@
-# QUNTM SKILLVERSE
+# 🧠 AI SKILLS VAULT — UNLOCKED
 
-### Find a skill. Pick your AI. Get to work.
-
-A searchable library of AI skills and workflows with individual ZIP exports,
-whole-package duplicate detection, and visible compatibility warnings.
-
-**Local preview · Not published · Redistribution review required**
+**Your private, ready-to-browse library. No Terminal or manual zipping required.**
 
 ## Start here
 
-Double-click [the searchable catalog](catalog/index.html). It works offline:
-no server, account, analytics or external scripts.
-Prefer text? Open the [Markdown catalog](catalog/skills-catalog.md).
+On your computer, double-click **📍 START HERE.html** for search, topic filters,
+requirements and direct ZIP links.
 
-### General project instructions
+On GitHub, open the [browse list](📦%20READY%20FOR%20CLAUDE/BROWSE%20ALL%20SKILLS.md).
+To use the offline menu, choose **Code → Download ZIP**, extract that download
+once, then open **📍 START HERE.html**. Keep the individual skill ZIPs zipped.
 
-Use [PROJECT COMPASS](project-instructions/README.md) for a concise, generalized
-project-instruction system: a short core, a deeper handbook, a private context
-template and a [single copy/paste version](project-instructions/COPY-PASTE-ALL.md).
-It is a document pack, not another skill, and contains no imported private profiles.
+## Four places to go
 
-## What is inside?
+| Folder | What it is for |
+| --- | --- |
+| 📦 READY FOR CLAUDE | Ready-made skill ZIPs grouped by topic; packaging checked |
+| 📋 COPY & PASTE | General project instructions and readable skill references |
+| ⚠️ NEEDS SETUP | Packaged skills with tool requirements, plus a list of skills needing repair |
+| 🔧 ADVANCED | Preserved originals, technical reports, code and maintenance tools |
 
-- **925 source entries:** 839 skill copies and 86 Claude commands.
-- **571 distinct package contents**, compared using filenames and every included file.
-- All 894 original entries, plus 31 previously unlisted nested skill variants.
-- Supporting scripts, references, templates, assets and existing notices retained.
+## Upload to Claude
 
-These counts are not a claim of 925 unique, original or universally compatible
-skills. Some require particular plugins, MCP connections, accounts or local tools.
+1. Find a skill in the menu and read its requirements.
+2. Select its ZIP using Claude's skill-upload control.
+3. Try a harmless example and confirm that it works for you.
 
-## Export your first skill
+Use Claude's **Skills** settings, not a normal chat attachment, to install a
+native skill. Interface labels and account permissions may vary.
+[Official upload instructions](https://support.claude.com/en/articles/12512198-how-to-create-custom-skills).
 
-Requires Python 3.10+. Run from this repository folder:
+You do not need to create ZIPs yourself. Do not upload the entire vault as one
+skill. Pick the skills you need and avoid installing different versions with
+the same skill name together.
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python3 -m pip install -r requirements-dev.txt
-python3 scripts/skillverse.py search frontend-design
-python3 scripts/skillverse.py show 91
-python3 scripts/skillverse.py export 91 --target claude
-```
+**Packaging checked is not the same as tested inside Claude.** No live imports
+are verified by this library. Tools, credentials, scripts and host features may
+require additional setup; automated flags are a starting point, not a guarantee.
+Claude Code commands remain separate from Claude-app skills.
 
-Open `dist/`: you get one skill ZIP, a readable reference copy and a JSON
-report. Originals are never edited; existing exports are never overwritten.
-Use `--out dist/second-export` for another copy.
+Exact duplicate whole packages share one download. Distinct variants and every
+source copy remain preserved. No source archive was deleted.
 
-For Codex or another compatible host, use `--target portable`, extract the ZIP,
-and review the complete folder before installing.
+## Project instructions instead of skills?
 
-**Do not upload the whole repository as one skill.**
-Read the [Claude / ChatGPT / Codex guide](docs/INSTALLATION.md).
+Open [the combined PROJECT COMPASS guide](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md).
+It is readable project guidance, not a native skill ZIP. Keep any filled-in
+personal context outside this repository.
 
-## Why SKILLVERSE?
+## Status
 
-Find a useful workflow without dumping hundreds of skills into an agent.
-Compare variants, retain the resources that make them work, and see unresolved
-requirements before installation. No star-count promises or implied endorsement
-by OpenAI, Anthropic, CC Switch or upstream authors.
-
-## Layout
-
-```text
-catalog/       Offline searchable browser + Markdown index
-skills/        Preserved skills grouped by original collection
-commands/      Claude commands, kept separate from skills
-metadata/      Content hashes, duplicates and review reports
-scripts/       Search, inspect, export and validate
-tests/         Export and preservation regression tests
-docs/          Setup, architecture and publishing gates
-project-instructions/  General-purpose PROJECT COMPASS compilation
-dist/          Personal exports; ignored by Git
-```
-
-## Publication status
-
-The tooling is a local preparation package, not a cleared public release.
-Third-party licenses and credits remain intact, but license presence alone
-does not prove redistribution rights. No blanket license applies to this vault.
-
-Read [readiness](docs/READINESS.md), [license notice](LICENSE.md), and
-[publishing gates](docs/PUBLISHING-CHECKLIST.md). No GitHub repository has been
-created or pushed by this preparation.
-
-## Contributor checks
-
-```bash
-python3 -m unittest discover -s tests -v
-python3 scripts/build_repository.py
-python3 scripts/build_repository.py --check
-python3 scripts/audit_exports.py --check
-git diff --check
-```
-
-Do not execute collected skill scripts to validate this repository.
-See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
+Stored in a **private GitHub repository**. Public redistribution remains subject
+to provenance, license and full privacy/security review. See [license notice](LICENSE.md).
+For maintenance and preserved source material, open [Advanced](🔧%20ADVANCED/README.md).

@@ -11,6 +11,5 @@ that overrides the licenses of included materials.
 - Repository-level documentation and maintenance scripts require a license
   choice by the repository owner before the first public release.
 
-See `metadata/license-audit.json` for the automated file-level audit and
-`THIRD_PARTY_NOTICES.md` for provenance guidance.
-
+See `🔧 ADVANCED/metadata/license-audit.json` for the automated file-level audit and
+`🔧 ADVANCED/THIRD_PARTY_NOTICES.md` for provenance guidance.

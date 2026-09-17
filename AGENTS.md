@@ -23,11 +23,17 @@ agent currently maintaining this repository.
 Run:
 
 ```bash
+cd "🔧 ADVANCED"
 python3 scripts/build_repository.py
+python3 scripts/build_easy_library.py
 python3 scripts/build_repository.py --check
+python3 scripts/build_easy_library.py --check
 git diff --check
 ```
 
 Report which files changed, which checks passed, and any licensing or provenance
 items that remain unresolved.
 
+Technical paths are relative to 🔧 ADVANCED. Do not manually edit generated ZIPs,
+the start page or copy/paste mirrors; change their generators or source documents.
+The easy-library generator refuses to overwrite modified, unmanaged outputs.

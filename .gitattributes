@@ -1,6 +1,6 @@
 * text=auto
-skills/** -text -whitespace
-commands/** -text -whitespace
+"🔧 ADVANCED/skills/**" -text -whitespace
+"🔧 ADVANCED/commands/**" -text -whitespace
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -12,3 +12,4 @@ commands/** -text -whitespace
 *.ttf binary
 *.mp3 binary
 *.zip binary
+"📋 COPY & PASTE/Skill References/**" -whitespace

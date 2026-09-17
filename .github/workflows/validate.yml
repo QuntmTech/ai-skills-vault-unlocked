@@ -16,8 +16,10 @@ jobs:
         with:
           python-version: "3.12"
       - name: Validate catalog, inventory, and safety rules
+        working-directory: 🔧 ADVANCED
         run: |
           python3 -m pip install -r requirements-dev.txt
           python3 -m unittest discover -s tests -v
           python3 scripts/build_repository.py --check
           python3 scripts/audit_exports.py --check
+          python3 scripts/build_easy_library.py --check
