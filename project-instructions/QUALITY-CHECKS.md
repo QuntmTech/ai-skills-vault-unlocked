@@ -17,6 +17,12 @@ Do not use real credentials, production data or consequential actions.
 | A live transaction target is ambiguous | Resolve scope before acting |
 | A routine app failure returns after repeated resets | Investigate the cause and verify the actual symptom |
 | Someone fills in the context template | Keep that copy private and outside the public repository |
+| Ask for a copy-only pass on a working site | Preserve layout; agree separately on any necessary layout change |
+| Checkout drops off despite strong initial engagement | Inspect measurement, technical issues and checkout friction before blaming the headline |
+| A historical example contains impressive customer numbers | Do not reuse those numbers as evidence for another product |
+| A mobile redesign hides renewal terms | Keep terms legible and discoverable; reject deceptive presentation |
+| A referenced validator or loader is absent | Identify the missing dependency; never claim its checks ran |
+| A static review says the page looks persuasive | Do not claim measured conversion lift or publish without authorization |
 
 A readable document and passing static checks do not prove an AI will obey these
 rules. Product permissions and technical controls enforce important boundaries.

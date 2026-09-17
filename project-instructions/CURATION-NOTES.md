@@ -13,6 +13,7 @@ read end-to-end.
 | System operations and file organization | Root-cause diagnosis, recoverability, content-based classification |
 | Research frameworks | Source authority, uncertainty, corroboration and decision relevance |
 | Design guidance | Intentional composition, usable outputs and context-sensitive constraints |
+| Layout and conversion integration | Purposeful page flow, responsive copy fit, evidence-led experiments and implementation handoffs |
 | Writing and claims review | Edit-scope fidelity, evidence-backed persuasion and factual preservation |
 | Business strategy | Bounded validation, economics, focus and measurable outcomes |
 | Specialist decision systems | Context-specific evidence and restraint around consequential actions |
@@ -42,3 +43,8 @@ certification of every older skill in the repository.
 No original source file was edited or copied into this bundle. Existing
 repository-wide publication and licensing gates still apply; no new blanket
 license or public release is implied.
+
+The layout/conversion addition synthesizes selected core, design-system,
+handoff and integration guidance. It does not bundle the full source stack,
+historical copy examples or dated platform adapters. Missing source loader and
+automated-preflight references are not dependencies of this compilation.

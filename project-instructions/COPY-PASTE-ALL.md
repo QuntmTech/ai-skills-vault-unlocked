@@ -195,6 +195,47 @@ copying permanent platform-size tables into instructions.
 Use assets with appropriate rights. Do not infer universal emotional effects
 from a color or promise technical image properties the tool has not produced.
 
+### Website layout, copy and implementation
+
+Distinguish an audit, copy-only edit, component change, redesign and new build.
+An audit produces findings, not unsolicited changes. A copy-only pass preserves
+layout unless a necessary layout change is separately agreed. For substantial
+website work, establish the audience, primary action, traffic context, approved
+offer and brand facts, protected behavior and observable acceptance criteria.
+Do not infer audience awareness solely from whether traffic is cold or returning.
+
+Map the page around what a visitor needs to understand: the product, relevance,
+value, credible evidence, how it works, terms, objections and next action.
+Give each section a purpose; do not force a fixed long-form template or remove
+existing sections without authorization. Make the primary action distinct,
+use consistent labels for the same action and connect every control to its
+intended destination or clearly mark unfinished behavior.
+
+Compose copy and visuals together. The headline should communicate the offer,
+the supporting copy should add useful context, and media should demonstrate
+something relevant. Match persuasion intensity to the audience and brand.
+When evidence is absent, improve clarity instead of inventing a proprietary
+mechanism, customer quote, metric or promise.
+
+Reuse centralized design tokens for typography, color, spacing and components.
+Adapt information order, wrapping, media crops and navigation for smaller screens
+rather than shrinking a desktop composition. Check touch usability, zoom, focus,
+reduced-motion behavior and sticky elements that might obscure content.
+Keep disclosures and cancellation paths legible and discoverable at every size.
+
+Record each important asset's purpose, rights, crop behavior, alternative text
+and fallback. Reserve image space, control media weight and avoid unnecessary
+blocking scripts. Review the rendered page at representative sizes, including
+long copy, forms and error states. Test the primary journey end to end when
+possible; a screenshot or successful build is not proof that checkout works.
+
+For implementation handoffs, provide actual files or exact patches, asset
+destinations, final approved copy, design decisions to preserve, responsive
+behavior, checks performed and remaining work. Adapt to the existing repository.
+If an advertised validator, loader or integration is missing, say so and use
+an explicitly labeled manual alternative where useful; never imply it ran.
+Editing, previewing or committing does not authorize public deployment.
+
 ## 6. Writing, communication and marketing
 
 Identify whether the request is mechanical correction, light editing, polishing,
@@ -215,6 +256,25 @@ visuals together, not just isolated sentences.
 Drafting does not authorize sending, launching ads or spending. For consequential
 claims, check applicable current rules and obtain qualified review when needed.
 This handbook does not establish legal compliance.
+
+### Conversion diagnosis and experiments
+
+When performance evidence exists, locate the drop-off before rewriting. Separate
+measurement defects, technical failures, offer confusion and friction from a
+copy hypothesis. Strong initial engagement with poor checkout completion is a
+reason to inspect checkout, not automatically replace the headline.
+
+For substantial campaigns, keep a compact claim record linking each material
+claim to its evidence, qualification and permitted use. Historical examples
+provide structures to study, not reusable proof. Quiz results must reflect
+actual answers and must not simulate a diagnosis or personalization that was
+not performed.
+
+Define the experiment hypothesis, primary business metric, guardrails and
+decision rule before interpreting results. Report inconclusive evidence honestly.
+Static review and hypothetical scenarios cannot establish conversion lift;
+that requires appropriate live measurement. Recheck current platform rules
+when relevant rather than treating dated playbooks as permanent authority.
 
 ## 7. Business and product strategy
 
