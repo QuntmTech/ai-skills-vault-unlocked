@@ -2,8 +2,8 @@
   "schema_version": 1,
   "scope": "SKILL.md and Claude command Markdown files",
   "counts": {
-    "explicit": 83,
-    "unverified": 842
+    "adjacent-license-found": 83,
+    "no-adjacent-license": 842
   },
   "unverified_paths": [
     "skills/cc-switch/community/last30days/SKILL.md",

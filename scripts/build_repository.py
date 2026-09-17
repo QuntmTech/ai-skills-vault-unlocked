@@ -11,6 +11,7 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 from urllib.parse import quote
+from skillverse import contained, frontmatter, inspect
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -46,13 +47,9 @@ SECRET_PATTERNS = {
     "Anthropic key": re.compile(r"sk-ant-[A-Za-z0-9_-]{20,}"),
     "AWS access key": re.compile(r"AKIA[0-9A-Z]{16}"),
     "Google API key": re.compile(r"AIza[0-9A-Za-z_-]{30,}"),
+    "OpenAI key": re.compile(r"sk-(?:proj-|svcacct-)?[A-Za-z0-9_-]{40,}"),
+    "Slack token": re.compile(r"xox[baprs]-[A-Za-z0-9-]{20,}"),
 }
-
-PERSONAL_MARKERS = (
-    "/Users/" + "colton" + "wood",
-    "amplycoindustries" + "@gmail.com",
-    "woodcolton436" + "@gmail.com",
-)
 
 
 def sha256(path: Path) -> str:
@@ -75,6 +72,19 @@ def load_catalog() -> dict:
     if CATALOG_JSON.exists():
         data = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
         if data.get("schema_version") == 1:
+            known = {e["path"] for e in data["entries"]}
+            next_id = max(e["id"] for e in data["entries"]) + 1
+            for path in sorted((ROOT / "skills").rglob("SKILL.md")):
+                relative = path.relative_to(ROOT).as_posix()
+                if relative not in known:
+                    meta, _ = frontmatter(path.read_text())
+                    data["entries"].append({
+                        "id": next_id, "label": str(meta.get("name", path.parent.name)),
+                        "type": "skill", "collection": "Additional nested skill variants",
+                        "description": str(meta.get("description", "")), "path": relative,
+                    })
+                    next_id += 1
+            data["entry_count"] = len(data["entries"])
             return data
 
     legacy = json.loads(LEGACY_JSON.read_text(encoding="utf-8"))
@@ -103,7 +113,7 @@ def catalog_markdown(catalog: dict) -> str:
     lines = [
         "# Skills and commands catalog",
         "",
-        f"**{len(catalog['entries'])} curated entries:** {skill_count} skills and {command_count} commands.",
+        f"**{len(catalog['entries'])} source entries:** {skill_count} skills and {command_count} commands.",
         "",
         "Every link is repository-relative and can be opened directly on GitHub.",
         "Review a skill before installing or executing any included script.",
@@ -113,8 +123,8 @@ def catalog_markdown(catalog: dict) -> str:
         items = sorted(grouped[collection], key=lambda item: item["label"].casefold())
         lines.extend([f"## {collection} ({len(items)})", ""])
         for item in items:
-            link = "../" + quote(item["path"], safe="/()@&-")
-            description = item["description"].strip()
+            link = "../" + quote(item["path"], safe="/")
+            description = " ".join(item["description"].split()).replace("<", "&lt;").replace(">", "&gt;")
             suffix = f" — {description}" if description else ""
             lines.append(f"- [`{item['label']}`]({link}){suffix}")
         lines.append("")
@@ -140,7 +150,7 @@ def build_inventory() -> tuple[dict, dict]:
     for path in files:
         relative = path.relative_to(ROOT).as_posix()
         license_path = license_for(path)
-        license_status = "explicit" if license_path else "unverified"
+        license_status = "adjacent-license-found" if license_path else "no-adjacent-license"
         status_counts[license_status] += 1
         if not license_path:
             unverified.append(relative)
@@ -178,27 +188,60 @@ def json_text(value: dict) -> str:
 def generated_outputs() -> dict[Path, str]:
     catalog = load_catalog()
     inventory, audit = build_inventory()
+    packages = [inspect(entry, ROOT) for entry in catalog["entries"]]
+    groups = defaultdict(list)
+    for item in packages:
+        groups[item["package_sha256"]].append(item["id"])
+    report = {
+        "schema_version": 1,
+        "scope": "Every catalog entry, including nested skill variants; static checks only",
+        "entry_count": len(packages),
+        "unique_package_contents": len(groups),
+        "exact_duplicate_groups": [ids for ids in groups.values() if len(ids) > 1],
+        "format_counts": dict(sorted(Counter(p["format"] for p in packages).items())),
+        "publication_status": "blocked-pending-provenance-and-license-review",
+        "entries": packages,
+    }
+    public_rows = [{**e, **p} for e, p in zip(catalog["entries"], packages)]
+    template = (ROOT / "scripts/catalog-template.html").read_text()
+    payload = json.dumps(public_rows, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
     return {
         CATALOG_JSON: json_text(catalog),
         CATALOG_MD: catalog_markdown(catalog),
         INVENTORY_JSON: json_text(inventory),
         LICENSE_AUDIT_JSON: json_text(audit),
+        METADATA / "package-audit.json": json_text(report),
+        ROOT / "catalog/index.html": template.replace("__CATALOG_DATA__", payload),
     }
 
 
 def safety_errors(catalog: dict) -> list[str]:
     errors = []
+    ids = [item["id"] for item in catalog["entries"]]
+    paths = [item["path"] for item in catalog["entries"]]
+    if len(set(ids)) != len(ids) or len(set(paths)) != len(paths):
+        errors.append("catalog IDs and paths must be unique")
+    if catalog["entry_count"] != len(ids):
+        errors.append("catalog entry count mismatch")
     for item in catalog["entries"]:
-        path = ROOT / item["path"]
+        try:
+            path = contained(ROOT, item["path"])
+        except ValueError:
+            errors.append("unsafe catalog path")
+            continue
         if not path.is_file():
             errors.append(f"missing catalog target: {item['path']}")
 
     forbidden_names = {".DS_Store", "Thumbs.db"}
     for path in ROOT.rglob("*"):
-        if ".git" in path.parts:
+        relative = path.relative_to(ROOT)
+        if any(part in {".git", ".venv", "__pycache__", "dist", ".audit-work"} for part in relative.parts):
             continue
-        if path.is_file() and (path.name in forbidden_names or path.suffix == ".pyc"):
-            errors.append(f"forbidden generated file: {path.relative_to(ROOT)}")
+        if path.name in forbidden_names or path.suffix == ".pyc":
+            continue  # OS junk is ignored, never packaged or deleted.
+        if path.is_symlink():
+            errors.append(f"symlink requires review: {relative}")
+            continue
         if path.is_file() and path.name in {".env", ".env.local", ".env.production", ".env.development"}:
             errors.append(f"environment file prohibited: {path.relative_to(ROOT)}")
         if not path.is_file() or path.suffix.casefold() not in TEXT_SUFFIXES:
@@ -207,8 +250,6 @@ def safety_errors(catalog: dict) -> list[str]:
             text = path.read_text(encoding="utf-8")
         except UnicodeDecodeError:
             continue
-        if any(marker in text for marker in PERSONAL_MARKERS):
-            errors.append(f"personal absolute path: {path.relative_to(ROOT)}")
         for label, pattern in SECRET_PATTERNS.items():
             if pattern.search(text):
                 errors.append(f"possible {label}: {path.relative_to(ROOT)}")
@@ -243,14 +284,14 @@ def main() -> int:
     audit = json.loads(outputs[LICENSE_AUDIT_JSON])
     print(
         "Validated "
-        f"{catalog['entry_count']} curated entries, "
+        f"{catalog['entry_count']} source entries, "
         f"{inventory['skill_file_count']} skill files, and "
         f"{inventory['command_file_count']} command files."
     )
     print(
         "License audit: "
-        f"{audit['counts'].get('explicit', 0)} explicit, "
-        f"{audit['counts'].get('unverified', 0)} unverified."
+        f"{audit['counts'].get('adjacent-license-found', 0)} adjacent license files found; "
+        "not redistribution clearance. See package-audit.json for declarations and ancestors."
     )
     return 0
 

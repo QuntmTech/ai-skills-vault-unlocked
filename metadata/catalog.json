@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "entry_count": 894,
+  "entry_count": 925,
   "entries": [
     {
       "id": 1,
@@ -7153,6 +7153,254 @@
       "collection": "Claude installed plugin commands",
       "description": "Show the status of the current Vercel project — recent deployments, linked project info, and environment overview.",
       "path": "commands/claude/plugins/vercel — status.md"
+    },
+    {
+      "id": 895,
+      "label": "ai-sdk",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Answer questions about the AI SDK and help build AI-powered features. Use when developers: (1) Ask about AI SDK functions like generateText, streamText, ToolLoopAgent, embed, or tools, (2) Want to build AI agents, chatbots, RAG systems, or text generation features, (3) Have questions about AI providers (OpenAI, Anthropic, Google, etc.), streaming, tool calling, structured output, or embeddings, (4) Use React hooks like useChat or useCompletion. Triggers on: \"AI SDK\", \"Vercel AI SDK\", \"generateText\", \"streamText\", \"add AI to my app\", \"build an agent\", \"tool calling\", \"structured output\", \"useChat\".",
+      "path": "skills/claude/plugins/vercel — ai-sdk/upstream/SKILL.md"
+    },
+    {
+      "id": 896,
+      "label": "chat-sdk",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Build multi-platform chat bots with Chat SDK (`chat` npm package). Use when developers want to (1) Build a Slack, Teams, Google Chat, Discord, Telegram, GitHub, Linear, or WhatsApp bot, (2) Use Chat SDK to handle mentions, direct messages, subscribed threads, reactions, slash commands, cards, modals, files, or AI streaming, (3) Set up webhook routes or multi-adapter bots, (4) Send rich cards or streamed AI responses to chat platforms, (5) Build or maintain a custom adapter or state adapter. Triggers on \"chat sdk\", \"chat bot\", \"slack bot\", \"teams bot\", \"google chat bot\", \"discord bot\", \"telegram bot\", \"whatsapp bot\", \"@chat-adapter\", \"@chat-adapter/state-\", \"custom adapter\", \"state adapter\", \"build adapter\", and building bots that work across multiple chat platforms.",
+      "path": "skills/claude/plugins/vercel — chat-sdk/upstream/SKILL.md"
+    },
+    {
+      "id": 897,
+      "label": "eve",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Build durable backend AI agents with the eve framework. Use when creating, editing, or debugging an eve project — agent instructions, skills, tools, connections, channels, sandboxes, subagents, schedules, or evals.",
+      "path": "skills/claude/plugins/vercel — eve/upstream/SKILL.md"
+    },
+    {
+      "id": 898,
+      "label": "next-cache-components",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag",
+      "path": "skills/claude/plugins/vercel — next-cache-components/upstream/SKILL.md"
+    },
+    {
+      "id": 899,
+      "label": "next-forge",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Expert assistance for next-forge — a production-grade Turborepo template for Next.js SaaS apps. Triggers on questions about next-forge installation, setup, architecture, packages, customization, deployment, and development workflows.",
+      "path": "skills/claude/plugins/vercel — next-forge/upstream/SKILL.md"
+    },
+    {
+      "id": 900,
+      "label": "next-upgrade",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Upgrade Next.js to the latest version following official migration guides and codemods",
+      "path": "skills/claude/plugins/vercel — next-upgrade/upstream/SKILL.md"
+    },
+    {
+      "id": 901,
+      "label": "next-best-practices",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling",
+      "path": "skills/claude/plugins/vercel — nextjs/upstream/SKILL.md"
+    },
+    {
+      "id": 902,
+      "label": "vercel-react-best-practices",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
+      "path": "skills/claude/plugins/vercel — react-best-practices/upstream/SKILL.md"
+    },
+    {
+      "id": 903,
+      "label": "vercel-cli",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Deploy, manage, and develop projects on Vercel from the command line",
+      "path": "skills/claude/plugins/vercel — vercel-cli/upstream/SKILL.md"
+    },
+    {
+      "id": 904,
+      "label": "vercel-sandbox",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Run agent-browser + Chrome inside Vercel Sandbox microVMs for browser automation from any Vercel-deployed app. Use when the user needs browser automation in a Vercel app (Next.js, SvelteKit, Nuxt, Remix, Astro, etc.), wants to run headless Chrome without binary size limits, needs persistent browser sessions across commands, or wants ephemeral isolated browser environments. Triggers include \"Vercel Sandbox browser\", \"microVM Chrome\", \"agent-browser in sandbox\", \"browser automation on Vercel\", or any task requiring Chrome in a Vercel Sandbox.",
+      "path": "skills/claude/plugins/vercel — vercel-sandbox/upstream/SKILL.md"
+    },
+    {
+      "id": 905,
+      "label": "workflow",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Creates durable, resumable workflows using Vercel's Workflow DevKit. Use when building workflows that need to survive restarts, pause for external events, retry on failure, or coordinate multi-step operations over time. Triggers on mentions of \"workflow\", \"durable functions\", \"resumable\", \"workflow devkit\", \"queue\", \"event\", \"push\", \"subscribe\", or step-based orchestration.",
+      "path": "skills/claude/plugins/vercel — workflow/upstream/SKILL.md"
+    },
+    {
+      "id": 906,
+      "label": "ai-sdk",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Answer questions about the AI SDK and help build AI-powered features. Use when developers: (1) Ask about AI SDK functions like generateText, streamText, ToolLoopAgent, embed, or tools, (2) Want to build AI agents, chatbots, RAG systems, or text generation features, (3) Have questions about AI providers (OpenAI, Anthropic, Google, etc.), streaming, tool calling, structured output, or embeddings, (4) Use React hooks like useChat or useCompletion. Triggers on: \"AI SDK\", \"Vercel AI SDK\", \"generateText\", \"streamText\", \"add AI to my app\", \"build an agent\", \"tool calling\", \"structured output\", \"useChat\".",
+      "path": "skills/codex/plugins/vercel-plugin — ai-sdk/upstream/SKILL.md"
+    },
+    {
+      "id": 907,
+      "label": "ai-sdk",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Answer questions about the AI SDK and help build AI-powered features. Use when developers: (1) Ask about AI SDK functions like generateText, streamText, ToolLoopAgent, embed, or tools, (2) Want to build AI agents, chatbots, RAG systems, or text generation features, (3) Have questions about AI providers (OpenAI, Anthropic, Google, etc.), streaming, tool calling, structured output, or embeddings, (4) Use React hooks like useChat or useCompletion. Triggers on: \"AI SDK\", \"Vercel AI SDK\", \"generateText\", \"streamText\", \"add AI to my app\", \"build an agent\", \"tool calling\", \"structured output\", \"useChat\".",
+      "path": "skills/codex/plugins/vercel-plugin — ai-sdk — Copy 3/upstream/SKILL.md"
+    },
+    {
+      "id": 908,
+      "label": "chat-sdk",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Build multi-platform chat bots with Chat SDK (`chat` npm package). Use when developers want to (1) Build a Slack, Teams, Google Chat, Discord, Telegram, GitHub, Linear, or WhatsApp bot, (2) Use Chat SDK to handle mentions, direct messages, subscribed threads, reactions, slash commands, cards, modals, files, or AI streaming, (3) Set up webhook routes or multi-adapter bots, (4) Send rich cards or streamed AI responses to chat platforms, (5) Build or maintain a custom adapter or state adapter. Triggers on \"chat sdk\", \"chat bot\", \"slack bot\", \"teams bot\", \"google chat bot\", \"discord bot\", \"telegram bot\", \"whatsapp bot\", \"@chat-adapter\", \"@chat-adapter/state-\", \"custom adapter\", \"state adapter\", \"build adapter\", and building bots that work across multiple chat platforms.",
+      "path": "skills/codex/plugins/vercel-plugin — chat-sdk/upstream/SKILL.md"
+    },
+    {
+      "id": 909,
+      "label": "chat-sdk",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Build multi-platform chat bots with Chat SDK (`chat` npm package). Use when developers want to (1) Build a Slack, Teams, Google Chat, Discord, Telegram, GitHub, Linear, or WhatsApp bot, (2) Use Chat SDK to handle mentions, direct messages, subscribed threads, reactions, slash commands, cards, modals, files, or AI streaming, (3) Set up webhook routes or multi-adapter bots, (4) Send rich cards or streamed AI responses to chat platforms, (5) Build or maintain a custom adapter or state adapter. Triggers on \"chat sdk\", \"chat bot\", \"slack bot\", \"teams bot\", \"google chat bot\", \"discord bot\", \"telegram bot\", \"whatsapp bot\", \"@chat-adapter\", \"@chat-adapter/state-\", \"custom adapter\", \"state adapter\", \"build adapter\", and building bots that work across multiple chat platforms.",
+      "path": "skills/codex/plugins/vercel-plugin — chat-sdk — Copy 3/upstream/SKILL.md"
+    },
+    {
+      "id": 910,
+      "label": "next-cache-components",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag",
+      "path": "skills/codex/plugins/vercel-plugin — next-cache-components/upstream/SKILL.md"
+    },
+    {
+      "id": 911,
+      "label": "next-cache-components",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag",
+      "path": "skills/codex/plugins/vercel-plugin — next-cache-components — Copy 3/upstream/SKILL.md"
+    },
+    {
+      "id": 912,
+      "label": "next-forge",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Expert assistance for next-forge — a production-grade Turborepo template for Next.js SaaS apps. Triggers on questions about next-forge installation, setup, architecture, packages, customization, deployment, and development workflows.",
+      "path": "skills/codex/plugins/vercel-plugin — next-forge/upstream/SKILL.md"
+    },
+    {
+      "id": 913,
+      "label": "next-forge",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Expert assistance for next-forge — a production-grade Turborepo template for Next.js SaaS apps. Triggers on questions about next-forge installation, setup, architecture, packages, customization, deployment, and development workflows.",
+      "path": "skills/codex/plugins/vercel-plugin — next-forge — Copy 3/upstream/SKILL.md"
+    },
+    {
+      "id": 914,
+      "label": "next-upgrade",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Upgrade Next.js to the latest version following official migration guides and codemods",
+      "path": "skills/codex/plugins/vercel-plugin — next-upgrade/upstream/SKILL.md"
+    },
+    {
+      "id": 915,
+      "label": "next-upgrade",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Upgrade Next.js to the latest version following official migration guides and codemods",
+      "path": "skills/codex/plugins/vercel-plugin — next-upgrade — Copy 3/upstream/SKILL.md"
+    },
+    {
+      "id": 916,
+      "label": "next-best-practices",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling",
+      "path": "skills/codex/plugins/vercel-plugin — nextjs/upstream/SKILL.md"
+    },
+    {
+      "id": 917,
+      "label": "next-best-practices",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling",
+      "path": "skills/codex/plugins/vercel-plugin — nextjs — Copy 2/upstream/SKILL.md"
+    },
+    {
+      "id": 918,
+      "label": "vercel-react-best-practices",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
+      "path": "skills/codex/plugins/vercel-plugin — react-best-practices/upstream/SKILL.md"
+    },
+    {
+      "id": 919,
+      "label": "vercel-react-best-practices",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
+      "path": "skills/codex/plugins/vercel-plugin — react-best-practices — Copy 2/upstream/SKILL.md"
+    },
+    {
+      "id": 920,
+      "label": "vercel-cli",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Deploy, manage, and develop projects on Vercel from the command line",
+      "path": "skills/codex/plugins/vercel-plugin — vercel-cli/upstream/SKILL.md"
+    },
+    {
+      "id": 921,
+      "label": "vercel-cli",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Deploy, manage, and develop projects on Vercel from the command line",
+      "path": "skills/codex/plugins/vercel-plugin — vercel-cli — Copy 3/upstream/SKILL.md"
+    },
+    {
+      "id": 922,
+      "label": "vercel-sandbox",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Run agent-browser + Chrome inside Vercel Sandbox microVMs for browser automation from any Vercel-deployed app. Use when the user needs browser automation in a Vercel app (Next.js, SvelteKit, Nuxt, Remix, Astro, etc.), wants to run headless Chrome without binary size limits, needs persistent browser sessions across commands, or wants ephemeral isolated browser environments. Triggers include \"Vercel Sandbox browser\", \"microVM Chrome\", \"agent-browser in sandbox\", \"browser automation on Vercel\", or any task requiring Chrome in a Vercel Sandbox.",
+      "path": "skills/codex/plugins/vercel-plugin — vercel-sandbox/upstream/SKILL.md"
+    },
+    {
+      "id": 923,
+      "label": "vercel-sandbox",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Run agent-browser + Chrome inside Vercel Sandbox microVMs for browser automation from any Vercel-deployed app. Use when the user needs browser automation in a Vercel app (Next.js, SvelteKit, Nuxt, Remix, Astro, etc.), wants to run headless Chrome without binary size limits, needs persistent browser sessions across commands, or wants ephemeral isolated browser environments. Triggers include \"Vercel Sandbox browser\", \"microVM Chrome\", \"agent-browser in sandbox\", \"browser automation on Vercel\", or any task requiring Chrome in a Vercel Sandbox.",
+      "path": "skills/codex/plugins/vercel-plugin — vercel-sandbox — Copy 3/upstream/SKILL.md"
+    },
+    {
+      "id": 924,
+      "label": "workflow",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Creates durable, resumable workflows using Vercel's Workflow DevKit. Use when building workflows that need to survive restarts, pause for external events, retry on failure, or coordinate multi-step operations over time. Triggers on mentions of \"workflow\", \"durable functions\", \"resumable\", \"workflow devkit\", \"queue\", \"event\", \"push\", \"subscribe\", or step-based orchestration.",
+      "path": "skills/codex/plugins/vercel-plugin — workflow/upstream/SKILL.md"
+    },
+    {
+      "id": 925,
+      "label": "workflow",
+      "type": "skill",
+      "collection": "Additional nested skill variants",
+      "description": "Creates durable, resumable workflows using Vercel's Workflow DevKit. Use when building workflows that need to survive restarts, pause for external events, retry on failure, or coordinate multi-step operations over time. Triggers on mentions of \"workflow\", \"durable functions\", \"resumable\", \"workflow devkit\", \"queue\", \"event\", \"push\", \"subscribe\", or step-based orchestration.",
+      "path": "skills/codex/plugins/vercel-plugin — workflow — Copy 3/upstream/SKILL.md"
     }
   ]
 }

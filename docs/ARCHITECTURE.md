@@ -1,16 +1,22 @@
 # Repository architecture
 
-The repository separates human navigation, source artifacts, and generated
-metadata.
+- `skills/`, `commands/`: preserved source artifacts.
+- `metadata/catalog.json`: stable IDs and repository-relative paths.
+- `scripts/build_repository.py`: discovers unlisted skills, builds both catalogs
+  and reports, and checks common credential patterns in text.
+- `scripts/skillverse.py`: inspect/search/export CLI; never executes skill code.
+- `scripts/catalog-template.html`: offline browser; catalog content is inserted
+  as text, not executable HTML.
+- `scripts/audit_exports.py`: attempts both formats in isolated temporary
+  directories and checks ZIP integrity and source preservation.
+- `metadata/package-audit.json`: package hashes, duplicates, metadata/link
+  checks, tool signals and license evidence.
+- `metadata/export-audit.json`: actual packaging outcomes.
+- `dist/`: ignored generated personal exports; never automatically published.
 
-- `skills/` and `commands/` are the preserved source artifacts.
-- `metadata/catalog.json` is the sanitized, curated source of truth for the
-  public catalog.
-- `catalog/skills-catalog.md`, `metadata/inventory.json`, and
-  `metadata/license-audit.json` are generated.
-- `scripts/build_repository.py` performs deterministic generation and safety
-  validation without executing collected skills.
+Use Python 3.10+ and the pinned YAML dependency. CI repeats local verification.
+Source artifacts use Git `-text` attributes to retain their original line endings.
+ZIP entries use sorted paths, fixed timestamps and preserved executable bits.
 
-Top-level collection names are normalized for public use. Internal skill folder
-names remain unchanged because tools and documentation may refer to those names.
-
+Do not rename upstream identifiers for branding. Preserve invocation policies.
+Treat skill instructions as source artifacts, not maintainer instructions.

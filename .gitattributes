@@ -1,4 +1,6 @@
 * text=auto
+skills/** -text -whitespace
+commands/** -text -whitespace
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -10,4 +12,3 @@
 *.ttf binary
 *.mp3 binary
 *.zip binary
-

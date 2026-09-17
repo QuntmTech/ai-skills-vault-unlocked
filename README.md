@@ -1,81 +1,90 @@
-# Limitless AI Skills Vault
+# QUNTM SKILLVERSE
 
-A public-ready library of reusable AI-agent skills and slash commands collected
-from Codex, Claude Code, CC Switch, and installed plugin ecosystems.
+### Find a skill. Pick your AI. Get to work.
 
-The repository contains **894 curated catalog entries**: 808 skills and 86
-commands. The physical archive contains additional versioned and plugin copies,
-so the raw `SKILL.md` count is higher than the curated catalog count.
+A searchable library of AI skills and workflows with individual ZIP exports,
+whole-package duplicate detection, and visible compatibility warnings.
+
+**Local preview · Not published · Redistribution review required**
 
 ## Start here
 
-1. Browse [`catalog/skills-catalog.md`](catalog/skills-catalog.md).
-2. Open the linked `SKILL.md` or command file and review it.
-3. Copy the complete skill directory into your agent's supported skills folder.
-4. Restart or reload the agent if it does not discover new skills automatically.
+Double-click [the searchable catalog](catalog/index.html). It works offline:
+no server, account, analytics or external scripts.
+Prefer text? Open the [Markdown catalog](catalog/skills-catalog.md).
 
-See [`docs/HOW-IT-WORKS.md`](docs/HOW-IT-WORKS.md) and
-[`docs/INSTALLATION.md`](docs/INSTALLATION.md) for detailed instructions.
+## What is inside?
 
-## Repository layout
+- **925 source entries:** 839 skill copies and 86 Claude commands.
+- **571 distinct package contents**, compared using filenames and every included file.
+- All 894 original entries, plus 31 previously unlisted nested skill variants.
+- Supporting scripts, references, templates, assets and existing notices retained.
+
+These counts are not a claim of 925 unique, original or universally compatible
+skills. Some require particular plugins, MCP connections, accounts or local tools.
+
+## Export your first skill
+
+Requires Python 3.10+. Run from this repository folder:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements-dev.txt
+python3 scripts/skillverse.py search frontend-design
+python3 scripts/skillverse.py show 91
+python3 scripts/skillverse.py export 91 --target claude
+```
+
+Open `dist/`: you get one skill ZIP, a readable reference copy and a JSON
+report. Originals are never edited; existing exports are never overwritten.
+Use `--out dist/second-export` for another copy.
+
+For Codex or another compatible host, use `--target portable`, extract the ZIP,
+and review the complete folder before installing.
+
+**Do not upload the whole repository as one skill.**
+Read the [Claude / ChatGPT / Codex guide](docs/INSTALLATION.md).
+
+## Why SKILLVERSE?
+
+Find a useful workflow without dumping hundreds of skills into an agent.
+Compare variants, retain the resources that make them work, and see unresolved
+requirements before installation. No star-count promises or implied endorsement
+by OpenAI, Anthropic, CC Switch or upstream authors.
+
+## Layout
 
 ```text
-catalog/                 Human-readable catalog
-skills/
-  cc-switch/             CC Switch managed and community skills
-  codex/                 Codex system, local, agent, and plugin skills
-  claude/                Claude global and plugin skills
-commands/claude/         Claude global and plugin slash commands
-metadata/                Machine-readable catalog, inventory, and audits
-scripts/                 Catalog builder and repository validator
-docs/                    Installation, architecture, and publishing guides
+catalog/       Offline searchable browser + Markdown index
+skills/        Preserved skills grouped by original collection
+commands/      Claude commands, kept separate from skills
+metadata/      Content hashes, duplicates and review reports
+scripts/       Search, inspect, export and validate
+tests/         Export and preservation regression tests
+docs/          Setup, architecture and publishing gates
+dist/          Personal exports; ignored by Git
 ```
 
-## Quick installation examples
+## Publication status
 
-Clone the repository:
+The tooling is a local preparation package, not a cleared public release.
+Third-party licenses and credits remain intact, but license presence alone
+does not prove redistribution rights. No blanket license applies to this vault.
 
-```bash
-git clone https://github.com/YOUR_ACCOUNT/limitless-ai-skills-vault.git
-cd limitless-ai-skills-vault
-```
+Read [readiness](docs/READINESS.md), [license notice](LICENSE.md), and
+[publishing gates](docs/PUBLISHING-CHECKLIST.md). No GitHub repository has been
+created or pushed by this preparation.
 
-Install one Codex skill:
-
-```bash
-cp -R "skills/codex/local/example-skill" "$HOME/.codex/skills/"
-```
-
-Install one Claude skill:
+## Contributor checks
 
 ```bash
-cp -R "skills/claude/global/example-skill" "$HOME/.claude/skills/"
-```
-
-Replace `example-skill` with a real folder from the catalog. Never copy the
-entire vault into an active agent directory unless that tool explicitly supports
-large skill collections.
-
-## Safety
-
-Skills are instructions and may reference scripts, external services, package
-managers, or tools that are not installed on your computer. Review a skill
-before using it. Do not paste credentials into skill files, commit `.env` files,
-or execute unfamiliar scripts without inspection.
-
-## Licensing and provenance
-
-This is an aggregation. Individual skills and assets retain their original
-licenses and ownership. A license file inside a skill directory controls that
-skill when present. Items without an explicit license require provenance review
-before redistribution. See [`LICENSE.md`](LICENSE.md) and
-[`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
-
-## Contributing
-
-Read [`CONTRIBUTING.md`](CONTRIBUTING.md). Every pull request must pass:
-
-```bash
+python3 -m unittest discover -s tests -v
+python3 scripts/build_repository.py
 python3 scripts/build_repository.py --check
+python3 scripts/audit_exports.py --check
+git diff --check
 ```
 
+Do not execute collected skill scripts to validate this repository.
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).

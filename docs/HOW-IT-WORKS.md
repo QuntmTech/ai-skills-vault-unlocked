@@ -1,37 +1,30 @@
-# How the vault works
+# How SKILLVERSE works
 
-## What is a skill?
+1. Browse the offline catalog.
+2. Inspect the original instructions, resources and review signals.
+3. Export one skill to a ZIP, reference Markdown and JSON report.
+4. Install it in a compatible host and verify a small task.
 
-A skill is a directory centered on a `SKILL.md` file. The file explains when an
-AI agent should use the skill and how to perform the workflow. A skill may also
-include scripts, templates, examples, references, or assets.
+Nothing installs itself, connects an account or executes collected code.
+All original variants remain intact.
 
-Slash commands are stored separately under `commands/claude/` because they are
-invoked differently from skills.
+## Counts
 
-## Why are there multiple copies of some skills?
+The initial catalog had 894 entries. A full inventory added 31 nested skill
+variants with IDs 895–925: the catalog now covers 839 skills and 86 commands.
 
-The vault preserves provider-specific and versioned copies. A Codex plugin copy
-may differ from a Claude plugin copy even when their visible names match. The
-curated catalog de-duplicates the browsing experience without deleting those
-source variants.
+Duplicate grouping hashes relative filenames and every included file's bytes.
+OS junk and generated caches are excluded. Mode bits are not part of duplicate
+grouping, so this is not an automatic deletion rule.
 
-## How the catalog is built
+## Labels
 
-`metadata/catalog.json` contains the curated 894-entry catalog using only
-repository-relative paths. `scripts/build_repository.py` uses it to generate:
+- **Structurally valid:** metadata and checked local Markdown links passed.
+- **Needs review:** a name, metadata or local-link issue was found.
+- **Command only:** a Claude command, not a standalone skill upload.
+- **Tool signals:** heuristic mentions, not a complete dependency inventory.
+- **License evidence:** a declaration or license/notice file was found, not
+  redistribution approval.
 
-- `catalog/skills-catalog.md`
-- `metadata/inventory.json`
-- `metadata/license-audit.json`
-
-The inventory hashes every skill and command file so maintainers can detect
-changes without executing any collected content.
-
-## Trust model
-
-The repository is a library, not an active installation directory. Downloading
-it does not automatically enable every skill. Users choose individual skills,
-review their contents, and copy them into the location supported by their AI
-tool.
-
+A structurally valid ZIP can still rely on unavailable tools or contain unsafe
+instructions. Publication rights and behavioral testing are separate gates.
