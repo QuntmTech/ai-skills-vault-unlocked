@@ -110,7 +110,7 @@ Identical whole packages share one download. Distinct variants and every source 
         assets/             ← when supplied
 ```
 
-Coding & Development, Design & Media, Writing & Documents, Marketing & Business, and Research & Data are divided into smaller task-based subcategories and use readable display names. ChatGPT mirrors those subcategories with clearly named reference documents. Canonical names inside SKILL.md and the Claude upload ZIP are unchanged. The remaining topics retain their established paths until their organization phase. When different packages share the same name, a variant suffix prevents overwriting. Incomplete skills remain visible but have no ZIP; their VAULT GUIDE explains what needs repair. Original source material remains preserved in Advanced as well. You do not need to dig through Advanced to find a skill's available files.
+Coding & Development, Design & Media, Writing & Documents, Marketing & Business, Research & Data, and Tools & Workflows are divided into smaller task-based subcategories and use readable display names. ChatGPT mirrors those subcategories with clearly named reference documents. Canonical names inside SKILL.md and the Claude upload ZIP are unchanged. When different packages share the same name, a variant suffix prevents overwriting. Incomplete skills remain visible but have no ZIP; their VAULT GUIDE explains what needs repair. Original source material remains preserved in Advanced as well. You do not need to dig through Advanced to find a skill's available files.
 
 ## Understand the readiness labels
 

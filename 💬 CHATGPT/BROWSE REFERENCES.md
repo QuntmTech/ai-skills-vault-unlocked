@@ -355,194 +355,220 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 
 ## Tools & Workflows
 
-- [Agent Harness Construction](Skill%20References/Tools%20%26%20Workflows/0001-agent-harness-construction-chatgpt-reference.md) — requirements flagged
-- [Agent Sort](Skill%20References/Tools%20%26%20Workflows/0003-agent-sort-chatgpt-reference.md) — requirements flagged
-- [Agentic Engineering](Skill%20References/Tools%20%26%20Workflows/0004-agentic-engineering-chatgpt-reference.md) — requirements flagged
-- [Ai First Engineering](Skill%20References/Tools%20%26%20Workflows/0005-ai-first-engineering-chatgpt-reference.md) — no special setup signals detected
-- [Algorithmic Art](Skill%20References/Tools%20%26%20Workflows/0007-algorithmic-art-chatgpt-reference.md) — requirements flagged
-- [Amazon Automation](Skill%20References/Tools%20%26%20Workflows/0009-amazon-automation-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Analytics Dashboard](Skill%20References/Tools%20%26%20Workflows/0559-artifact-template-analytics-dashboard-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Financial Budget](Skill%20References/Tools%20%26%20Workflows/0563-artifact-template-financial-budget-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Investment Committee Memo](Skill%20References/Tools%20%26%20Workflows/0564-artifact-template-investment-committee-memo-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Legal Memorandum](Skill%20References/Tools%20%26%20Workflows/0565-artifact-template-legal-memorandum-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Minimal Letterhead](Skill%20References/Tools%20%26%20Workflows/0567-artifact-template-minimal-letterhead-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Operating Calendar](Skill%20References/Tools%20%26%20Workflows/0568-artifact-template-operating-calendar-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Project Kickoff](Skill%20References/Tools%20%26%20Workflows/0570-artifact-template-project-kickoff-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Project Tracker](Skill%20References/Tools%20%26%20Workflows/0571-artifact-template-project-tracker-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Simple Dark Mode](Skill%20References/Tools%20%26%20Workflows/0573-artifact-template-simple-dark-mode-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Simple Light Mode](Skill%20References/Tools%20%26%20Workflows/0574-artifact-template-simple-light-mode-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Strategy Memorandum](Skill%20References/Tools%20%26%20Workflows/0575-artifact-template-strategy-memorandum-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Team Alignment](Skill%20References/Tools%20%26%20Workflows/0577-artifact-template-team-alignment-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Three Statement Forecast](Skill%20References/Tools%20%26%20Workflows/0578-artifact-template-three-statement-forecast-chatgpt-reference.md) — requirements flagged
-- [Automation Audit Ops](Skill%20References/Tools%20%26%20Workflows/0016-automation-audit-ops-chatgpt-reference.md) — requirements flagged
-- [Autonomous Loops](Skill%20References/Tools%20%26%20Workflows/0017-autonomous-loops-chatgpt-reference.md) — requirements flagged
-- [Babysit](Skill%20References/Tools%20%26%20Workflows/0728-babysit-chatgpt-reference.md) — requirements flagged
-- [Benchmark Agents](Skill%20References/Tools%20%26%20Workflows/0505-benchmark-agents-chatgpt-reference.md) — requirements flagged
-- [Benchmark E2E](Skill%20References/Tools%20%26%20Workflows/0506-benchmark-e2e-chatgpt-reference.md) — requirements flagged
-- [Benchmark Sandbox](Skill%20References/Tools%20%26%20Workflows/0507-benchmark-sandbox-chatgpt-reference.md) — requirements flagged
-- [Blueprint](Skill%20References/Tools%20%26%20Workflows/0019-blueprint-chatgpt-reference.md) — requirements flagged
-- [Brainstorming](Skill%20References/Tools%20%26%20Workflows/0754-brainstorming-chatgpt-reference.md) — requirements flagged
-- [Brooks Audit](Skill%20References/Tools%20%26%20Workflows/0022-brooks-audit-chatgpt-reference.md) — requirements flagged
-- [Brooks Debt](Skill%20References/Tools%20%26%20Workflows/0023-brooks-debt-chatgpt-reference.md) — requirements flagged
-- [Brooks Health](Skill%20References/Tools%20%26%20Workflows/0024-brooks-health-chatgpt-reference.md) — requirements flagged
-- [Brooks Sweep](Skill%20References/Tools%20%26%20Workflows/0026-brooks-sweep-chatgpt-reference.md) — requirements flagged
-- [Browseai Automation](Skill%20References/Tools%20%26%20Workflows/0028-browseai-automation-chatgpt-reference.md) — requirements flagged
-- [Browser](Skill%20References/Tools%20%26%20Workflows/0029-browser-chatgpt-reference.md) — requirements flagged
-- [Browser](Skill%20References/Tools%20%26%20Workflows/0276-browser-chatgpt-reference.md) — requirements flagged
-- [Browser Automation](Skill%20References/Tools%20%26%20Workflows/0277-browser-automation-chatgpt-reference.md) — requirements flagged
-- [Browser Tool Automation](Skill%20References/Tools%20%26%20Workflows/0030-browser-tool-automation-chatgpt-reference.md) — requirements flagged
-- [Carrier Relationship Management](Skill%20References/Tools%20%26%20Workflows/0032-carrier-relationship-management-chatgpt-reference.md) — requirements flagged
-- [Caveman](Skill%20References/Tools%20%26%20Workflows/0033-caveman-chatgpt-reference.md) — no special setup signals detected
-- [Claude Devfleet](Skill%20References/Tools%20%26%20Workflows/0035-claude-devfleet-chatgpt-reference.md) — requirements flagged
-- [Clickhouse Io](Skill%20References/Tools%20%26%20Workflows/0036-clickhouse-io-chatgpt-reference.md) — requirements flagged
-- [Clone](Skill%20References/Tools%20%26%20Workflows/0747-clone-chatgpt-reference.md) — requirements flagged
-- [Cloud Sync](Skill%20References/Tools%20%26%20Workflows/0729-cloud-sync-chatgpt-reference.md) — requirements flagged
-- [Coding Standards](Skill%20References/Tools%20%26%20Workflows/0040-coding-standards-chatgpt-reference.md) — requirements flagged
-- [Collect Files With Request](Skill%20References/Tools%20%26%20Workflows/0520-collect-files-with-request-chatgpt-reference.md) — requirements flagged
-- [Compose Multiplatform Patterns](Skill%20References/Tools%20%26%20Workflows/0041-compose-multiplatform-patterns-chatgpt-reference.md) — no special setup signals detected
-- [Computer Use](Skill%20References/Tools%20%26%20Workflows/0527-computer-use-chatgpt-reference.md) — requirements flagged
-- [Configure Ecc](Skill%20References/Tools%20%26%20Workflows/0042-configure-ecc-chatgpt-reference.md) — requirements flagged
-- [Connect](Skill%20References/Tools%20%26%20Workflows/0043-connect-chatgpt-reference.md) — requirements flagged
-- [Connect Apps](Skill%20References/Tools%20%26%20Workflows/0044-connect-apps-chatgpt-reference.md) — requirements flagged
-- [Connect Recommend](Skill%20References/Tools%20%26%20Workflows/0586-connect-recommend-chatgpt-reference.md) — requirements flagged
-- [Connections Optimizer](Skill%20References/Tools%20%26%20Workflows/0045-connections-optimizer-chatgpt-reference.md) — requirements flagged
-- [Continuous Agent Loop](Skill%20References/Tools%20%26%20Workflows/0048-continuous-agent-loop-chatgpt-reference.md) — no special setup signals detected
-- [Continuous Learning](Skill%20References/Tools%20%26%20Workflows/0049-continuous-learning-chatgpt-reference.md) — requirements flagged
-- [Continuous Learning V2](Skill%20References/Tools%20%26%20Workflows/0050-continuous-learning-v2-chatgpt-reference.md) — requirements flagged
-- [Control Chrome](Skill%20References/Tools%20%26%20Workflows/0526-control-chrome-chatgpt-reference.md) — requirements flagged
-- [Control In App Browser](Skill%20References/Tools%20%26%20Workflows/0525-control-in-app-browser-chatgpt-reference.md) — requirements flagged
-- [Cost Aware Llm Pipeline](Skill%20References/Tools%20%26%20Workflows/0051-cost-aware-llm-pipeline-chatgpt-reference.md) — requirements flagged
-- [Council](Skill%20References/Tools%20%26%20Workflows/0052-council-chatgpt-reference.md) — requirements flagged
-- [Crosspost](Skill%20References/Tools%20%26%20Workflows/0055-crosspost-chatgpt-reference.md) — requirements flagged
-- [Customer Billing Ops](Skill%20References/Tools%20%26%20Workflows/0057-customer-billing-ops-chatgpt-reference.md) — requirements flagged
-- [Customs Trade Compliance](Skill%20References/Tools%20%26%20Workflows/0058-customs-trade-compliance-chatgpt-reference.md) — requirements flagged
-- [Dailybot Automation](Skill%20References/Tools%20%26%20Workflows/0059-dailybot-automation-chatgpt-reference.md) — requirements flagged
-- [Dashboard Builder](Skill%20References/Tools%20%26%20Workflows/0061-dashboard-builder-chatgpt-reference.md) — requirements flagged
-- [Diagnose](Skill%20References/Tools%20%26%20Workflows/0069-diagnose-chatgpt-reference.md) — requirements flagged
-- [Diagnose](Skill%20References/Tools%20%26%20Workflows/0471-diagnose-chatgpt-reference.md) — requirements flagged
-- [Dispatching Parallel Agents](Skill%20References/Tools%20%26%20Workflows/0755-dispatching-parallel-agents-chatgpt-reference.md) — requirements flagged
-- [Do](Skill%20References/Tools%20%26%20Workflows/0731-do-chatgpt-reference.md) — requirements flagged
-- [Doc Coauthoring](Skill%20References/Tools%20%26%20Workflows/0075-doc-coauthoring-chatgpt-reference.md) — requirements flagged
-- [Domain Model](Skill%20References/Tools%20%26%20Workflows/0078-domain-model-chatgpt-reference.md) — requirements flagged
-- [Energy Procurement](Skill%20References/Tools%20%26%20Workflows/0083-energy-procurement-chatgpt-reference.md) — requirements flagged
-- [Enterprise Agent Ops](Skill%20References/Tools%20%26%20Workflows/0084-enterprise-agent-ops-chatgpt-reference.md) — requirements flagged
-- [Eval Harness](Skill%20References/Tools%20%26%20Workflows/0085-eval-harness-chatgpt-reference.md) — requirements flagged
-- [Evm Token Decimals](Skill%20References/Tools%20%26%20Workflows/0086-evm-token-decimals-chatgpt-reference.md) — requirements flagged
-- [Executing Plans](Skill%20References/Tools%20%26%20Workflows/0756-executing-plans-chatgpt-reference.md) — requirements flagged
-- [Fal Ai Media](Skill%20References/Tools%20%26%20Workflows/0088-fal-ai-media-chatgpt-reference.md) — requirements flagged
-- [Finishing A Development Branch](Skill%20References/Tools%20%26%20Workflows/0757-finishing-a-development-branch-chatgpt-reference.md) — requirements flagged
-- [Foundation Models On Device](Skill%20References/Tools%20%26%20Workflows/0090-foundation-models-on-device-chatgpt-reference.md) — requirements flagged
-- [Gh Address Comments](Skill%20References/Tools%20%26%20Workflows/0206-gh-address-comments-chatgpt-reference.md) — requirements flagged
-- [Gh Fix Ci](Skill%20References/Tools%20%26%20Workflows/0207-gh-fix-ci-chatgpt-reference.md) — requirements flagged
-- [Gha](Skill%20References/Tools%20%26%20Workflows/0748-gha-chatgpt-reference.md) — requirements flagged
-- [Golang Patterns](Skill%20References/Tools%20%26%20Workflows/0095-golang-patterns-chatgpt-reference.md) — requirements flagged
-- [Google Docs](Skill%20References/Tools%20%26%20Workflows/0534-google-docs-chatgpt-reference.md) — requirements flagged
-- [Google Docs](Skill%20References/Tools%20%26%20Workflows/0535-google-docs-chatgpt-reference.md) — requirements flagged
-- [Google Drive Comments](Skill%20References/Tools%20%26%20Workflows/0538-google-drive-comments-chatgpt-reference.md) — requirements flagged
-- [Google Sheets](Skill%20References/Tools%20%26%20Workflows/0540-google-sheets-chatgpt-reference.md) — requirements flagged
-- [Google Sheets](Skill%20References/Tools%20%26%20Workflows/0541-google-sheets-chatgpt-reference.md) — requirements flagged
-- [Google Workspace Ops](Skill%20References/Tools%20%26%20Workflows/0097-google-workspace-ops-chatgpt-reference.md) — requirements flagged
-- [Grill Me](Skill%20References/Tools%20%26%20Workflows/0098-grill-me-chatgpt-reference.md) — no special setup signals detected
-- [Grill Me](Skill%20References/Tools%20%26%20Workflows/0473-grill-me-chatgpt-reference.md) — no special setup signals detected
-- [Half Clone](Skill%20References/Tools%20%26%20Workflows/0749-half-clone-chatgpt-reference.md) — requirements flagged
-- [Handoff](Skill%20References/Tools%20%26%20Workflows/0750-handoff-chatgpt-reference.md) — requirements flagged
-- [Healthcare Phi Compliance](Skill%20References/Tools%20%26%20Workflows/0099-healthcare-phi-compliance-chatgpt-reference.md) — requirements flagged
-- [Hipaa Compliance](Skill%20References/Tools%20%26%20Workflows/0100-hipaa-compliance-chatgpt-reference.md) — requirements flagged
-- [Hookify Rules](Skill%20References/Tools%20%26%20Workflows/0101-hookify-rules-chatgpt-reference.md) — requirements flagged
-- [How It Works](Skill%20References/Tools%20%26%20Workflows/0732-how-it-works-chatgpt-reference.md) — requirements flagged
-- [Inspect Dropbox File](Skill%20References/Tools%20%26%20Workflows/0522-inspect-dropbox-file-chatgpt-reference.md) — requirements flagged
-- [Internal Comms](Skill%20References/Tools%20%26%20Workflows/0209-internal-comms-chatgpt-reference.md) — requirements flagged
-- [Inventory Demand Planning](Skill%20References/Tools%20%26%20Workflows/0104-inventory-demand-planning-chatgpt-reference.md) — no special setup signals detected
-- [Iterative Retrieval](Skill%20References/Tools%20%26%20Workflows/0107-iterative-retrieval-chatgpt-reference.md) — requirements flagged
-- [Jira Integration](Skill%20References/Tools%20%26%20Workflows/0109-jira-integration-chatgpt-reference.md) — requirements flagged
-- [Jpa Patterns](Skill%20References/Tools%20%26%20Workflows/0110-jpa-patterns-chatgpt-reference.md) — requirements flagged
-- [Jupyter Notebook](Skill%20References/Tools%20%26%20Workflows/0210-jupyter-notebook-chatgpt-reference.md) — requirements flagged
-- [Karpathy Guidelines](Skill%20References/Tools%20%26%20Workflows/0727-karpathy-guidelines-chatgpt-reference.md) — requirements flagged
-- [Knowledge Agent](Skill%20References/Tools%20%26%20Workflows/0733-knowledge-agent-chatgpt-reference.md) — requirements flagged
-- [Knowledge Ops](Skill%20References/Tools%20%26%20Workflows/0111-knowledge-ops-chatgpt-reference.md) — requirements flagged
-- [Last30Days](Skill%20References/Tools%20%26%20Workflows/0211-last30days-chatgpt-reference.md) — requirements flagged
-- [Linear](Skill%20References/Tools%20%26%20Workflows/0212-linear-chatgpt-reference.md) — requirements flagged
-- [Logistics Exception Management](Skill%20References/Tools%20%26%20Workflows/0125-logistics-exception-management-chatgpt-reference.md) — requirements flagged
-- [Make Plan](Skill%20References/Tools%20%26%20Workflows/0735-make-plan-chatgpt-reference.md) — requirements flagged
-- [Messages Ops](Skill%20References/Tools%20%26%20Workflows/0130-messages-ops-chatgpt-reference.md) — requirements flagged
-- [Miller Memory](Skill%20References/Tools%20%26%20Workflows/0475-miller-memory-chatgpt-reference.md) — requirements flagged
-- [Mode Creator](Skill%20References/Tools%20%26%20Workflows/0737-mode-creator-chatgpt-reference.md) — requirements flagged
-- [Nanoclaw Repl](Skill%20References/Tools%20%26%20Workflows/0131-nanoclaw-repl-chatgpt-reference.md) — requirements flagged
-- [Nestjs Patterns](Skill%20References/Tools%20%26%20Workflows/0132-nestjs-patterns-chatgpt-reference.md) — no special setup signals detected
-- [Notion Knowledge Capture](Skill%20References/Tools%20%26%20Workflows/0134-notion-knowledge-capture-chatgpt-reference.md) — requirements flagged
-- [Notion Knowledge Capture](Skill%20References/Tools%20%26%20Workflows/0555-notion-knowledge-capture-chatgpt-reference.md) — requirements flagged
-- [Notion Meeting Intelligence](Skill%20References/Tools%20%26%20Workflows/0213-notion-meeting-intelligence-chatgpt-reference.md) — requirements flagged
-- [Notion Meeting Intelligence](Skill%20References/Tools%20%26%20Workflows/0556-notion-meeting-intelligence-chatgpt-reference.md) — requirements flagged
-- [Notion Spec To Implementation](Skill%20References/Tools%20%26%20Workflows/0136-notion-spec-to-implementation-chatgpt-reference.md) — requirements flagged
-- [Notion Spec To Implementation](Skill%20References/Tools%20%26%20Workflows/0558-notion-spec-to-implementation-chatgpt-reference.md) — requirements flagged
-- [Oh My Issues](Skill%20References/Tools%20%26%20Workflows/0738-oh-my-issues-chatgpt-reference.md) — requirements flagged
-- [Openai Docs](Skill%20References/Tools%20%26%20Workflows/0138-openai-docs-chatgpt-reference.md) — requirements flagged
-- [Openai Docs](Skill%20References/Tools%20%26%20Workflows/0222-openai-docs-chatgpt-reference.md) — requirements flagged
-- [Organize Dropbox Folder](Skill%20References/Tools%20%26%20Workflows/0523-organize-dropbox-folder-chatgpt-reference.md) — requirements flagged
-- [Pathfinder](Skill%20References/Tools%20%26%20Workflows/0739-pathfinder-chatgpt-reference.md) — requirements flagged
-- [Playwright](Skill%20References/Tools%20%26%20Workflows/0145-playwright-chatgpt-reference.md) — requirements flagged
-- [Plugin Audit](Skill%20References/Tools%20%26%20Workflows/0509-plugin-audit-chatgpt-reference.md) — requirements flagged
-- [Plugin Creator](Skill%20References/Tools%20%26%20Workflows/0223-plugin-creator-chatgpt-reference.md) — requirements flagged
-- [Plugin Management](Skill%20References/Tools%20%26%20Workflows/0580-plugin-management-chatgpt-reference.md) — requirements flagged
-- [Postgres Patterns](Skill%20References/Tools%20%26%20Workflows/0146-postgres-patterns-chatgpt-reference.md) — no special setup signals detected
-- [Product Capability](Skill%20References/Tools%20%26%20Workflows/0147-product-capability-chatgpt-reference.md) — requirements flagged
-- [Production Scheduling](Skill%20References/Tools%20%26%20Workflows/0148-production-scheduling-chatgpt-reference.md) — requirements flagged
-- [Project Flow Ops](Skill%20References/Tools%20%26%20Workflows/0149-project-flow-ops-chatgpt-reference.md) — requirements flagged
-- [Prompt Optimizer](Skill%20References/Tools%20%26%20Workflows/0150-prompt-optimizer-chatgpt-reference.md) — requirements flagged
-- [Qa](Skill%20References/Tools%20%26%20Workflows/0153-qa-chatgpt-reference.md) — requirements flagged
-- [Qa](Skill%20References/Tools%20%26%20Workflows/0476-qa-chatgpt-reference.md) — requirements flagged
-- [Quality Nonconformance](Skill%20References/Tools%20%26%20Workflows/0154-quality-nonconformance-chatgpt-reference.md) — no special setup signals detected
-- [Ralphinho Rfc Pipeline](Skill%20References/Tools%20%26%20Workflows/0155-ralphinho-rfc-pipeline-chatgpt-reference.md) — no special setup signals detected
-- [Reddit Fetch](Skill%20References/Tools%20%26%20Workflows/0751-reddit-fetch-chatgpt-reference.md) — requirements flagged
-- [Regex Vs Llm Structured Text](Skill%20References/Tools%20%26%20Workflows/0156-regex-vs-llm-structured-text-chatgpt-reference.md) — requirements flagged
-- [Release](Skill%20References/Tools%20%26%20Workflows/0510-release-chatgpt-reference.md) — requirements flagged
-- [Returns Reverse Logistics](Skill%20References/Tools%20%26%20Workflows/0159-returns-reverse-logistics-chatgpt-reference.md) — requirements flagged
-- [Screenshot](Skill%20References/Tools%20%26%20Workflows/0162-screenshot-chatgpt-reference.md) — requirements flagged
-- [Sentry](Skill%20References/Tools%20%26%20Workflows/0217-sentry-chatgpt-reference.md) — requirements flagged
-- [Setup Matt Pocock Skills](Skill%20References/Tools%20%26%20Workflows/0168-setup-matt-pocock-skills-chatgpt-reference.md) — requirements flagged
-- [Setup Pre Commit](Skill%20References/Tools%20%26%20Workflows/0169-setup-pre-commit-chatgpt-reference.md) — requirements flagged
-- [Setup Pre Commit](Skill%20References/Tools%20%26%20Workflows/0477-setup-pre-commit-chatgpt-reference.md) — requirements flagged
-- [Sites Building](Skill%20References/Tools%20%26%20Workflows/0582-sites-building-chatgpt-reference.md) — requirements flagged
-- [Sites Hosting](Skill%20References/Tools%20%26%20Workflows/0583-sites-hosting-chatgpt-reference.md) — requirements flagged
-- [Skill Creator](Skill%20References/Tools%20%26%20Workflows/0170-skill-creator-chatgpt-reference.md) — requirements flagged
-- [Skill Creator](Skill%20References/Tools%20%26%20Workflows/0225-skill-creator-chatgpt-reference.md) — requirements flagged
-- [Skill Installer](Skill%20References/Tools%20%26%20Workflows/0226-skill-installer-chatgpt-reference.md) — requirements flagged
-- [Skill Stocktake](Skill%20References/Tools%20%26%20Workflows/0171-skill-stocktake-chatgpt-reference.md) — requirements flagged
-- [Smart Explore](Skill%20References/Tools%20%26%20Workflows/0740-smart-explore-chatgpt-reference.md) — requirements flagged
-- [Standup](Skill%20References/Tools%20%26%20Workflows/0741-standup-chatgpt-reference.md) — requirements flagged
-- [Strategic Compact](Skill%20References/Tools%20%26%20Workflows/0179-strategic-compact-chatgpt-reference.md) — requirements flagged
-- [Stripe Apps](Skill%20References/Tools%20%26%20Workflows/0587-stripe-apps-chatgpt-reference.md) — requirements flagged
-- [Stripe Best Practices](Skill%20References/Tools%20%26%20Workflows/0588-stripe-best-practices-chatgpt-reference.md) — requirements flagged
-- [Stripe Directory](Skill%20References/Tools%20%26%20Workflows/0589-stripe-directory-chatgpt-reference.md) — requirements flagged
-- [Stripe Docs](Skill%20References/Tools%20%26%20Workflows/0590-stripe-docs-chatgpt-reference.md) — requirements flagged
-- [Stripe Projects](Skill%20References/Tools%20%26%20Workflows/0591-stripe-projects-chatgpt-reference.md) — requirements flagged
-- [Team Builder](Skill%20References/Tools%20%26%20Workflows/0185-team-builder-chatgpt-reference.md) — requirements flagged
-- [Template Creator](Skill%20References/Tools%20%26%20Workflows/0595-template-creator-chatgpt-reference.md) — requirements flagged
-- [Terminal Ops](Skill%20References/Tools%20%26%20Workflows/0186-terminal-ops-chatgpt-reference.md) — requirements flagged
-- [Timeline Report](Skill%20References/Tools%20%26%20Workflows/0742-timeline-report-chatgpt-reference.md) — requirements flagged
-- [To Issues](Skill%20References/Tools%20%26%20Workflows/0187-to-issues-chatgpt-reference.md) — requirements flagged
-- [To Issues](Skill%20References/Tools%20%26%20Workflows/0478-to-issues-chatgpt-reference.md) — no special setup signals detected
-- [To Prd](Skill%20References/Tools%20%26%20Workflows/0188-to-prd-chatgpt-reference.md) — requirements flagged
-- [To Prd](Skill%20References/Tools%20%26%20Workflows/0479-to-prd-chatgpt-reference.md) — requirements flagged
-- [Triage Issue](Skill%20References/Tools%20%26%20Workflows/0190-triage-issue-chatgpt-reference.md) — requirements flagged
-- [Ubiquitous Language](Skill%20References/Tools%20%26%20Workflows/0191-ubiquitous-language-chatgpt-reference.md) — requirements flagged
-- [Ubiquitous Language](Skill%20References/Tools%20%26%20Workflows/0481-ubiquitous-language-chatgpt-reference.md) — requirements flagged
-- [Unified Notifications Ops](Skill%20References/Tools%20%26%20Workflows/0193-unified-notifications-ops-chatgpt-reference.md) — requirements flagged
-- [Upgrade Stripe](Skill%20References/Tools%20%26%20Workflows/0592-upgrade-stripe-chatgpt-reference.md) — requirements flagged
-- [Using Superpowers](Skill%20References/Tools%20%26%20Workflows/0764-using-superpowers-chatgpt-reference.md) — requirements flagged
-- [Verification Before Completion](Skill%20References/Tools%20%26%20Workflows/0765-verification-before-completion-chatgpt-reference.md) — requirements flagged
-- [Verification Loop](Skill%20References/Tools%20%26%20Workflows/0195-verification-loop-chatgpt-reference.md) — requirements flagged
-- [Version Bump](Skill%20References/Tools%20%26%20Workflows/0743-version-bump-chatgpt-reference.md) — requirements flagged
-- [Visa Doc Translate](Skill%20References/Tools%20%26%20Workflows/0198-visa-doc-translate-chatgpt-reference.md) — requirements flagged
-- [Visualize](Skill%20References/Tools%20%26%20Workflows/0726-visualize-chatgpt-reference.md) — requirements flagged
-- [Web Artifacts Builder](Skill%20References/Tools%20%26%20Workflows/0219-web-artifacts-builder-chatgpt-reference.md) — requirements flagged
-- [Weekly Digests](Skill%20References/Tools%20%26%20Workflows/0744-weekly-digests-chatgpt-reference.md) — requirements flagged
-- [What The](Skill%20References/Tools%20%26%20Workflows/0745-what-the-chatgpt-reference.md) — requirements flagged
-- [Workspace Surface Audit](Skill%20References/Tools%20%26%20Workflows/0200-workspace-surface-audit-chatgpt-reference.md) — requirements flagged
-- [Wowerpoint](Skill%20References/Tools%20%26%20Workflows/0746-wowerpoint-chatgpt-reference.md) — requirements flagged
-- [Xlsx](Skill%20References/Tools%20%26%20Workflows/0220-xlsx-chatgpt-reference.md) — requirements flagged
-- [Zoom Out](Skill%20References/Tools%20%26%20Workflows/0203-zoom-out-chatgpt-reference.md) — no special setup signals detected
-- [Zoom Out](Skill%20References/Tools%20%26%20Workflows/0483-zoom-out-chatgpt-reference.md) — no special setup signals detected
+### ☁️ Cloud Files & Storage
+
+- [Cloud Sync](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Cloud%20Sync%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Collect Files With Request](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Collect%20Files%20With%20Request%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Google Docs](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Google%20Docs%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Google Docs](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Google%20Docs%20%5Bvariant%200535%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Google Drive Comments](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Google%20Drive%20Comments%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Google Sheets](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Google%20Sheets%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Google Sheets](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Google%20Sheets%20%5Bvariant%200541%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Inspect Dropbox File](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Inspect%20Dropbox%20File%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Organize Dropbox Folder](Skill%20References/Tools%20%26%20Workflows/%E2%98%81%EF%B8%8F%20Cloud%20Files%20%26%20Storage/Organize%20Dropbox%20Folder%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### ⚙️ Developer Tools & Delivery
+
+- [Clickhouse IO](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Clickhouse%20IO%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Clone](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Clone%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Coding Standards](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Coding%20Standards%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Compose Multiplatform Patterns](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Compose%20Multiplatform%20Patterns%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Finishing A Development Branch](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Finishing%20A%20Development%20Branch%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [GHA](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/GHA%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [GitHub Address Comments](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/GitHub%20Address%20Comments%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [GitHub Fix CI](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/GitHub%20Fix%20CI%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Golang Patterns](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Golang%20Patterns%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Half Clone](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Half%20Clone%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Jpa Patterns](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Jpa%20Patterns%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Nestjs Patterns](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Nestjs%20Patterns%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Postgres Patterns](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Postgres%20Patterns%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Ralphinho RFC Pipeline](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Ralphinho%20RFC%20Pipeline%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Reddit Fetch](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Reddit%20Fetch%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Terminal Ops](Skill%20References/Tools%20%26%20Workflows/%E2%9A%99%EF%B8%8F%20Developer%20Tools%20%26%20Delivery/Terminal%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🌐 Browser, Computer & Web Automation
+
+- [Browseai Automation](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Browseai%20Automation%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Browser](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Browser%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Browser](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Browser%20%5Bvariant%200276%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Browser Automation](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Browser%20Automation%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Browser Tool Automation](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Browser%20Tool%20Automation%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Computer Use](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Computer%20Use%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Control Chrome](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Control%20Chrome%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Control In App Browser](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Control%20In%20App%20Browser%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Playwright](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Playwright%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Screenshot](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Screenshot%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Sites Building](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Sites%20Building%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Sites Hosting](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Sites%20Hosting%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Web Artifacts Builder](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8C%90%20Browser%2C%20Computer%20%26%20Web%20Automation/Web%20Artifacts%20Builder%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🏢 Operations, Logistics & Compliance
+
+- [Carrier Relationship Management](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Carrier%20Relationship%20Management%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Customs Trade Compliance](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Customs%20Trade%20Compliance%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Energy Procurement](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Energy%20Procurement%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Enterprise Agent Ops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Enterprise%20Agent%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [HIPAA Compliance](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/HIPAA%20Compliance%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Healthcare PHI Compliance](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Healthcare%20PHI%20Compliance%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Inventory Demand Planning](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Inventory%20Demand%20Planning%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Logistics Exception Management](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Logistics%20Exception%20Management%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Production Scheduling](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Production%20Scheduling%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Returns Reverse Logistics](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Returns%20Reverse%20Logistics%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Visa Doc Translate](Skill%20References/Tools%20%26%20Workflows/%F0%9F%8F%A2%20Operations%2C%20Logistics%20%26%20Compliance/Visa%20Doc%20Translate%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 💬 Communications & Notifications
+
+- [Crosspost](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%AC%20Communications%20%26%20Notifications/Crosspost%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Dailybot Automation](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%AC%20Communications%20%26%20Notifications/Dailybot%20Automation%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Internal Comms](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%AC%20Communications%20%26%20Notifications/Internal%20Comms%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Messages Ops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%AC%20Communications%20%26%20Notifications/Messages%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Unified Notifications Ops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%AC%20Communications%20%26%20Notifications/Unified%20Notifications%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 💳 Payments & Billing
+
+- [Connect Recommend](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/Connect%20Recommend%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Customer Billing Ops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/Customer%20Billing%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [EVM Token Decimals](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/EVM%20Token%20Decimals%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Stripe Apps](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/Stripe%20Apps%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Stripe Best Practices](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/Stripe%20Best%20Practices%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Stripe Directory](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/Stripe%20Directory%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Stripe Docs](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/Stripe%20Docs%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Stripe Projects](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/Stripe%20Projects%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Upgrade Stripe](Skill%20References/Tools%20%26%20Workflows/%F0%9F%92%B3%20Payments%20%26%20Billing/Upgrade%20Stripe%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 📄 Templates, Dashboards & Office Tools
+
+- [Algorithmic Art](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Algorithmic%20Art%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Analytics Dashboard](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Analytics%20Dashboard%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Financial Budget](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Financial%20Budget%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Investment Committee Memo](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Investment%20Committee%20Memo%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Legal Memorandum](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Legal%20Memorandum%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Minimal Letterhead](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Minimal%20Letterhead%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Operating Calendar](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Operating%20Calendar%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Project Kickoff](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Project%20Kickoff%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Project Tracker](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Project%20Tracker%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Simple Dark Mode](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Simple%20Dark%20Mode%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Simple Light Mode](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Simple%20Light%20Mode%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Strategy Memorandum](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Strategy%20Memorandum%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Team Alignment](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Team%20Alignment%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Artifact Template Three Statement Forecast](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Artifact%20Template%20Three%20Statement%20Forecast%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Dashboard Builder](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Dashboard%20Builder%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Doc Coauthoring](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Doc%20Coauthoring%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Jupyter Notebook](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Jupyter%20Notebook%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Template Creator](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Template%20Creator%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Visualize](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Visualize%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Wowerpoint](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Wowerpoint%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Xlsx](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%84%20Templates%2C%20Dashboards%20%26%20Office%20Tools/Xlsx%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 📋 Planning & Project Workflows
+
+- [Blueprint](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Blueprint%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Domain Model](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Domain%20Model%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Handoff](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Handoff%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Make Plan](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Make%20Plan%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Product Capability](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Product%20Capability%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Project Flow Ops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Project%20Flow%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Release](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Release%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [To Issues](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/To%20Issues%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [To Issues](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/To%20Issues%20%5Bvariant%200478%5D%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [To PRD](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/To%20PRD%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [To PRD](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/To%20PRD%20%5Bvariant%200479%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Triage Issue](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Triage%20Issue%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ubiquitous Language](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Ubiquitous%20Language%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ubiquitous Language](Skill%20References/Tools%20%26%20Workflows/%F0%9F%93%8B%20Planning%20%26%20Project%20Workflows/Ubiquitous%20Language%20%5Bvariant%200481%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🔌 Apps & Connected Services
+
+- [Amazon Automation](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Amazon%20Automation%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Connect](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Connect%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Connect Apps](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Connect%20Apps%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Connections Optimizer](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Connections%20Optimizer%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Fal AI Media](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Fal%20AI%20Media%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Google Workspace Ops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Google%20Workspace%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Jira Integration](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Jira%20Integration%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Linear](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Linear%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Notion Meeting Intelligence](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Notion%20Meeting%20Intelligence%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Notion Meeting Intelligence](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Notion%20Meeting%20Intelligence%20%5Bvariant%200556%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Notion Spec To Implementation](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Notion%20Spec%20To%20Implementation%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Notion Spec To Implementation](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Notion%20Spec%20To%20Implementation%20%5Bvariant%200558%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Openai Docs](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Openai%20Docs%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Openai Docs](Skill%20References/Tools%20%26%20Workflows/%F0%9F%94%8C%20Apps%20%26%20Connected%20Services/Openai%20Docs%20%5Bvariant%200222%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🤖 AI Agents & Orchestration
+
+- [AI First Engineering](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/AI%20First%20Engineering%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Agent Harness Construction](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Agent%20Harness%20Construction%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Agent Sort](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Agent%20Sort%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Agentic Engineering](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Agentic%20Engineering%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Autonomous Loops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Autonomous%20Loops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Claude Devfleet](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Claude%20Devfleet%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Continuous Agent Loop](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Continuous%20Agent%20Loop%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Cost Aware LLM Pipeline](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Cost%20Aware%20LLM%20Pipeline%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Council](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Council%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Dispatching Parallel Agents](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Dispatching%20Parallel%20Agents%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Executing Plans](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Executing%20Plans%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Foundation Models On Device](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Foundation%20Models%20On%20Device%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Knowledge Agent](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Knowledge%20Agent%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Nanoclaw Repl](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Nanoclaw%20Repl%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Team Builder](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Team%20Builder%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🧠 Memory, Knowledge & Prompting
+
+- [Babysit](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Babysit%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Brainstorming](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Brainstorming%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Caveman](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Caveman%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Continuous Learning](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Continuous%20Learning%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Continuous Learning V2](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Continuous%20Learning%20V2%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Do](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Do%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Grill Me](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Grill%20Me%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Grill Me](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Grill%20Me%20%5Bvariant%200473%5D%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [How It Works](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/How%20It%20Works%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Iterative Retrieval](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Iterative%20Retrieval%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Karpathy Guidelines](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Karpathy%20Guidelines%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Knowledge Ops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Knowledge%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Last30Days](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Last30Days%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Miller Memory](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Miller%20Memory%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Mode Creator](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Mode%20Creator%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Notion Knowledge Capture](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Notion%20Knowledge%20Capture%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Notion Knowledge Capture](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Notion%20Knowledge%20Capture%20%5Bvariant%200555%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Oh My Issues](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Oh%20My%20Issues%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Pathfinder](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Pathfinder%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Prompt Optimizer](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Prompt%20Optimizer%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Regex Vs LLM Structured Text](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Regex%20Vs%20LLM%20Structured%20Text%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Smart Explore](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Smart%20Explore%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Standup](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Standup%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Strategic Compact](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Strategic%20Compact%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Timeline Report](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Timeline%20Report%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Version Bump](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Version%20Bump%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Weekly Digests](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Weekly%20Digests%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [What The](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/What%20The%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Zoom Out](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Zoom%20Out%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Zoom Out](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Zoom%20Out%20%5Bvariant%200483%5D%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+### 🧪 Audits, QA & Verification
+
+- [Automation Audit Ops](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Automation%20Audit%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Benchmark Agents](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Benchmark%20Agents%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Benchmark E2E](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Benchmark%20E2E%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Benchmark Sandbox](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Benchmark%20Sandbox%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Brooks Audit](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Brooks%20Audit%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Brooks Debt](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Brooks%20Debt%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Brooks Health](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Brooks%20Health%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Brooks Sweep](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Brooks%20Sweep%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Diagnose](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Diagnose%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Diagnose](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Diagnose%20%5Bvariant%200471%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Eval Harness](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Eval%20Harness%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Qa](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Qa%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Qa](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Qa%20%5Bvariant%200476%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Quality Nonconformance](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Quality%20Nonconformance%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Sentry](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Sentry%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Setup Pre Commit](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Setup%20Pre%20Commit%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Setup Pre Commit](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Setup%20Pre%20Commit%20%5Bvariant%200477%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Verification Before Completion](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Verification%20Before%20Completion%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Verification Loop](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Verification%20Loop%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Workspace Surface Audit](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%AA%20Audits%2C%20QA%20%26%20Verification/Workspace%20Surface%20Audit%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🧰 Skills, Plugins & Configuration
+
+- [Configure ECC](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Configure%20ECC%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Hookify Rules](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Hookify%20Rules%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Plugin Audit](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Plugin%20Audit%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Plugin Creator](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Plugin%20Creator%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Plugin Management](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Plugin%20Management%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Setup Matt Pocock Skills](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Setup%20Matt%20Pocock%20Skills%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Skill Creator](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Skill%20Creator%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Skill Creator](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Skill%20Creator%20%5Bvariant%200225%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Skill Installer](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Skill%20Installer%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Skill Stocktake](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Skill%20Stocktake%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Using Superpowers](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%B0%20Skills%2C%20Plugins%20%26%20Configuration/Using%20Superpowers%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 
 ## Writing & Documents
 

@@ -24,7 +24,7 @@ START = "🔎 BROWSE LIBRARY.html"
 MANIFEST = ROOT / "metadata/easy-library.json"
 ORGANIZED_TOPICS = {
     "Coding & Development", "Design & Media", "Writing & Documents",
-    "Marketing & Business", "Research & Data",
+    "Marketing & Business", "Research & Data", "Tools & Workflows",
 }
 
 
@@ -72,7 +72,9 @@ def friendly_name(label):
         "Pdf": "PDF", "Pptx": "PowerPoint (PPTX)", "Sdk": "SDK", "Sql": "SQL",
         "Ssh": "SSH", "Ssr": "SSR", "Swa": "SWA",
         "Swr": "SWR", "Tdd": "TDD", "Tsx": "TSX", "Ui": "UI", "Url": "URL",
-        "Ux": "UX", "Waf": "WAF", "Seo": "SEO",
+        "Ux": "UX", "Waf": "WAF", "Seo": "SEO", "Ecc": "ECC",
+        "Evm": "EVM", "Gha": "GHA", "Hipaa": "HIPAA", "Io": "IO",
+        "Phi": "PHI", "Prd": "PRD", "Rfc": "RFC",
     }
     return " ".join(acronyms.get(word, word) for word in name.split())
 
@@ -180,6 +182,38 @@ def research_subcategory(label):
     return "📐 Research Tools & Methods"
 
 
+def tools_subcategory(label):
+    """Readable workflow groups for the broad catch-all tools catalog."""
+    name = label.casefold()
+    if re.search(r"artifact-template|dashboard-builder|jupyter|xlsx|doc-coauthoring|wowerpoint|template-creator|algorithmic-art|visualize", name):
+        return "📄 Templates, Dashboards & Office Tools"
+    if re.search(r"google-drive|dropbox|collect-files|inspect-dropbox|organize-dropbox|cloud-sync", name):
+        return "☁️ Cloud Files & Storage"
+    if re.search(r"stripe|billing|evm-token", name):
+        return "💳 Payments & Billing"
+    if re.search(r"carrier|customs|energy|healthcare|hipaa|inventory|logistics|returns|visa|enterprise-agent-ops|production-scheduling", name):
+        return "🏢 Operations, Logistics & Compliance"
+    if re.search(r"crosspost|internal-comms|messages-ops|notifications|dailybot", name):
+        return "💬 Communications & Notifications"
+    if re.search(r"browser|chrome|computer-use|playwright|screenshot|sites:|web-artifacts|browseai", name):
+        return "🌐 Browser, Computer & Web Automation"
+    if re.search(r"plugin|skill-(creator|installer|stocktake)|configure-ecc|hookify|setup-matt|using-superpowers", name):
+        return "🧰 Skills, Plugins & Configuration"
+    if re.search(r"benchmark|audit|brooks-|diagnose|eval-harness|\bqa\b|verification|quality|sentry|workspace-surface|setup-pre-commit|health$", name):
+        return "🧪 Audits, QA & Verification"
+    if re.search(r"blueprint|project-flow|to-prd|to-issues|triage-issue|ubiquitous-language|domain-model|product-capability|operating-calendar|project-kickoff|project-tracker|team-alignment|make-plan|handoff|release$", name):
+        return "📋 Planning & Project Workflows"
+    if re.search(r"agent|autonomous|continuous-agent|council|team-builder|subagent|dispatching|executing-plans|agentic|ai-first|llm-pipeline|nanoclaw|foundation-model|claude-devfleet", name):
+        return "🤖 AI Agents & Orchestration"
+    if re.search(r"claude-mem|memory|knowledge|continuous-learning|iterative-retrieval|prompt|strategic-compact|token-budget|karpathy|regex-vs-llm|zoom-out|caveman|grill-me|brainstorming|pathfinder|smart-explore|last30days", name):
+        return "🧠 Memory, Knowledge & Prompting"
+    if re.search(r"coding-standards|compose-multiplatform|clickhouse|golang|jpa|nestjs|postgres|terminal|dx:|github|gh-|ralphinho|finishing-a-development-branch", name):
+        return "⚙️ Developer Tools & Delivery"
+    if re.search(r"connect|automation|jira|linear|notion|google-workspace|openai-docs|fal-ai|amazon", name):
+        return "🔌 Apps & Connected Services"
+    return "🧩 General Productivity & Utilities"
+
+
 def browsing_subcategory(topic, label):
     if topic == "Coding & Development":
         return coding_subcategory(label)
@@ -191,13 +225,15 @@ def browsing_subcategory(topic, label):
         return marketing_subcategory(label)
     if topic == "Research & Data":
         return research_subcategory(label)
+    if topic == "Tools & Workflows":
+        return tools_subcategory(label)
     return None
 
 
 def visible_folder(entry, topic, used):
     source = Path(entry['path'])
-    # The nested readable-name migration is deliberately scoped to the large
-    # Coding & Development topic. Every other topic keeps its established path.
+    # Organized topics use readable names while canonical package names stay
+    # unchanged inside SKILL.md and the generated Claude ZIP.
     name = (friendly_name(entry['label'])
             if topic in ORGANIZED_TOPICS and entry['type'] == 'skill'
             else (source.parent.name if entry['type'] == 'skill' else source.stem))
@@ -415,7 +451,7 @@ def outputs(root=ROOT, vault=VAULT):
         "All 485 distinct skills are visible here: 472 with a ZIP and 13 with source files and repair warnings. "
         "The 86 command entries are visible separately under Claude Code Commands. "
         "Together these represent all 925 catalog entries, including identical source copies.\n\n"
-        "1. Open a topic. Coding, design, writing, marketing, and research topics have smaller task-based subcategories; then open the clearly named skill folder. "
+        "1. Open a topic. Coding, design, writing, marketing, research, and tools/workflows topics have smaller task-based subcategories; then open the clearly named skill folder. "
         "SKILL.md and supporting files are directly inside, beside the upload ZIP.\n"
         "Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.\n"
         "2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.\n"
@@ -458,6 +494,7 @@ def apply_outputs(generated, previous, vault, check=False):
     errors = []
     expected = {p.relative_to(vault).as_posix() for p in generated}
     retired = []
+    already_archived = []
     for rel, old_hash in previous.items():
         if rel in expected:
             continue
@@ -467,8 +504,19 @@ def apply_outputs(generated, previous, vault, check=False):
         if not old.exists():
             continue
         destination = vault / "🔧 ADVANCED/dist/previous-easy-library" / old_hash / rel
-        if old.is_symlink() or digest(old.read_bytes()) != old_hash or destination.exists():
+        if old.is_symlink() or digest(old.read_bytes()) != old_hash:
             errors.append("Changed retired output preserved for manual review: " + rel)
+        elif destination.exists():
+            if destination.is_file() and digest(destination.read_bytes()) == old_hash:
+                # A prior interrupted build may already have archived this exact
+                # generated artifact. Retiring the duplicate is safe and makes
+                # the migration idempotent without touching source material.
+                if check:
+                    errors.append("Retired output requires cleanup: " + rel)
+                else:
+                    already_archived.append(old)
+            else:
+                errors.append("Archive collision preserved for manual review: " + rel)
         elif check:
             errors.append("Retired output requires archival: " + rel)
         else:
@@ -493,6 +541,20 @@ def apply_outputs(generated, previous, vault, check=False):
         for old, destination in retired:
             destination.parent.mkdir(parents=True, exist_ok=True)
             old.rename(destination)
+        for old in already_archived:
+            old.unlink()
+        # Remove only empty directories left by retired generated artifacts.
+        for managed_root in (vault / READY, vault / CHATGPT / "Skill References"):
+            if managed_root.exists():
+                for directory in sorted(
+                    (path for path in managed_root.rglob("*") if path.is_dir()),
+                    key=lambda path: len(path.parts),
+                    reverse=True,
+                ):
+                    try:
+                        directory.rmdir()
+                    except OSError:
+                        pass
         for path, data in generated.items():
             if not path.exists() or path.read_bytes() != data:
                 path.parent.mkdir(parents=True, exist_ok=True)

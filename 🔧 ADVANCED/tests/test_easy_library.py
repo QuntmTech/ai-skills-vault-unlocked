@@ -111,6 +111,26 @@ class EasyLibraryTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 easy.apply_outputs({target: b"stale"}, {}, root, check=True)
 
+    def test_interrupted_retirement_is_safe_to_retry(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            rel = Path(easy.READY) / "Old Topic" / "retired.md"
+            old = root / rel
+            old.parent.mkdir(parents=True)
+            old.write_bytes(b"managed output")
+            old_hash = easy.digest(old.read_bytes())
+            archived = root / "🔧 ADVANCED/dist/previous-easy-library" / old_hash / rel
+            archived.parent.mkdir(parents=True)
+            archived.write_bytes(b"managed output")
+            replacement = root / easy.READY / "New Topic" / "current.md"
+
+            easy.apply_outputs({replacement: b"new output"},
+                               {rel.as_posix(): old_hash}, root)
+
+            self.assertFalse(old.exists())
+            self.assertEqual(archived.read_bytes(), b"managed output")
+            self.assertEqual(replacement.read_bytes(), b"new output")
+
     def test_escaping_and_setup_flags(self):
         self.assertNotIn("</script>", easy.safe_payload({"label": "</script><script>alert(1)</script>"}))
         self.assertTrue(easy.needs_setup({"signals": ["MCP/tool connection mentioned"]}))
@@ -165,6 +185,32 @@ class EasyLibraryTests(unittest.TestCase):
                     self.assertTrue(chat.name.endswith('ChatGPT Reference.md'))
         self.assertEqual(easy.friendly_name('seo'), 'SEO')
         self.assertEqual(easy.friendly_name('hugging-face:hf-cli'), 'HF CLI')
+
+    def test_phase_three_tools_mirror_readable_subcategories(self):
+        rows = [row for row in json.loads(easy.MANIFEST.read_text())['entries']
+                if row['category'] == 'Tools & Workflows']
+        self.assertEqual(len(rows), 193)
+        self.assertGreaterEqual(len({row['subcategory'] for row in rows}), 13)
+        for row in rows:
+            self.assertEqual(Path(row['folder']).parts[0:2],
+                             (easy.READY, 'Tools & Workflows'))
+            self.assertEqual(Path(row['folder']).parts[2], row['subcategory'])
+            self.assertEqual(Path(row['folder']).parts[3].split(' [variant ')[0],
+                             row['display_name'])
+            if row.get('chatgpt_reference'):
+                chat = Path(row['chatgpt_reference'])
+                self.assertEqual(chat.parts[0:3],
+                                 (easy.CHATGPT, 'Skill References', 'Tools & Workflows'))
+                self.assertEqual(chat.parts[3], row['subcategory'])
+                self.assertTrue(chat.name.endswith('ChatGPT Reference.md'))
+        self.assertEqual(easy.friendly_name('enterprise-agent-ops'),
+                         'Enterprise Agent Ops')
+        self.assertEqual(easy.friendly_name('hipaa-compliance'),
+                         'HIPAA Compliance')
+        self.assertEqual(easy.tools_subcategory('stripe:stripe-best-practices'),
+                         '💳 Payments & Billing')
+        self.assertEqual(easy.tools_subcategory('claude-mem:weekly-digests'),
+                         '🧠 Memory, Knowledge & Prompting')
 
     def test_rejects_symlink_output(self):
         with tempfile.TemporaryDirectory() as tmp:
