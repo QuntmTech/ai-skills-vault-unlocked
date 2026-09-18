@@ -2,6 +2,7 @@
 """Generate the human-facing library; never execute collected skill code."""
 import argparse
 import hashlib
+import io
 import json
 import re
 import tempfile
@@ -17,6 +18,7 @@ VAULT = ROOT.parent
 READY = "📦 READY FOR CLAUDE"
 SETUP = "⚠️ NEEDS SETUP"
 COPY = "📋 COPY & PASTE"
+CHATGPT = "💬 START HERE — CHATGPT"
 START = "📍 START HERE.html"
 MANIFEST = ROOT / "metadata/easy-library.json"
 
@@ -108,6 +110,17 @@ def outputs(root=ROOT, vault=VAULT):
             ref_relative = COPY + "/Skill References/" + row["category"] + "/" + ref.name
             row["reference"] = ref_relative
             generated[vault / ref_relative] = ref.read_bytes()
+            chat_path = CHATGPT + "/Skill References/" + row["category"] + "/" + ref.name.replace("-claude-reference", "-chatgpt-reference")
+            row["chatgpt_reference"] = chat_path
+            context = ("# ChatGPT reference — " + row["display_name"] + "\n\n"
+                       "Readable guidance, not a native skill installation. No live ChatGPT test is claimed. "
+                       "Supporting scripts and assets are not embedded in this document. "
+                       "Provider-specific commands may require adaptation; do not assume tools are available.\n\n"
+                       "## Requirements to review\n\n" +
+                       "\n".join("- " + signal for signal in row["signals"]) +
+                       ("\n" if row["signals"] else "No special setup signals detected; this is not a compatibility guarantee.\n") +
+                       "\n[Preserved source and supporting files](" + quote("../../../" + row["source"], safe="/") + ")\n\n---\n\n")
+            generated[vault / chat_path] = context.encode() + ref.read_bytes()
             audit.append(json.loads(archive.with_suffix(".json").read_text()))
     counts = dict(Counter(row["status"] for row in rows))
     summary = {"catalog_entries": len(catalog(root)), "browse_entries": len(rows),
@@ -135,6 +148,43 @@ def outputs(root=ROOT, vault=VAULT):
     generated[root / "metadata/upload-reports.json"] = (json.dumps(audit, ensure_ascii=False, indent=2) + "\n").encode()
     for name in (*FILES, COMBINED):
         generated[vault / COPY / "Project Instructions" / name] = (root / "project-instructions" / name).read_bytes()
+        generated[vault / CHATGPT / "Project Instructions" / name] = (root / "project-instructions" / name).read_bytes()
+    chat_rows = [row for row in rows if row.get("chatgpt_reference")]
+    chat_start = (root / "scripts/chatgpt-start-here.md").read_text().replace("__REFERENCE_COUNT__", str(len(chat_rows)))
+    generated[vault / CHATGPT / "START HERE.md"] = chat_start.encode()
+    generated[vault / CHATGPT / "Project Instructions/README.md"] = (
+        "# Project instructions for ChatGPT\n\n"
+        "Start with PROJECT-INSTRUCTIONS.md for concise guidance and PROJECT-HANDBOOK.md as reference. "
+        "Alternatively choose COPY-PASTE-ALL.md instead of both. Do not duplicate the same guidance.\n\n"
+        "Copy only relevant instructions into the supported project instruction area, within its limits; "
+        "upload the handbook as a source. These documents do not install native skills. "
+        "Keep filled-in PROJECT-CONTEXT.template.md private and outside this repository.\n\n"
+        "[Return to setup guide](../START%20HERE.md)\n"
+    ).encode()
+    chat_index = ["# Browse ChatGPT references", "", "These are readable documents, not verified native skill packages.",
+                  "Review each document's requirements. No supporting scripts/assets are embedded.", ""]
+    for title in sorted({row["category"] for row in chat_rows}):
+        chat_index += ["## " + title, ""]
+        for row in (r for r in chat_rows if r["category"] == title):
+            relative = Path(row["chatgpt_reference"]).relative_to(CHATGPT).as_posix()
+            label = row["display_name"].replace("[", "").replace("]", "")
+            chat_index.append("- [" + label + "](" + quote(relative, safe="/") + ") — " +
+                              ("requirements flagged" if row["status"] == "Needs tool/setup review" else "no special setup signals detected"))
+        chat_index.append("")
+    chat_index += ["## Not converted to references here", "",
+                   "The 13 incomplete skill packages and 86 command entries remain in the original catalog; "
+                   "they are not represented as ChatGPT-ready workflows.", ""]
+    generated[vault / CHATGPT / "BROWSE REFERENCES.md"] = "\n".join(chat_index).encode()
+    # An optional document bundle for extraction, never a native skill installer.
+    bundle = io.BytesIO()
+    with zipfile.ZipFile(bundle, "w", compression=zipfile.ZIP_DEFLATED) as archive:
+        for path, data in sorted(generated.items()):
+            if path.is_relative_to(vault / CHATGPT):
+                info = zipfile.ZipInfo("ChatGPT Reference Pack/" + path.relative_to(vault / CHATGPT).as_posix())
+                info.compress_type = zipfile.ZIP_DEFLATED
+                info.external_attr = 0o100644 << 16
+                archive.writestr(info, data)
+    generated[vault / CHATGPT / "ChatGPT-Reference-Pack.zip"] = bundle.getvalue()
     generated[vault / READY / "READ ME FIRST.md"] = (
         "# Ready-made Claude ZIPs\n\n"
         "1. Open a topic folder here and choose a skill ZIP. The website is optional.\n"

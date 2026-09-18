@@ -32,6 +32,29 @@ class EasyLibraryTests(unittest.TestCase):
         for path, expected in json.loads(easy.MANIFEST.read_text())["artifacts"].items():
             self.assertEqual(easy.digest((easy.VAULT / path).read_bytes()), expected, path)
 
+    def test_chatgpt_references_preserve_text_and_warnings(self):
+        manifest = json.loads(easy.MANIFEST.read_text())
+        references = [r for r in manifest['entries'] if r.get('chatgpt_reference')]
+        self.assertEqual(len(references), manifest['summary']['zip_count'])
+        for row in references:
+            copy = (easy.VAULT / row['chatgpt_reference']).read_bytes()
+            self.assertTrue(copy.endswith((easy.VAULT / row['reference']).read_bytes()))
+            self.assertIn(b'not a native skill installation', copy)
+            self.assertIn(b'No live ChatGPT test is claimed', copy)
+            for signal in row['signals']:
+                self.assertIn(signal.encode(), copy)
+
+    def test_chatgpt_bundle_matches_documents(self):
+        folder = easy.VAULT / easy.CHATGPT
+        docs = list(folder.rglob('*.md'))
+        self.assertTrue((folder / 'START HERE.md').is_file())
+        self.assertTrue((folder / 'Project Instructions/PROJECT-INSTRUCTIONS.md').is_file())
+        with zipfile.ZipFile(folder / 'ChatGPT-Reference-Pack.zip') as archive:
+            self.assertIsNone(archive.testzip())
+            self.assertEqual(len(archive.namelist()), len(docs))
+            for doc in docs:
+                self.assertEqual(archive.read('ChatGPT Reference Pack/' + doc.relative_to(folder).as_posix()), doc.read_bytes())
+
     def test_modified_output_is_preserved(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

@@ -1,0 +1,83 @@
+# ChatGPT reference — Sign In With Vercel
+
+Readable guidance, not a native skill installation. No live ChatGPT test is claimed. Supporting scripts and assets are not embedded in this document. Provider-specific commands may require adaptation; do not assume tools are available.
+
+## Requirements to review
+
+- Credentials/service setup mentioned
+- Plugin source — verify required plugin capabilities in Claude
+
+[Preserved source and supporting files](../../../%F0%9F%94%A7%20ADVANCED/skills/codex/plugins/vercel%20%E2%80%94%20sign-in-with-vercel/SKILL.md)
+
+---
+
+# Reference copy — sign-in-with-vercel
+
+This is a reading/copy-paste aid, not an installed skill. It does not include supporting files or grant access to tools. Review the ZIP and audit report before using this workflow.
+
+---
+name: sign-in-with-vercel
+description: Sign in with Vercel guidance — OAuth 2.0/OIDC identity provider for user
+  authentication via Vercel accounts. Use when implementing user login with Vercel
+  as the identity provider.
+metadata:
+  priority: 6
+  docs:
+  - https://vercel.com/docs/sign-in-with-vercel
+  sitemap: https://vercel.com/sitemap/docs.xml
+  pathPatterns:
+  - app/api/auth/**
+  - app/login/**
+  - src/app/api/auth/**
+  - src/app/login/**
+  - pages/api/auth/**
+  bashPatterns: []
+---
+
+# Sign in with Vercel
+
+You are an expert in Sign in with Vercel — Vercel's OAuth 2.0 / OpenID Connect identity provider.
+
+## What It Is
+
+Sign in with Vercel lets users log in to your application using their **Vercel account**. Your app does not need to handle passwords, create accounts, or manage user sessions — Vercel acts as the identity provider (IdP).
+
+## OAuth 2.0 Authorization Code Flow
+
+```
+1. User clicks "Sign in with Vercel"
+2. Redirect to Vercel authorization URL
+3. User grants consent on Vercel's consent page
+4. Vercel redirects back with authorization code
+5. Exchange code for tokens (ID Token + Access Token + Refresh Token)
+```
+
+## Tokens
+
+| Token | Lifetime | Purpose |
+|-------|----------|---------|
+| **ID Token** | Signed JWT | Proves user identity (name, email, avatar) |
+| **Access Token** | 1 hour | Bearer token for Vercel REST API calls |
+| **Refresh Token** | 30 days | Silent re-authentication (rotates on use) |
+
+## Configuration
+
+1. Register your app at `https://vercel.com/dashboard/{team}/integrations/console` (the Integrations Console). Click **Create Integration** → fill in the OAuth details → note the Client ID and Client Secret.
+2. Configure redirect URIs and scopes
+3. Use any standard OAuth 2.0 client library (no Vercel-specific SDK required)
+
+## When to Use
+
+- Build tools/dashboards that need Vercel account identity
+- Grant users access to their own Vercel resources via your app
+- Developer-facing apps where users already have Vercel accounts
+
+## When NOT to Use
+
+- General-purpose user auth (not everyone has Vercel) → use Clerk, Auth0
+- Machine-to-machine auth → use Vercel OIDC Federation or API tokens
+- Internal team auth → use Teams & Access Control
+
+## References
+
+- 📖 docs: https://vercel.com/docs/sign-in-with-vercel
