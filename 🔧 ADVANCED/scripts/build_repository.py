@@ -333,10 +333,38 @@ def main() -> int:
     parser.add_argument("--check", action="store_true", help="verify generated files and safety rules")
     parser.add_argument("--organize", action="store_true", help="One-time preservation-checked move into Advanced")
     parser.add_argument("--simplify-names", action="store_true", help="Preserve files while simplifying user-facing names")
+    parser.add_argument("--expose-skills", action="store_true", help="Build front-facing skill folders without removing original sources")
     args = parser.parse_args()
 
     if args.simplify_names:
         simplify_names(ROOT.parent)
+        return 0
+    if args.expose_skills:
+        import build_easy_library as easy
+        previous = json.loads(easy.MANIFEST.read_text()).get('artifacts', {})
+        previous[easy.MANIFEST.relative_to(easy.VAULT).as_posix()] = easy.digest(easy.MANIFEST.read_bytes())
+        generated, summary = easy.outputs()
+        easy.apply_outputs(generated, previous, easy.VAULT)
+        old = easy.VAULT / easy.SETUP / 'Packaged - Review Requirements'
+        if old.exists() and not any(p.is_file() or p.is_symlink() for p in old.rglob('*')):
+            destination = ROOT / 'dist/previous-easy-library/empty-setup-folder-layout'
+            if not destination.exists():
+                destination.parent.mkdir(parents=True, exist_ok=True)
+                old.rename(destination)
+        folders = {r['folder'] for r in json.loads(easy.MANIFEST.read_text())['entries']}
+        for category in (easy.VAULT / easy.READY).iterdir():
+            if not category.is_dir() or category.is_symlink():
+                continue
+            for old in category.iterdir():
+                if not old.is_dir() or old.is_symlink() or old.relative_to(easy.VAULT).as_posix() in folders:
+                    continue
+                if any(p.is_file() or p.is_symlink() for p in old.rglob('*')):
+                    continue
+                destination = ROOT / 'dist/previous-easy-library/empty-skill-folder-layout' / category.name / old.name
+                if not destination.exists():
+                    destination.parent.mkdir(parents=True, exist_ok=True)
+                    old.rename(destination)
+        print(json.dumps(summary, indent=2))
         return 0
 
     if args.organize:

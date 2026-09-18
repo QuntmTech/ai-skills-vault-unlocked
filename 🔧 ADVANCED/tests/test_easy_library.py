@@ -26,6 +26,24 @@ class EasyLibraryTests(unittest.TestCase):
         self.assertEqual(sorted(ids), sorted(e["id"] for e in catalog()))
         self.assertEqual(len(ids), len(set(ids)))
 
+    def test_all_skills_front_facing_with_source_and_zip_together(self):
+        rows = json.loads(easy.MANIFEST.read_text())['entries']
+        for row in rows:
+            folder = easy.VAULT / row['folder']
+            self.assertTrue(folder.is_relative_to(easy.VAULT / easy.READY))
+            self.assertTrue((easy.VAULT / row['guide']).is_file())
+            original = easy.ROOT / row['path']
+            paths = easy.package_files(original.parent) if row['type'] == 'skill' else [original]
+            for source in paths:
+                copy = folder / source.relative_to(original.parent)
+                self.assertEqual(copy.read_bytes(), source.read_bytes(), str(copy))
+            self.assertTrue((easy.VAULT / row['front_source']).is_file())
+            if row['zip']:
+                self.assertEqual((easy.VAULT / row['zip']).parent, folder)
+            else:
+                self.assertFalse(list(folder.glob('*.zip')))
+        self.assertEqual(sum(bool(row['zip']) for row in rows), 472)
+
     def test_zip_links_integrity_and_entrypoint(self):
         for row in json.loads(easy.MANIFEST.read_text())["entries"]:
             self.assertTrue((easy.VAULT / row["source"]).is_file())

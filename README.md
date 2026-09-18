@@ -8,9 +8,9 @@ Explore **472 prebuilt skill ZIPs**, readable references, and general-purpose pr
 
 **No Terminal or manual zipping required for the prepared downloads. No separate browsing website or local server required.** Individual skills may still require tools, accounts, or a developer environment; those requirements are flagged separately.
 
-[⬇ Download a packaged release](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest) · [🔎 Browse all skills](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) · [📋 Open project instructions](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md)
+[⬇ Download the current vault](https://github.com/QuntmTech/ai-skills-vault-unlocked/archive/refs/heads/main.zip) · [🔎 Browse all skills](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) · [📋 Open project instructions](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md)
 
-**New: [💬 ChatGPT section](💬%20CHATGPT/README.md).** This addition is on the current branch; the older v0.2.0 release predates it. Use **Code → Download ZIP** for the latest complete folder, or open the ChatGPT section and download its **ChatGPT-Reference-Pack.zip** document bundle.
+**Use the current branch for the new folder layout and [💬 ChatGPT section](💬%20CHATGPT/README.md).** The older v0.2.0 release predates these changes. Use the download above or **Code → Download ZIP** for the current complete library. The ChatGPT section also contains a **ChatGPT-Reference-Pack.zip** document bundle.
 
 > **Private preparation library.** Repository access is required. Packaging checks are not live compatibility tests, and inclusion does not grant redistribution or resale rights. See the [readiness guide](#understand-the-readiness-labels) and [license notice](LICENSE.md).
 
@@ -46,20 +46,19 @@ Not every topic has a packaging-checked download. The [complete browse list](�
 
 ## Download from GitHub, then browse your folders
 
-### Option A: Download a packaged release
+### Recommended: download the current vault
 
-1. Open the [latest release](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest). Under **Assets**, choose
-   **AI-SKILLS-VAULT-UNLOCKED.zip**.
+1. Use [Download the current vault](https://github.com/QuntmTech/ai-skills-vault-unlocked/archive/refs/heads/main.zip), or choose **Code → Download ZIP** on the repository page.
 2. Extract that outer ZIP once.
-3. Start in **📦 CLAUDE**, then the topic you want. For the other packaged skills, open **⚠️ NEEDS SETUP → Packaged - Review Requirements** and review their requirements first.
+3. Open **📦 CLAUDE → topic → exact skill name**. Every distinct skill has its own visible folder, including skills with setup requirements. Its actual **SKILL.md**, supporting files, and upload ZIP are directly inside. Read **VAULT GUIDE.md** for setup notes.
 4. Select the skill's existing **.zip** file in Claude's skill-upload control.
    **Do not extract or re-ZIP the individual skill.**
 
 The outer ZIP is the library download. The smaller ZIPs inside it are the individual skill packages. **Extract the library; keep the skill packages zipped for upload.**
 
-### Option B: Download the current repository
+### Older packaged snapshots
 
-On the [repository page](https://github.com/QuntmTech/ai-skills-vault-unlocked), select **Code → Download ZIP**, then extract that outer download. The prepared skill ZIPs are included here too.
+The [release page](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases) preserves packaged snapshots. Under a release's **Assets**, the named vault ZIP contains that release's files and layout. Use the current-branch download above for the new per-skill folders.
 
 **Which should you choose?** A release is a packaged snapshot. Code → Download ZIP follows the current branch and can include documentation updates made after that release. Both downloads require access while the repository is private.
 
@@ -73,10 +72,10 @@ Neither is an installation requirement. You can use the folders without opening 
 
 | Folder | What it is for |
 | --- | --- |
-| [📦 CLAUDE](📦%20CLAUDE/) | Start here for individually zipped skills with packaging checks and no detected special setup signals |
+| [📦 CLAUDE](📦%20CLAUDE/) | All 485 distinct skill folders grouped by topic: 472 ZIPs alongside actual source files, 13 clearly labeled repair entries, and a separate category for 86 commands |
 | [💬 CHATGPT](💬%20CHATGPT/README.md) | ChatGPT setup guide, project instructions, 472 topic-organized reference documents, and an optional document-bundle ZIP—not a native installer |
 | [📋 COPY & PASTE](📋%20COPY%20%26%20PASTE/) | Readable skill references and PROJECT COMPASS instructions you can adapt to your work |
-| [⚠️ NEEDS SETUP](⚠️%20NEEDS%20SETUP/) | Packaged skills flagged for requirements review, plus entries whose missing resources need repair |
+| [⚠️ NEEDS SETUP](⚠️%20NEEDS%20SETUP/) | A setup/repair report linking to the visible skill folders—not a separate collection of hidden ZIPs |
 | [🔧 ADVANCED](🔧%20ADVANCED/README.md) | Preserved source material, catalogs, provenance reports, tests, and maintenance tools |
 
 You do not need to understand Advanced to browse the prepared packages. It is there for inspection, customization, and maintenance.
@@ -88,13 +87,29 @@ The current catalog contains **925 source entries**: **839 skill copies** and **
 | Browse entry status | Count | What you receive |
 | --- | ---: | --- |
 | Packaging checked | 26 | Individual ZIPs in CLAUDE |
-| Needs tool/setup review | 446 | Individual ZIPs in NEEDS SETUP, with flagged requirements to inspect |
-| Needs repair | 13 | Documented entries without a prepared ZIP |
-| Command—not a skill ZIP | 86 | Separate command/reference material, not native Claude-app skill downloads |
+| Needs tool/setup review | 446 | ZIPs in their own CLAUDE skill folders, with setup warnings beside them |
+| Needs repair | 13 | Visible CLAUDE skill folders with source files and an explanation of why no ZIP is supplied |
+| Command—not a skill ZIP | 86 | Visible command folders under CLAUDE → Claude Code Commands; not native Claude-app skill downloads |
 
 **26 + 446 = 472 prebuilt skill ZIPs.** These counts describe different views of the same collection; they should not be added together as extra skills. The [generated manifest](🔧%20ADVANCED/metadata/easy-library.json) records the inventory and status breakdown.
 
 Identical whole packages share one download. Distinct variants and every source copy remain preserved; deduplicating the download list did not delete the source archive.
+
+### Inside each skill folder
+
+```text
+📦 CLAUDE/
+  Coding & Development/
+    exact-skill-name/
+      VAULT GUIDE.md      ← requirements and upload instructions
+      skill-name.zip      ← select this for Claude upload
+      SKILL.md            ← original skill instructions
+      scripts/            ← when supplied by the original package
+      references/         ← when supplied
+      assets/             ← when supplied
+```
+
+Folders keep their original skill names. When different packages share the same name, a variant suffix prevents overwriting. Incomplete skills remain visible but have no ZIP; their VAULT GUIDE explains what needs repair. Original source material remains preserved in Advanced as well. You do not need to dig through Advanced to find a skill's available files.
 
 ## Understand the readiness labels
 
@@ -190,9 +205,9 @@ You can evaluate the plain-text guidance for use in another environment, subject
 
 No. A file cannot grant access to your accounts. Review any required integrations separately and provide only the permissions genuinely needed for your task.
 
-### Why are so many packages in NEEDS SETUP?
+### Why do so many skills have setup warnings?
 
-The library uses conservative requirement flags. A package mentioning an external tool or host feature is separated for review rather than presented as a guaranteed plug-and-play download. A flag is a reason to inspect, not proof that the skill is broken.
+The library uses conservative requirement flags. All available ZIPs stay in their own CLAUDE skill folders; VAULT GUIDE.md beside each one lists its requirements. A flag is a reason to inspect, not proof that the skill is broken. The NEEDS SETUP folder is only a report and no longer holds a separate ZIP collection.
 
 ### Can I share or sell the collection?
 

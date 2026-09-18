@@ -79,10 +79,10 @@ function render(){
   if(e.signals.length)for(const signal of e.signals)details.append(el('p',signal));
   else details.append(el('p','No specific setup signals detected. This is not proof of host compatibility.'));
   details.append(el('p','Packaging checks do not verify runtime behavior, safety or redistribution rights.'));
-  const links=el('div','','links');links.append(link('Read original',e.source));
+  const links=el('div','','links');links.append(link('Open skill guide',e.guide),link('Read source files',e.front_source));
   if(e.reference)links.append(link('Copy/paste reference',e.reference));details.append(links);body.append(details);row.append(body);
   if(e.zip){const a=link(e.status==='Packaging checked'?'Get skill ZIP':'Get ZIP · setup needed',e.zip,'action');a.download='';row.append(a)}
-  else row.append(link('Read source',e.source,'action'));
+  else row.append(link('Read source and status',e.guide,'action'));
   results.append(row);
  }
  more.hidden=limit>=items.length;

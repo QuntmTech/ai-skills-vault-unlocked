@@ -11,7 +11,7 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import quote
 
-from skillverse import ROOT, catalog, export, inspect, frontmatter
+from skillverse import ROOT, catalog, export, inspect, frontmatter, package_files
 from build_instruction_pack import FILES, COMBINED
 
 VAULT = ROOT.parent
@@ -55,11 +55,24 @@ def safe_payload(value):
     return json.dumps(value, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
 
 
+def visible_folder(entry, topic, used):
+    source = Path(entry['path'])
+    name = source.parent.name if entry['type'] == 'skill' else source.stem
+    folder = READY + '/' + topic + '/' + name
+    if folder.casefold() in used:
+        folder += f" [variant {entry['id']:04d}]"
+    if folder.casefold() in used:
+        raise ValueError('Visible folder collision: ' + folder)
+    used.add(folder.casefold())
+    return folder
+
+
 def outputs(root=ROOT, vault=VAULT):
     generated = {}
     rows = []
     seen = {}
     audit = []
+    used_folders = set()
     for entry in catalog(root):
         report = inspect(entry, root)
         entry = dict(entry)
@@ -77,6 +90,7 @@ def outputs(root=ROOT, vault=VAULT):
                    "source": "🔧 ADVANCED/" + entry["path"], "zip": None,
                    "signals": report["issues"], "copies": [entry["id"]]}
             rows.append(row)
+            row['folder'] = visible_folder(entry, 'Claude Code Commands', used_folders)
             continue
         key = report["package_sha256"]
         if key in seen:
@@ -86,6 +100,7 @@ def outputs(root=ROOT, vault=VAULT):
                "signals": report["signals"], "copies": [entry["id"]], "zip": None}
         seen[key] = row
         rows.append(row)
+        row['folder'] = visible_folder(entry, row['category'], used_folders)
         with tempfile.TemporaryDirectory(prefix="vault-claude-export-") as folder:
             try:
                 archive = export(entry, "claude", Path(folder), root)
@@ -102,8 +117,7 @@ def outputs(root=ROOT, vault=VAULT):
                     raise ValueError("ZIP entrypoint/layout failure")
             setup = needs_setup(report)
             row["status"] = "Needs tool/setup review" if setup else "Packaging checked"
-            section = SETUP + "/Packaged - Review Requirements" if setup else READY
-            zip_relative = section + "/" + row["category"] + "/" + archive.name
+            zip_relative = row['folder'] + '/' + archive.name
             row["zip"] = zip_relative
             generated[vault / zip_relative] = archive.read_bytes()
             ref = archive.with_name(archive.stem + "-reference.md")
@@ -122,6 +136,47 @@ def outputs(root=ROOT, vault=VAULT):
                        "\n[Preserved source and supporting files](" + quote("../../../" + row["source"], safe="/") + ")\n\n---\n\n")
             generated[vault / chat_path] = context.encode() + ref.read_bytes()
             audit.append(json.loads(archive.with_suffix(".json").read_text()))
+    entries_by_id = {e['id']: e for e in catalog(root)}
+    for row in rows:
+        source = root / row['path']
+        source_files = package_files(source.parent) if row['type'] == 'skill' else [source]
+        for path in source_files:
+            relative = path.relative_to(source.parent).as_posix()
+            destination = vault / row['folder'] / relative
+            if destination in generated and generated[destination] != path.read_bytes():
+                raise ValueError('Source/output collision: ' + str(destination))
+            generated[destination] = path.read_bytes()
+        row['front_source'] = row['folder'] + '/' + source.name
+        row['guide'] = row['folder'] + '/VAULT GUIDE.md'
+        if vault / row['guide'] in generated:
+            raise ValueError('Reserved guide filename already exists in source')
+        report = inspect(entries_by_id[row['id']], root)
+        license_links = []
+        for evidence in report.get('license_evidence', []):
+            if 'file' in evidence:
+                original = root / evidence['file']
+                relative = 'License Notices/' + evidence['file']
+                generated[vault / row['folder'] / relative] = original.read_bytes()
+                license_links.append('- [License or notice](' + quote(relative, safe='/') + ')')
+        guide = ['# ' + row['display_name'], '', '**Status: ' + row['status'] + '**', '',
+                 '[Open the actual source file](' + quote(source.name) + ')', '',
+                 'This folder contains the preserved instructions and available supporting files directly. '
+                 'No collected scripts were executed. Review requirements before use.', '']
+        if row['zip']:
+            guide += ['[Upload this ZIP to Claude](' + quote(Path(row['zip']).name) + ')', '',
+                      'Do not unzip the individual skill ZIP for Claude upload. The ZIP may normalize metadata; '
+                      'The unpacked files preserve the original bytes. No live Claude import is verified.', '']
+        else:
+            guide += ['No native skill ZIP is supplied: ' + row['status'] + '.', '']
+        guide += ['## Requirements and limitations', '', *('- ' + s for s in row['signals']), '',
+                  'Packaging checks do not prove runtime behavior, security, or redistribution rights.', '',
+                  '## Source copies represented', '']
+        for source_id in row['copies']:
+            original = entries_by_id[source_id]
+            guide.append('- [' + str(source_id) + ' · ' + original['collection'] + '](' +
+                         quote('../../../🔧 ADVANCED/' + original['path'], safe='/') + ')')
+        guide += ['', 'Identical whole packages share this folder; distinct variants have separate folders.', '', *license_links, '']
+        generated[vault / row['guide']] = '\n'.join(guide).encode()
     counts = dict(Counter(row["status"] for row in rows))
     summary = {"catalog_entries": len(catalog(root)), "browse_entries": len(rows),
                "zip_count": sum(row["zip"] is not None for row in rows),
@@ -140,7 +195,7 @@ def outputs(root=ROOT, vault=VAULT):
         lines += ["## " + title, ""]
         for row in (r for r in rows if r["category"] == title):
             label = row["label"].replace("[", "").replace("]", "").replace("\n", " ")
-            link = row["zip"] or row["source"]
+            link = row['guide']
             lines.append("- [" + label + "](" + quote("../" + link, safe="/") + ") — " + row["status"]
                          + ("; " + str(len(row["copies"])) + " identical source copies" if len(row["copies"]) > 1 else ""))
         lines.append("")
@@ -186,27 +241,32 @@ def outputs(root=ROOT, vault=VAULT):
                 archive.writestr(info, data)
     generated[vault / CHATGPT / "ChatGPT-Reference-Pack.zip"] = bundle.getvalue()
     generated[vault / READY / "README.md"] = (
-        "# Ready-made Claude ZIPs\n\n"
-        "1. Open a topic folder here and choose a skill ZIP. The website is optional.\n"
+        "# Claude — all skills and source files\n\n"
+        "All 485 distinct skills are visible here: 472 with a ZIP and 13 with source files and repair warnings. "
+        "The 86 command entries are visible separately under Claude Code Commands. "
+        "Together these represent all 925 catalog entries, including identical source copies.\n\n"
+        "1. Open a topic, then the exact skill-name folder. SKILL.md and supporting files are directly inside, beside the upload ZIP.\n"
+        "Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.\n"
         "2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.\n"
         "3. In Claude, use Customize → Skills → add/create → upload (labels may vary).\n"
         "4. Try a harmless task and confirm the skill activates.\n\n"
-        "No manual zipping or Terminal commands are needed. These packages passed structural checks, "
+        "No manual zipping or Terminal commands are needed. Available ZIPs passed structural checks, "
         "not live Claude imports or a full code/security review. Enable only what you need. "
         "Do not install same-name variants together without review.\n\n"
-        "Skills requiring known tools or host setup are in ⚠️ NEEDS SETUP. "
+        "Skills requiring tools or host setup remain here, with warnings inside their own folders. "
         "All source versions are preserved under 🔧 ADVANCED.\n\n"
         "Official guide: https://support.claude.com/en/articles/12512198-how-to-create-custom-skills\n"
     ).encode()
-    problem_lines = ["# Needs setup or repair", "",
-                     "Packaged ZIPs here mention special tools, accounts, host paths or nested skills.",
+    problem_lines = ["# Setup and repair report", "",
+                     "All skill folders and available ZIPs are now together in 📦 CLAUDE, grouped by topic.",
+                     "This is a report only; skills are not hidden in a separate setup collection.",
                      "These are heuristic flags, not proof that a skill is incompatible.",
                      "For details without a website, use the matching readable Skill Reference in COPY & PASTE.",
                      "The searchable menu is an optional alternative.", "",
                      "## No ZIP generated", ""]
     for row in rows:
         if row["status"] == "Needs repair — no ZIP":
-            problem_lines += ["- " + str(row["id"]) + " · " + row["label"] + ": " + "; ".join(row["signals"])]
+            problem_lines += ["- [" + str(row["id"]) + " · " + row["label"] + "](" + quote('../' + row['guide'], safe='/') + "): " + "; ".join(row["signals"])]
     problem_lines += ["", "Claude Code slash commands are not native Claude skill ZIPs; find them through the menu.",
                       "No originals were removed. No repaired behavior or successful account import is claimed.", ""]
     generated[vault / SETUP / "README.md"] = "\n".join(problem_lines).encode()

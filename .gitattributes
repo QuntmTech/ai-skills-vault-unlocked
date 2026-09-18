@@ -14,3 +14,6 @@
 *.zip binary
 "📋 COPY & PASTE/Skill References/**" -whitespace
 "💬 CHATGPT/Skill References/**" -whitespace
+"📦 CLAUDE/**/Source Files/**" -text -whitespace
+"📦 CLAUDE/**/License Notices/**" -text -whitespace
+"📦 CLAUDE/*/*/**" -text -whitespace
