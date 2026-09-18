@@ -41,6 +41,7 @@ These are starting points for exploring the library—not claims that every work
 | Develop a business or campaign | Marketing & Business | Refine positioning, frame a campaign, or organize a launch plan |
 | Investigate a question | Research & Data | Structure research, compare evidence, or plan an analysis |
 | Connect work across tools | Tools & Workflows | Explore integrations and repeatable processes; check setup requirements first |
+| Find a Claude Code slash command | Claude Code Commands | Browse commands by planning, testing, deployment, sessions, documentation, and other developer tasks |
 
 Not every topic has a packaging-checked download. The [complete browse list](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) includes setup-dependent entries and their status.
 
@@ -110,7 +111,11 @@ Identical whole packages share one download. Distinct variants and every source 
         assets/             ← when supplied
 ```
 
-Coding & Development, Design & Media, Writing & Documents, Marketing & Business, Research & Data, and Tools & Workflows are divided into smaller task-based subcategories and use readable display names. ChatGPT mirrors those subcategories with clearly named reference documents. Canonical names inside SKILL.md and the Claude upload ZIP are unchanged. When different packages share the same name, a variant suffix prevents overwriting. Incomplete skills remain visible but have no ZIP; their VAULT GUIDE explains what needs repair. Original source material remains preserved in Advanced as well. You do not need to dig through Advanced to find a skill's available files.
+Every Claude section is now organized into smaller task-based subcategories with readable display names, including the separate Claude Code Commands collection. ChatGPT mirrors the six skill topics with clearly named reference documents. Canonical names inside SKILL.md and the Claude upload ZIP are unchanged. When different packages share the same name, a variant suffix prevents overwriting. Incomplete skills remain visible but have no ZIP; their VAULT GUIDE explains what needs repair. Original source material remains preserved in Advanced as well. You do not need to dig through Advanced to find a skill's available files.
+
+### Claude Code commands
+
+The **86 Claude Code Commands** are grouped by purpose under **📦 CLAUDE → Claude Code Commands**. Each command folder contains its preserved Markdown source and a VAULT GUIDE. Commands are not converted into misleading Claude-app skill ZIPs or ChatGPT references; review the command's expected tools and environment before adapting it.
 
 ## Understand the readiness labels
 

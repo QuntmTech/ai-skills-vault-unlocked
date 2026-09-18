@@ -212,6 +212,34 @@ class EasyLibraryTests(unittest.TestCase):
         self.assertEqual(easy.tools_subcategory('claude-mem:weekly-digests'),
                          '🧠 Memory, Knowledge & Prompting')
 
+    def test_phase_four_commands_have_readable_subcategories(self):
+        rows = [row for row in json.loads(easy.MANIFEST.read_text())['entries']
+                if row['category'] == 'Claude Code Commands']
+        self.assertEqual(len(rows), 86)
+        self.assertGreaterEqual(len({row['subcategory'] for row in rows}), 10)
+        for row in rows:
+            parts = Path(row['folder']).parts
+            self.assertEqual(parts[0:2], (easy.READY, 'Claude Code Commands'))
+            self.assertEqual(parts[2], row['subcategory'])
+            self.assertEqual(parts[3], row['display_name'])
+            self.assertIsNone(row['zip'])
+            self.assertTrue((easy.VAULT / row['front_source']).is_file())
+        self.assertEqual(easy.command_name('vercel:deploy'), 'Vercel — Deploy')
+        self.assertEqual(easy.command_name('prp-plan'), 'PRP Plan')
+        self.assertEqual(easy.command_subcategory('rust-test'),
+                         '🛠️ Build & Language Toolchains')
+        self.assertEqual(easy.command_subcategory('vercel:env'),
+                         '☁️ Deployment, Vercel & Processes')
+
+    def test_phase_five_all_front_sections_are_organized(self):
+        rows = json.loads(easy.MANIFEST.read_text())['entries']
+        self.assertEqual(len(rows), 571)
+        self.assertEqual(sum(row['zip'] is not None for row in rows), 472)
+        self.assertFalse([row for row in rows if not row.get('subcategory')])
+        readme = (easy.VAULT / 'README.md').read_text()
+        self.assertIn('Every Claude section is now organized', readme)
+        self.assertNotIn('remaining topics retain', readme.casefold())
+
     def test_rejects_symlink_output(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

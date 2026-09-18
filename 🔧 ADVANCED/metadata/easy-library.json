@@ -13467,9 +13467,10 @@
       "copies": [
         809
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/agent-sort",
-      "front_source": "📦 CLAUDE/Claude Code Commands/agent-sort/agent-sort.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/agent-sort/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Agent Sort",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Agent Sort/agent-sort.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Agent Sort/VAULT GUIDE.md"
     },
     {
       "id": 810,
@@ -13489,9 +13490,10 @@
       "copies": [
         810
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/aside",
-      "front_source": "📦 CLAUDE/Claude Code Commands/aside/aside.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/aside/VAULT GUIDE.md"
+      "subcategory": "💾 Sessions, Context & Projects",
+      "folder": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Aside",
+      "front_source": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Aside/aside.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Aside/VAULT GUIDE.md"
     },
     {
       "id": 811,
@@ -13511,9 +13513,10 @@
       "copies": [
         811
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/build-fix",
-      "front_source": "📦 CLAUDE/Claude Code Commands/build-fix/build-fix.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/build-fix/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Build Fix",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Build Fix/build-fix.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Build Fix/VAULT GUIDE.md"
     },
     {
       "id": 812,
@@ -13533,9 +13536,10 @@
       "copies": [
         812
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/checkpoint",
-      "front_source": "📦 CLAUDE/Claude Code Commands/checkpoint/checkpoint.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/checkpoint/VAULT GUIDE.md"
+      "subcategory": "💾 Sessions, Context & Projects",
+      "folder": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Checkpoint",
+      "front_source": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Checkpoint/checkpoint.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Checkpoint/VAULT GUIDE.md"
     },
     {
       "id": 813,
@@ -13555,9 +13559,10 @@
       "copies": [
         813
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/claw",
-      "front_source": "📦 CLAUDE/Claude Code Commands/claw/claw.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/claw/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Claw",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Claw/claw.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Claw/VAULT GUIDE.md"
     },
     {
       "id": 814,
@@ -13577,9 +13582,10 @@
       "copies": [
         814
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/code-review",
-      "front_source": "📦 CLAUDE/Claude Code Commands/code-review/code-review.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/code-review/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Code Review",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Code Review/code-review.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Code Review/VAULT GUIDE.md"
     },
     {
       "id": 815,
@@ -13599,9 +13605,10 @@
       "copies": [
         815
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/context-budget",
-      "front_source": "📦 CLAUDE/Claude Code Commands/context-budget/context-budget.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/context-budget/VAULT GUIDE.md"
+      "subcategory": "💾 Sessions, Context & Projects",
+      "folder": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Context Budget",
+      "front_source": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Context Budget/context-budget.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Context Budget/VAULT GUIDE.md"
     },
     {
       "id": 816,
@@ -13610,7 +13617,7 @@
       "collection": "Claude global slash commands",
       "description": "Fix C++ build errors, CMake issues, and linker problems incrementally. Invokes the cpp-build-resolver agent for minimal, surgical fixes.",
       "path": "commands/claude/global/cpp-build.md",
-      "display_name": "Cpp Build",
+      "display_name": "C++ Build",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/cpp-build.md",
@@ -13621,9 +13628,10 @@
       "copies": [
         816
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/cpp-build",
-      "front_source": "📦 CLAUDE/Claude Code Commands/cpp-build/cpp-build.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/cpp-build/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Build",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Build/cpp-build.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Build/VAULT GUIDE.md"
     },
     {
       "id": 817,
@@ -13632,7 +13640,7 @@
       "collection": "Claude global slash commands",
       "description": "Comprehensive C++ code review for memory safety, modern C++ idioms, concurrency, and security. Invokes the cpp-reviewer agent.",
       "path": "commands/claude/global/cpp-review.md",
-      "display_name": "Cpp Review",
+      "display_name": "C++ Review",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/cpp-review.md",
@@ -13643,9 +13651,10 @@
       "copies": [
         817
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/cpp-review",
-      "front_source": "📦 CLAUDE/Claude Code Commands/cpp-review/cpp-review.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/cpp-review/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Review",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Review/cpp-review.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Review/VAULT GUIDE.md"
     },
     {
       "id": 818,
@@ -13654,7 +13663,7 @@
       "collection": "Claude global slash commands",
       "description": "Enforce TDD workflow for C++. Write GoogleTest tests first, then implement. Verify coverage with gcov/lcov.",
       "path": "commands/claude/global/cpp-test.md",
-      "display_name": "Cpp Test",
+      "display_name": "C++ Test",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/cpp-test.md",
@@ -13665,9 +13674,10 @@
       "copies": [
         818
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/cpp-test",
-      "front_source": "📦 CLAUDE/Claude Code Commands/cpp-test/cpp-test.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/cpp-test/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Test",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Test/cpp-test.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Test/VAULT GUIDE.md"
     },
     {
       "id": 819,
@@ -13687,9 +13697,10 @@
       "copies": [
         819
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/devfleet",
-      "front_source": "📦 CLAUDE/Claude Code Commands/devfleet/devfleet.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/devfleet/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Devfleet",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Devfleet/devfleet.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Devfleet/VAULT GUIDE.md"
     },
     {
       "id": 820,
@@ -13709,9 +13720,10 @@
       "copies": [
         820
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/docs",
-      "front_source": "📦 CLAUDE/Claude Code Commands/docs/docs.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/docs/VAULT GUIDE.md"
+      "subcategory": "📚 Documentation & Codemaps",
+      "folder": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Docs",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Docs/docs.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Docs/VAULT GUIDE.md"
     },
     {
       "id": 821,
@@ -13731,9 +13743,10 @@
       "copies": [
         821
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/e2e",
-      "front_source": "📦 CLAUDE/Claude Code Commands/e2e/e2e.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/e2e/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/E2E",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/E2E/e2e.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/E2E/VAULT GUIDE.md"
     },
     {
       "id": 822,
@@ -13753,9 +13766,10 @@
       "copies": [
         822
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/eval",
-      "front_source": "📦 CLAUDE/Claude Code Commands/eval/eval.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/eval/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Eval",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Eval/eval.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Eval/VAULT GUIDE.md"
     },
     {
       "id": 823,
@@ -13775,9 +13789,10 @@
       "copies": [
         823
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/evolve",
-      "front_source": "📦 CLAUDE/Claude Code Commands/evolve/evolve.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/evolve/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Evolve",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Evolve/evolve.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Evolve/VAULT GUIDE.md"
     },
     {
       "id": 824,
@@ -13797,9 +13812,10 @@
       "copies": [
         824
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/feature-dev",
-      "front_source": "📦 CLAUDE/Claude Code Commands/feature-dev/feature-dev.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/feature-dev/VAULT GUIDE.md"
+      "subcategory": "📋 Planning, PRPs & Delivery",
+      "folder": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Feature Dev",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Feature Dev/feature-dev.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Feature Dev/VAULT GUIDE.md"
     },
     {
       "id": 825,
@@ -13819,9 +13835,10 @@
       "copies": [
         825
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/flutter-build",
-      "front_source": "📦 CLAUDE/Claude Code Commands/flutter-build/flutter-build.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/flutter-build/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Build",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Build/flutter-build.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Build/VAULT GUIDE.md"
     },
     {
       "id": 826,
@@ -13841,9 +13858,10 @@
       "copies": [
         826
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/flutter-review",
-      "front_source": "📦 CLAUDE/Claude Code Commands/flutter-review/flutter-review.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/flutter-review/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Review",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Review/flutter-review.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Review/VAULT GUIDE.md"
     },
     {
       "id": 827,
@@ -13863,9 +13881,10 @@
       "copies": [
         827
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/flutter-test",
-      "front_source": "📦 CLAUDE/Claude Code Commands/flutter-test/flutter-test.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/flutter-test/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Test",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Test/flutter-test.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Test/VAULT GUIDE.md"
     },
     {
       "id": 828,
@@ -13874,7 +13893,7 @@
       "collection": "Claude global slash commands",
       "description": "",
       "path": "commands/claude/global/gan-build.md",
-      "display_name": "Gan Build",
+      "display_name": "GAN Build",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/gan-build.md",
@@ -13885,9 +13904,10 @@
       "copies": [
         828
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/gan-build",
-      "front_source": "📦 CLAUDE/Claude Code Commands/gan-build/gan-build.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/gan-build/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Build",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Build/gan-build.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Build/VAULT GUIDE.md"
     },
     {
       "id": 829,
@@ -13896,7 +13916,7 @@
       "collection": "Claude global slash commands",
       "description": "",
       "path": "commands/claude/global/gan-design.md",
-      "display_name": "Gan Design",
+      "display_name": "GAN Design",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/gan-design.md",
@@ -13907,9 +13927,10 @@
       "copies": [
         829
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/gan-design",
-      "front_source": "📦 CLAUDE/Claude Code Commands/gan-design/gan-design.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/gan-design/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Design",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Design/gan-design.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Design/VAULT GUIDE.md"
     },
     {
       "id": 830,
@@ -13929,9 +13950,10 @@
       "copies": [
         830
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/go-build",
-      "front_source": "📦 CLAUDE/Claude Code Commands/go-build/go-build.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/go-build/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Build",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Build/go-build.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Build/VAULT GUIDE.md"
     },
     {
       "id": 831,
@@ -13951,9 +13973,10 @@
       "copies": [
         831
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/go-review",
-      "front_source": "📦 CLAUDE/Claude Code Commands/go-review/go-review.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/go-review/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Review",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Review/go-review.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Review/VAULT GUIDE.md"
     },
     {
       "id": 832,
@@ -13973,9 +13996,10 @@
       "copies": [
         832
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/go-test",
-      "front_source": "📦 CLAUDE/Claude Code Commands/go-test/go-test.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/go-test/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Test",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Test/go-test.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Test/VAULT GUIDE.md"
     },
     {
       "id": 833,
@@ -13995,9 +14019,10 @@
       "copies": [
         833
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/gradle-build",
-      "front_source": "📦 CLAUDE/Claude Code Commands/gradle-build/gradle-build.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/gradle-build/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Gradle Build",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Gradle Build/gradle-build.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Gradle Build/VAULT GUIDE.md"
     },
     {
       "id": 834,
@@ -14017,9 +14042,10 @@
       "copies": [
         834
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/harness-audit",
-      "front_source": "📦 CLAUDE/Claude Code Commands/harness-audit/harness-audit.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/harness-audit/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Harness Audit",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Harness Audit/harness-audit.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Harness Audit/VAULT GUIDE.md"
     },
     {
       "id": 835,
@@ -14039,9 +14065,10 @@
       "copies": [
         835
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/hookify",
-      "front_source": "📦 CLAUDE/Claude Code Commands/hookify/hookify.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/hookify/VAULT GUIDE.md"
+      "subcategory": "🪝 Hooks, Rules & Configuration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify/hookify.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify/VAULT GUIDE.md"
     },
     {
       "id": 836,
@@ -14061,9 +14088,10 @@
       "copies": [
         836
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/hookify-configure",
-      "front_source": "📦 CLAUDE/Claude Code Commands/hookify-configure/hookify-configure.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/hookify-configure/VAULT GUIDE.md"
+      "subcategory": "🪝 Hooks, Rules & Configuration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Configure",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Configure/hookify-configure.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Configure/VAULT GUIDE.md"
     },
     {
       "id": 837,
@@ -14083,9 +14111,10 @@
       "copies": [
         837
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/hookify-help",
-      "front_source": "📦 CLAUDE/Claude Code Commands/hookify-help/hookify-help.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/hookify-help/VAULT GUIDE.md"
+      "subcategory": "🪝 Hooks, Rules & Configuration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Help",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Help/hookify-help.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Help/VAULT GUIDE.md"
     },
     {
       "id": 838,
@@ -14105,9 +14134,10 @@
       "copies": [
         838
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/hookify-list",
-      "front_source": "📦 CLAUDE/Claude Code Commands/hookify-list/hookify-list.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/hookify-list/VAULT GUIDE.md"
+      "subcategory": "🪝 Hooks, Rules & Configuration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify List",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify List/hookify-list.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify List/VAULT GUIDE.md"
     },
     {
       "id": 839,
@@ -14127,9 +14157,10 @@
       "copies": [
         839
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/instinct-export",
-      "front_source": "📦 CLAUDE/Claude Code Commands/instinct-export/instinct-export.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/instinct-export/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Export",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Export/instinct-export.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Export/VAULT GUIDE.md"
     },
     {
       "id": 840,
@@ -14149,9 +14180,10 @@
       "copies": [
         840
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/instinct-import",
-      "front_source": "📦 CLAUDE/Claude Code Commands/instinct-import/instinct-import.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/instinct-import/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Import",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Import/instinct-import.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Import/VAULT GUIDE.md"
     },
     {
       "id": 841,
@@ -14171,9 +14203,10 @@
       "copies": [
         841
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/instinct-status",
-      "front_source": "📦 CLAUDE/Claude Code Commands/instinct-status/instinct-status.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/instinct-status/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Status",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Status/instinct-status.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Status/VAULT GUIDE.md"
     },
     {
       "id": 842,
@@ -14193,9 +14226,10 @@
       "copies": [
         842
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/jira",
-      "front_source": "📦 CLAUDE/Claude Code Commands/jira/jira.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/jira/VAULT GUIDE.md"
+      "subcategory": "🔌 Integrations & Project Services",
+      "folder": "📦 CLAUDE/Claude Code Commands/🔌 Integrations & Project Services/Jira",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🔌 Integrations & Project Services/Jira/jira.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🔌 Integrations & Project Services/Jira/VAULT GUIDE.md"
     },
     {
       "id": 843,
@@ -14215,9 +14249,10 @@
       "copies": [
         843
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/kotlin-build",
-      "front_source": "📦 CLAUDE/Claude Code Commands/kotlin-build/kotlin-build.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/kotlin-build/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Build",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Build/kotlin-build.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Build/VAULT GUIDE.md"
     },
     {
       "id": 844,
@@ -14237,9 +14272,10 @@
       "copies": [
         844
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/kotlin-review",
-      "front_source": "📦 CLAUDE/Claude Code Commands/kotlin-review/kotlin-review.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/kotlin-review/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Review",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Review/kotlin-review.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Review/VAULT GUIDE.md"
     },
     {
       "id": 845,
@@ -14259,9 +14295,10 @@
       "copies": [
         845
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/kotlin-test",
-      "front_source": "📦 CLAUDE/Claude Code Commands/kotlin-test/kotlin-test.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/kotlin-test/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Test",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Test/kotlin-test.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Test/VAULT GUIDE.md"
     },
     {
       "id": 846,
@@ -14281,9 +14318,10 @@
       "copies": [
         846
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/learn",
-      "front_source": "📦 CLAUDE/Claude Code Commands/learn/learn.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/learn/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn/learn.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn/VAULT GUIDE.md"
     },
     {
       "id": 847,
@@ -14303,9 +14341,10 @@
       "copies": [
         847
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/learn-eval",
-      "front_source": "📦 CLAUDE/Claude Code Commands/learn-eval/learn-eval.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/learn-eval/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn Eval",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn Eval/learn-eval.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn Eval/VAULT GUIDE.md"
     },
     {
       "id": 848,
@@ -14325,9 +14364,10 @@
       "copies": [
         848
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/loop-start",
-      "front_source": "📦 CLAUDE/Claude Code Commands/loop-start/loop-start.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/loop-start/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Start",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Start/loop-start.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Start/VAULT GUIDE.md"
     },
     {
       "id": 849,
@@ -14347,9 +14387,10 @@
       "copies": [
         849
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/loop-status",
-      "front_source": "📦 CLAUDE/Claude Code Commands/loop-status/loop-status.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/loop-status/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Status",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Status/loop-status.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Status/VAULT GUIDE.md"
     },
     {
       "id": 850,
@@ -14369,9 +14410,10 @@
       "copies": [
         850
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/model-route",
-      "front_source": "📦 CLAUDE/Claude Code Commands/model-route/model-route.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/model-route/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Model Route",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Model Route/model-route.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Model Route/VAULT GUIDE.md"
     },
     {
       "id": 851,
@@ -14391,9 +14433,10 @@
       "copies": [
         851
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/multi-backend",
-      "front_source": "📦 CLAUDE/Claude Code Commands/multi-backend/multi-backend.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/multi-backend/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Backend",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Backend/multi-backend.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Backend/VAULT GUIDE.md"
     },
     {
       "id": 852,
@@ -14413,9 +14456,10 @@
       "copies": [
         852
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/multi-execute",
-      "front_source": "📦 CLAUDE/Claude Code Commands/multi-execute/multi-execute.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/multi-execute/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Execute",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Execute/multi-execute.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Execute/VAULT GUIDE.md"
     },
     {
       "id": 853,
@@ -14435,9 +14479,10 @@
       "copies": [
         853
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/multi-frontend",
-      "front_source": "📦 CLAUDE/Claude Code Commands/multi-frontend/multi-frontend.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/multi-frontend/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Frontend",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Frontend/multi-frontend.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Frontend/VAULT GUIDE.md"
     },
     {
       "id": 854,
@@ -14457,9 +14502,10 @@
       "copies": [
         854
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/multi-plan",
-      "front_source": "📦 CLAUDE/Claude Code Commands/multi-plan/multi-plan.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/multi-plan/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Plan",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Plan/multi-plan.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Plan/VAULT GUIDE.md"
     },
     {
       "id": 855,
@@ -14479,9 +14525,10 @@
       "copies": [
         855
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/multi-workflow",
-      "front_source": "📦 CLAUDE/Claude Code Commands/multi-workflow/multi-workflow.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/multi-workflow/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Workflow",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Workflow/multi-workflow.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Workflow/VAULT GUIDE.md"
     },
     {
       "id": 856,
@@ -14501,9 +14548,10 @@
       "copies": [
         856
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/orchestrate",
-      "front_source": "📦 CLAUDE/Claude Code Commands/orchestrate/orchestrate.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/orchestrate/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Orchestrate",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Orchestrate/orchestrate.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Orchestrate/VAULT GUIDE.md"
     },
     {
       "id": 857,
@@ -14523,9 +14571,10 @@
       "copies": [
         857
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/plan",
-      "front_source": "📦 CLAUDE/Claude Code Commands/plan/plan.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/plan/VAULT GUIDE.md"
+      "subcategory": "📋 Planning, PRPs & Delivery",
+      "folder": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Plan",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Plan/plan.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Plan/VAULT GUIDE.md"
     },
     {
       "id": 858,
@@ -14534,7 +14583,7 @@
       "collection": "Claude global slash commands",
       "description": "",
       "path": "commands/claude/global/pm2.md",
-      "display_name": "Pm2",
+      "display_name": "PM2",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/pm2.md",
@@ -14545,9 +14594,10 @@
       "copies": [
         858
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/pm2",
-      "front_source": "📦 CLAUDE/Claude Code Commands/pm2/pm2.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/pm2/VAULT GUIDE.md"
+      "subcategory": "☁️ Deployment, Vercel & Processes",
+      "folder": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/PM2",
+      "front_source": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/PM2/pm2.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/PM2/VAULT GUIDE.md"
     },
     {
       "id": 859,
@@ -14567,9 +14617,10 @@
       "copies": [
         859
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/projects",
-      "front_source": "📦 CLAUDE/Claude Code Commands/projects/projects.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/projects/VAULT GUIDE.md"
+      "subcategory": "💾 Sessions, Context & Projects",
+      "folder": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Projects",
+      "front_source": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Projects/projects.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Projects/VAULT GUIDE.md"
     },
     {
       "id": 860,
@@ -14589,9 +14640,10 @@
       "copies": [
         860
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/promote",
-      "front_source": "📦 CLAUDE/Claude Code Commands/promote/promote.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/promote/VAULT GUIDE.md"
+      "subcategory": "☁️ Deployment, Vercel & Processes",
+      "folder": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Promote",
+      "front_source": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Promote/promote.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Promote/VAULT GUIDE.md"
     },
     {
       "id": 861,
@@ -14611,9 +14663,10 @@
       "copies": [
         861
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/prompt-optimize",
-      "front_source": "📦 CLAUDE/Claude Code Commands/prompt-optimize/prompt-optimize.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/prompt-optimize/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Prompt Optimize",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Prompt Optimize/prompt-optimize.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Prompt Optimize/VAULT GUIDE.md"
     },
     {
       "id": 862,
@@ -14622,7 +14675,7 @@
       "collection": "Claude global slash commands",
       "description": "Quick commit with natural language file targeting — describe what to commit in plain English",
       "path": "commands/claude/global/prp-commit.md",
-      "display_name": "Prp Commit",
+      "display_name": "PRP Commit",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/prp-commit.md",
@@ -14633,9 +14686,10 @@
       "copies": [
         862
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/prp-commit",
-      "front_source": "📦 CLAUDE/Claude Code Commands/prp-commit/prp-commit.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/prp-commit/VAULT GUIDE.md"
+      "subcategory": "📋 Planning, PRPs & Delivery",
+      "folder": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Commit",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Commit/prp-commit.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Commit/VAULT GUIDE.md"
     },
     {
       "id": 863,
@@ -14644,7 +14698,7 @@
       "collection": "Claude global slash commands",
       "description": "Execute an implementation plan with rigorous validation loops",
       "path": "commands/claude/global/prp-implement.md",
-      "display_name": "Prp Implement",
+      "display_name": "PRP Implement",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/prp-implement.md",
@@ -14655,9 +14709,10 @@
       "copies": [
         863
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/prp-implement",
-      "front_source": "📦 CLAUDE/Claude Code Commands/prp-implement/prp-implement.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/prp-implement/VAULT GUIDE.md"
+      "subcategory": "📋 Planning, PRPs & Delivery",
+      "folder": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Implement",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Implement/prp-implement.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Implement/VAULT GUIDE.md"
     },
     {
       "id": 864,
@@ -14666,7 +14721,7 @@
       "collection": "Claude global slash commands",
       "description": "Create comprehensive feature implementation plan with codebase analysis and pattern extraction",
       "path": "commands/claude/global/prp-plan.md",
-      "display_name": "Prp Plan",
+      "display_name": "PRP Plan",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/prp-plan.md",
@@ -14677,9 +14732,10 @@
       "copies": [
         864
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/prp-plan",
-      "front_source": "📦 CLAUDE/Claude Code Commands/prp-plan/prp-plan.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/prp-plan/VAULT GUIDE.md"
+      "subcategory": "📋 Planning, PRPs & Delivery",
+      "folder": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Plan",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Plan/prp-plan.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Plan/VAULT GUIDE.md"
     },
     {
       "id": 865,
@@ -14688,7 +14744,7 @@
       "collection": "Claude global slash commands",
       "description": "Create a GitHub PR from current branch with unpushed commits — discovers templates, analyzes changes, pushes",
       "path": "commands/claude/global/prp-pr.md",
-      "display_name": "Prp Pr",
+      "display_name": "PRP PR",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/prp-pr.md",
@@ -14699,9 +14755,10 @@
       "copies": [
         865
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/prp-pr",
-      "front_source": "📦 CLAUDE/Claude Code Commands/prp-pr/prp-pr.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/prp-pr/VAULT GUIDE.md"
+      "subcategory": "📋 Planning, PRPs & Delivery",
+      "folder": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PR",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PR/prp-pr.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PR/VAULT GUIDE.md"
     },
     {
       "id": 866,
@@ -14710,7 +14767,7 @@
       "collection": "Claude global slash commands",
       "description": "Interactive PRD generator - problem-first, hypothesis-driven product spec with back-and-forth questioning",
       "path": "commands/claude/global/prp-prd.md",
-      "display_name": "Prp Prd",
+      "display_name": "PRP PRD",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/prp-prd.md",
@@ -14721,9 +14778,10 @@
       "copies": [
         866
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/prp-prd",
-      "front_source": "📦 CLAUDE/Claude Code Commands/prp-prd/prp-prd.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/prp-prd/VAULT GUIDE.md"
+      "subcategory": "📋 Planning, PRPs & Delivery",
+      "folder": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PRD",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PRD/prp-prd.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PRD/VAULT GUIDE.md"
     },
     {
       "id": 867,
@@ -14743,9 +14801,10 @@
       "copies": [
         867
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/prune",
-      "front_source": "📦 CLAUDE/Claude Code Commands/prune/prune.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/prune/VAULT GUIDE.md"
+      "subcategory": "🧹 Maintenance & Cleanup",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧹 Maintenance & Cleanup/Prune",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧹 Maintenance & Cleanup/Prune/prune.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧹 Maintenance & Cleanup/Prune/VAULT GUIDE.md"
     },
     {
       "id": 868,
@@ -14765,9 +14824,10 @@
       "copies": [
         868
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/python-review",
-      "front_source": "📦 CLAUDE/Claude Code Commands/python-review/python-review.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/python-review/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Python Review",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Python Review/python-review.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Python Review/VAULT GUIDE.md"
     },
     {
       "id": 869,
@@ -14787,9 +14847,10 @@
       "copies": [
         869
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/quality-gate",
-      "front_source": "📦 CLAUDE/Claude Code Commands/quality-gate/quality-gate.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/quality-gate/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Quality Gate",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Quality Gate/quality-gate.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Quality Gate/VAULT GUIDE.md"
     },
     {
       "id": 870,
@@ -14809,9 +14870,10 @@
       "copies": [
         870
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/refactor-clean",
-      "front_source": "📦 CLAUDE/Claude Code Commands/refactor-clean/refactor-clean.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/refactor-clean/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Refactor Clean",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Refactor Clean/refactor-clean.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Refactor Clean/VAULT GUIDE.md"
     },
     {
       "id": 871,
@@ -14831,9 +14893,10 @@
       "copies": [
         871
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/resume-session",
-      "front_source": "📦 CLAUDE/Claude Code Commands/resume-session/resume-session.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/resume-session/VAULT GUIDE.md"
+      "subcategory": "💾 Sessions, Context & Projects",
+      "folder": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Resume Session",
+      "front_source": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Resume Session/resume-session.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Resume Session/VAULT GUIDE.md"
     },
     {
       "id": 872,
@@ -14842,7 +14905,7 @@
       "collection": "Claude global slash commands",
       "description": "Comprehensive PR review using specialized agents",
       "path": "commands/claude/global/review-pr.md",
-      "display_name": "Review Pr",
+      "display_name": "Review PR",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/review-pr.md",
@@ -14853,9 +14916,10 @@
       "copies": [
         872
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/review-pr",
-      "front_source": "📦 CLAUDE/Claude Code Commands/review-pr/review-pr.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/review-pr/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Review PR",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Review PR/review-pr.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Review PR/VAULT GUIDE.md"
     },
     {
       "id": 873,
@@ -14875,9 +14939,10 @@
       "copies": [
         873
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/rules-distill",
-      "front_source": "📦 CLAUDE/Claude Code Commands/rules-distill/rules-distill.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/rules-distill/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Rules Distill",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Rules Distill/rules-distill.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Rules Distill/VAULT GUIDE.md"
     },
     {
       "id": 874,
@@ -14897,9 +14962,10 @@
       "copies": [
         874
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/rust-build",
-      "front_source": "📦 CLAUDE/Claude Code Commands/rust-build/rust-build.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/rust-build/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Build",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Build/rust-build.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Build/VAULT GUIDE.md"
     },
     {
       "id": 875,
@@ -14919,9 +14985,10 @@
       "copies": [
         875
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/rust-review",
-      "front_source": "📦 CLAUDE/Claude Code Commands/rust-review/rust-review.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/rust-review/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Review",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Review/rust-review.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Review/VAULT GUIDE.md"
     },
     {
       "id": 876,
@@ -14941,9 +15008,10 @@
       "copies": [
         876
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/rust-test",
-      "front_source": "📦 CLAUDE/Claude Code Commands/rust-test/rust-test.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/rust-test/VAULT GUIDE.md"
+      "subcategory": "🛠️ Build & Language Toolchains",
+      "folder": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Test",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Test/rust-test.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Test/VAULT GUIDE.md"
     },
     {
       "id": 877,
@@ -14963,9 +15031,10 @@
       "copies": [
         877
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/santa-loop",
-      "front_source": "📦 CLAUDE/Claude Code Commands/santa-loop/santa-loop.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/santa-loop/VAULT GUIDE.md"
+      "subcategory": "🤖 Agents & Orchestration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Santa Loop",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Santa Loop/santa-loop.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Santa Loop/VAULT GUIDE.md"
     },
     {
       "id": 878,
@@ -14985,9 +15054,10 @@
       "copies": [
         878
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/save-session",
-      "front_source": "📦 CLAUDE/Claude Code Commands/save-session/save-session.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/save-session/VAULT GUIDE.md"
+      "subcategory": "💾 Sessions, Context & Projects",
+      "folder": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Save Session",
+      "front_source": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Save Session/save-session.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Save Session/VAULT GUIDE.md"
     },
     {
       "id": 879,
@@ -15007,9 +15077,10 @@
       "copies": [
         879
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/sessions",
-      "front_source": "📦 CLAUDE/Claude Code Commands/sessions/sessions.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/sessions/VAULT GUIDE.md"
+      "subcategory": "💾 Sessions, Context & Projects",
+      "folder": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Sessions",
+      "front_source": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Sessions/sessions.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Sessions/VAULT GUIDE.md"
     },
     {
       "id": 880,
@@ -15029,9 +15100,10 @@
       "copies": [
         880
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/setup-pm",
-      "front_source": "📦 CLAUDE/Claude Code Commands/setup-pm/setup-pm.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/setup-pm/VAULT GUIDE.md"
+      "subcategory": "☁️ Deployment, Vercel & Processes",
+      "folder": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Setup Pm",
+      "front_source": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Setup Pm/setup-pm.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Setup Pm/VAULT GUIDE.md"
     },
     {
       "id": 881,
@@ -15051,9 +15123,10 @@
       "copies": [
         881
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/skill-create",
-      "front_source": "📦 CLAUDE/Claude Code Commands/skill-create/skill-create.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/skill-create/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Create",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Create/skill-create.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Create/VAULT GUIDE.md"
     },
     {
       "id": 882,
@@ -15073,9 +15146,10 @@
       "copies": [
         882
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/skill-health",
-      "front_source": "📦 CLAUDE/Claude Code Commands/skill-health/skill-health.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/skill-health/VAULT GUIDE.md"
+      "subcategory": "🧠 Learning, Prompts & Skills",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Health",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Health/skill-health.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Health/VAULT GUIDE.md"
     },
     {
       "id": 883,
@@ -15084,7 +15158,7 @@
       "collection": "Claude global slash commands",
       "description": "Legacy slash-entry shim for the tdd-workflow skill. Prefer the skill directly.",
       "path": "commands/claude/global/tdd.md",
-      "display_name": "Tdd",
+      "display_name": "TDD",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/tdd.md",
@@ -15095,9 +15169,10 @@
       "copies": [
         883
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/tdd",
-      "front_source": "📦 CLAUDE/Claude Code Commands/tdd/tdd.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/tdd/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/TDD",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/TDD/tdd.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/TDD/VAULT GUIDE.md"
     },
     {
       "id": 884,
@@ -15117,9 +15192,10 @@
       "copies": [
         884
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/test-coverage",
-      "front_source": "📦 CLAUDE/Claude Code Commands/test-coverage/test-coverage.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/test-coverage/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Test Coverage",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Test Coverage/test-coverage.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Test Coverage/VAULT GUIDE.md"
     },
     {
       "id": 885,
@@ -15128,7 +15204,7 @@
       "collection": "Claude global slash commands",
       "description": "",
       "path": "commands/claude/global/update-codemaps.md",
-      "display_name": "Update Codemaps",
+      "display_name": "Update Code Maps",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/global/update-codemaps.md",
@@ -15139,9 +15215,10 @@
       "copies": [
         885
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/update-codemaps",
-      "front_source": "📦 CLAUDE/Claude Code Commands/update-codemaps/update-codemaps.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/update-codemaps/VAULT GUIDE.md"
+      "subcategory": "📚 Documentation & Codemaps",
+      "folder": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Code Maps",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Code Maps/update-codemaps.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Code Maps/VAULT GUIDE.md"
     },
     {
       "id": 886,
@@ -15161,9 +15238,10 @@
       "copies": [
         886
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/update-docs",
-      "front_source": "📦 CLAUDE/Claude Code Commands/update-docs/update-docs.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/update-docs/VAULT GUIDE.md"
+      "subcategory": "📚 Documentation & Codemaps",
+      "folder": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Docs",
+      "front_source": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Docs/update-docs.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Docs/VAULT GUIDE.md"
     },
     {
       "id": 887,
@@ -15183,9 +15261,10 @@
       "copies": [
         887
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/verify",
-      "front_source": "📦 CLAUDE/Claude Code Commands/verify/verify.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/verify/VAULT GUIDE.md"
+      "subcategory": "🧪 Testing, Review & Quality",
+      "folder": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Verify",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Verify/verify.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Verify/VAULT GUIDE.md"
     },
     {
       "id": 888,
@@ -15194,7 +15273,7 @@
       "collection": "Claude installed plugin commands",
       "description": "Reconfigure ccvitals modules and layout",
       "path": "commands/claude/plugins/ccvitals — configure.md",
-      "display_name": "Configure",
+      "display_name": "CCVitals — Configure",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/plugins/ccvitals — configure.md",
@@ -15205,9 +15284,10 @@
       "copies": [
         888
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/ccvitals — configure",
-      "front_source": "📦 CLAUDE/Claude Code Commands/ccvitals — configure/ccvitals — configure.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/ccvitals — configure/VAULT GUIDE.md"
+      "subcategory": "🪝 Hooks, Rules & Configuration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Configure",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Configure/ccvitals — configure.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Configure/VAULT GUIDE.md"
     },
     {
       "id": 889,
@@ -15216,7 +15296,7 @@
       "collection": "Claude installed plugin commands",
       "description": "Install the ccvitals statusline",
       "path": "commands/claude/plugins/ccvitals — setup.md",
-      "display_name": "Setup",
+      "display_name": "CCVitals — Setup",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/plugins/ccvitals — setup.md",
@@ -15227,9 +15307,10 @@
       "copies": [
         889
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/ccvitals — setup",
-      "front_source": "📦 CLAUDE/Claude Code Commands/ccvitals — setup/ccvitals — setup.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/ccvitals — setup/VAULT GUIDE.md"
+      "subcategory": "🪝 Hooks, Rules & Configuration",
+      "folder": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Setup",
+      "front_source": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Setup/ccvitals — setup.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Setup/VAULT GUIDE.md"
     },
     {
       "id": 890,
@@ -15238,7 +15319,7 @@
       "collection": "Claude installed plugin commands",
       "description": "",
       "path": "commands/claude/plugins/vercel — _conventions.md",
-      "display_name": "Conventions",
+      "display_name": "Vercel — Conventions",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/plugins/vercel — _conventions.md",
@@ -15249,9 +15330,10 @@
       "copies": [
         890
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/vercel — _conventions",
-      "front_source": "📦 CLAUDE/Claude Code Commands/vercel — _conventions/vercel — _conventions.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/vercel — _conventions/VAULT GUIDE.md"
+      "subcategory": "☁️ Deployment, Vercel & Processes",
+      "folder": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Conventions",
+      "front_source": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Conventions/vercel — _conventions.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Conventions/VAULT GUIDE.md"
     },
     {
       "id": 891,
@@ -15260,7 +15342,7 @@
       "collection": "Claude installed plugin commands",
       "description": "Bootstrap a repository with Vercel-linked resources by running preflight checks, provisioning integrations, verifying env keys, and then executing db/dev startup commands safely.",
       "path": "commands/claude/plugins/vercel — bootstrap.md",
-      "display_name": "Bootstrap",
+      "display_name": "Vercel — Bootstrap",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/plugins/vercel — bootstrap.md",
@@ -15271,9 +15353,10 @@
       "copies": [
         891
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/vercel — bootstrap",
-      "front_source": "📦 CLAUDE/Claude Code Commands/vercel — bootstrap/vercel — bootstrap.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/vercel — bootstrap/VAULT GUIDE.md"
+      "subcategory": "☁️ Deployment, Vercel & Processes",
+      "folder": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Bootstrap",
+      "front_source": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Bootstrap/vercel — bootstrap.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Bootstrap/VAULT GUIDE.md"
     },
     {
       "id": 892,
@@ -15282,7 +15365,7 @@
       "collection": "Claude installed plugin commands",
       "description": "Deploy the current project to Vercel. Pass \"prod\" or \"production\" as argument to deploy to production. Default is preview deployment.",
       "path": "commands/claude/plugins/vercel — deploy.md",
-      "display_name": "Deploy",
+      "display_name": "Vercel — Deploy",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/plugins/vercel — deploy.md",
@@ -15293,9 +15376,10 @@
       "copies": [
         892
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/vercel — deploy",
-      "front_source": "📦 CLAUDE/Claude Code Commands/vercel — deploy/vercel — deploy.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/vercel — deploy/VAULT GUIDE.md"
+      "subcategory": "☁️ Deployment, Vercel & Processes",
+      "folder": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Deploy",
+      "front_source": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Deploy/vercel — deploy.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Deploy/VAULT GUIDE.md"
     },
     {
       "id": 893,
@@ -15304,7 +15388,7 @@
       "collection": "Claude installed plugin commands",
       "description": "Manage Vercel environment variables. Commands include list, pull, add, remove, and diff. Use to sync environment variables between Vercel and your local development environment.",
       "path": "commands/claude/plugins/vercel — env.md",
-      "display_name": "Env",
+      "display_name": "Vercel — Env",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/plugins/vercel — env.md",
@@ -15315,9 +15399,10 @@
       "copies": [
         893
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/vercel — env",
-      "front_source": "📦 CLAUDE/Claude Code Commands/vercel — env/vercel — env.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/vercel — env/VAULT GUIDE.md"
+      "subcategory": "☁️ Deployment, Vercel & Processes",
+      "folder": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Env",
+      "front_source": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Env/vercel — env.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Env/VAULT GUIDE.md"
     },
     {
       "id": 894,
@@ -15326,7 +15411,7 @@
       "collection": "Claude installed plugin commands",
       "description": "Show the status of the current Vercel project — recent deployments, linked project info, and environment overview.",
       "path": "commands/claude/plugins/vercel — status.md",
-      "display_name": "Status",
+      "display_name": "Vercel — Status",
       "category": "Claude Code Commands",
       "status": "Command — not a skill ZIP",
       "source": "🔧 ADVANCED/commands/claude/plugins/vercel — status.md",
@@ -15337,9 +15422,10 @@
       "copies": [
         894
       ],
-      "folder": "📦 CLAUDE/Claude Code Commands/vercel — status",
-      "front_source": "📦 CLAUDE/Claude Code Commands/vercel — status/vercel — status.md",
-      "guide": "📦 CLAUDE/Claude Code Commands/vercel — status/VAULT GUIDE.md"
+      "subcategory": "☁️ Deployment, Vercel & Processes",
+      "folder": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Status",
+      "front_source": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Status/vercel — status.md",
+      "guide": "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Status/VAULT GUIDE.md"
     }
   ],
   "artifacts": {
@@ -20233,180 +20319,180 @@
     "📦 CLAUDE/Coding & Development/🤖 Vercel AI & Automation/Workflow [variant 0807]/upstream/SKILL.md": "ee1d6c402c507653b303b0309f660fe975f38010aa9e86eae577549b585ec7ac",
     "📦 CLAUDE/Coding & Development/🤖 Vercel AI & Automation/Workflow [variant 0807]/upstream/references/durable-agent-patterns.md": "086373231fc631f9089ab1ffc88c4f6595de3cacb2de6b7939b270cd8cadf8c8",
     "📦 CLAUDE/Coding & Development/🤖 Vercel AI & Automation/Workflow [variant 0807]/VAULT GUIDE.md": "fba82302399926233959514bb1e5624e3f2d79faf65628cc00f342715e548101",
-    "📦 CLAUDE/Claude Code Commands/agent-sort/agent-sort.md": "3f1ba7db2fdf72c1086e0b476c21545c99703ed4c4b395624fda14b0fad4146a",
-    "📦 CLAUDE/Claude Code Commands/agent-sort/VAULT GUIDE.md": "c86f55b9380c86d78b329da89a47fc5af8829fc31c362233cc2565bf048a8f47",
-    "📦 CLAUDE/Claude Code Commands/aside/aside.md": "828d2739fce0b0d1cce5b5c69b277c445f21c853547e23b317d7fb0cb63ed800",
-    "📦 CLAUDE/Claude Code Commands/aside/VAULT GUIDE.md": "e8f9859ec5534c9a480063f345a8235f54330acbacf3b006891726ba7a48a9ce",
-    "📦 CLAUDE/Claude Code Commands/build-fix/build-fix.md": "90349cab44f99608e68634fa8545f0ee95c1e379a02c0eff577f62fd44e47f33",
-    "📦 CLAUDE/Claude Code Commands/build-fix/VAULT GUIDE.md": "a0f727f7afd5d198d728c102650bad4b4312bcfc4226e2ee59f2ed998380a84e",
-    "📦 CLAUDE/Claude Code Commands/checkpoint/checkpoint.md": "688a05474a64fb9543841d8e428a3a27dfb999bb88c0e648df09961b2247ddad",
-    "📦 CLAUDE/Claude Code Commands/checkpoint/VAULT GUIDE.md": "6e99d9f6ef741cee542f8e8deb852cf17db18a26515f5d8ac67ea3ce0fab50cc",
-    "📦 CLAUDE/Claude Code Commands/claw/claw.md": "d19e4c1b61bb256430b7eb333ee0a2d3542329e865dbe6a1303455bb3a708b26",
-    "📦 CLAUDE/Claude Code Commands/claw/VAULT GUIDE.md": "d7c2fe66489269e62479d26eebfdd41a4c61334d695c5e3290af1a02f5ac7f8a",
-    "📦 CLAUDE/Claude Code Commands/code-review/code-review.md": "35a81c54107be84e83bf43455e125fd93427ea871bcc28fe19fb125fc47a276c",
-    "📦 CLAUDE/Claude Code Commands/code-review/VAULT GUIDE.md": "d47eca8f37c8d0a25fe99f1802c15fd045ec1a0a438dd6a521a723e0f0967179",
-    "📦 CLAUDE/Claude Code Commands/context-budget/context-budget.md": "28ee30f85a0cfd44feedb3814089b5f5486504a64d4b4cfc1675e947c8e3e7c7",
-    "📦 CLAUDE/Claude Code Commands/context-budget/VAULT GUIDE.md": "08f0bb1868316261cbede2f977de40db0ec37034fbb28090d1c7b71b20f03519",
-    "📦 CLAUDE/Claude Code Commands/cpp-build/cpp-build.md": "9f501129116ea880ec4b4d766b58b434a1ac4a5296cb478c484752e0eed02033",
-    "📦 CLAUDE/Claude Code Commands/cpp-build/VAULT GUIDE.md": "81cde94b181cd9cbcb22f3e89b814a028f80797eb77bbed30ad25e024b168bd6",
-    "📦 CLAUDE/Claude Code Commands/cpp-review/cpp-review.md": "58a0e058207bb8e96d6fe02f1a71db77157f30121dd5c7aec32c0f4a91523576",
-    "📦 CLAUDE/Claude Code Commands/cpp-review/VAULT GUIDE.md": "fa0b2bc2b03e0b37c75eb91cbbc134c17966b8f46dcd227be9aac35fa282a7dd",
-    "📦 CLAUDE/Claude Code Commands/cpp-test/cpp-test.md": "a1d0c512528f82e842d635ed51bcc08e770ac108bb6c29ad0cda60144f1b23c7",
-    "📦 CLAUDE/Claude Code Commands/cpp-test/VAULT GUIDE.md": "3feb9b7dd67519d44923c282afa8ff3945220618e043660bc802daa10fbde167",
-    "📦 CLAUDE/Claude Code Commands/devfleet/devfleet.md": "dc7e01b130be3cfe0dfd91653cefbb8ed69093565ae162046433315a936087aa",
-    "📦 CLAUDE/Claude Code Commands/devfleet/VAULT GUIDE.md": "a73925382a1904e07fdb0add57627c741fd544124d20bd558a691799971ec76f",
-    "📦 CLAUDE/Claude Code Commands/docs/docs.md": "b15f9d6a9b3ad2fb046eb3a60aea21e06c51dd09521f8a989e5e55c6e2a0c7c8",
-    "📦 CLAUDE/Claude Code Commands/docs/VAULT GUIDE.md": "7887a755933d5a51516e68a8016b7c8effa4fb28c8d394e9441d70c107a32272",
-    "📦 CLAUDE/Claude Code Commands/e2e/e2e.md": "1110f0aecf2667059474312a98ebb95a652ff52e391eeeb925d2d6d633c55bfb",
-    "📦 CLAUDE/Claude Code Commands/e2e/VAULT GUIDE.md": "86bb9aed3cb4e8f3e8793618ca5a104ede2ef2a48ec9e99ded4dabda166de1f3",
-    "📦 CLAUDE/Claude Code Commands/eval/eval.md": "34b2e2386e57aa329abcab225c6baa8fb4dfad0162741788656c74825fbf27c8",
-    "📦 CLAUDE/Claude Code Commands/eval/VAULT GUIDE.md": "3a2fd2bf85e283c318963981b163d280116a4cbb4485d4010d20f14511d5695e",
-    "📦 CLAUDE/Claude Code Commands/evolve/evolve.md": "c8f94e2d2517539fd3e3cf05edb5a7187a887d76f2c936798e93e546f8b30ebb",
-    "📦 CLAUDE/Claude Code Commands/evolve/VAULT GUIDE.md": "1fb6d7d3e9c8884b44205d60f75f0764077a5a44c5776a6067bb5d05003b361b",
-    "📦 CLAUDE/Claude Code Commands/feature-dev/feature-dev.md": "b446c316f680a1ab709f2eabff15d5e88b57396f4581ea8b0f9260d04bd4be34",
-    "📦 CLAUDE/Claude Code Commands/feature-dev/VAULT GUIDE.md": "3638098d7a5e9e1d598114c3d4c5f7a98f848df6c45d743e23feab96d97527c9",
-    "📦 CLAUDE/Claude Code Commands/flutter-build/flutter-build.md": "84cbaba905d7755948e326f6c996c006bd0b61a05e1873390ba876c513e70a4b",
-    "📦 CLAUDE/Claude Code Commands/flutter-build/VAULT GUIDE.md": "0cb03bb08491591ff16fd7bad838677e3fd1514525e07a75b9212c73494cb2dc",
-    "📦 CLAUDE/Claude Code Commands/flutter-review/flutter-review.md": "631142330e5884cd0dae2d404d183b0dda4c5f6b1752a21e7d1e70b0be6d2e28",
-    "📦 CLAUDE/Claude Code Commands/flutter-review/VAULT GUIDE.md": "b12c2d0084bd12ac8d22680a260c57584dfea75fcf222e973676aecd7689fc55",
-    "📦 CLAUDE/Claude Code Commands/flutter-test/flutter-test.md": "b713d7f7aecb580aa83a19588a5dabaee1f704c1cadeb2b57f7d59c3b64e9b45",
-    "📦 CLAUDE/Claude Code Commands/flutter-test/VAULT GUIDE.md": "93ddcb1e5c918a123ca6c97c2e08d22657478cf622be60225e0ea51ce58b5265",
-    "📦 CLAUDE/Claude Code Commands/gan-build/gan-build.md": "f05815739fa8e78f1fcc8cf4f0adff42e5a20896e428c88b306a91675052fcf0",
-    "📦 CLAUDE/Claude Code Commands/gan-build/VAULT GUIDE.md": "498606464b08d8753c38b1bfc847d8109524c2d24fc5b0d19ec0bee530c37cd7",
-    "📦 CLAUDE/Claude Code Commands/gan-design/gan-design.md": "6936d9ce9a156c2f539195096ad1efe77aff94a1d7273f428483fbce51d94654",
-    "📦 CLAUDE/Claude Code Commands/gan-design/VAULT GUIDE.md": "d901ff0aaa6ab900d5dcec1436d62365630d9e99435a401a4c9cdd14182c9478",
-    "📦 CLAUDE/Claude Code Commands/go-build/go-build.md": "082bad28b243f327f7c5d02ee566dc2d9519a975d8b28162acf277afaf9b9c34",
-    "📦 CLAUDE/Claude Code Commands/go-build/VAULT GUIDE.md": "a53c8b3c77d5b39942999e066c724c35c6f22e6c4f39de15d42f3b5ccbf9546f",
-    "📦 CLAUDE/Claude Code Commands/go-review/go-review.md": "73a29ec62007e25490d0962ed52fe196eac3df31c6ccd774b10c9a8e07b63b39",
-    "📦 CLAUDE/Claude Code Commands/go-review/VAULT GUIDE.md": "9d9647169518b090833ce2e5a06c0939579a8748e0eed03a9538223dc9ab2f58",
-    "📦 CLAUDE/Claude Code Commands/go-test/go-test.md": "803cec4d92a361e2623fdf027eb67eea56843ad563814d693382ab7fe6163708",
-    "📦 CLAUDE/Claude Code Commands/go-test/VAULT GUIDE.md": "0f6b8b4099e0fac8434c089773fbaab02696b9c22906cb80d6725e0de9681848",
-    "📦 CLAUDE/Claude Code Commands/gradle-build/gradle-build.md": "c2aa086148316326ae10ee97229d040a0b7a9b743c016bfad4032ce96bb097a9",
-    "📦 CLAUDE/Claude Code Commands/gradle-build/VAULT GUIDE.md": "d5cea1604e8022c3dc4b11790c70542a228ad843d77c7841cd015dfd0b0a1f40",
-    "📦 CLAUDE/Claude Code Commands/harness-audit/harness-audit.md": "ba76cdd30f6fdcf9b6286de753881eebe0e15306829bc3cf53af1591e4126771",
-    "📦 CLAUDE/Claude Code Commands/harness-audit/VAULT GUIDE.md": "68cfd1df62a69c54851987849cfb8dc56233923634c3b36569a42f694b39b0ef",
-    "📦 CLAUDE/Claude Code Commands/hookify/hookify.md": "2fd94b585a1267717ed88276054e320251ceb47f95e6b53bfc31d9527193e8b5",
-    "📦 CLAUDE/Claude Code Commands/hookify/VAULT GUIDE.md": "30878ca64740cf01882d92b8beedd62cfa46dc8de189c6a952a107070359f60b",
-    "📦 CLAUDE/Claude Code Commands/hookify-configure/hookify-configure.md": "a059c23f885d36e3597daa03b7bf77cbb79a2a87e5856ca4bede4eb3b816082a",
-    "📦 CLAUDE/Claude Code Commands/hookify-configure/VAULT GUIDE.md": "6783dd27a9926e9b0b01523a22c0657e7a10921669040780a58db18c34e72dbc",
-    "📦 CLAUDE/Claude Code Commands/hookify-help/hookify-help.md": "11c4beec77187548978f4022cf76b3e077c0a04365f0b0d2464d06ca053c91a2",
-    "📦 CLAUDE/Claude Code Commands/hookify-help/VAULT GUIDE.md": "272eebbeb76976386c3298b14f4026830e4226a7444876cde4763b441b3cb4df",
-    "📦 CLAUDE/Claude Code Commands/hookify-list/hookify-list.md": "b513140d7a93527d5d8beabd4cb1aacaa296c00ac96586bc946466014f31a3cc",
-    "📦 CLAUDE/Claude Code Commands/hookify-list/VAULT GUIDE.md": "a338cc3fef9739bd4296a0cbcfd6335d58d76cf2d8e46ed7c578e1a5d2581ec7",
-    "📦 CLAUDE/Claude Code Commands/instinct-export/instinct-export.md": "cd2052ae1b9c49f75ad81aae6e236be959cc6656d32e3b8f3e6e13d2d3bd2d3c",
-    "📦 CLAUDE/Claude Code Commands/instinct-export/VAULT GUIDE.md": "8113b07693cd518c7e705913de5b9dc2eeaa8c033e1f8eb2a6f7769606806947",
-    "📦 CLAUDE/Claude Code Commands/instinct-import/instinct-import.md": "30514ada563953a1eafa46a09644831969aaae7672068777267e0b801814e7d9",
-    "📦 CLAUDE/Claude Code Commands/instinct-import/VAULT GUIDE.md": "1f0a3d1e4ef77d89b885e7919ce29b84d90c5a99ac544a76d93a8d2a687f9e62",
-    "📦 CLAUDE/Claude Code Commands/instinct-status/instinct-status.md": "514b31b312e7d093edc7da373de25898490f363d9cf34ae5e6508e769b78d384",
-    "📦 CLAUDE/Claude Code Commands/instinct-status/VAULT GUIDE.md": "21a3e38e33dffa480272ecb5dfb560e145637c10fc603330dd42c85b39f946fb",
-    "📦 CLAUDE/Claude Code Commands/jira/jira.md": "edf9d093c6fa6e82ac30b205e940a8750711d3d2116fc583b1449a0ebd90a0d4",
-    "📦 CLAUDE/Claude Code Commands/jira/VAULT GUIDE.md": "095622f4f7e53f6b9cfc6524a6b853f2bc374d17b309ae38514bc3d38a4506ad",
-    "📦 CLAUDE/Claude Code Commands/kotlin-build/kotlin-build.md": "22947d64597e9cc60d3613fbc0b94a131dee33b81810c8e61cf6eb6da42338d2",
-    "📦 CLAUDE/Claude Code Commands/kotlin-build/VAULT GUIDE.md": "4847eb2fa24074c426f53db53eb1facce761c79199fa6ce00bc314b5ba026bc7",
-    "📦 CLAUDE/Claude Code Commands/kotlin-review/kotlin-review.md": "3b18cb5e03a577a411d77c44bd47cfd1007666701d7aa3c0d850bbb73ab3e3c7",
-    "📦 CLAUDE/Claude Code Commands/kotlin-review/VAULT GUIDE.md": "e8dc691781a8bb0089d2d2d6ba56d1f83111d624f8c6df031327a66c16b91e04",
-    "📦 CLAUDE/Claude Code Commands/kotlin-test/kotlin-test.md": "f32e850de1f29031e16cbb869071eca800d3d1632968ba4c4e23d1cda9da155d",
-    "📦 CLAUDE/Claude Code Commands/kotlin-test/VAULT GUIDE.md": "ad4f3372043d6c961819a9e59c695f4ebb6297640030e5cedb9e6eb0a59d793f",
-    "📦 CLAUDE/Claude Code Commands/learn/learn.md": "696c0a0aa3d5053ff3b383f167225fcc8dc8b91f1bc54fea2bf3826e830a70e8",
-    "📦 CLAUDE/Claude Code Commands/learn/VAULT GUIDE.md": "d9802958dd90e49508049888213f3045d4203fa75a432560a8ec6e896a1f0aa7",
-    "📦 CLAUDE/Claude Code Commands/learn-eval/learn-eval.md": "3c3c2ca7f3449034e0dc8a42967eebe33a50a38bb5fe08d1bd302c63bbaf8e3e",
-    "📦 CLAUDE/Claude Code Commands/learn-eval/VAULT GUIDE.md": "cbecbead66b8b95726c1f3529a36faae5654e9943e61fbfbc466f97798863e21",
-    "📦 CLAUDE/Claude Code Commands/loop-start/loop-start.md": "3ad109a9f69cfd2ae041d3fe09aff963e00ba0a63408a1fa5fb2ff408085d69b",
-    "📦 CLAUDE/Claude Code Commands/loop-start/VAULT GUIDE.md": "e346b284a5c5eb3f8fcd1408932e974f518b492898caa88d114efbf844b50fc8",
-    "📦 CLAUDE/Claude Code Commands/loop-status/loop-status.md": "24181d1392154e6b7a3aedd1691e021a43de2a9c0969074accfff7ccb800967e",
-    "📦 CLAUDE/Claude Code Commands/loop-status/VAULT GUIDE.md": "3eb1520e5ebebbb7cc48be022edca1be33acdd773193502b648a507c858a31b5",
-    "📦 CLAUDE/Claude Code Commands/model-route/model-route.md": "9ad52439f152dd7c94c935f827bb8ef366f87c1848aefa4f054e34bd9365c500",
-    "📦 CLAUDE/Claude Code Commands/model-route/VAULT GUIDE.md": "fd7ccb3489b3c5cce615dddb5cf58f293dcf76a367793cdc8e88a59036c9294d",
-    "📦 CLAUDE/Claude Code Commands/multi-backend/multi-backend.md": "6f8d4989c25f0963ec30869c3fdf747f07ac5a993de27b1e5d9b0fc874f828b1",
-    "📦 CLAUDE/Claude Code Commands/multi-backend/VAULT GUIDE.md": "64d9bba555e5235ff77d490bb71eef5ac09937dc565e7d220f84755757069d32",
-    "📦 CLAUDE/Claude Code Commands/multi-execute/multi-execute.md": "d848b570000f80588ac2d3f1125280a47ad4b21a5302c3d740e0c269cd57f92f",
-    "📦 CLAUDE/Claude Code Commands/multi-execute/VAULT GUIDE.md": "01e6aeaf8e9c05ad2e45ccc410e83277723f9a04906fe0c8a55356240871439e",
-    "📦 CLAUDE/Claude Code Commands/multi-frontend/multi-frontend.md": "9e85eb5eb5478b45ccc4e5f1f86978eb29aae1971cbf9774900c9d27faa89e0b",
-    "📦 CLAUDE/Claude Code Commands/multi-frontend/VAULT GUIDE.md": "abf1dd964fdcd9ed648c0a5b581dc6e09c9c16aa245fa40085c3a9bc62d00f6c",
-    "📦 CLAUDE/Claude Code Commands/multi-plan/multi-plan.md": "20aee0a3207e61f0ee464464d149886493b0fcb712c639d19eaec3e8c2169dbc",
-    "📦 CLAUDE/Claude Code Commands/multi-plan/VAULT GUIDE.md": "9af08582eaaa71bea6140186533ecece0365e1f90bdba369d8b2531c7b1dc2bd",
-    "📦 CLAUDE/Claude Code Commands/multi-workflow/multi-workflow.md": "aa29af2c5fc8155227ed91e8cc3ef67242e0cfb817520b0dd15fe23d7ac97210",
-    "📦 CLAUDE/Claude Code Commands/multi-workflow/VAULT GUIDE.md": "45ac0ef45e11c2e74b5f14cd569e43543e240058150bb3992b5193be54380516",
-    "📦 CLAUDE/Claude Code Commands/orchestrate/orchestrate.md": "77fd17a644ca1b6524ad10b87b9aaa14572d542a1c35aa27e4268638ddd9b080",
-    "📦 CLAUDE/Claude Code Commands/orchestrate/VAULT GUIDE.md": "1b455baabf42d321687070902c94f4af85136b6e0fc7ea30f208d6d105df9641",
-    "📦 CLAUDE/Claude Code Commands/plan/plan.md": "bc7ff3631a17757c55f10beb14ba5060f4107d333f756448dfd79e0f7f1360a4",
-    "📦 CLAUDE/Claude Code Commands/plan/VAULT GUIDE.md": "058b9a640be82965ff3be2b36ae1d05fa117fa1a4d2dedb13a0d262b494267d4",
-    "📦 CLAUDE/Claude Code Commands/pm2/pm2.md": "638ff26f4ede729d6639f32e4077aa423f72d92725b34936afffe57ba2076cb3",
-    "📦 CLAUDE/Claude Code Commands/pm2/VAULT GUIDE.md": "8df3abe4115b126277187222b38c0609ba5c533ca2e262fcb0cf7f2c74b85f8a",
-    "📦 CLAUDE/Claude Code Commands/projects/projects.md": "dc939242028d24119b985e6ad4fee3d6c8185f6bd19c716535384149bc9876f3",
-    "📦 CLAUDE/Claude Code Commands/projects/VAULT GUIDE.md": "fb1f3978262ed9245b9d7f105f9afe97eac1d4dbdaf0e3d6adf39e598b6f18a7",
-    "📦 CLAUDE/Claude Code Commands/promote/promote.md": "8d2faf47b1322c24a1dfa221b2f5e85b9e766fcd1d460c157c472246a3b86846",
-    "📦 CLAUDE/Claude Code Commands/promote/VAULT GUIDE.md": "5cfcdb4fd3aed7d492660c037b2a8342ffc915376f8e9376f850c4643ef558dc",
-    "📦 CLAUDE/Claude Code Commands/prompt-optimize/prompt-optimize.md": "fd1f31a9bc5d6f21e2c69bc9da6fc4d1cc57aed474bdd517e5493f701abc4f53",
-    "📦 CLAUDE/Claude Code Commands/prompt-optimize/VAULT GUIDE.md": "1bc4020607741e6f94e4aeb439ff82acab8e20673deda007786c8a39003b56b1",
-    "📦 CLAUDE/Claude Code Commands/prp-commit/prp-commit.md": "b0714d5d50c87b645a47d31192ce13c216a3717d9a0f95b6cce21f9157e5a0be",
-    "📦 CLAUDE/Claude Code Commands/prp-commit/VAULT GUIDE.md": "ebb5b656b5e77fbfcf32ee44db4102286b38b7bc3e7d41b9f19adc13481bd572",
-    "📦 CLAUDE/Claude Code Commands/prp-implement/prp-implement.md": "c7b2715c7068a2457ad9d5da9bb9da51ad0a8f4ed2596806ff02825c5927590b",
-    "📦 CLAUDE/Claude Code Commands/prp-implement/VAULT GUIDE.md": "202aff6b7f60719b3b5451c4fd310f64615b758868228510b003fa61d8607dce",
-    "📦 CLAUDE/Claude Code Commands/prp-plan/prp-plan.md": "d7dfc27704dac9b98b8755e1324de141503565bbb39e236422307e8046af5acb",
-    "📦 CLAUDE/Claude Code Commands/prp-plan/VAULT GUIDE.md": "70df4cddf25dad08f23d118be7da0af2f711d2c060ca59b848ceaa2dca6335b9",
-    "📦 CLAUDE/Claude Code Commands/prp-pr/prp-pr.md": "1813771b08c2ad8c1216cde43284a3744d22cddb272b9aa1f9c403f0e08f0ffc",
-    "📦 CLAUDE/Claude Code Commands/prp-pr/VAULT GUIDE.md": "3868505114e6a5586e41c62f1bd42703ee9a6c41e09e9821b61666beaef78f61",
-    "📦 CLAUDE/Claude Code Commands/prp-prd/prp-prd.md": "ccd0082c4df1395a272d735765a593891736c48a0bcfbf2f296f84eca5b8509b",
-    "📦 CLAUDE/Claude Code Commands/prp-prd/VAULT GUIDE.md": "df03ba6108a6826bdb176f4909112317fabcbc9666e77dd9dbe5f56695294bd4",
-    "📦 CLAUDE/Claude Code Commands/prune/prune.md": "b2ff4b7ff2eef3893975736b899f84043665c765972609c0ff816be18cf42b82",
-    "📦 CLAUDE/Claude Code Commands/prune/VAULT GUIDE.md": "4de9fbfdb1fef17ec00eeb4660f977dd42b26c734459791ac349da6b4b9ad046",
-    "📦 CLAUDE/Claude Code Commands/python-review/python-review.md": "c5308cdc9a5763df4eabe950e08e4c3e9380dd2efaa49d80efc8e540899cb2b3",
-    "📦 CLAUDE/Claude Code Commands/python-review/VAULT GUIDE.md": "be40c18f4d18e487cc1e8de2381d82da355d7e18be72579ccb4a580818e68944",
-    "📦 CLAUDE/Claude Code Commands/quality-gate/quality-gate.md": "826bbb000043b1401fb8c73cff9cace55cfd38d7f6c7b006efbd43c8ce9cb754",
-    "📦 CLAUDE/Claude Code Commands/quality-gate/VAULT GUIDE.md": "33fbde1829f928a2c30690b6fb0c103007f1c8e56c85e8e93f7695a9823f9a4c",
-    "📦 CLAUDE/Claude Code Commands/refactor-clean/refactor-clean.md": "ee746ef64104e4ca547582a9a69bb82bf04bd94712d8d973d89347962ac169a2",
-    "📦 CLAUDE/Claude Code Commands/refactor-clean/VAULT GUIDE.md": "02c8794aea48f7773d022479c42c793a7427e662120ae4b42c5e9c5e60fd5a4f",
-    "📦 CLAUDE/Claude Code Commands/resume-session/resume-session.md": "73983070d7e43dbe55f29671fba7e245df816eb469add2037e9d730f8bf23dbc",
-    "📦 CLAUDE/Claude Code Commands/resume-session/VAULT GUIDE.md": "87024de8dc5b94e3d20c0261547520a884dac7c1d4d10dffa64446695ca3610d",
-    "📦 CLAUDE/Claude Code Commands/review-pr/review-pr.md": "dd6a610a4fa1ba61bb12ecaab9e2fddd1cbb57faff58d3601da019031e880a4c",
-    "📦 CLAUDE/Claude Code Commands/review-pr/VAULT GUIDE.md": "8aa1a15c88979eb0297d6fd1522ad3a7dacbc589d196b4b9dca80dc096783055",
-    "📦 CLAUDE/Claude Code Commands/rules-distill/rules-distill.md": "212256efe142c2a33f7cd77ce4de718ab9dad168e6d51bf96bad649c18362c37",
-    "📦 CLAUDE/Claude Code Commands/rules-distill/VAULT GUIDE.md": "fbf93c934edcc2de9e04050e27afa9768f2a05112662ff8216dd7a34b12daf51",
-    "📦 CLAUDE/Claude Code Commands/rust-build/rust-build.md": "8b60350b177bbee9543d1ea1a8929d9f2a035752c77c24f2a44998b3947c1395",
-    "📦 CLAUDE/Claude Code Commands/rust-build/VAULT GUIDE.md": "9601d8145a2dffcc7a3d5f0f6323ee45dd68fbaf974f714e92ae1da59f6e2ed1",
-    "📦 CLAUDE/Claude Code Commands/rust-review/rust-review.md": "19e9eb0c5805e982f9d864202dde19c49b394e8d8e28030b3aeac33c157d812c",
-    "📦 CLAUDE/Claude Code Commands/rust-review/VAULT GUIDE.md": "1e87c8122d42b980f4dda596da613f62b214942f2a98db4f0dbd6b6557ff4879",
-    "📦 CLAUDE/Claude Code Commands/rust-test/rust-test.md": "dc474e6373e274b8bf032dc8e401ec0eb24e24f50acf993f273bb1258f77864a",
-    "📦 CLAUDE/Claude Code Commands/rust-test/VAULT GUIDE.md": "2121d2b38426819884556e9fbf208e10af1d404b25c0a722f6b2a97e38ca8f6c",
-    "📦 CLAUDE/Claude Code Commands/santa-loop/santa-loop.md": "c0e5d72aa0289201606b00d4f75cfa9a58f12d09bfbc48341a2378b2084f3bde",
-    "📦 CLAUDE/Claude Code Commands/santa-loop/VAULT GUIDE.md": "d1264fd39a4ba48c92798ad1444bfc7becef1c71aedc5e9cdc4ff8cc8108a3fa",
-    "📦 CLAUDE/Claude Code Commands/save-session/save-session.md": "a9488a8819d6c65fe4777f07ea72de6b0c4ee94f90c6bb33b3b8841916222db4",
-    "📦 CLAUDE/Claude Code Commands/save-session/VAULT GUIDE.md": "c978d75e1fda8b643465832ce09dc0cfe2ddd00e3e4a8775dcc7e7b720cb9dc8",
-    "📦 CLAUDE/Claude Code Commands/sessions/sessions.md": "6da0b3f6ecd49a41aba3b0d54e98f716237a20225c75ed52ff761769ed00b3fa",
-    "📦 CLAUDE/Claude Code Commands/sessions/VAULT GUIDE.md": "27947c31fca6dc1711448fc90c6f46dd3896f63473c9ad336181a47ceac88b1a",
-    "📦 CLAUDE/Claude Code Commands/setup-pm/setup-pm.md": "163b3cd106028d21dbd2a91b47f1cf99957e40a78ed9e5e5dc8507e225f73a2d",
-    "📦 CLAUDE/Claude Code Commands/setup-pm/VAULT GUIDE.md": "2e992745dba2470764333c15515a389f329e2b61b198afe0aa713bebcda10df1",
-    "📦 CLAUDE/Claude Code Commands/skill-create/skill-create.md": "3acec769ffb32348d5865d3ba24fa3e62feb1096fefdbce8e0ac52779b5659cd",
-    "📦 CLAUDE/Claude Code Commands/skill-create/VAULT GUIDE.md": "2b051e564e12074c93215bed18cd751621fc66d78fd7408b0216f6bccacb3e52",
-    "📦 CLAUDE/Claude Code Commands/skill-health/skill-health.md": "3544ef17f9a6c22ddb5b105b1b560775dfcc2b8f8ee9dabee49f5a94e2067463",
-    "📦 CLAUDE/Claude Code Commands/skill-health/VAULT GUIDE.md": "8786d83f5a4357e1c9e234f29cbf79aad97b1a8303ed64e8b76a17167d2fa90c",
-    "📦 CLAUDE/Claude Code Commands/tdd/tdd.md": "4ab0a0bd30ab23df59280b03159138f3e7a2fa5ba69e1f8950cc29fc0593dcae",
-    "📦 CLAUDE/Claude Code Commands/tdd/VAULT GUIDE.md": "fefb4a25e728100adfbb2969320f187c436e360a8225a514d014a03dee19fb89",
-    "📦 CLAUDE/Claude Code Commands/test-coverage/test-coverage.md": "7444f5566bcf6dad15f280c6d7e0e9a72d78e1ba837e392eca8d96dac53860bb",
-    "📦 CLAUDE/Claude Code Commands/test-coverage/VAULT GUIDE.md": "0772deb944746a81c4776067973bbf6c9e5aee58b60afa5116253e409025a7eb",
-    "📦 CLAUDE/Claude Code Commands/update-codemaps/update-codemaps.md": "3514e183daeda86331687ed3f863b3ad8e4e2b91a0430b72cd1d28316c0b585b",
-    "📦 CLAUDE/Claude Code Commands/update-codemaps/VAULT GUIDE.md": "1ce3e1d41ea2ad50e13bf7eb2def6a33fbbd2c2d5aa483d876d502ea800390f9",
-    "📦 CLAUDE/Claude Code Commands/update-docs/update-docs.md": "09d8332a9e11a94b84462f7918471e1db5264312619d687496ad3ff8e8226631",
-    "📦 CLAUDE/Claude Code Commands/update-docs/VAULT GUIDE.md": "d134f131677b37dbd22bd7626e98a6bd16a16bb175e531cdd47b3c1c615d518a",
-    "📦 CLAUDE/Claude Code Commands/verify/verify.md": "4cd8df723451c33735b6dd6ab43c9161b388e32a0a7804f78d759123c9de15e8",
-    "📦 CLAUDE/Claude Code Commands/verify/VAULT GUIDE.md": "30106865bd4aec8e91866f9ece2534920b450fe24f98feea2d40f0f9930bb224",
-    "📦 CLAUDE/Claude Code Commands/ccvitals — configure/ccvitals — configure.md": "9565dc6cdfa419f4e9a8aa7b3bd8bcf6129be702176c0fc83b18649ff0e33da1",
-    "📦 CLAUDE/Claude Code Commands/ccvitals — configure/VAULT GUIDE.md": "8289b080af371f43a1ec1d154496c47e58e2fc977005e8307a08ebef1a2fc941",
-    "📦 CLAUDE/Claude Code Commands/ccvitals — setup/ccvitals — setup.md": "fecb43771376b44c5b6c023218e9d164b5d16bb6e39aae6b3670937a1045e63a",
-    "📦 CLAUDE/Claude Code Commands/ccvitals — setup/VAULT GUIDE.md": "4c04e19cf6907bda4a798f51c06956343171b5a7863462ca197bd9b1b1e2ea71",
-    "📦 CLAUDE/Claude Code Commands/vercel — _conventions/vercel — _conventions.md": "cb10f630e3d615ef4a1c556c3b35ab4312b3c387770a988bb233335aa637908e",
-    "📦 CLAUDE/Claude Code Commands/vercel — _conventions/VAULT GUIDE.md": "4de9e1f3a21d9775082865731b4d74df8be8e99bc0de4c8124e5805090e912d8",
-    "📦 CLAUDE/Claude Code Commands/vercel — bootstrap/vercel — bootstrap.md": "e26a1f7aa23a17b5af6db7d30f8470a537d72449907ae7dca9765b9d836c015a",
-    "📦 CLAUDE/Claude Code Commands/vercel — bootstrap/VAULT GUIDE.md": "41735020e80641af1da68646e22d8ce4deb84721e293456b2eb41c59072800b5",
-    "📦 CLAUDE/Claude Code Commands/vercel — deploy/vercel — deploy.md": "236ad738d9c57b044fc00744a86e3de21c34ae85a77ee3bce68dfe07de42798f",
-    "📦 CLAUDE/Claude Code Commands/vercel — deploy/VAULT GUIDE.md": "4a261071e165526f99dcd807c9eab52a0ad6b591d3b83411690da7793d92bf23",
-    "📦 CLAUDE/Claude Code Commands/vercel — env/vercel — env.md": "cb1a0174593e1e1531974a19a352a3817fe673c524ee8a1871ed2feeb310b9ef",
-    "📦 CLAUDE/Claude Code Commands/vercel — env/VAULT GUIDE.md": "034a291d12cb581810599bbca4e00302ec539a247aac804cdc339cfa7be23e76",
-    "📦 CLAUDE/Claude Code Commands/vercel — status/vercel — status.md": "975d6a9ea4b8c702171c701129c1ae054d4cd8c6b607a3667450a7dcd922bb83",
-    "📦 CLAUDE/Claude Code Commands/vercel — status/VAULT GUIDE.md": "bbe97c4ddca14f29bc57997a11026176096e967b6ecd3ff22b56038b7bcfacea",
-    "🔎 BROWSE LIBRARY.html": "c74cedfd68eb7ac1090d092f862a7e1b4cbf784b0708d96f1548eb1e91ef1d0e",
-    "📦 CLAUDE/BROWSE ALL SKILLS.md": "ff13edb2ad260dc3862b34fc0585bc8aee5e97eb20a8fb457871c5d4fd81962a",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Agent Sort/agent-sort.md": "3f1ba7db2fdf72c1086e0b476c21545c99703ed4c4b395624fda14b0fad4146a",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Agent Sort/VAULT GUIDE.md": "22a9adc4cba4b86c941db10dc09494ee1d94150a7e1989342df7b64511c0a990",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Aside/aside.md": "828d2739fce0b0d1cce5b5c69b277c445f21c853547e23b317d7fb0cb63ed800",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Aside/VAULT GUIDE.md": "1993913c44488ceb7737e4cbea4d9bb2e94987390dc0ae563e5ffa06b413d454",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Build Fix/build-fix.md": "90349cab44f99608e68634fa8545f0ee95c1e379a02c0eff577f62fd44e47f33",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Build Fix/VAULT GUIDE.md": "6a9d78cf02cbe6e9db2dc0762a1b7ecfb6182d0d0b649db6e0b3d2de0b738c0b",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Checkpoint/checkpoint.md": "688a05474a64fb9543841d8e428a3a27dfb999bb88c0e648df09961b2247ddad",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Checkpoint/VAULT GUIDE.md": "bca37eee2eb768c864b2aa9dcecf4714e43b7535e508db7391d9fefe305a2699",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Claw/claw.md": "d19e4c1b61bb256430b7eb333ee0a2d3542329e865dbe6a1303455bb3a708b26",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Claw/VAULT GUIDE.md": "3c314488daa914aea5abeba303cc5f83122f8ef34a3cdeb17aecd1d76a2544f3",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Code Review/code-review.md": "35a81c54107be84e83bf43455e125fd93427ea871bcc28fe19fb125fc47a276c",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Code Review/VAULT GUIDE.md": "ab5c1f669a6337f5ec62474f13a6b114f034bf4b49d76bb42bb78b3d50759e86",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Context Budget/context-budget.md": "28ee30f85a0cfd44feedb3814089b5f5486504a64d4b4cfc1675e947c8e3e7c7",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Context Budget/VAULT GUIDE.md": "70140812d035bdd5cdd4ae90387bec3079734345db8eb8a244882a4ae0d0e076",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Build/cpp-build.md": "9f501129116ea880ec4b4d766b58b434a1ac4a5296cb478c484752e0eed02033",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Build/VAULT GUIDE.md": "a8d7a5141981a07818274c199c5955f6b88d7a28669c96a8178f0a7bfa5a5c35",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Review/cpp-review.md": "58a0e058207bb8e96d6fe02f1a71db77157f30121dd5c7aec32c0f4a91523576",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Review/VAULT GUIDE.md": "effdf0b69b89431942382f9cb4b1ffe92cd28d3187199e878814e9d1b22a1e72",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Test/cpp-test.md": "a1d0c512528f82e842d635ed51bcc08e770ac108bb6c29ad0cda60144f1b23c7",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/C++ Test/VAULT GUIDE.md": "c855ff8127f889d747126f7efd9656c2705ad9a43afb04a353703ac3d21ed9b1",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Devfleet/devfleet.md": "dc7e01b130be3cfe0dfd91653cefbb8ed69093565ae162046433315a936087aa",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Devfleet/VAULT GUIDE.md": "cee8d6649b92e08144abf38f69356da94e7a197509a8c8516bbd1780c8233fda",
+    "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Docs/docs.md": "b15f9d6a9b3ad2fb046eb3a60aea21e06c51dd09521f8a989e5e55c6e2a0c7c8",
+    "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Docs/VAULT GUIDE.md": "6e27752d1bd7af1826cd286ae29f98b43f8a7092619b090635319a18291e5686",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/E2E/e2e.md": "1110f0aecf2667059474312a98ebb95a652ff52e391eeeb925d2d6d633c55bfb",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/E2E/VAULT GUIDE.md": "c17745477856900d498c5649619694b29255bd880677c4c8221191919981ea81",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Eval/eval.md": "34b2e2386e57aa329abcab225c6baa8fb4dfad0162741788656c74825fbf27c8",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Eval/VAULT GUIDE.md": "ce36b7da58fa01762a27a92bd111d069b40c3cb209fd1a2535044d3cbce614b5",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Evolve/evolve.md": "c8f94e2d2517539fd3e3cf05edb5a7187a887d76f2c936798e93e546f8b30ebb",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Evolve/VAULT GUIDE.md": "5108be766282e7b3245e1b6da8c16eca6a8560c19a7e9fa18dbecac1e7c61bbc",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Feature Dev/feature-dev.md": "b446c316f680a1ab709f2eabff15d5e88b57396f4581ea8b0f9260d04bd4be34",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Feature Dev/VAULT GUIDE.md": "5d2405bece5b963883d225aa44226a86ed474305a03fa4c4372305a45132a466",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Build/flutter-build.md": "84cbaba905d7755948e326f6c996c006bd0b61a05e1873390ba876c513e70a4b",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Build/VAULT GUIDE.md": "249f93de6b035c67b6987c238f20e04116ee80dd4b006905d77239e9df2934be",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Review/flutter-review.md": "631142330e5884cd0dae2d404d183b0dda4c5f6b1752a21e7d1e70b0be6d2e28",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Review/VAULT GUIDE.md": "49931ba562671dcef0f9140a2eeb914665e33739f0ea656bc28e94deff8a86d5",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Test/flutter-test.md": "b713d7f7aecb580aa83a19588a5dabaee1f704c1cadeb2b57f7d59c3b64e9b45",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Flutter Test/VAULT GUIDE.md": "833d498653264463e717eeaeb0f0be8490626e7b1bac4a835ee365a36dd6b368",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Build/gan-build.md": "f05815739fa8e78f1fcc8cf4f0adff42e5a20896e428c88b306a91675052fcf0",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Build/VAULT GUIDE.md": "40f02942d9b6285ee20628bd9aa00cc1bde82e398f3cdd2a4d975dd69be97c84",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Design/gan-design.md": "6936d9ce9a156c2f539195096ad1efe77aff94a1d7273f428483fbce51d94654",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/GAN Design/VAULT GUIDE.md": "7b53b95716c976ac83aa96d617ac8ef51391c997192579e989d543e6e23a29f4",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Build/go-build.md": "082bad28b243f327f7c5d02ee566dc2d9519a975d8b28162acf277afaf9b9c34",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Build/VAULT GUIDE.md": "bd6466d99ac2eb67b5b15b063ea4c0e8a6e883bbf5aeac2de0b17c77e97adf8a",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Review/go-review.md": "73a29ec62007e25490d0962ed52fe196eac3df31c6ccd774b10c9a8e07b63b39",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Review/VAULT GUIDE.md": "df2d98ca317dc15630add63203a39d0e4dfbfefa9934fdd981f6786029631439",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Test/go-test.md": "803cec4d92a361e2623fdf027eb67eea56843ad563814d693382ab7fe6163708",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Go Test/VAULT GUIDE.md": "93aea634c481fb754bfcc3c48bfc332f5bf504a984939002244c8125ffc609ec",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Gradle Build/gradle-build.md": "c2aa086148316326ae10ee97229d040a0b7a9b743c016bfad4032ce96bb097a9",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Gradle Build/VAULT GUIDE.md": "c62851c239192f18ba16fcca8bb8723bebe2053b6e607391ab03ca14b0f4bb71",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Harness Audit/harness-audit.md": "ba76cdd30f6fdcf9b6286de753881eebe0e15306829bc3cf53af1591e4126771",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Harness Audit/VAULT GUIDE.md": "8040eec271c58e066b58d146f7500a572687fb3ec7b04076d221b23f1f694444",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify/hookify.md": "2fd94b585a1267717ed88276054e320251ceb47f95e6b53bfc31d9527193e8b5",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify/VAULT GUIDE.md": "7870a69ad02ebae473ff6dc5b109834afd80bfc2f81846f5c5b203abcc78f88d",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Configure/hookify-configure.md": "a059c23f885d36e3597daa03b7bf77cbb79a2a87e5856ca4bede4eb3b816082a",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Configure/VAULT GUIDE.md": "485f7f555d5b596957cd4a0bf7cd500510fcb12b3ac5576c38f66c29f8190207",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Help/hookify-help.md": "11c4beec77187548978f4022cf76b3e077c0a04365f0b0d2464d06ca053c91a2",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify Help/VAULT GUIDE.md": "e16d8bc2899f82f2012ecf868e02fbe27fd9de17eeb90f1fbc9b2e64f6bf2c57",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify List/hookify-list.md": "b513140d7a93527d5d8beabd4cb1aacaa296c00ac96586bc946466014f31a3cc",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/Hookify List/VAULT GUIDE.md": "84b6a015bdf649c8938b0b2ebbfd6f6d3b8c4cd87d310689fcd8929b59d64f3b",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Export/instinct-export.md": "cd2052ae1b9c49f75ad81aae6e236be959cc6656d32e3b8f3e6e13d2d3bd2d3c",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Export/VAULT GUIDE.md": "510d4f19fcb0d738281c9c730846f16ea230418780be15f111db10f37513f364",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Import/instinct-import.md": "30514ada563953a1eafa46a09644831969aaae7672068777267e0b801814e7d9",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Import/VAULT GUIDE.md": "e9ee8c853db33023baa0680096576dd23c5bc9f2ed6c2e8d5c5b6a1d747d0c9f",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Status/instinct-status.md": "514b31b312e7d093edc7da373de25898490f363d9cf34ae5e6508e769b78d384",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Instinct Status/VAULT GUIDE.md": "609891235d9c7d61c007206cd97e0889b782dc46dd0e42634741af24e0717170",
+    "📦 CLAUDE/Claude Code Commands/🔌 Integrations & Project Services/Jira/jira.md": "edf9d093c6fa6e82ac30b205e940a8750711d3d2116fc583b1449a0ebd90a0d4",
+    "📦 CLAUDE/Claude Code Commands/🔌 Integrations & Project Services/Jira/VAULT GUIDE.md": "bd27d9972a812c2f86c36c580854b9f9f5a49b44843b1e74f951fca9351de0df",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Build/kotlin-build.md": "22947d64597e9cc60d3613fbc0b94a131dee33b81810c8e61cf6eb6da42338d2",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Build/VAULT GUIDE.md": "556de9c362348ab36ec32ca33cc2701edbb7a4b213a6c8cba0b03a81aa1214d6",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Review/kotlin-review.md": "3b18cb5e03a577a411d77c44bd47cfd1007666701d7aa3c0d850bbb73ab3e3c7",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Review/VAULT GUIDE.md": "f01f2f698f593c841284d791d845b699dca403466f2ca3d684e6070c9d6a4a45",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Test/kotlin-test.md": "f32e850de1f29031e16cbb869071eca800d3d1632968ba4c4e23d1cda9da155d",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Kotlin Test/VAULT GUIDE.md": "07727bbf8df0db15371a3d14be33ee29e4359744e27a7e7b8a5f99169ad22b71",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn/learn.md": "696c0a0aa3d5053ff3b383f167225fcc8dc8b91f1bc54fea2bf3826e830a70e8",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn/VAULT GUIDE.md": "175e5daf2feb7d71e066347f0478110e268dbaa5f07b9462635dc974b364971d",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn Eval/learn-eval.md": "3c3c2ca7f3449034e0dc8a42967eebe33a50a38bb5fe08d1bd302c63bbaf8e3e",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Learn Eval/VAULT GUIDE.md": "ec630f520c398b317908d11ca5762324a0b1d0c00c32445a309b6544782c0e84",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Start/loop-start.md": "3ad109a9f69cfd2ae041d3fe09aff963e00ba0a63408a1fa5fb2ff408085d69b",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Start/VAULT GUIDE.md": "ed7679ce988dada82fd99d2137817ce038b2fd90658e60f9790476d881b61b43",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Status/loop-status.md": "24181d1392154e6b7a3aedd1691e021a43de2a9c0969074accfff7ccb800967e",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Loop Status/VAULT GUIDE.md": "f6012025c40c387513df9dc34f9bc99a951519367d4b0def2244201cc53b9cfa",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Model Route/model-route.md": "9ad52439f152dd7c94c935f827bb8ef366f87c1848aefa4f054e34bd9365c500",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Model Route/VAULT GUIDE.md": "1a44c94b272b8d450ddbf2d7b92cc35d38a087284e44b72cac0f03d70dff5cbe",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Backend/multi-backend.md": "6f8d4989c25f0963ec30869c3fdf747f07ac5a993de27b1e5d9b0fc874f828b1",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Backend/VAULT GUIDE.md": "55fa11fb01862bdd51d475b88254dcb5a2240dd996255b0e280d55221db4acd8",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Execute/multi-execute.md": "d848b570000f80588ac2d3f1125280a47ad4b21a5302c3d740e0c269cd57f92f",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Execute/VAULT GUIDE.md": "1266bd55a854f04821b7b83ad42c7b2df4fe2ef2a8de52e700a401c5983f533f",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Frontend/multi-frontend.md": "9e85eb5eb5478b45ccc4e5f1f86978eb29aae1971cbf9774900c9d27faa89e0b",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Frontend/VAULT GUIDE.md": "b2e0b1cac53301e22118ff323df976857bc454150982e7e13188038cf37ceffb",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Plan/multi-plan.md": "20aee0a3207e61f0ee464464d149886493b0fcb712c639d19eaec3e8c2169dbc",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Plan/VAULT GUIDE.md": "99811042ced8cff7c41ec9f1b0ed2ec440217ba286d4974b19d3649fd51f9c11",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Workflow/multi-workflow.md": "aa29af2c5fc8155227ed91e8cc3ef67242e0cfb817520b0dd15fe23d7ac97210",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Multi Workflow/VAULT GUIDE.md": "91868c3a2ca6dcac0d8a884297fcc6cb79d7688f573913dafab2561e507ee7c9",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Orchestrate/orchestrate.md": "77fd17a644ca1b6524ad10b87b9aaa14572d542a1c35aa27e4268638ddd9b080",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Orchestrate/VAULT GUIDE.md": "f94598f2a4957bdbd36cf4172f393693f16ed873fba9a73621ee2778c53ff602",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Plan/plan.md": "bc7ff3631a17757c55f10beb14ba5060f4107d333f756448dfd79e0f7f1360a4",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/Plan/VAULT GUIDE.md": "8b4a210965fd491b9332eb7d514a95b78137012c329f4b5e80b56c48405d28b2",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/PM2/pm2.md": "638ff26f4ede729d6639f32e4077aa423f72d92725b34936afffe57ba2076cb3",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/PM2/VAULT GUIDE.md": "5fa722a92676ff6dfeffda50fe1542b3efcd2be8d0848eb9c1b543bfd5866071",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Projects/projects.md": "dc939242028d24119b985e6ad4fee3d6c8185f6bd19c716535384149bc9876f3",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Projects/VAULT GUIDE.md": "9b169ac40e8f98c87ada4c97ad7807bb96105ee6851f1271d83ef4655029c0db",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Promote/promote.md": "8d2faf47b1322c24a1dfa221b2f5e85b9e766fcd1d460c157c472246a3b86846",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Promote/VAULT GUIDE.md": "c3c81f082b2776243b303439fc7fe87d24dbf3456e6889c3615921b016c1c1f9",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Prompt Optimize/prompt-optimize.md": "fd1f31a9bc5d6f21e2c69bc9da6fc4d1cc57aed474bdd517e5493f701abc4f53",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Prompt Optimize/VAULT GUIDE.md": "bd65579777050620fd50a43a67ee9c5484006d4336d6f26a97cdfe07096f4edd",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Commit/prp-commit.md": "b0714d5d50c87b645a47d31192ce13c216a3717d9a0f95b6cce21f9157e5a0be",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Commit/VAULT GUIDE.md": "b4a37b1c588db6bffe8841045513b5fdd850d1e71b694781d0663298356ffb2e",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Implement/prp-implement.md": "c7b2715c7068a2457ad9d5da9bb9da51ad0a8f4ed2596806ff02825c5927590b",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Implement/VAULT GUIDE.md": "b5dcd7fe6329efd539aec5dd39607349c617c8f7f77bfdce069757634afc0e24",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Plan/prp-plan.md": "d7dfc27704dac9b98b8755e1324de141503565bbb39e236422307e8046af5acb",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP Plan/VAULT GUIDE.md": "d1ebb564b39f544b62c6f5eccca7364d489d84c8da78abe3d75d61619ddb2d34",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PR/prp-pr.md": "1813771b08c2ad8c1216cde43284a3744d22cddb272b9aa1f9c403f0e08f0ffc",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PR/VAULT GUIDE.md": "3f42219fe44bf2454ac8c71f24b3ba121c0712d77b0b4d2cd77753f27143b47d",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PRD/prp-prd.md": "ccd0082c4df1395a272d735765a593891736c48a0bcfbf2f296f84eca5b8509b",
+    "📦 CLAUDE/Claude Code Commands/📋 Planning, PRPs & Delivery/PRP PRD/VAULT GUIDE.md": "dc071c0baf4bd5896a6286494a0de375164d867becdab4fb4cd9af416a398c74",
+    "📦 CLAUDE/Claude Code Commands/🧹 Maintenance & Cleanup/Prune/prune.md": "b2ff4b7ff2eef3893975736b899f84043665c765972609c0ff816be18cf42b82",
+    "📦 CLAUDE/Claude Code Commands/🧹 Maintenance & Cleanup/Prune/VAULT GUIDE.md": "f3e17f6d8def6fd0f54f61d98897f7ae4d58d007f084ccf9fabde455093ce213",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Python Review/python-review.md": "c5308cdc9a5763df4eabe950e08e4c3e9380dd2efaa49d80efc8e540899cb2b3",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Python Review/VAULT GUIDE.md": "16da0483759d59d6ef9c466e8c31ac30d8273b68a3864c1f42ee7d3aaeccf437",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Quality Gate/quality-gate.md": "826bbb000043b1401fb8c73cff9cace55cfd38d7f6c7b006efbd43c8ce9cb754",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Quality Gate/VAULT GUIDE.md": "c9fe3c2e2560b3887fac1b9262c4ee725e3523c4066778d50eff9b910aed5f4f",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Refactor Clean/refactor-clean.md": "ee746ef64104e4ca547582a9a69bb82bf04bd94712d8d973d89347962ac169a2",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Refactor Clean/VAULT GUIDE.md": "1b35c5a9c389a041dfb48ecb9bfeac555f205f30deb40ecb2262f560107f5a9c",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Resume Session/resume-session.md": "73983070d7e43dbe55f29671fba7e245df816eb469add2037e9d730f8bf23dbc",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Resume Session/VAULT GUIDE.md": "6ad859df75b2072468eb97ca5ce966e801e6258ca90d4b9f8497832f0a17318f",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Review PR/review-pr.md": "dd6a610a4fa1ba61bb12ecaab9e2fddd1cbb57faff58d3601da019031e880a4c",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Review PR/VAULT GUIDE.md": "4987c38581cde609f39221eb02a94f73e3db704ed88a54f263f92dd9c7e40f40",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Rules Distill/rules-distill.md": "212256efe142c2a33f7cd77ce4de718ab9dad168e6d51bf96bad649c18362c37",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Rules Distill/VAULT GUIDE.md": "31c78a3d081207a3451b9929b3da7b081a6b92dae849db2dcde87a0bbb514efd",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Build/rust-build.md": "8b60350b177bbee9543d1ea1a8929d9f2a035752c77c24f2a44998b3947c1395",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Build/VAULT GUIDE.md": "0612ad2d797148da875bd60ce9ff0493545c49ee707f9ad41548dbaa64279cae",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Review/rust-review.md": "19e9eb0c5805e982f9d864202dde19c49b394e8d8e28030b3aeac33c157d812c",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Review/VAULT GUIDE.md": "6dedbc77259c4efbcc88f78bb0bdf5498d2ca4e5b03816bd832f2c7e1543e32f",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Test/rust-test.md": "dc474e6373e274b8bf032dc8e401ec0eb24e24f50acf993f273bb1258f77864a",
+    "📦 CLAUDE/Claude Code Commands/🛠️ Build & Language Toolchains/Rust Test/VAULT GUIDE.md": "5e0cfe92464874f12687f72162cab54c6bc359edd61bd603cb96736916c8ce85",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Santa Loop/santa-loop.md": "c0e5d72aa0289201606b00d4f75cfa9a58f12d09bfbc48341a2378b2084f3bde",
+    "📦 CLAUDE/Claude Code Commands/🤖 Agents & Orchestration/Santa Loop/VAULT GUIDE.md": "e963e3f3c50948cbf3302870d85b913ec8c9edd37f448ffdb4cd363eab5ba6fa",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Save Session/save-session.md": "a9488a8819d6c65fe4777f07ea72de6b0c4ee94f90c6bb33b3b8841916222db4",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Save Session/VAULT GUIDE.md": "a08a1bf75212f034987c9b038b124db7dbf9d688c9cfc8b700a7d56a4476c769",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Sessions/sessions.md": "6da0b3f6ecd49a41aba3b0d54e98f716237a20225c75ed52ff761769ed00b3fa",
+    "📦 CLAUDE/Claude Code Commands/💾 Sessions, Context & Projects/Sessions/VAULT GUIDE.md": "58ef6bb7cd6902d3534059bfedf6bc5d443b81d4ee32f49b31907964e4c287fa",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Setup Pm/setup-pm.md": "163b3cd106028d21dbd2a91b47f1cf99957e40a78ed9e5e5dc8507e225f73a2d",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Setup Pm/VAULT GUIDE.md": "0ce4915a95757c179096f1ddd7667cd4d81f87e3c4a086f08a85579059429d6a",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Create/skill-create.md": "3acec769ffb32348d5865d3ba24fa3e62feb1096fefdbce8e0ac52779b5659cd",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Create/VAULT GUIDE.md": "0a976f7c442a0c768aa2971a7d199f22bfa144c9abacca6ef1bba341d1f6b919",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Health/skill-health.md": "3544ef17f9a6c22ddb5b105b1b560775dfcc2b8f8ee9dabee49f5a94e2067463",
+    "📦 CLAUDE/Claude Code Commands/🧠 Learning, Prompts & Skills/Skill Health/VAULT GUIDE.md": "aea78c5ad60caecd697351949aa4028c230b840f872885c1a570eaf8ccf67123",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/TDD/tdd.md": "4ab0a0bd30ab23df59280b03159138f3e7a2fa5ba69e1f8950cc29fc0593dcae",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/TDD/VAULT GUIDE.md": "bce32a72fa7818cb2cd1f4a1a4a1c5e8ca2721cf0d4e87a03eec91401beb4ce0",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Test Coverage/test-coverage.md": "7444f5566bcf6dad15f280c6d7e0e9a72d78e1ba837e392eca8d96dac53860bb",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Test Coverage/VAULT GUIDE.md": "3966871fd07245a3650282357742fee47f17abfb06fe717780b19e701bbca04d",
+    "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Code Maps/update-codemaps.md": "3514e183daeda86331687ed3f863b3ad8e4e2b91a0430b72cd1d28316c0b585b",
+    "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Code Maps/VAULT GUIDE.md": "001a1919ae0c178abf1bfadadb5bba1e6a7b6ea1e2adaf7a7008edca4a63e4fe",
+    "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Docs/update-docs.md": "09d8332a9e11a94b84462f7918471e1db5264312619d687496ad3ff8e8226631",
+    "📦 CLAUDE/Claude Code Commands/📚 Documentation & Codemaps/Update Docs/VAULT GUIDE.md": "169682a3575df64d6cf9f5edaeb0d277fdbaad253c217657dd7cb66b23f89bbf",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Verify/verify.md": "4cd8df723451c33735b6dd6ab43c9161b388e32a0a7804f78d759123c9de15e8",
+    "📦 CLAUDE/Claude Code Commands/🧪 Testing, Review & Quality/Verify/VAULT GUIDE.md": "13c050caf568d87a262b95ecd302f3df2b9cd2e558158ac8859bd5da4d565099",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Configure/ccvitals — configure.md": "9565dc6cdfa419f4e9a8aa7b3bd8bcf6129be702176c0fc83b18649ff0e33da1",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Configure/VAULT GUIDE.md": "18be4dfb5cd0fd0fa80e926c59f6e60497e2606f3020a462ca1fd877ec2800a9",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Setup/ccvitals — setup.md": "fecb43771376b44c5b6c023218e9d164b5d16bb6e39aae6b3670937a1045e63a",
+    "📦 CLAUDE/Claude Code Commands/🪝 Hooks, Rules & Configuration/CCVitals — Setup/VAULT GUIDE.md": "f8265b68254bc027d2ffab2914417837585ad5a8b0cc78e6dc3059ffbb521931",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Conventions/vercel — _conventions.md": "cb10f630e3d615ef4a1c556c3b35ab4312b3c387770a988bb233335aa637908e",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Conventions/VAULT GUIDE.md": "6ddf8d3e98533d5e283be0bee7e91257aaea7bcd141aed1bb29854be20936363",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Bootstrap/vercel — bootstrap.md": "e26a1f7aa23a17b5af6db7d30f8470a537d72449907ae7dca9765b9d836c015a",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Bootstrap/VAULT GUIDE.md": "203a22a287602e35ada082bc4d6c95c184b78fb0a7b26c128ebd53c7a846a55f",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Deploy/vercel — deploy.md": "236ad738d9c57b044fc00744a86e3de21c34ae85a77ee3bce68dfe07de42798f",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Deploy/VAULT GUIDE.md": "a1b90922a84b95597a5bfecc0ed397ff0e33f05409982dcf9d886b2fde2d67bd",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Env/vercel — env.md": "cb1a0174593e1e1531974a19a352a3817fe673c524ee8a1871ed2feeb310b9ef",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Env/VAULT GUIDE.md": "ee879e23344c8df3e1f54cc80e234c8f08a83dc3cb3dac74e489b87e73661d59",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Status/vercel — status.md": "975d6a9ea4b8c702171c701129c1ae054d4cd8c6b607a3667450a7dcd922bb83",
+    "📦 CLAUDE/Claude Code Commands/☁️ Deployment, Vercel & Processes/Vercel — Status/VAULT GUIDE.md": "aa199eb04e999a12e3c0dfbcded1314cf78041e79aedccb8577ba780e3896709",
+    "🔎 BROWSE LIBRARY.html": "61daee72758ad00b1bd94934510461c6fb33376bb3bc1dfe3c7f4d67c8ff0fae",
+    "📦 CLAUDE/BROWSE ALL SKILLS.md": "6b1fcc67a6a01a4f8cf5aba1dae6e1429b3248d9612afb4ab37f7a5370f68c07",
     "🔧 ADVANCED/metadata/upload-reports.json": "fe9fbe68e8836ac7edf77e18f69813d4b8aff1617b12d17d918b8ec1c07eb27f",
     "📋 COPY & PASTE/Project Instructions/README.md": "43fa34e0ec3156fc295bdd1cbfb07f00b242dc8c45b9787baf726f8c4dac01ab",
     "💬 CHATGPT/Project Instructions/README.md": "f06c9355a542c122d574f54aae1f75699377a333147d5a14ce973436cecc1405",
@@ -20425,7 +20511,7 @@
     "💬 CHATGPT/README.md": "04fed9fe922dcdc3dd977c632b248bab104cc43363c329e34bbdaa441f038840",
     "💬 CHATGPT/BROWSE REFERENCES.md": "3f0875f372be342e8858642356d6af495677a8459f9ef1393586fa9a457ae080",
     "💬 CHATGPT/ChatGPT-Reference-Pack.zip": "9f1ee58e3662b0ea287dcf11c6e80314390b749f990688c003daebdf4c01c377",
-    "📦 CLAUDE/README.md": "a7640a47983556fd049d5e643c6de6e76786e038f6b9d82baa5e1250470a9f63",
+    "📦 CLAUDE/README.md": "d477833022d27236b77d99490839a559c988a21c989cc7eeac4e5bc30b9c7950",
     "⚠️ NEEDS SETUP/README.md": "b172167793105a709eeb7dc7ddf69a88005a6a7b3dda6bc4441866cea4d03acf",
     "📋 COPY & PASTE/README.md": "043c639546afd7cdd4393326c56694fdb5a373bdd239c524c72130e557afba2d"
   }

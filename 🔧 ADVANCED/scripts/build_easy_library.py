@@ -25,6 +25,7 @@ MANIFEST = ROOT / "metadata/easy-library.json"
 ORGANIZED_TOPICS = {
     "Coding & Development", "Design & Media", "Writing & Documents",
     "Marketing & Business", "Research & Data", "Tools & Workflows",
+    "Claude Code Commands",
 }
 
 
@@ -74,7 +75,9 @@ def friendly_name(label):
         "Swr": "SWR", "Tdd": "TDD", "Tsx": "TSX", "Ui": "UI", "Url": "URL",
         "Ux": "UX", "Waf": "WAF", "Seo": "SEO", "Ecc": "ECC",
         "Evm": "EVM", "Gha": "GHA", "Hipaa": "HIPAA", "Io": "IO",
-        "Phi": "PHI", "Prd": "PRD", "Rfc": "RFC",
+        "Phi": "PHI", "Prd": "PRD", "Prp": "PRP", "Rfc": "RFC",
+        "Pm2": "PM2", "Gan": "GAN", "Ccvitals": "CCVitals",
+        "Codemaps": "Code Maps",
     }
     return " ".join(acronyms.get(word, word) for word in name.split())
 
@@ -214,6 +217,43 @@ def tools_subcategory(label):
     return "🧩 General Productivity & Utilities"
 
 
+def command_name(label):
+    """Readable command label while retaining a plugin/provider prefix."""
+    if ":" in label:
+        provider, command = label.split(":", 1)
+        return friendly_name(provider) + " — " + friendly_name(command)
+    return friendly_name(label)
+
+
+def command_subcategory(label):
+    """Task-oriented groups for Claude Code command artifacts."""
+    name = label.casefold()
+    leaf = name.split(":")[-1]
+    if name.startswith("vercel:") or re.search(r"(^|:)(pm2|setup-pm|promote)$", name):
+        return "☁️ Deployment, Vercel & Processes"
+    if re.search(r"^(cpp|go|rust|kotlin|flutter|gradle|python)-(build|review|test)$", leaf):
+        return "🛠️ Build & Language Toolchains"
+    if re.search(r"build-fix|code-review|e2e|^eval$|harness-audit|quality-gate|refactor-clean|review-pr|^tdd$|test-coverage|^verify$", leaf):
+        return "🧪 Testing, Review & Quality"
+    if re.search(r"^prp-|feature-dev|^plan$", leaf):
+        return "📋 Planning, PRPs & Delivery"
+    if re.search(r"agent-sort|claw|devfleet|gan-|loop-|model-route|multi-|orchestrate|santa-loop", leaf):
+        return "🤖 Agents & Orchestration"
+    if re.search(r"aside|checkpoint|context-budget|projects|resume-session|save-session|^sessions$", leaf):
+        return "💾 Sessions, Context & Projects"
+    if re.search(r"evolve|instinct-|^learn$|learn-eval|prompt-optimize|rules-distill|skill-create|skill-health", leaf):
+        return "🧠 Learning, Prompts & Skills"
+    if re.search(r"ccvitals|hookify", name):
+        return "🪝 Hooks, Rules & Configuration"
+    if re.search(r"^docs$|update-docs|update-codemaps", leaf):
+        return "📚 Documentation & Codemaps"
+    if re.search(r"jira", name):
+        return "🔌 Integrations & Project Services"
+    if re.search(r"prune", leaf):
+        return "🧹 Maintenance & Cleanup"
+    return "🧩 General Developer Utilities"
+
+
 def browsing_subcategory(topic, label):
     if topic == "Coding & Development":
         return coding_subcategory(label)
@@ -227,6 +267,8 @@ def browsing_subcategory(topic, label):
         return research_subcategory(label)
     if topic == "Tools & Workflows":
         return tools_subcategory(label)
+    if topic == "Claude Code Commands":
+        return command_subcategory(label)
     return None
 
 
@@ -234,11 +276,11 @@ def visible_folder(entry, topic, used):
     source = Path(entry['path'])
     # Organized topics use readable names while canonical package names stay
     # unchanged inside SKILL.md and the generated Claude ZIP.
-    name = (friendly_name(entry['label'])
-            if topic in ORGANIZED_TOPICS and entry['type'] == 'skill'
+    name = (entry['display_name']
+            if topic in ORGANIZED_TOPICS
             else (source.parent.name if entry['type'] == 'skill' else source.stem))
     parts = [READY, topic]
-    if topic in ORGANIZED_TOPICS and entry['type'] == 'skill':
+    if topic in ORGANIZED_TOPICS:
         parts.append(browsing_subcategory(topic, entry['label']))
     folder = '/'.join([*parts, name])
     if folder.casefold() in used:
@@ -267,12 +309,19 @@ def outputs(root=ROOT, vault=VAULT):
             if re.search(r"\b(?:CLI|connector|connected|terminal|shell|subagents?|Stripe|Dropbox)\b", text, re.I):
                 report["signals"].append("External tools or services mentioned — review availability")
         topic = category(entry["label"]) if entry["type"] == "skill" else "Claude Code Commands"
-        entry["display_name"] = (friendly_name(entry["label"]) if topic in ORGANIZED_TOPICS
-                                 else entry["label"].split(":")[-1].replace("-", " ").replace("_", " ").strip().title())
+        if topic in ORGANIZED_TOPICS:
+            entry["display_name"] = (friendly_name(entry["label"])
+                                     if entry["type"] == "skill"
+                                     else command_name(entry["label"]))
+        else:
+            entry["display_name"] = entry["label"].split(":")[-1].replace(
+                "-", " "
+            ).replace("_", " ").strip().title()
         if entry["type"] != "skill":
             row = {**entry, "category": "Claude Code Commands", "status": "Command — not a skill ZIP",
                    "source": "🔧 ADVANCED/" + entry["path"], "zip": None,
                    "signals": report["issues"], "copies": [entry["id"]]}
+            row["subcategory"] = command_subcategory(entry["label"])
             rows.append(row)
             row['folder'] = visible_folder(entry, 'Claude Code Commands', used_folders)
             continue
@@ -449,9 +498,9 @@ def outputs(root=ROOT, vault=VAULT):
     generated[vault / READY / "README.md"] = (
         "# Claude — all skills and source files\n\n"
         "All 485 distinct skills are visible here: 472 with a ZIP and 13 with source files and repair warnings. "
-        "The 86 command entries are visible separately under Claude Code Commands. "
+        "The 86 command entries are grouped by task under Claude Code Commands. "
         "Together these represent all 925 catalog entries, including identical source copies.\n\n"
-        "1. Open a topic. Coding, design, writing, marketing, research, and tools/workflows topics have smaller task-based subcategories; then open the clearly named skill folder. "
+        "1. Open any topic or the Claude Code Commands collection; every section has smaller task-based subcategories and readable names. Then open the exact skill or command folder. "
         "SKILL.md and supporting files are directly inside, beside the upload ZIP.\n"
         "Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.\n"
         "2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.\n"

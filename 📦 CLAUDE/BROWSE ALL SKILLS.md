@@ -8,92 +8,114 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 ## Claude Code Commands
 
-- [agent-sort](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/agent-sort/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [aside](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/aside/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:bootstrap](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20bootstrap/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [build-fix](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/build-fix/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [checkpoint](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/checkpoint/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [claw](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/claw/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [code-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/code-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [ccvitals:configure](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/ccvitals%20%E2%80%94%20configure/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [context-budget](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/context-budget/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:_conventions](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20_conventions/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [cpp-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/cpp-build/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [cpp-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/cpp-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [cpp-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/cpp-test/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:deploy](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20deploy/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [devfleet](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/devfleet/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [docs](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/docs/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [e2e](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/e2e/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:env](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20env/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [eval](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/eval/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [evolve](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/evolve/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [feature-dev](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/feature-dev/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [flutter-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/flutter-build/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [flutter-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/flutter-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [flutter-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/flutter-test/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [gan-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/gan-build/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [gan-design](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/gan-design/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [go-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/go-build/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [go-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/go-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [go-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/go-test/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [gradle-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/gradle-build/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [harness-audit](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/harness-audit/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [hookify](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/hookify/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [hookify-configure](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/hookify-configure/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [hookify-help](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/hookify-help/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [hookify-list](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/hookify-list/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [instinct-export](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/instinct-export/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [instinct-import](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/instinct-import/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [instinct-status](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/instinct-status/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [jira](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/jira/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [kotlin-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/kotlin-build/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [kotlin-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/kotlin-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [kotlin-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/kotlin-test/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [learn](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/learn/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [learn-eval](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/learn-eval/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [loop-start](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/loop-start/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [loop-status](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/loop-status/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [model-route](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/model-route/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [multi-backend](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/multi-backend/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [multi-execute](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/multi-execute/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [multi-frontend](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/multi-frontend/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [multi-plan](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/multi-plan/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [multi-workflow](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/multi-workflow/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [orchestrate](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/orchestrate/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [plan](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/plan/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [pm2](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/pm2/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [projects](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/projects/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [promote](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/promote/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [prompt-optimize](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/prompt-optimize/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [prp-commit](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/prp-commit/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [prp-implement](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/prp-implement/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [prp-plan](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/prp-plan/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [prp-pr](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/prp-pr/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [prp-prd](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/prp-prd/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [prune](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/prune/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [python-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/python-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [quality-gate](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/quality-gate/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [refactor-clean](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/refactor-clean/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [resume-session](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/resume-session/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [review-pr](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/review-pr/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [rules-distill](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/rules-distill/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [rust-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/rust-build/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [rust-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/rust-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [rust-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/rust-test/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [santa-loop](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/santa-loop/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [save-session](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/save-session/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [sessions](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/sessions/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [ccvitals:setup](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/ccvitals%20%E2%80%94%20setup/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [setup-pm](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/setup-pm/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [skill-create](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/skill-create/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [skill-health](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/skill-health/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:status](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20status/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [tdd](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/tdd/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [test-coverage](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/test-coverage/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [update-codemaps](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/update-codemaps/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [update-docs](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/update-docs/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [verify](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/verify/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### ☁️ Deployment, Vercel & Processes
+
+- [pm2](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%E2%98%81%EF%B8%8F%20Deployment%2C%20Vercel%20%26%20Processes/PM2/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [promote](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%E2%98%81%EF%B8%8F%20Deployment%2C%20Vercel%20%26%20Processes/Promote/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [setup-pm](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%E2%98%81%EF%B8%8F%20Deployment%2C%20Vercel%20%26%20Processes/Setup%20Pm/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:bootstrap](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%E2%98%81%EF%B8%8F%20Deployment%2C%20Vercel%20%26%20Processes/Vercel%20%E2%80%94%20Bootstrap/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:_conventions](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%E2%98%81%EF%B8%8F%20Deployment%2C%20Vercel%20%26%20Processes/Vercel%20%E2%80%94%20Conventions/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:deploy](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%E2%98%81%EF%B8%8F%20Deployment%2C%20Vercel%20%26%20Processes/Vercel%20%E2%80%94%20Deploy/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:env](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%E2%98%81%EF%B8%8F%20Deployment%2C%20Vercel%20%26%20Processes/Vercel%20%E2%80%94%20Env/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:status](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%E2%98%81%EF%B8%8F%20Deployment%2C%20Vercel%20%26%20Processes/Vercel%20%E2%80%94%20Status/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 💾 Sessions, Context & Projects
+
+- [aside](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%92%BE%20Sessions%2C%20Context%20%26%20Projects/Aside/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [checkpoint](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%92%BE%20Sessions%2C%20Context%20%26%20Projects/Checkpoint/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [context-budget](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%92%BE%20Sessions%2C%20Context%20%26%20Projects/Context%20Budget/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [projects](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%92%BE%20Sessions%2C%20Context%20%26%20Projects/Projects/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [resume-session](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%92%BE%20Sessions%2C%20Context%20%26%20Projects/Resume%20Session/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [save-session](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%92%BE%20Sessions%2C%20Context%20%26%20Projects/Save%20Session/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [sessions](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%92%BE%20Sessions%2C%20Context%20%26%20Projects/Sessions/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 📋 Planning, PRPs & Delivery
+
+- [feature-dev](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%8B%20Planning%2C%20PRPs%20%26%20Delivery/Feature%20Dev/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [prp-commit](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%8B%20Planning%2C%20PRPs%20%26%20Delivery/PRP%20Commit/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [prp-implement](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%8B%20Planning%2C%20PRPs%20%26%20Delivery/PRP%20Implement/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [prp-pr](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%8B%20Planning%2C%20PRPs%20%26%20Delivery/PRP%20PR/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [prp-prd](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%8B%20Planning%2C%20PRPs%20%26%20Delivery/PRP%20PRD/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [prp-plan](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%8B%20Planning%2C%20PRPs%20%26%20Delivery/PRP%20Plan/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [plan](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%8B%20Planning%2C%20PRPs%20%26%20Delivery/Plan/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 📚 Documentation & Codemaps
+
+- [docs](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%9A%20Documentation%20%26%20Codemaps/Docs/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [update-codemaps](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%9A%20Documentation%20%26%20Codemaps/Update%20Code%20Maps/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [update-docs](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%93%9A%20Documentation%20%26%20Codemaps/Update%20Docs/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 🔌 Integrations & Project Services
+
+- [jira](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%94%8C%20Integrations%20%26%20Project%20Services/Jira/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 🛠️ Build & Language Toolchains
+
+- [cpp-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/C%2B%2B%20Build/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [cpp-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/C%2B%2B%20Review/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [cpp-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/C%2B%2B%20Test/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [flutter-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Flutter%20Build/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [flutter-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Flutter%20Review/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [flutter-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Flutter%20Test/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [go-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Go%20Build/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [go-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Go%20Review/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [go-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Go%20Test/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [gradle-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Gradle%20Build/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [kotlin-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Kotlin%20Build/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [kotlin-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Kotlin%20Review/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [kotlin-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Kotlin%20Test/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [python-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Python%20Review/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [rust-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Rust%20Build/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [rust-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Rust%20Review/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [rust-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%9B%A0%EF%B8%8F%20Build%20%26%20Language%20Toolchains/Rust%20Test/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 🤖 Agents & Orchestration
+
+- [agent-sort](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Agent%20Sort/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [claw](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Claw/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [devfleet](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Devfleet/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [gan-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/GAN%20Build/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [gan-design](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/GAN%20Design/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [loop-start](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Loop%20Start/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [loop-status](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Loop%20Status/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [model-route](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Model%20Route/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [multi-backend](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Multi%20Backend/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [multi-execute](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Multi%20Execute/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [multi-frontend](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Multi%20Frontend/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [multi-plan](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Multi%20Plan/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [multi-workflow](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Multi%20Workflow/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [orchestrate](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Orchestrate/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [santa-loop](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A4%96%20Agents%20%26%20Orchestration/Santa%20Loop/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 🧠 Learning, Prompts & Skills
+
+- [evolve](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Evolve/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [instinct-export](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Instinct%20Export/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [instinct-import](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Instinct%20Import/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [instinct-status](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Instinct%20Status/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [learn](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Learn/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [learn-eval](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Learn%20Eval/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [prompt-optimize](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Prompt%20Optimize/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [rules-distill](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Rules%20Distill/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [skill-create](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Skill%20Create/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [skill-health](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%A0%20Learning%2C%20Prompts%20%26%20Skills/Skill%20Health/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 🧪 Testing, Review & Quality
+
+- [build-fix](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Build%20Fix/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [code-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Code%20Review/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [e2e](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/E2E/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [eval](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Eval/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [harness-audit](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Harness%20Audit/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [quality-gate](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Quality%20Gate/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [refactor-clean](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Refactor%20Clean/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [review-pr](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Review%20PR/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [tdd](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/TDD/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [test-coverage](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Test%20Coverage/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [verify](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%AA%20Testing%2C%20Review%20%26%20Quality/Verify/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 🧹 Maintenance & Cleanup
+
+- [prune](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%A7%B9%20Maintenance%20%26%20Cleanup/Prune/VAULT%20GUIDE.md) — Command — not a skill ZIP
+### 🪝 Hooks, Rules & Configuration
+
+- [ccvitals:configure](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%AA%9D%20Hooks%2C%20Rules%20%26%20Configuration/CCVitals%20%E2%80%94%20Configure/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [ccvitals:setup](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%AA%9D%20Hooks%2C%20Rules%20%26%20Configuration/CCVitals%20%E2%80%94%20Setup/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [hookify](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%AA%9D%20Hooks%2C%20Rules%20%26%20Configuration/Hookify/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [hookify-configure](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%AA%9D%20Hooks%2C%20Rules%20%26%20Configuration/Hookify%20Configure/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [hookify-help](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%AA%9D%20Hooks%2C%20Rules%20%26%20Configuration/Hookify%20Help/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [hookify-list](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/%F0%9F%AA%9D%20Hooks%2C%20Rules%20%26%20Configuration/Hookify%20List/VAULT%20GUIDE.md) — Command — not a skill ZIP
 
 ## Coding & Development
 
