@@ -8,9 +8,9 @@ Explore **472 prebuilt skill ZIPs**, readable references, and general-purpose pr
 
 **No Terminal or manual zipping required for the prepared downloads. No separate browsing website or local server required.** Individual skills may still require tools, accounts, or a developer environment; those requirements are flagged separately.
 
-[⬇ Download the current vault](https://github.com/QuntmTech/ai-skills-vault-unlocked/archive/refs/heads/main.zip) · [🔎 Browse all skills](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) · [📋 Open project instructions](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md)
+[⬇ Download the ready-packaged vault](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest) · [🔎 Browse all skills](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) · [📋 Open project instructions](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md)
 
-**Use the current branch for the new folder layout and [💬 ChatGPT section](💬%20CHATGPT/README.md).** The older v0.2.0 release predates these changes. Use the download above or **Code → Download ZIP** for the current complete library. The ChatGPT section also contains a **ChatGPT-Reference-Pack.zip** document bundle.
+The latest release contains the complete organized folder layout, including the [💬 ChatGPT section](💬%20CHATGPT/README.md), all visible Claude skill folders, and the prepared per-skill ZIPs. The ChatGPT section also contains a **ChatGPT-Reference-Pack.zip** document bundle.
 
 > **Private preparation library.** Repository access is required. Packaging checks are not live compatibility tests, and inclusion does not grant redistribution or resale rights. See the [readiness guide](#understand-the-readiness-labels) and [license notice](LICENSE.md).
 
@@ -47,9 +47,9 @@ Not every topic has a packaging-checked download. The [complete browse list](�
 
 ## Download from GitHub, then browse your folders
 
-### Recommended: download the current vault
+### Recommended: download the ready-packaged vault
 
-1. Use [Download the current vault](https://github.com/QuntmTech/ai-skills-vault-unlocked/archive/refs/heads/main.zip), or choose **Code → Download ZIP** on the repository page.
+1. Use [Download the ready-packaged vault](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest), then choose **AI-SKILLS-VAULT-UNLOCKED.zip** under **Assets**. You can also choose **Code → Download ZIP** on the repository page for a current-branch snapshot.
 2. Extract that outer ZIP once.
 3. Open **📦 CLAUDE → topic → exact skill name**. Every distinct skill has its own visible folder, including skills with setup requirements. Its actual **SKILL.md**, supporting files, and upload ZIP are directly inside. Read **VAULT GUIDE.md** for setup notes.
 4. Select the skill's existing **.zip** file in Claude's skill-upload control.
@@ -57,9 +57,9 @@ Not every topic has a packaging-checked download. The [complete browse list](�
 
 The outer ZIP is the library download. The smaller ZIPs inside it are the individual skill packages. **Extract the library; keep the skill packages zipped for upload.**
 
-### Older packaged snapshots
+### Packaged snapshots
 
-The [release page](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases) preserves packaged snapshots. Under a release's **Assets**, the named vault ZIP contains that release's files and layout. Use the current-branch download above for the new per-skill folders.
+The [release page](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases) preserves packaged snapshots. Under a release's **Assets**, the named vault ZIP contains that release's files and layout. The latest release is the recommended download.
 
 **Which should you choose?** A release is a packaged snapshot. Code → Download ZIP follows the current branch and can include documentation updates made after that release. Both downloads require access while the repository is private.
 
