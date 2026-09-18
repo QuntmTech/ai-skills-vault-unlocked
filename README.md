@@ -100,16 +100,17 @@ Identical whole packages share one download. Distinct variants and every source 
 ```text
 📦 CLAUDE/
   Coding & Development/
-    exact-skill-name/
-      VAULT GUIDE.md      ← requirements and upload instructions
-      skill-name.zip      ← select this for Claude upload
-      SKILL.md            ← original skill instructions
-      scripts/            ← when supplied by the original package
-      references/         ← when supplied
-      assets/             ← when supplied
+    🧪 Testing & Debugging/
+      Python Testing/
+        VAULT GUIDE.md      ← requirements and upload instructions
+        skill-name.zip      ← select this for Claude upload
+        SKILL.md            ← original skill instructions
+        scripts/            ← when supplied by the original package
+        references/         ← when supplied
+        assets/             ← when supplied
 ```
 
-Folders keep their original skill names. When different packages share the same name, a variant suffix prevents overwriting. Incomplete skills remain visible but have no ZIP; their VAULT GUIDE explains what needs repair. Original source material remains preserved in Advanced as well. You do not need to dig through Advanced to find a skill's available files.
+Coding & Development is divided into smaller task-based subcategories and uses readable display names. Canonical names inside SKILL.md and the upload ZIP are unchanged. Other topics retain their established paths. When different packages share the same name, a variant suffix prevents overwriting. Incomplete skills remain visible but have no ZIP; their VAULT GUIDE explains what needs repair. Original source material remains preserved in Advanced as well. You do not need to dig through Advanced to find a skill's available files.
 
 ## Understand the readiness labels
 

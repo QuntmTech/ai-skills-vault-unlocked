@@ -10,17 +10,22 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 - [agent-sort](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/agent-sort/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [aside](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/aside/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:bootstrap](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20bootstrap/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [build-fix](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/build-fix/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [checkpoint](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/checkpoint/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [claw](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/claw/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [code-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/code-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [ccvitals:configure](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/ccvitals%20%E2%80%94%20configure/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [context-budget](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/context-budget/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:_conventions](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20_conventions/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [cpp-build](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/cpp-build/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [cpp-review](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/cpp-review/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [cpp-test](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/cpp-test/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:deploy](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20deploy/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [devfleet](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/devfleet/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [docs](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/docs/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [e2e](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/e2e/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:env](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20env/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [eval](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/eval/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [evolve](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/evolve/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [feature-dev](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/feature-dev/VAULT%20GUIDE.md) — Command — not a skill ZIP
@@ -79,251 +84,265 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [santa-loop](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/santa-loop/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [save-session](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/save-session/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [sessions](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/sessions/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [ccvitals:setup](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/ccvitals%20%E2%80%94%20setup/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [setup-pm](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/setup-pm/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [skill-create](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/skill-create/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [skill-health](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/skill-health/VAULT%20GUIDE.md) — Command — not a skill ZIP
+- [vercel:status](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20status/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [tdd](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/tdd/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [test-coverage](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/test-coverage/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [update-codemaps](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/update-codemaps/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [update-docs](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/update-docs/VAULT%20GUIDE.md) — Command — not a skill ZIP
 - [verify](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/verify/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [ccvitals:configure](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/ccvitals%20%E2%80%94%20configure/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [ccvitals:setup](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/ccvitals%20%E2%80%94%20setup/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:_conventions](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20_conventions/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:bootstrap](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20bootstrap/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:deploy](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20deploy/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:env](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20env/VAULT%20GUIDE.md) — Command — not a skill ZIP
-- [vercel:status](../%F0%9F%93%A6%20CLAUDE/Claude%20Code%20Commands/vercel%20%E2%80%94%20status/VAULT%20GUIDE.md) — Command — not a skill ZIP
 
 ## Coding & Development
 
-- [agent-introspection-debugging](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/agent-introspection-debugging/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ai-regression-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/ai-regression-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [android-clean-architecture](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/android-clean-architecture/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [api-connector-builder](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/api-connector-builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [apify-automation](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/apify-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [backend-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/backend-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [brooks-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/brooks-review/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [brooks-test](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/brooks-test/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [claude-api](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/claude-api/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [cloudflare-deploy](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/cloudflare-deploy/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [code-tour](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/code-tour/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [codebase-recon](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/codebase-recon/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [cpp-coding-standards](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/cpp-coding-standards/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [cpp-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/cpp-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [csharp-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/csharp-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [dart-flutter-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/dart-flutter-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [defi-amm-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/defi-amm-security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [deploy-pipeline](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/deploy-pipeline/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [deployment-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/deployment-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [django-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/django-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [django-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/django-security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [django-tdd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/django-tdd/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [django-verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/django-verification/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [docker-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/docker-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [dotnet-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/dotnet-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [e2e-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/e2e-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [frontend-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/frontend-patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [github-ops](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/github-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [golang-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/golang-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [improve-codebase-architecture](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/improve-codebase-architecture/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [java-coding-standards](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/java-coding-standards/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [kotlin-coroutines-flows](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/kotlin-coroutines-flows/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [kotlin-exposed-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/kotlin-exposed-patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [kotlin-ktor-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/kotlin-ktor-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [kotlin-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/kotlin-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [kotlin-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/kotlin-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [laravel-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/laravel-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [laravel-plugin-discovery](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/laravel-plugin-discovery/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [laravel-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/laravel-security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [laravel-tdd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/laravel-tdd/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [laravel-verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/laravel-verification/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [mcp-builder](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/mcp-builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [mcp-server-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/mcp-server-patterns/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
-- [nodejs-keccak256](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/nodejs-keccak256/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [perl-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/perl-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [perl-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/perl-security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [perl-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/perl-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [plankton-code-quality](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/plankton-code-quality/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [python-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/python-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [python-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/python-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [rust-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/rust-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [rust-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/rust-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [security-bounty-hunter](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/security-bounty-hunter/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [security-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/security-review/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [security-scan](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/security-scan/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [springboot-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/springboot-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [springboot-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/springboot-security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [springboot-tdd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/springboot-tdd/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [springboot-verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/springboot-verification/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [swift-actor-persistence](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/swift-actor-persistence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [swift-concurrency-6-2](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/swift-concurrency-6-2/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [swift-protocol-di-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/swift-protocol-di-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [tdd-workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/tdd-workflow/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [vercel-deploy](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-deploy/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [webapp-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/webapp-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [x-api](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/x-api/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [security-ownership-map](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/security-ownership-map/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [security-threat-model](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/security-threat-model/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [review-agent](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/review-agent/VAULT%20GUIDE.md) — Needs tool/setup review
-- [improve-codebase-architecture](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/improve-codebase-architecture%20%5Bvariant%200474%5D/VAULT%20GUIDE.md) — Needs repair — no ZIP
-- [0.44.0:benchmark-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/0.44.0%20%E2%80%94%20benchmark-testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [0.44.0:vercel-plugin-eval](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/0.44.0%20%E2%80%94%20vercel-plugin-eval/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [github:gh-address-comments](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/github%20%E2%80%94%20gh-address-comments/VAULT%20GUIDE.md) — Needs tool/setup review
-- [github:gh-fix-ci](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/github%20%E2%80%94%20gh-fix-ci/VAULT%20GUIDE.md) — Needs tool/setup review
-- [github:github](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/github%20%E2%80%94%20github/VAULT%20GUIDE.md) — Needs tool/setup review
-- [github:yeet](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/github%20%E2%80%94%20yeet/VAULT%20GUIDE.md) — Needs tool/setup review
-- [openai-templates:artifact-template-operating-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/openai-templates%20%E2%80%94%20artifact-template-operating-review/VAULT%20GUIDE.md) — Needs tool/setup review
-- [supabase:supabase](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/supabase%20%E2%80%94%20supabase/VAULT%20GUIDE.md) — Needs tool/setup review
-- [supabase:supabase-postgres-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/supabase%20%E2%80%94%20supabase-postgres-best-practices/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel-plugin:ai-gateway](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20ai-gateway/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:ai-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20ai-sdk/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:ai-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20ai-sdk%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel-plugin:auth](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20auth/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:bootstrap](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20bootstrap/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:chat-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20chat-sdk/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:chat-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20chat-sdk%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel-plugin:deployments-cicd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20deployments-cicd/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:env-vars](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20env-vars/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:knowledge-update](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20knowledge-update/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [vercel-plugin:microfrontends](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20microfrontends/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:next-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20next-best-practices/VAULT%20GUIDE.md) — Needs repair — no ZIP; 6 identical source copies
-- [vercel-plugin:next-cache-components](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20next-cache-components/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:next-cache-components](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20next-cache-components%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel-plugin:next-forge](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20next-forge/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:next-forge](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20next-forge%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel-plugin:next-upgrade](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20next-upgrade/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:next-upgrade](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20next-upgrade%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel-plugin:nextjs](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20nextjs/VAULT%20GUIDE.md) — Needs repair — no ZIP; 3 identical source copies
-- [vercel-plugin:react-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20react-best-practices/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:routing-middleware](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20routing-middleware/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:runtime-cache](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20runtime-cache/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:shadcn](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20shadcn/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:turbopack](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20turbopack/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:vercel-agent](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-agent/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:vercel-cli](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-cli/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [vercel-plugin:vercel-cli](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-cli%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel-plugin:vercel-connect](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-connect/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [vercel-plugin:vercel-firewall](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-firewall/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:vercel-functions](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-functions/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [vercel-plugin:vercel-react-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-react-best-practices/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel-plugin:vercel-sandbox](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-sandbox/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:vercel-sandbox](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-sandbox%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel-plugin:vercel-storage](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20vercel-storage/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20verification/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [vercel-plugin:workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20workflow/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [vercel-plugin:workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel-plugin%20%E2%80%94%20workflow%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
-- [vercel:agent-browser](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20agent-browser/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:agent-browser-verify](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20agent-browser-verify/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:ai-elements](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20ai-elements/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:ai-gateway](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20ai-gateway/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:ai-generation-persistence](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20ai-generation-persistence/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:ai-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20ai-sdk/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:auth](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20auth/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:bootstrap](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20bootstrap/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:cdn-caching](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20cdn-caching/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:chat-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20chat-sdk/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:cms](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20cms/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:cron-jobs](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20cron-jobs/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:deployments-cicd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20deployments-cicd/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:env-vars](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20env-vars/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:eve](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20eve/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:geist](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20geist/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:geistdocs](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20geistdocs/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:investigation-mode](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20investigation-mode/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:json-render](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20json-render/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:knowledge-update](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20knowledge-update/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:micro](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20micro/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:microfrontends](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20microfrontends/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:ncc](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20ncc/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:next-cache-components](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20next-cache-components/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:next-forge](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20next-forge/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:next-upgrade](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20next-upgrade/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:nextjs](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20nextjs/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:observability](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20observability/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:payments](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20payments/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:react-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20react-best-practices/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:routing-middleware](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20routing-middleware/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:runtime-cache](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20runtime-cache/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:satori](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20satori/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:shadcn](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20shadcn/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:sign-in-with-vercel](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20sign-in-with-vercel/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:swr](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20swr/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:turbopack](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20turbopack/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:turborepo](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20turborepo/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:v0-dev](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20v0-dev/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-agent](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-agent/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-api](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-api/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-cli](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-cli/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-connect](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-connect/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-firewall](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-firewall/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-flags](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-flags/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-functions](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-functions/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-queues](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-queues/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-sandbox](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-sandbox/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-services](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-services/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-storage](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-storage/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20verification/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20workflow/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:learn-codebase](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/claude-mem%20%E2%80%94%20learn-codebase/VAULT%20GUIDE.md) — Needs tool/setup review
-- [dx:review-claudemd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/dx%20%E2%80%94%20review-claudemd/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:receiving-code-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/superpowers%20%E2%80%94%20receiving-code-review/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:requesting-code-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/superpowers%20%E2%80%94%20requesting-code-review/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:systematic-debugging](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/superpowers%20%E2%80%94%20systematic-debugging/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:test-driven-development](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/superpowers%20%E2%80%94%20test-driven-development/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:using-git-worktrees](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/superpowers%20%E2%80%94%20using-git-worktrees/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:cdn-caching](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20cdn-caching%20%5Bvariant%200773%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:eve](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20eve%20%5Bvariant%200778%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:eve](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20eve%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [vercel:knowledge-update](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20knowledge-update%20%5Bvariant%200780%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-cli](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-cli%20%5Bvariant%200797%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-connect](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-connect%20%5Bvariant%200799%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:vercel-functions](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20vercel-functions%20%5Bvariant%200801%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/vercel%20%E2%80%94%20workflow%20%5Bvariant%200807%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+### ☁️ Vercel Platform & Deployment
+
+- [vercel-plugin:auth](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Auth/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:auth](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Auth%20%5Bvariant%200678%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:bootstrap](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Bootstrap/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:bootstrap](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Bootstrap%20%5Bvariant%200679%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:cdn-caching](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/CDN%20Caching/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:cdn-caching](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/CDN%20Caching%20%5Bvariant%200773%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:cron-jobs](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Cron%20Jobs/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:deployments-cicd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Deployments%20Cicd/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:deployments-cicd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Deployments%20Cicd%20%5Bvariant%200684%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:env-vars](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Env%20Vars/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:env-vars](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Env%20Vars%20%5Bvariant%200686%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:investigation-mode](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Investigation%20Mode/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:knowledge-update](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Knowledge%20Update/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vercel:knowledge-update](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Knowledge%20Update%20%5Bvariant%200692%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:knowledge-update](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Knowledge%20Update%20%5Bvariant%200780%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:micro](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Micro/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:ncc](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/NCC/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:observability](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Observability/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:payments](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Payments/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:routing-middleware](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Routing%20Middleware/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:routing-middleware](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Routing%20Middleware%20%5Bvariant%200704%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:runtime-cache](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Runtime%20Cache/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:runtime-cache](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Runtime%20Cache%20%5Bvariant%200705%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:sign-in-with-vercel](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Sign%20In%20With%20Vercel/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:vercel-api](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20API/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:vercel-cli](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20CLI/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vercel-plugin:vercel-cli](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20CLI%20%5Bvariant%200649%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+- [vercel:vercel-cli](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20CLI%20%5Bvariant%200715%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:vercel-cli](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20CLI%20%5Bvariant%200797%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:vercel-connect](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Connect/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vercel:vercel-connect](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Connect%20%5Bvariant%200716%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:vercel-connect](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Connect%20%5Bvariant%200799%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:vercel-firewall](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Firewall/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:vercel-firewall](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Firewall%20%5Bvariant%200717%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:vercel-flags](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Flags/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:vercel-functions](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Functions/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vercel:vercel-functions](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Functions%20%5Bvariant%200719%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:vercel-functions](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Functions%20%5Bvariant%200801%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:vercel-sandbox](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Sandbox/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:vercel-sandbox](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Sandbox%20%5Bvariant%200661%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+- [vercel:vercel-sandbox](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Sandbox%20%5Bvariant%200721%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:vercel-services](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Services/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:vercel-storage](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Storage/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:vercel-storage](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Vercel%20Storage%20%5Bvariant%200723%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Verification/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%98%81%EF%B8%8F%20Vercel%20Platform%20%26%20Deployment/Verification%20%5Bvariant%200724%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+### ⚙️ Backend & APIs
+
+- [backend-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%9A%99%EF%B8%8F%20Backend%20%26%20APIs/Backend%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [django-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%9A%99%EF%B8%8F%20Backend%20%26%20APIs/Django%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [kotlin-ktor-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%9A%99%EF%B8%8F%20Backend%20%26%20APIs/Kotlin%20Ktor%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [laravel-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%9A%99%EF%B8%8F%20Backend%20%26%20APIs/Laravel%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [laravel-plugin-discovery](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%9A%99%EF%B8%8F%20Backend%20%26%20APIs/Laravel%20Plugin%20Discovery/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [springboot-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%E2%9A%99%EF%B8%8F%20Backend%20%26%20APIs/Springboot%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🌐 Vercel Frontend & Next.js
+
+- [vercel:cms](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Cms/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:geist](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Geist/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:geistdocs](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Geistdocs/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:json-render](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/JSON%20Render/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:microfrontends](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Microfrontends/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:microfrontends](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Microfrontends%20%5Bvariant%200695%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:next-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Best%20Practices/VAULT%20GUIDE.md) — Needs repair — no ZIP; 6 identical source copies
+- [vercel-plugin:next-cache-components](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Cache%20Components/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:next-cache-components](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Cache%20Components%20%5Bvariant%200623%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+- [vercel:next-cache-components](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Cache%20Components%20%5Bvariant%200697%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:next-forge](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Forge/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:next-forge](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Forge%20%5Bvariant%200627%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+- [vercel:next-forge](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Forge%20%5Bvariant%200698%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:next-upgrade](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Upgrade/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:next-upgrade](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Upgrade%20%5Bvariant%200631%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+- [vercel:next-upgrade](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Next%20Upgrade%20%5Bvariant%200699%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:nextjs](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Nextjs/VAULT%20GUIDE.md) — Needs repair — no ZIP; 3 identical source copies
+- [vercel:nextjs](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Nextjs%20%5Bvariant%200700%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:react-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/React%20Best%20Practices/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:react-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/React%20Best%20Practices%20%5Bvariant%200703%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:swr](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/SWR/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:satori](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Satori/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:shadcn](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Shadcn/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:shadcn](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Shadcn%20%5Bvariant%200707%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:turbopack](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Turbopack/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:turbopack](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Turbopack%20%5Bvariant%200710%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:turborepo](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Turborepo/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:v0-dev](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/V0%20Dev/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:vercel-react-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Vercel%20Frontend%20%26%20Next.js/Vercel%20React%20Best%20Practices/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+### 🌐 Websites & Frontend
+
+- [frontend-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Websites%20%26%20Frontend/Frontend%20Patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+### 💻 Languages & Frameworks
+
+- [cpp-coding-standards](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/C%2B%2B%20Coding%20Standards/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [dotnet-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/Dotnet%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [java-coding-standards](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/Java%20Coding%20Standards/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [kotlin-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/Kotlin%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [perl-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/Perl%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [python-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/Python%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [rust-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/Rust%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 📱 Mobile & Desktop Apps
+
+- [android-clean-architecture](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Android%20Clean%20Architecture/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [dart-flutter-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Dart%20Flutter%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [kotlin-coroutines-flows](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Kotlin%20Coroutines%20Flows/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [swift-actor-persistence](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Swift%20Actor%20Persistence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [swift-concurrency-6-2](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Swift%20Concurrency%206%202/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🔀 GitHub & Code Review
+
+- [brooks-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Brooks%20Review/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [github:gh-address-comments](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/GitHub%20Address%20Comments/VAULT%20GUIDE.md) — Needs tool/setup review
+- [github:gh-fix-ci](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/GitHub%20Fix%20CI/VAULT%20GUIDE.md) — Needs tool/setup review
+- [github:github](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Github/VAULT%20GUIDE.md) — Needs tool/setup review
+- [github-ops](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Github%20Ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [superpowers:receiving-code-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Receiving%20Code%20Review/VAULT%20GUIDE.md) — Needs tool/setup review
+- [superpowers:requesting-code-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Requesting%20Code%20Review/VAULT%20GUIDE.md) — Needs tool/setup review
+- [review-agent](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Review%20Agent/VAULT%20GUIDE.md) — Needs tool/setup review
+- [dx:review-claudemd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Review%20Claudemd/VAULT%20GUIDE.md) — Needs tool/setup review
+- [superpowers:using-git-worktrees](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Using%20Git%20Worktrees/VAULT%20GUIDE.md) — Needs tool/setup review
+- [github:yeet](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Yeet/VAULT%20GUIDE.md) — Needs tool/setup review
+### 🔌 APIs, MCP & Integrations
+
+- [api-connector-builder](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%8C%20APIs%2C%20MCP%20%26%20Integrations/API%20Connector%20Builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [apify-automation](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%8C%20APIs%2C%20MCP%20%26%20Integrations/Apify%20Automation/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [claude-api](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%8C%20APIs%2C%20MCP%20%26%20Integrations/Claude%20API/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [mcp-builder](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%8C%20APIs%2C%20MCP%20%26%20Integrations/MCP%20Builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [mcp-server-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%8C%20APIs%2C%20MCP%20%26%20Integrations/MCP%20Server%20Patterns/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
+- [x-api](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%8C%20APIs%2C%20MCP%20%26%20Integrations/X%20API/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🔐 Security & Authentication
+
+- [defi-amm-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Defi%20Amm%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [django-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Django%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [laravel-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Laravel%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [perl-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Perl%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [security-bounty-hunter](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Bounty%20Hunter/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [security-ownership-map](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Ownership%20Map/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [security-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Review/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [security-scan](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Scan/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [security-threat-model](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Threat%20Model/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [springboot-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Springboot%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🗄️ Databases & Storage
+
+- [kotlin-exposed-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%97%84%EF%B8%8F%20Databases%20%26%20Storage/Kotlin%20Exposed%20Patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [supabase:supabase](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%97%84%EF%B8%8F%20Databases%20%26%20Storage/Supabase/VAULT%20GUIDE.md) — Needs tool/setup review
+- [supabase:supabase-postgres-best-practices](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%97%84%EF%B8%8F%20Databases%20%26%20Storage/Supabase%20Postgres%20Best%20Practices/VAULT%20GUIDE.md) — Needs tool/setup review
+### 🚀 DevOps & Deployment
+
+- [cloudflare-deploy](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%9A%80%20DevOps%20%26%20Deployment/Cloudflare%20Deploy/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [deploy-pipeline](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%9A%80%20DevOps%20%26%20Deployment/Deploy%20Pipeline/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [deployment-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%9A%80%20DevOps%20%26%20Deployment/Deployment%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [docker-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%9A%80%20DevOps%20%26%20Deployment/Docker%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vercel-deploy](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%9A%80%20DevOps%20%26%20Deployment/Vercel%20Deploy/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🤖 Vercel AI & Automation
+
+- [vercel:ai-elements](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/AI%20Elements/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:ai-gateway](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/AI%20Gateway/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:ai-gateway](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/AI%20Gateway%20%5Bvariant%200675%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:ai-generation-persistence](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/AI%20Generation%20Persistence/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:ai-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/AI%20SDK/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:ai-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/AI%20SDK%20%5Bvariant%200599%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+- [vercel:ai-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/AI%20SDK%20%5Bvariant%200677%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:agent-browser](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Agent%20Browser/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:agent-browser-verify](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Agent%20Browser%20Verify/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:chat-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Chat%20SDK/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel-plugin:chat-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Chat%20SDK%20%5Bvariant%200607%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+- [vercel:chat-sdk](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Chat%20SDK%20%5Bvariant%200681%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:eve](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Eve/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:eve](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Eve%20%5Bvariant%200778%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:eve](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Eve%20%5Bvariant%200779%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vercel-plugin:vercel-agent](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Vercel%20Agent/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [vercel:vercel-agent](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Vercel%20Agent%20%5Bvariant%200713%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:vercel-queues](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Vercel%20Queues/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel-plugin:workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Workflow/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vercel-plugin:workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Workflow%20%5Bvariant%200669%5D/VAULT%20GUIDE.md) — Needs tool/setup review; 6 identical source copies
+- [vercel:workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Workflow%20%5Bvariant%200725%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A4%96%20Vercel%20AI%20%26%20Automation/Workflow%20%5Bvariant%200807%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+### 🧪 Testing & Debugging
+
+- [ai-regression-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/AI%20Regression%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [agent-introspection-debugging](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Agent%20Introspection%20Debugging/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:benchmark-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Benchmark%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [brooks-test](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Brooks%20Test/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [cpp-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/C%2B%2B%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [csharp-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Csharp%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [django-tdd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Django%20TDD/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [django-verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Django%20Verification/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [e2e-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/E2E%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [golang-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Golang%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [kotlin-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Kotlin%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [laravel-tdd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Laravel%20TDD/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [laravel-verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Laravel%20Verification/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [perl-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Perl%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [python-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Python%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [rust-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Rust%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [springboot-tdd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Springboot%20TDD/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [springboot-verification](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Springboot%20Verification/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [swift-protocol-di-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Swift%20Protocol%20Di%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [superpowers:systematic-debugging](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Systematic%20Debugging/VAULT%20GUIDE.md) — Needs tool/setup review
+- [tdd-workflow](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/TDD%20Workflow/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [superpowers:test-driven-development](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Test%20Driven%20Development/VAULT%20GUIDE.md) — Needs tool/setup review
+- [0.44.0:vercel-plugin-eval](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Vercel%20Plugin%20Eval/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [webapp-testing](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%AA%20Testing%20%26%20Debugging/Webapp%20Testing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🧱 Architecture & Code Quality
+
+- [openai-templates:artifact-template-operating-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%B1%20Architecture%20%26%20Code%20Quality/Artifact%20Template%20Operating%20Review/VAULT%20GUIDE.md) — Needs tool/setup review
+- [code-tour](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%B1%20Architecture%20%26%20Code%20Quality/Code%20Tour/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [codebase-recon](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%B1%20Architecture%20%26%20Code%20Quality/Codebase%20Recon/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [improve-codebase-architecture](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%B1%20Architecture%20%26%20Code%20Quality/Improve%20Codebase%20Architecture/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [improve-codebase-architecture](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%B1%20Architecture%20%26%20Code%20Quality/Improve%20Codebase%20Architecture%20%5Bvariant%200474%5D/VAULT%20GUIDE.md) — Needs repair — no ZIP
+- [claude-mem:learn-codebase](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%B1%20Architecture%20%26%20Code%20Quality/Learn%20Codebase/VAULT%20GUIDE.md) — Needs tool/setup review
+- [nodejs-keccak256](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%B1%20Architecture%20%26%20Code%20Quality/Nodejs%20Keccak256/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [plankton-code-quality](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%A7%B1%20Architecture%20%26%20Code%20Quality/Plankton%20Code%20Quality/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 
 ## Design & Media
 
 - [all-images-ai-automation](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/all-images-ai-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [api-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/api-design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [openai-templates:artifact-template-design-report](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/openai-templates%20%E2%80%94%20artifact-template-design-report/VAULT%20GUIDE.md) — Needs tool/setup review
+- [openai-templates:artifact-template-system-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/openai-templates%20%E2%80%94%20artifact-template-system-design/VAULT%20GUIDE.md) — Needs tool/setup review
 - [canvas-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/canvas-design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [design-an-interface](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/design-an-interface/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [design-an-interface](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/design-an-interface%20%5Bvariant%200470%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:design-is](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/claude-mem%20%E2%80%94%20design-is/VAULT%20GUIDE.md) — Needs tool/setup review
 - [dmux-workflows](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/dmux-workflows/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [figma-implement-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/figma-implement-design/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
+- [figma-use](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/figma-use/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
 - [frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/frontend-design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [frontend-design:frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/frontend-design%20%E2%80%94%20frontend-design/VAULT%20GUIDE.md) — Needs tool/setup review
 - [frontend-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/frontend-slides/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [google-drive:google-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/google-drive%20%E2%80%94%20google-slides/VAULT%20GUIDE.md) — Needs tool/setup review
+- [google-drive:google-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/google-drive%20%E2%80%94%20google-slides%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review
 - [imagegen](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/imagegen/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [imagegen](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/imagegen%20%5Bvariant%200221%5D/VAULT%20GUIDE.md) — Needs tool/setup review
 - [liquid-glass-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/liquid-glass-design/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
 - [manim-video](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/manim-video/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [pptx](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/pptx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [presentations:Presentations](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/presentations%20%E2%80%94%20Presentations/VAULT%20GUIDE.md) — Needs tool/setup review
 - [remotion-video-creation](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/remotion-video-creation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [sora](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/sora/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [swiftui-patterns](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/swiftui-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [theme-factory](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/theme-factory/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [ui-demo](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/ui-demo/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [video-editing](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/video-editing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [videodb](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/videodb/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [figma-implement-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/figma-implement-design/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
-- [figma-use](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/figma-use/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
-- [pptx](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/pptx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [theme-factory](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/theme-factory/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [imagegen](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/imagegen%20%5Bvariant%200221%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [design-an-interface](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/design-an-interface%20%5Bvariant%200470%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [google-drive:google-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/google-drive%20%E2%80%94%20google-slides/VAULT%20GUIDE.md) — Needs tool/setup review
-- [google-drive:google-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/google-drive%20%E2%80%94%20google-slides%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review
-- [openai-templates:artifact-template-design-report](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/openai-templates%20%E2%80%94%20artifact-template-design-report/VAULT%20GUIDE.md) — Needs tool/setup review
-- [openai-templates:artifact-template-system-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/openai-templates%20%E2%80%94%20artifact-template-system-design/VAULT%20GUIDE.md) — Needs tool/setup review
-- [presentations:Presentations](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/presentations%20%E2%80%94%20Presentations/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:design-is](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/claude-mem%20%E2%80%94%20design-is/VAULT%20GUIDE.md) — Needs tool/setup review
-- [frontend-design:frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/frontend-design%20%E2%80%94%20frontend-design/VAULT%20GUIDE.md) — Needs tool/setup review
 
 ## Marketing & Business
 
-- [brand-guidelines](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/brand-guidelines/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [email-ops](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/email-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [investor-materials](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/investor-materials/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [investor-outreach](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/investor-outreach/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [lead-intelligence](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/lead-intelligence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [market-research](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/market-research/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [seo](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/seo/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [social-graph-ranker](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/social-graph-ranker/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [social-media](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/social-media/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
 - [ads](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [ads-apple](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-apple/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [ads-audit](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
@@ -347,23 +366,30 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [openai-templates:artifact-template-business-review](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/openai-templates%20%E2%80%94%20artifact-template-business-review/VAULT%20GUIDE.md) — Needs tool/setup review
 - [openai-templates:artifact-template-market-trends-report](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/openai-templates%20%E2%80%94%20artifact-template-market-trends-report/VAULT%20GUIDE.md) — Needs tool/setup review
 - [openai-templates:artifact-template-sales-pipeline](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/openai-templates%20%E2%80%94%20artifact-template-sales-pipeline/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel-plugin:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel-plugin%20%E2%80%94%20marketplace/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [brand-guidelines](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/brand-guidelines/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
 - [vercel:email](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel%20%E2%80%94%20email/VAULT%20GUIDE.md) — Needs tool/setup review
+- [email-ops](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/email-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [investor-materials](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/investor-materials/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [investor-outreach](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/investor-outreach/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [lead-intelligence](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/lead-intelligence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [market-research](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/market-research/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [vercel-plugin:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel-plugin%20%E2%80%94%20marketplace/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [vercel:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel%20%E2%80%94%20marketplace/VAULT%20GUIDE.md) — Needs tool/setup review
 - [vercel:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel%20%E2%80%94%20marketplace%20%5Bvariant%200781%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [seo](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/seo/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [social-graph-ranker](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/social-graph-ranker/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [social-media](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/social-media/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
 
 ## Research & Data
 
+- [openai-templates:artifact-template-experiment-analysis](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/openai-templates%20%E2%80%94%20artifact-template-experiment-analysis/VAULT%20GUIDE.md) — Needs tool/setup review
 - [data-scraper-agent](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/data-scraper-agent/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [database-migrations](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/database-migrations/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [deep-research](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/deep-research/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [exa-search](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/exa-search/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [finance-billing-ops](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/finance-billing-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [llm-trading-agent-security](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/llm-trading-agent-security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [paperjsx](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/paperjsx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [research-ops](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/research-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [search-first](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/search-first/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [deep-research-work:deep-research](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/deep-research-work%20%E2%80%94%20deep-research/VAULT%20GUIDE.md) — Needs tool/setup review
+- [exa-search](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/exa-search/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [spreadsheets:excel-live-control](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/spreadsheets%20%E2%80%94%20excel-live-control/VAULT%20GUIDE.md) — Needs tool/setup review
+- [finance-billing-ops](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/finance-billing-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [hugging-face:hf-cli](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20hf-cli/VAULT%20GUIDE.md) — Needs tool/setup review
 - [hugging-face:huggingface-community-evals](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-community-evals/VAULT%20GUIDE.md) — Needs tool/setup review
 - [hugging-face:huggingface-datasets](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-datasets/VAULT%20GUIDE.md) — Needs tool/setup review
@@ -374,11 +400,13 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [hugging-face:huggingface-papers](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-papers/VAULT%20GUIDE.md) — Needs tool/setup review
 - [hugging-face:huggingface-trackio](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-trackio/VAULT%20GUIDE.md) — Needs tool/setup review
 - [hugging-face:huggingface-vision-trainer](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-vision-trainer/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:transformers-js](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20transformers-js/VAULT%20GUIDE.md) — Needs tool/setup review
-- [openai-templates:artifact-template-experiment-analysis](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/openai-templates%20%E2%80%94%20artifact-template-experiment-analysis/VAULT%20GUIDE.md) — Needs tool/setup review
-- [spreadsheets:excel-live-control](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/spreadsheets%20%E2%80%94%20excel-live-control/VAULT%20GUIDE.md) — Needs tool/setup review
-- [spreadsheets:Spreadsheets](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/spreadsheets%20%E2%80%94%20Spreadsheets/VAULT%20GUIDE.md) — Needs tool/setup review
+- [llm-trading-agent-security](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/llm-trading-agent-security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [claude-mem:mem-search](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/claude-mem%20%E2%80%94%20mem-search/VAULT%20GUIDE.md) — Needs tool/setup review
+- [paperjsx](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/paperjsx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [research-ops](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/research-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [search-first](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/search-first/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [spreadsheets:Spreadsheets](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/spreadsheets%20%E2%80%94%20Spreadsheets/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:transformers-js](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20transformers-js/VAULT%20GUIDE.md) — Needs tool/setup review
 
 ## Tools & Workflows
 
@@ -388,139 +416,6 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [ai-first-engineering](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ai-first-engineering/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
 - [algorithmic-art](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/algorithmic-art/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [amazon-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/amazon-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [automation-audit-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/automation-audit-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [autonomous-loops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/autonomous-loops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [blueprint](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/blueprint/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [brooks-audit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/brooks-audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [brooks-debt](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/brooks-debt/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [brooks-health](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/brooks-health/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [brooks-sweep](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/brooks-sweep/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [browseai-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browseai-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [browser](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser/VAULT%20GUIDE.md) — Needs tool/setup review
-- [browser-tool-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser-tool-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [carrier-relationship-management](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/carrier-relationship-management/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [caveman](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/caveman/VAULT%20GUIDE.md) — Packaging checked; 3 identical source copies
-- [claude-devfleet](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-devfleet/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [clickhouse-io](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/clickhouse-io/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [coding-standards](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/coding-standards/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [compose-multiplatform-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/compose-multiplatform-patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [configure-ecc](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/configure-ecc/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [connect](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/connect/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [connect-apps](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/connect-apps/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [connections-optimizer](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/connections-optimizer/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [continuous-agent-loop](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/continuous-agent-loop/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [continuous-learning](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/continuous-learning/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [continuous-learning-v2](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/continuous-learning-v2/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [cost-aware-llm-pipeline](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/cost-aware-llm-pipeline/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [council](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/council/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [crosspost](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/crosspost/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [customer-billing-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/customer-billing-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [customs-trade-compliance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/customs-trade-compliance/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [dailybot-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dailybot-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [dashboard-builder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dashboard-builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [diagnose](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/diagnose/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [doc-coauthoring](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/doc-coauthoring/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [domain-model](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/domain-model/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [ecc-tools-cost-audit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ecc-tools-cost-audit/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
-- [energy-procurement](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/energy-procurement/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [enterprise-agent-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/enterprise-agent-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [eval-harness](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/eval-harness/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [evm-token-decimals](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/evm-token-decimals/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [fal-ai-media](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/fal-ai-media/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [foundation-models-on-device](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/foundation-models-on-device/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [golang-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/golang-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [google-workspace-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-workspace-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [grill-me](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/grill-me/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [healthcare-phi-compliance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/healthcare-phi-compliance/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [hipaa-compliance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/hipaa-compliance/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [hookify-rules](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/hookify-rules/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [inventory-demand-planning](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/inventory-demand-planning/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [iterative-retrieval](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/iterative-retrieval/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [jira-integration](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/jira-integration/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [jpa-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/jpa-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [knowledge-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/knowledge-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [logistics-exception-management](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/logistics-exception-management/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [messages-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/messages-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [nanoclaw-repl](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/nanoclaw-repl/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [nestjs-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/nestjs-patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [notion-knowledge-capture](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion-knowledge-capture/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [notion-spec-to-implementation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion-spec-to-implementation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [openai-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-docs/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [playwright](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/playwright/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [postgres-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/postgres-patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [product-capability](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/product-capability/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [production-scheduling](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/production-scheduling/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [project-flow-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/project-flow-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [prompt-optimizer](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/prompt-optimizer/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [qa](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/qa/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [quality-nonconformance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/quality-nonconformance/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [ralphinho-rfc-pipeline](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ralphinho-rfc-pipeline/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [regex-vs-llm-structured-text](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/regex-vs-llm-structured-text/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [returns-reverse-logistics](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/returns-reverse-logistics/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [screenshot](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/screenshot/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [setup-matt-pocock-skills](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/setup-matt-pocock-skills/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [setup-pre-commit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/setup-pre-commit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [skill-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/skill-creator/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [skill-stocktake](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/skill-stocktake/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [strategic-compact](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/strategic-compact/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [team-builder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/team-builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [terminal-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/terminal-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [to-issues](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/to-issues/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [to-prd](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/to-prd/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [token-budget-advisor](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/token-budget-advisor/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
-- [triage-issue](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/triage-issue/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [ubiquitous-language](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ubiquitous-language/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [unified-notifications-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/unified-notifications-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [verification-loop](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/verification-loop/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [visa-doc-translate](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/visa-doc-translate/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [workspace-surface-audit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/workspace-surface-audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [zoom-out](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/zoom-out/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [gh-address-comments](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/gh-address-comments/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [gh-fix-ci](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/gh-fix-ci/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [internal-comms](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/internal-comms/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [jupyter-notebook](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/jupyter-notebook/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [last30days](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/last30days/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [linear](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/linear/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [notion-meeting-intelligence](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion-meeting-intelligence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [sentry](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/sentry/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [web-artifacts-builder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/web-artifacts-builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [xlsx](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/xlsx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [openai-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-docs%20%5Bvariant%200222%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [plugin-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/plugin-creator/VAULT%20GUIDE.md) — Needs tool/setup review
-- [skill-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/skill-creator%20%5Bvariant%200225%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [skill-installer](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/skill-installer/VAULT%20GUIDE.md) — Needs tool/setup review
-- [browser](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser%20%5Bvariant%200276%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [browser-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser-automation/VAULT%20GUIDE.md) — Needs tool/setup review
-- [diagnose](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/diagnose%20%5Bvariant%200471%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [grill-me](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/grill-me%20%5Bvariant%200473%5D/VAULT%20GUIDE.md) — Packaging checked
-- [miller-memory](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/miller-memory/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [qa](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/qa%20%5Bvariant%200476%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [setup-pre-commit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/setup-pre-commit%20%5Bvariant%200477%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [to-issues](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/to-issues%20%5Bvariant%200478%5D/VAULT%20GUIDE.md) — Packaging checked
-- [to-prd](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/to-prd%20%5Bvariant%200479%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [ubiquitous-language](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ubiquitous-language%20%5Bvariant%200481%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [zoom-out](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/zoom-out%20%5Bvariant%200483%5D/VAULT%20GUIDE.md) — Packaging checked
-- [0.44.0:benchmark-agents](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20benchmark-agents/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [0.44.0:benchmark-e2e](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20benchmark-e2e/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [0.44.0:benchmark-sandbox](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20benchmark-sandbox/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [0.44.0:plugin-audit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20plugin-audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [0.44.0:release](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20release/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [app-69b31dc2110c8191b8b47dc98fe5a052:collect-files-with-request](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20collect-files-with-request/VAULT%20GUIDE.md) — Needs tool/setup review
-- [app-69b31dc2110c8191b8b47dc98fe5a052:inspect-dropbox-file](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20inspect-dropbox-file/VAULT%20GUIDE.md) — Needs tool/setup review
-- [app-69b31dc2110c8191b8b47dc98fe5a052:organize-dropbox-folder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20organize-dropbox-folder/VAULT%20GUIDE.md) — Needs tool/setup review
-- [browser:control-in-app-browser](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser%20%E2%80%94%20control-in-app-browser/VAULT%20GUIDE.md) — Needs tool/setup review
-- [chrome:control-chrome](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/chrome%20%E2%80%94%20control-chrome/VAULT%20GUIDE.md) — Needs tool/setup review
-- [computer-use:computer-use](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/computer-use%20%E2%80%94%20computer-use/VAULT%20GUIDE.md) — Needs tool/setup review
-- [google-drive:google-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-docs/VAULT%20GUIDE.md) — Needs tool/setup review
-- [google-drive:google-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-docs%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review
-- [google-drive:google-drive](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-drive/VAULT%20GUIDE.md) — Needs repair — no ZIP
-- [google-drive:google-drive](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-drive%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs repair — no ZIP
-- [google-drive:google-drive-comments](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-drive-comments/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [google-drive:google-sheets](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-sheets/VAULT%20GUIDE.md) — Needs tool/setup review
-- [google-drive:google-sheets](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-sheets%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review
-- [notion:notion-knowledge-capture](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion%20%E2%80%94%20notion-knowledge-capture/VAULT%20GUIDE.md) — Needs tool/setup review
-- [notion:notion-meeting-intelligence](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion%20%E2%80%94%20notion-meeting-intelligence/VAULT%20GUIDE.md) — Needs tool/setup review
-- [notion:notion-spec-to-implementation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion%20%E2%80%94%20notion-spec-to-implementation/VAULT%20GUIDE.md) — Needs tool/setup review
 - [openai-templates:artifact-template-analytics-dashboard](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-templates%20%E2%80%94%20artifact-template-analytics-dashboard/VAULT%20GUIDE.md) — Needs tool/setup review
 - [openai-templates:artifact-template-financial-budget](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-templates%20%E2%80%94%20artifact-template-financial-budget/VAULT%20GUIDE.md) — Needs tool/setup review
 - [openai-templates:artifact-template-investment-committee-memo](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-templates%20%E2%80%94%20artifact-template-investment-committee-memo/VAULT%20GUIDE.md) — Needs tool/setup review
@@ -534,66 +429,199 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [openai-templates:artifact-template-strategy-memorandum](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-templates%20%E2%80%94%20artifact-template-strategy-memorandum/VAULT%20GUIDE.md) — Needs tool/setup review
 - [openai-templates:artifact-template-team-alignment](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-templates%20%E2%80%94%20artifact-template-team-alignment/VAULT%20GUIDE.md) — Needs tool/setup review
 - [openai-templates:artifact-template-three-statement-forecast](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-templates%20%E2%80%94%20artifact-template-three-statement-forecast/VAULT%20GUIDE.md) — Needs tool/setup review
+- [automation-audit-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/automation-audit-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [autonomous-loops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/autonomous-loops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:babysit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20babysit/VAULT%20GUIDE.md) — Needs tool/setup review
+- [0.44.0:benchmark-agents](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20benchmark-agents/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:benchmark-e2e](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20benchmark-e2e/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:benchmark-sandbox](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20benchmark-sandbox/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [blueprint](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/blueprint/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [superpowers:brainstorming](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20brainstorming/VAULT%20GUIDE.md) — Needs tool/setup review
+- [brooks-audit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/brooks-audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [brooks-debt](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/brooks-debt/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [brooks-health](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/brooks-health/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [brooks-sweep](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/brooks-sweep/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [browseai-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browseai-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [browser](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser/VAULT%20GUIDE.md) — Needs tool/setup review
+- [browser](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser%20%5Bvariant%200276%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [browser-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser-automation/VAULT%20GUIDE.md) — Needs tool/setup review
+- [browser-tool-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser-tool-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [carrier-relationship-management](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/carrier-relationship-management/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [caveman](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/caveman/VAULT%20GUIDE.md) — Packaging checked; 3 identical source copies
+- [claude-devfleet](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-devfleet/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [clickhouse-io](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/clickhouse-io/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [dx:clone](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20clone/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:cloud-sync](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20cloud-sync/VAULT%20GUIDE.md) — Needs tool/setup review
+- [coding-standards](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/coding-standards/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [app-69b31dc2110c8191b8b47dc98fe5a052:collect-files-with-request](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20collect-files-with-request/VAULT%20GUIDE.md) — Needs tool/setup review
+- [compose-multiplatform-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/compose-multiplatform-patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [computer-use:computer-use](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/computer-use%20%E2%80%94%20computer-use/VAULT%20GUIDE.md) — Needs tool/setup review
+- [configure-ecc](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/configure-ecc/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [connect](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/connect/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [connect-apps](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/connect-apps/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [stripe:connect-recommend](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20connect-recommend/VAULT%20GUIDE.md) — Needs tool/setup review
+- [connections-optimizer](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/connections-optimizer/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [continuous-agent-loop](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/continuous-agent-loop/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [continuous-learning](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/continuous-learning/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [continuous-learning-v2](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/continuous-learning-v2/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [chrome:control-chrome](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/chrome%20%E2%80%94%20control-chrome/VAULT%20GUIDE.md) — Needs tool/setup review
+- [browser:control-in-app-browser](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/browser%20%E2%80%94%20control-in-app-browser/VAULT%20GUIDE.md) — Needs tool/setup review
+- [cost-aware-llm-pipeline](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/cost-aware-llm-pipeline/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [council](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/council/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [crosspost](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/crosspost/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [customer-billing-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/customer-billing-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [customs-trade-compliance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/customs-trade-compliance/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [dailybot-automation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dailybot-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [dashboard-builder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dashboard-builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [diagnose](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/diagnose/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [diagnose](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/diagnose%20%5Bvariant%200471%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [superpowers:dispatching-parallel-agents](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20dispatching-parallel-agents/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:do](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20do/VAULT%20GUIDE.md) — Needs tool/setup review
+- [doc-coauthoring](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/doc-coauthoring/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [domain-model](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/domain-model/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [ecc-tools-cost-audit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ecc-tools-cost-audit/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
+- [energy-procurement](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/energy-procurement/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [enterprise-agent-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/enterprise-agent-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [eval-harness](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/eval-harness/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [evm-token-decimals](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/evm-token-decimals/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [superpowers:executing-plans](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20executing-plans/VAULT%20GUIDE.md) — Needs tool/setup review
+- [fal-ai-media](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/fal-ai-media/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [superpowers:finishing-a-development-branch](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20finishing-a-development-branch/VAULT%20GUIDE.md) — Needs tool/setup review
+- [foundation-models-on-device](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/foundation-models-on-device/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [gh-address-comments](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/gh-address-comments/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [gh-fix-ci](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/gh-fix-ci/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [dx:gha](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20gha/VAULT%20GUIDE.md) — Needs tool/setup review
+- [golang-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/golang-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [google-drive:google-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-docs/VAULT%20GUIDE.md) — Needs tool/setup review
+- [google-drive:google-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-docs%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review
+- [google-drive:google-drive](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-drive/VAULT%20GUIDE.md) — Needs repair — no ZIP
+- [google-drive:google-drive](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-drive%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs repair — no ZIP
+- [google-drive:google-drive-comments](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-drive-comments/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [google-drive:google-sheets](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-sheets/VAULT%20GUIDE.md) — Needs tool/setup review
+- [google-drive:google-sheets](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-drive%20%E2%80%94%20google-sheets%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review
+- [google-workspace-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/google-workspace-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [grill-me](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/grill-me/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [grill-me](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/grill-me%20%5Bvariant%200473%5D/VAULT%20GUIDE.md) — Packaging checked
+- [dx:half-clone](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20half-clone/VAULT%20GUIDE.md) — Needs tool/setup review
+- [dx:handoff](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20handoff/VAULT%20GUIDE.md) — Needs tool/setup review
+- [healthcare-phi-compliance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/healthcare-phi-compliance/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [hipaa-compliance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/hipaa-compliance/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [hookify-rules](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/hookify-rules/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:how-it-works](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20how-it-works/VAULT%20GUIDE.md) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:inspect-dropbox-file](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20inspect-dropbox-file/VAULT%20GUIDE.md) — Needs tool/setup review
+- [internal-comms](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/internal-comms/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [inventory-demand-planning](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/inventory-demand-planning/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [iterative-retrieval](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/iterative-retrieval/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [jira-integration](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/jira-integration/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [jpa-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/jpa-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [jupyter-notebook](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/jupyter-notebook/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [andrej-karpathy-skills:karpathy-guidelines](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/andrej-karpathy-skills%20%E2%80%94%20karpathy-guidelines/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:knowledge-agent](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20knowledge-agent/VAULT%20GUIDE.md) — Needs tool/setup review
+- [knowledge-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/knowledge-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [last30days](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/last30days/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [linear](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/linear/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [logistics-exception-management](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/logistics-exception-management/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:make-plan](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20make-plan/VAULT%20GUIDE.md) — Needs tool/setup review
+- [messages-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/messages-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [miller-memory](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/miller-memory/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:mode-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20mode-creator/VAULT%20GUIDE.md) — Needs tool/setup review
+- [nanoclaw-repl](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/nanoclaw-repl/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [nestjs-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/nestjs-patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [notion-knowledge-capture](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion-knowledge-capture/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [notion:notion-knowledge-capture](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion%20%E2%80%94%20notion-knowledge-capture/VAULT%20GUIDE.md) — Needs tool/setup review
+- [notion-meeting-intelligence](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion-meeting-intelligence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [notion:notion-meeting-intelligence](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion%20%E2%80%94%20notion-meeting-intelligence/VAULT%20GUIDE.md) — Needs tool/setup review
+- [notion-spec-to-implementation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion-spec-to-implementation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [notion:notion-spec-to-implementation](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/notion%20%E2%80%94%20notion-spec-to-implementation/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:oh-my-issues](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20oh-my-issues/VAULT%20GUIDE.md) — Needs tool/setup review
+- [openai-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-docs/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [openai-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/openai-docs%20%5Bvariant%200222%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:organize-dropbox-folder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20organize-dropbox-folder/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:pathfinder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20pathfinder/VAULT%20GUIDE.md) — Needs tool/setup review
+- [playwright](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/playwright/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:plugin-audit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20plugin-audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [plugin-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/plugin-creator/VAULT%20GUIDE.md) — Needs tool/setup review
 - [plugin-management:plugin-management](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/plugin-management%20%E2%80%94%20plugin-management/VAULT%20GUIDE.md) — Needs tool/setup review
+- [postgres-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/postgres-patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [product-capability](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/product-capability/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [production-scheduling](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/production-scheduling/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [project-flow-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/project-flow-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [prompt-optimizer](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/prompt-optimizer/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [qa](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/qa/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [qa](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/qa%20%5Bvariant%200476%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [quality-nonconformance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/quality-nonconformance/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [ralphinho-rfc-pipeline](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ralphinho-rfc-pipeline/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [dx:reddit-fetch](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20reddit-fetch/VAULT%20GUIDE.md) — Needs tool/setup review
+- [regex-vs-llm-structured-text](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/regex-vs-llm-structured-text/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [0.44.0:release](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0.44.0%20%E2%80%94%20release/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [returns-reverse-logistics](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/returns-reverse-logistics/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [screenshot](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/screenshot/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [sentry](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/sentry/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [setup-matt-pocock-skills](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/setup-matt-pocock-skills/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [setup-pre-commit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/setup-pre-commit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [setup-pre-commit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/setup-pre-commit%20%5Bvariant%200477%5D/VAULT%20GUIDE.md) — Needs tool/setup review
 - [sites:sites-building](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/sites%20%E2%80%94%20sites-building/VAULT%20GUIDE.md) — Needs tool/setup review
 - [sites:sites-hosting](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/sites%20%E2%80%94%20sites-hosting/VAULT%20GUIDE.md) — Needs tool/setup review
-- [stripe:connect-recommend](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20connect-recommend/VAULT%20GUIDE.md) — Needs tool/setup review
+- [skill-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/skill-creator/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [skill-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/skill-creator%20%5Bvariant%200225%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [skill-installer](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/skill-installer/VAULT%20GUIDE.md) — Needs tool/setup review
+- [skill-stocktake](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/skill-stocktake/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:smart-explore](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20smart-explore/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:standup](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20standup/VAULT%20GUIDE.md) — Needs tool/setup review
+- [strategic-compact](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/strategic-compact/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [stripe:stripe-apps](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20stripe-apps/VAULT%20GUIDE.md) — Needs tool/setup review
 - [stripe:stripe-best-practices](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20stripe-best-practices/VAULT%20GUIDE.md) — Needs tool/setup review
 - [stripe:stripe-directory](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20stripe-directory/VAULT%20GUIDE.md) — Needs tool/setup review
 - [stripe:stripe-docs](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20stripe-docs/VAULT%20GUIDE.md) — Needs tool/setup review
 - [stripe:stripe-projects](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20stripe-projects/VAULT%20GUIDE.md) — Needs tool/setup review
-- [stripe:upgrade-stripe](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20upgrade-stripe/VAULT%20GUIDE.md) — Needs tool/setup review
-- [template-creator:template-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/template-creator%20%E2%80%94%20template-creator/VAULT%20GUIDE.md) — Needs tool/setup review
-- [visualize:visualize](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/visualize%20%E2%80%94%20visualize/VAULT%20GUIDE.md) — Needs tool/setup review
-- [andrej-karpathy-skills:karpathy-guidelines](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/andrej-karpathy-skills%20%E2%80%94%20karpathy-guidelines/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:babysit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20babysit/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:cloud-sync](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20cloud-sync/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:do](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20do/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:how-it-works](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20how-it-works/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:knowledge-agent](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20knowledge-agent/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:make-plan](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20make-plan/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:mode-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20mode-creator/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:oh-my-issues](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20oh-my-issues/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:pathfinder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20pathfinder/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:smart-explore](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20smart-explore/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:standup](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20standup/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:timeline-report](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20timeline-report/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:version-bump](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20version-bump/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:weekly-digests](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20weekly-digests/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:what-the](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20what-the/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:wowerpoint](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20wowerpoint/VAULT%20GUIDE.md) — Needs tool/setup review
-- [dx:clone](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20clone/VAULT%20GUIDE.md) — Needs tool/setup review
-- [dx:gha](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20gha/VAULT%20GUIDE.md) — Needs tool/setup review
-- [dx:half-clone](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20half-clone/VAULT%20GUIDE.md) — Needs tool/setup review
-- [dx:handoff](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20handoff/VAULT%20GUIDE.md) — Needs tool/setup review
-- [dx:reddit-fetch](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/dx%20%E2%80%94%20reddit-fetch/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:brainstorming](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20brainstorming/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:dispatching-parallel-agents](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20dispatching-parallel-agents/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:executing-plans](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20executing-plans/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:finishing-a-development-branch](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20finishing-a-development-branch/VAULT%20GUIDE.md) — Needs tool/setup review
 - [superpowers:subagent-driven-development](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20subagent-driven-development/VAULT%20GUIDE.md) — Needs repair — no ZIP
+- [team-builder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/team-builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [template-creator:template-creator](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/template-creator%20%E2%80%94%20template-creator/VAULT%20GUIDE.md) — Needs tool/setup review
+- [terminal-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/terminal-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:timeline-report](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20timeline-report/VAULT%20GUIDE.md) — Needs tool/setup review
+- [to-issues](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/to-issues/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [to-issues](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/to-issues%20%5Bvariant%200478%5D/VAULT%20GUIDE.md) — Packaging checked
+- [to-prd](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/to-prd/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [to-prd](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/to-prd%20%5Bvariant%200479%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [token-budget-advisor](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/token-budget-advisor/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
+- [triage-issue](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/triage-issue/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [ubiquitous-language](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ubiquitous-language/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ubiquitous-language](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/ubiquitous-language%20%5Bvariant%200481%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [unified-notifications-ops](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/unified-notifications-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [stripe:upgrade-stripe](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/stripe%20%E2%80%94%20upgrade-stripe/VAULT%20GUIDE.md) — Needs tool/setup review
 - [superpowers:using-superpowers](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20using-superpowers/VAULT%20GUIDE.md) — Needs tool/setup review
 - [superpowers:verification-before-completion](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/superpowers%20%E2%80%94%20verification-before-completion/VAULT%20GUIDE.md) — Needs tool/setup review
+- [verification-loop](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/verification-loop/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:version-bump](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20version-bump/VAULT%20GUIDE.md) — Needs tool/setup review
+- [visa-doc-translate](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/visa-doc-translate/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [visualize:visualize](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/visualize%20%E2%80%94%20visualize/VAULT%20GUIDE.md) — Needs tool/setup review
+- [web-artifacts-builder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/web-artifacts-builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:weekly-digests](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20weekly-digests/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:what-the](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20what-the/VAULT%20GUIDE.md) — Needs tool/setup review
+- [workspace-surface-audit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/workspace-surface-audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:wowerpoint](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/claude-mem%20%E2%80%94%20wowerpoint/VAULT%20GUIDE.md) — Needs tool/setup review
+- [xlsx](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/xlsx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [zoom-out](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/zoom-out/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [zoom-out](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/zoom-out%20%5Bvariant%200483%5D/VAULT%20GUIDE.md) — Packaging checked
 
 ## Writing & Documents
 
 - [api2pdf-automation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/api2pdf-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [article-writing](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/article-writing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [brand-voice](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/brand-voice/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [app-69b31dc2110c8191b8b47dc98fe5a052:clean-up-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20clean-up-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
 - [content-engine](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/content-engine/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [content-hash-cache-pattern](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/content-hash-cache-pattern/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [documents:documents](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/documents%20%E2%80%94%20documents/VAULT%20GUIDE.md) — Needs tool/setup review
 - [docx](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/docx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [app-69b31dc2110c8191b8b47dc98fe5a052:find-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20find-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
+- [humanizer](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/humanizer/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [notion-research-documentation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/notion-research-documentation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [notion:notion-research-documentation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/notion%20%E2%80%94%20notion-research-documentation/VAULT%20GUIDE.md) — Needs tool/setup review
 - [nutrient-document-processing](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/nutrient-document-processing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [pdf](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/pdf/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [write-a-skill](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/write-a-skill/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [humanizer](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/humanizer/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [app-69b31dc2110c8191b8b47dc98fe5a052:clean-up-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20clean-up-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
-- [app-69b31dc2110c8191b8b47dc98fe5a052:find-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20find-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
-- [app-69b31dc2110c8191b8b47dc98fe5a052:share-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20share-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
-- [documents:documents](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/documents%20%E2%80%94%20documents/VAULT%20GUIDE.md) — Needs tool/setup review
-- [notion:notion-research-documentation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/notion%20%E2%80%94%20notion-research-documentation/VAULT%20GUIDE.md) — Needs tool/setup review
 - [pdf:pdf](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/pdf%20%E2%80%94%20pdf/VAULT%20GUIDE.md) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:share-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20share-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
+- [write-a-skill](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/write-a-skill/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
 - [superpowers:writing-plans](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/superpowers%20%E2%80%94%20writing-plans/VAULT%20GUIDE.md) — Needs tool/setup review
 - [superpowers:writing-skills](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/superpowers%20%E2%80%94%20writing-skills/VAULT%20GUIDE.md) — Needs repair — no ZIP

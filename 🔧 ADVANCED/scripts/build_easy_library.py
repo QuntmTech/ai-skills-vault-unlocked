@@ -4,6 +4,7 @@ import argparse
 import hashlib
 import io
 import json
+import posixpath
 import re
 import tempfile
 import zipfile
@@ -55,10 +56,64 @@ def safe_payload(value):
     return json.dumps(value, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
 
 
+def friendly_name(label):
+    """Readable browsing name; canonical skill names inside packages stay unchanged."""
+    name = label.split(":")[-1].replace("-", " ").replace("_", " ").strip().title()
+    acronyms = {
+        "Ai": "AI", "Api": "API", "Cdn": "CDN", "Ci": "CI", "Cli": "CLI",
+        "Cpp": "C++", "Css": "CSS", "E2E": "E2E", "Gh": "GitHub", "Html": "HTML",
+        "Json": "JSON", "Mcp": "MCP", "Ncc": "NCC", "Orm": "ORM", "Pr": "PR",
+        "Sdk": "SDK", "Sql": "SQL", "Ssh": "SSH", "Ssr": "SSR", "Swa": "SWA",
+        "Swr": "SWR", "Tdd": "TDD", "Tsx": "TSX", "Ui": "UI", "Url": "URL",
+        "Ux": "UX", "Waf": "WAF",
+    }
+    return " ".join(acronyms.get(word, word) for word in name.split())
+
+
+def coding_subcategory(label):
+    """Small, task-oriented groups for the otherwise overwhelming coding catalog."""
+    name = label.casefold()
+    leaf = name.split(":")[-1]
+    if name.startswith(("vercel:", "vercel-plugin:")):
+        if re.search(r"ai-|chat|eve|agent|workflow|queue|generation", leaf):
+            return "🤖 Vercel AI & Automation"
+        if re.search(r"next|react|shadcn|geist|swr|turbopack|turborepo|v0|satori|json-render|cms|microfrontend", leaf):
+            return "🌐 Vercel Frontend & Next.js"
+        return "☁️ Vercel Platform & Deployment"
+    if re.search(r"security|threat|bounty|firewall|auth", name):
+        return "🔐 Security & Authentication"
+    if re.search(r"github|\bgh-|git-worktree|code-review|review-agent|brooks-review|review-claudemd", name):
+        return "🔀 GitHub & Code Review"
+    if re.search(r"test|debug|benchmark|eval|verification|regression|\btdd\b|webapp-testing", name):
+        return "🧪 Testing & Debugging"
+    if re.search(r"android|flutter|swift|kotlin-coroutines|mobile|desktop", name):
+        return "📱 Mobile & Desktop Apps"
+    if re.search(r"mcp|api-connector|claude-api|x-api|apify", name):
+        return "🔌 APIs, MCP & Integrations"
+    if re.search(r"postgres|supabase|database|storage|exposed|persistence", name):
+        return "🗄️ Databases & Storage"
+    if re.search(r"deploy|cloudflare|docker|pipeline|ci.?cd", name):
+        return "🚀 DevOps & Deployment"
+    if re.search(r"frontend|webapp|react|next|css|html|ui", name):
+        return "🌐 Websites & Frontend"
+    if re.search(r"backend|server|api|ktor|spring|django|laravel", name):
+        return "⚙️ Backend & APIs"
+    if re.search(r"python|rust|java|kotlin|perl|golang|csharp|cpp|dotnet|dart", name):
+        return "💻 Languages & Frameworks"
+    return "🧱 Architecture & Code Quality"
+
+
 def visible_folder(entry, topic, used):
     source = Path(entry['path'])
-    name = source.parent.name if entry['type'] == 'skill' else source.stem
-    folder = READY + '/' + topic + '/' + name
+    # The nested readable-name migration is deliberately scoped to the large
+    # Coding & Development topic. Every other topic keeps its established path.
+    name = (friendly_name(entry['label'])
+            if topic == "Coding & Development" and entry['type'] == 'skill'
+            else (source.parent.name if entry['type'] == 'skill' else source.stem))
+    parts = [READY, topic]
+    if topic == "Coding & Development" and entry['type'] == 'skill':
+        parts.append(coding_subcategory(entry['label']))
+    folder = '/'.join([*parts, name])
     if folder.casefold() in used:
         folder += f" [variant {entry['id']:04d}]"
     if folder.casefold() in used:
@@ -84,7 +139,9 @@ def outputs(root=ROOT, vault=VAULT):
                 report["signals"].append("Plugin source — verify required plugin capabilities in Claude")
             if re.search(r"\b(?:CLI|connector|connected|terminal|shell|subagents?|Stripe|Dropbox)\b", text, re.I):
                 report["signals"].append("External tools or services mentioned — review availability")
-        entry["display_name"] = entry["label"].split(":")[-1].replace("-", " ").replace("_", " ").strip().title()
+        topic = category(entry["label"]) if entry["type"] == "skill" else "Claude Code Commands"
+        entry["display_name"] = (friendly_name(entry["label"]) if topic == "Coding & Development"
+                                 else entry["label"].split(":")[-1].replace("-", " ").replace("_", " ").strip().title())
         if entry["type"] != "skill":
             row = {**entry, "category": "Claude Code Commands", "status": "Command — not a skill ZIP",
                    "source": "🔧 ADVANCED/" + entry["path"], "zip": None,
@@ -96,8 +153,9 @@ def outputs(root=ROOT, vault=VAULT):
         if key in seen:
             seen[key]["copies"].append(entry["id"])
             continue
-        row = {**entry, "category": category(entry["label"]), "source": "🔧 ADVANCED/" + entry["path"],
+        row = {**entry, "category": topic, "source": "🔧 ADVANCED/" + entry["path"],
                "signals": report["signals"], "copies": [entry["id"]], "zip": None}
+        row["subcategory"] = coding_subcategory(entry["label"]) if row["category"] == "Coding & Development" else None
         seen[key] = row
         rows.append(row)
         row['folder'] = visible_folder(entry, row['category'], used_folders)
@@ -173,8 +231,10 @@ def outputs(root=ROOT, vault=VAULT):
                   '## Source copies represented', '']
         for source_id in row['copies']:
             original = entries_by_id[source_id]
+            advanced_source = '🔧 ADVANCED/' + original['path']
+            relative_source = posixpath.relpath(advanced_source, start=row['folder'])
             guide.append('- [' + str(source_id) + ' · ' + original['collection'] + '](' +
-                         quote('../../../🔧 ADVANCED/' + original['path'], safe='/') + ')')
+                         quote(relative_source, safe='/') + ')')
         guide += ['', 'Identical whole packages share this folder; distinct variants have separate folders.', '', *license_links, '']
         generated[vault / row['guide']] = '\n'.join(guide).encode()
     counts = dict(Counter(row["status"] for row in rows))
@@ -193,7 +253,14 @@ def outputs(root=ROOT, vault=VAULT):
              "Identical whole packages share one ZIP; all source copies remain in Advanced.", ""]
     for title in sorted({row["category"] for row in rows}):
         lines += ["## " + title, ""]
-        for row in (r for r in rows if r["category"] == title):
+        selected = [r for r in rows if r["category"] == title]
+        selected.sort(key=lambda r: ((r.get("subcategory") or ""), r["display_name"]))
+        current_subcategory = None
+        for row in selected:
+            if row.get("subcategory") != current_subcategory:
+                current_subcategory = row.get("subcategory")
+                if current_subcategory:
+                    lines += ["### " + current_subcategory, ""]
             label = row["label"].replace("[", "").replace("]", "").replace("\n", " ")
             link = row['guide']
             lines.append("- [" + label + "](" + quote("../" + link, safe="/") + ") — " + row["status"]
@@ -245,7 +312,8 @@ def outputs(root=ROOT, vault=VAULT):
         "All 485 distinct skills are visible here: 472 with a ZIP and 13 with source files and repair warnings. "
         "The 86 command entries are visible separately under Claude Code Commands. "
         "Together these represent all 925 catalog entries, including identical source copies.\n\n"
-        "1. Open a topic, then the exact skill-name folder. SKILL.md and supporting files are directly inside, beside the upload ZIP.\n"
+        "1. Open a topic. Coding & Development has smaller task-based subcategories; then open the clearly named skill folder. "
+        "SKILL.md and supporting files are directly inside, beside the upload ZIP.\n"
         "Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.\n"
         "2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.\n"
         "3. In Claude, use Customize → Skills → add/create → upload (labels may vary).\n"

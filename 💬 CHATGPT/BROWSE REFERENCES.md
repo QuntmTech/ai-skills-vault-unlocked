@@ -6,19 +6,19 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 ## Coding & Development
 
 - [Agent Introspection Debugging](Skill%20References/Coding%20%26%20Development/0002-agent-introspection-debugging-chatgpt-reference.md) — requirements flagged
-- [Ai Regression Testing](Skill%20References/Coding%20%26%20Development/0006-ai-regression-testing-chatgpt-reference.md) — requirements flagged
+- [AI Regression Testing](Skill%20References/Coding%20%26%20Development/0006-ai-regression-testing-chatgpt-reference.md) — requirements flagged
 - [Android Clean Architecture](Skill%20References/Coding%20%26%20Development/0010-android-clean-architecture-chatgpt-reference.md) — no special setup signals detected
-- [Api Connector Builder](Skill%20References/Coding%20%26%20Development/0011-api-connector-builder-chatgpt-reference.md) — requirements flagged
+- [API Connector Builder](Skill%20References/Coding%20%26%20Development/0011-api-connector-builder-chatgpt-reference.md) — requirements flagged
 - [Apify Automation](Skill%20References/Coding%20%26%20Development/0014-apify-automation-chatgpt-reference.md) — requirements flagged
 - [Backend Patterns](Skill%20References/Coding%20%26%20Development/0018-backend-patterns-chatgpt-reference.md) — requirements flagged
 - [Brooks Review](Skill%20References/Coding%20%26%20Development/0025-brooks-review-chatgpt-reference.md) — requirements flagged
 - [Brooks Test](Skill%20References/Coding%20%26%20Development/0027-brooks-test-chatgpt-reference.md) — requirements flagged
-- [Claude Api](Skill%20References/Coding%20%26%20Development/0034-claude-api-chatgpt-reference.md) — requirements flagged
+- [Claude API](Skill%20References/Coding%20%26%20Development/0034-claude-api-chatgpt-reference.md) — requirements flagged
 - [Cloudflare Deploy](Skill%20References/Coding%20%26%20Development/0037-cloudflare-deploy-chatgpt-reference.md) — requirements flagged
 - [Code Tour](Skill%20References/Coding%20%26%20Development/0038-code-tour-chatgpt-reference.md) — requirements flagged
 - [Codebase Recon](Skill%20References/Coding%20%26%20Development/0039-codebase-recon-chatgpt-reference.md) — requirements flagged
-- [Cpp Coding Standards](Skill%20References/Coding%20%26%20Development/0053-cpp-coding-standards-chatgpt-reference.md) — requirements flagged
-- [Cpp Testing](Skill%20References/Coding%20%26%20Development/0054-cpp-testing-chatgpt-reference.md) — requirements flagged
+- [C++ Coding Standards](Skill%20References/Coding%20%26%20Development/0053-cpp-coding-standards-chatgpt-reference.md) — requirements flagged
+- [C++ Testing](Skill%20References/Coding%20%26%20Development/0054-cpp-testing-chatgpt-reference.md) — requirements flagged
 - [Csharp Testing](Skill%20References/Coding%20%26%20Development/0056-csharp-testing-chatgpt-reference.md) — requirements flagged
 - [Dart Flutter Patterns](Skill%20References/Coding%20%26%20Development/0060-dart-flutter-patterns-chatgpt-reference.md) — requirements flagged
 - [Defi Amm Security](Skill%20References/Coding%20%26%20Development/0065-defi-amm-security-chatgpt-reference.md) — requirements flagged
@@ -26,7 +26,7 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Deployment Patterns](Skill%20References/Coding%20%26%20Development/0067-deployment-patterns-chatgpt-reference.md) — requirements flagged
 - [Django Patterns](Skill%20References/Coding%20%26%20Development/0070-django-patterns-chatgpt-reference.md) — requirements flagged
 - [Django Security](Skill%20References/Coding%20%26%20Development/0071-django-security-chatgpt-reference.md) — requirements flagged
-- [Django Tdd](Skill%20References/Coding%20%26%20Development/0072-django-tdd-chatgpt-reference.md) — requirements flagged
+- [Django TDD](Skill%20References/Coding%20%26%20Development/0072-django-tdd-chatgpt-reference.md) — requirements flagged
 - [Django Verification](Skill%20References/Coding%20%26%20Development/0073-django-verification-chatgpt-reference.md) — requirements flagged
 - [Docker Patterns](Skill%20References/Coding%20%26%20Development/0076-docker-patterns-chatgpt-reference.md) — requirements flagged
 - [Dotnet Patterns](Skill%20References/Coding%20%26%20Development/0079-dotnet-patterns-chatgpt-reference.md) — requirements flagged
@@ -44,9 +44,9 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Laravel Patterns](Skill%20References/Coding%20%26%20Development/0117-laravel-patterns-chatgpt-reference.md) — requirements flagged
 - [Laravel Plugin Discovery](Skill%20References/Coding%20%26%20Development/0118-laravel-plugin-discovery-chatgpt-reference.md) — requirements flagged
 - [Laravel Security](Skill%20References/Coding%20%26%20Development/0119-laravel-security-chatgpt-reference.md) — requirements flagged
-- [Laravel Tdd](Skill%20References/Coding%20%26%20Development/0120-laravel-tdd-chatgpt-reference.md) — requirements flagged
+- [Laravel TDD](Skill%20References/Coding%20%26%20Development/0120-laravel-tdd-chatgpt-reference.md) — requirements flagged
 - [Laravel Verification](Skill%20References/Coding%20%26%20Development/0121-laravel-verification-chatgpt-reference.md) — requirements flagged
-- [Mcp Builder](Skill%20References/Coding%20%26%20Development/0128-mcp-builder-chatgpt-reference.md) — requirements flagged
+- [MCP Builder](Skill%20References/Coding%20%26%20Development/0128-mcp-builder-chatgpt-reference.md) — requirements flagged
 - [Nodejs Keccak256](Skill%20References/Coding%20%26%20Development/0133-nodejs-keccak256-chatgpt-reference.md) — requirements flagged
 - [Perl Patterns](Skill%20References/Coding%20%26%20Development/0141-perl-patterns-chatgpt-reference.md) — requirements flagged
 - [Perl Security](Skill%20References/Coding%20%26%20Development/0142-perl-security-chatgpt-reference.md) — requirements flagged
@@ -61,34 +61,34 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Security Scan](Skill%20References/Coding%20%26%20Development/0166-security-scan-chatgpt-reference.md) — requirements flagged
 - [Springboot Patterns](Skill%20References/Coding%20%26%20Development/0175-springboot-patterns-chatgpt-reference.md) — requirements flagged
 - [Springboot Security](Skill%20References/Coding%20%26%20Development/0176-springboot-security-chatgpt-reference.md) — requirements flagged
-- [Springboot Tdd](Skill%20References/Coding%20%26%20Development/0177-springboot-tdd-chatgpt-reference.md) — requirements flagged
+- [Springboot TDD](Skill%20References/Coding%20%26%20Development/0177-springboot-tdd-chatgpt-reference.md) — requirements flagged
 - [Springboot Verification](Skill%20References/Coding%20%26%20Development/0178-springboot-verification-chatgpt-reference.md) — requirements flagged
 - [Swift Actor Persistence](Skill%20References/Coding%20%26%20Development/0180-swift-actor-persistence-chatgpt-reference.md) — requirements flagged
 - [Swift Concurrency 6 2](Skill%20References/Coding%20%26%20Development/0181-swift-concurrency-6-2-chatgpt-reference.md) — requirements flagged
 - [Swift Protocol Di Testing](Skill%20References/Coding%20%26%20Development/0182-swift-protocol-di-testing-chatgpt-reference.md) — requirements flagged
-- [Tdd Workflow](Skill%20References/Coding%20%26%20Development/0184-tdd-workflow-chatgpt-reference.md) — requirements flagged
+- [TDD Workflow](Skill%20References/Coding%20%26%20Development/0184-tdd-workflow-chatgpt-reference.md) — requirements flagged
 - [Vercel Deploy](Skill%20References/Coding%20%26%20Development/0194-vercel-deploy-chatgpt-reference.md) — requirements flagged
 - [Webapp Testing](Skill%20References/Coding%20%26%20Development/0199-webapp-testing-chatgpt-reference.md) — requirements flagged
-- [X Api](Skill%20References/Coding%20%26%20Development/0202-x-api-chatgpt-reference.md) — requirements flagged
+- [X API](Skill%20References/Coding%20%26%20Development/0202-x-api-chatgpt-reference.md) — requirements flagged
 - [Security Ownership Map](Skill%20References/Coding%20%26%20Development/0215-security-ownership-map-chatgpt-reference.md) — requirements flagged
 - [Security Threat Model](Skill%20References/Coding%20%26%20Development/0216-security-threat-model-chatgpt-reference.md) — requirements flagged
 - [Review Agent](Skill%20References/Coding%20%26%20Development/0224-review-agent-chatgpt-reference.md) — requirements flagged
 - [Benchmark Testing](Skill%20References/Coding%20%26%20Development/0508-benchmark-testing-chatgpt-reference.md) — requirements flagged
 - [Vercel Plugin Eval](Skill%20References/Coding%20%26%20Development/0511-vercel-plugin-eval-chatgpt-reference.md) — requirements flagged
-- [Gh Address Comments](Skill%20References/Coding%20%26%20Development/0530-gh-address-comments-chatgpt-reference.md) — requirements flagged
-- [Gh Fix Ci](Skill%20References/Coding%20%26%20Development/0531-gh-fix-ci-chatgpt-reference.md) — requirements flagged
+- [GitHub Address Comments](Skill%20References/Coding%20%26%20Development/0530-gh-address-comments-chatgpt-reference.md) — requirements flagged
+- [GitHub Fix CI](Skill%20References/Coding%20%26%20Development/0531-gh-fix-ci-chatgpt-reference.md) — requirements flagged
 - [Github](Skill%20References/Coding%20%26%20Development/0532-github-chatgpt-reference.md) — requirements flagged
 - [Yeet](Skill%20References/Coding%20%26%20Development/0533-yeet-chatgpt-reference.md) — requirements flagged
 - [Artifact Template Operating Review](Skill%20References/Coding%20%26%20Development/0569-artifact-template-operating-review-chatgpt-reference.md) — requirements flagged
 - [Supabase](Skill%20References/Coding%20%26%20Development/0593-supabase-chatgpt-reference.md) — requirements flagged
 - [Supabase Postgres Best Practices](Skill%20References/Coding%20%26%20Development/0594-supabase-postgres-best-practices-chatgpt-reference.md) — requirements flagged
-- [Ai Gateway](Skill%20References/Coding%20%26%20Development/0596-ai-gateway-chatgpt-reference.md) — requirements flagged
-- [Ai Sdk](Skill%20References/Coding%20%26%20Development/0598-ai-sdk-chatgpt-reference.md) — requirements flagged
-- [Ai Sdk](Skill%20References/Coding%20%26%20Development/0599-ai-sdk-chatgpt-reference.md) — requirements flagged
+- [AI Gateway](Skill%20References/Coding%20%26%20Development/0596-ai-gateway-chatgpt-reference.md) — requirements flagged
+- [AI SDK](Skill%20References/Coding%20%26%20Development/0598-ai-sdk-chatgpt-reference.md) — requirements flagged
+- [AI SDK](Skill%20References/Coding%20%26%20Development/0599-ai-sdk-chatgpt-reference.md) — requirements flagged
 - [Auth](Skill%20References/Coding%20%26%20Development/0602-auth-chatgpt-reference.md) — requirements flagged
 - [Bootstrap](Skill%20References/Coding%20%26%20Development/0604-bootstrap-chatgpt-reference.md) — requirements flagged
-- [Chat Sdk](Skill%20References/Coding%20%26%20Development/0606-chat-sdk-chatgpt-reference.md) — requirements flagged
-- [Chat Sdk](Skill%20References/Coding%20%26%20Development/0607-chat-sdk-chatgpt-reference.md) — requirements flagged
+- [Chat SDK](Skill%20References/Coding%20%26%20Development/0606-chat-sdk-chatgpt-reference.md) — requirements flagged
+- [Chat SDK](Skill%20References/Coding%20%26%20Development/0607-chat-sdk-chatgpt-reference.md) — requirements flagged
 - [Deployments Cicd](Skill%20References/Coding%20%26%20Development/0610-deployments-cicd-chatgpt-reference.md) — requirements flagged
 - [Env Vars](Skill%20References/Coding%20%26%20Development/0612-env-vars-chatgpt-reference.md) — requirements flagged
 - [Knowledge Update](Skill%20References/Coding%20%26%20Development/0614-knowledge-update-chatgpt-reference.md) — requirements flagged
@@ -105,8 +105,8 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Shadcn](Skill%20References/Coding%20%26%20Development/0642-shadcn-chatgpt-reference.md) — requirements flagged
 - [Turbopack](Skill%20References/Coding%20%26%20Development/0644-turbopack-chatgpt-reference.md) — requirements flagged
 - [Vercel Agent](Skill%20References/Coding%20%26%20Development/0646-vercel-agent-chatgpt-reference.md) — requirements flagged
-- [Vercel Cli](Skill%20References/Coding%20%26%20Development/0648-vercel-cli-chatgpt-reference.md) — requirements flagged
-- [Vercel Cli](Skill%20References/Coding%20%26%20Development/0649-vercel-cli-chatgpt-reference.md) — requirements flagged
+- [Vercel CLI](Skill%20References/Coding%20%26%20Development/0648-vercel-cli-chatgpt-reference.md) — requirements flagged
+- [Vercel CLI](Skill%20References/Coding%20%26%20Development/0649-vercel-cli-chatgpt-reference.md) — requirements flagged
 - [Vercel Connect](Skill%20References/Coding%20%26%20Development/0652-vercel-connect-chatgpt-reference.md) — requirements flagged
 - [Vercel Firewall](Skill%20References/Coding%20%26%20Development/0654-vercel-firewall-chatgpt-reference.md) — requirements flagged
 - [Vercel Functions](Skill%20References/Coding%20%26%20Development/0656-vercel-functions-chatgpt-reference.md) — requirements flagged
@@ -119,14 +119,14 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Workflow](Skill%20References/Coding%20%26%20Development/0669-workflow-chatgpt-reference.md) — requirements flagged
 - [Agent Browser](Skill%20References/Coding%20%26%20Development/0672-agent-browser-chatgpt-reference.md) — requirements flagged
 - [Agent Browser Verify](Skill%20References/Coding%20%26%20Development/0673-agent-browser-verify-chatgpt-reference.md) — requirements flagged
-- [Ai Elements](Skill%20References/Coding%20%26%20Development/0674-ai-elements-chatgpt-reference.md) — requirements flagged
-- [Ai Gateway](Skill%20References/Coding%20%26%20Development/0675-ai-gateway-chatgpt-reference.md) — requirements flagged
-- [Ai Generation Persistence](Skill%20References/Coding%20%26%20Development/0676-ai-generation-persistence-chatgpt-reference.md) — requirements flagged
-- [Ai Sdk](Skill%20References/Coding%20%26%20Development/0677-ai-sdk-chatgpt-reference.md) — requirements flagged
+- [AI Elements](Skill%20References/Coding%20%26%20Development/0674-ai-elements-chatgpt-reference.md) — requirements flagged
+- [AI Gateway](Skill%20References/Coding%20%26%20Development/0675-ai-gateway-chatgpt-reference.md) — requirements flagged
+- [AI Generation Persistence](Skill%20References/Coding%20%26%20Development/0676-ai-generation-persistence-chatgpt-reference.md) — requirements flagged
+- [AI SDK](Skill%20References/Coding%20%26%20Development/0677-ai-sdk-chatgpt-reference.md) — requirements flagged
 - [Auth](Skill%20References/Coding%20%26%20Development/0678-auth-chatgpt-reference.md) — requirements flagged
 - [Bootstrap](Skill%20References/Coding%20%26%20Development/0679-bootstrap-chatgpt-reference.md) — requirements flagged
-- [Cdn Caching](Skill%20References/Coding%20%26%20Development/0680-cdn-caching-chatgpt-reference.md) — requirements flagged
-- [Chat Sdk](Skill%20References/Coding%20%26%20Development/0681-chat-sdk-chatgpt-reference.md) — requirements flagged
+- [CDN Caching](Skill%20References/Coding%20%26%20Development/0680-cdn-caching-chatgpt-reference.md) — requirements flagged
+- [Chat SDK](Skill%20References/Coding%20%26%20Development/0681-chat-sdk-chatgpt-reference.md) — requirements flagged
 - [Cms](Skill%20References/Coding%20%26%20Development/0682-cms-chatgpt-reference.md) — requirements flagged
 - [Cron Jobs](Skill%20References/Coding%20%26%20Development/0683-cron-jobs-chatgpt-reference.md) — requirements flagged
 - [Deployments Cicd](Skill%20References/Coding%20%26%20Development/0684-deployments-cicd-chatgpt-reference.md) — requirements flagged
@@ -135,11 +135,11 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Geist](Skill%20References/Coding%20%26%20Development/0688-geist-chatgpt-reference.md) — requirements flagged
 - [Geistdocs](Skill%20References/Coding%20%26%20Development/0689-geistdocs-chatgpt-reference.md) — requirements flagged
 - [Investigation Mode](Skill%20References/Coding%20%26%20Development/0690-investigation-mode-chatgpt-reference.md) — requirements flagged
-- [Json Render](Skill%20References/Coding%20%26%20Development/0691-json-render-chatgpt-reference.md) — requirements flagged
+- [JSON Render](Skill%20References/Coding%20%26%20Development/0691-json-render-chatgpt-reference.md) — requirements flagged
 - [Knowledge Update](Skill%20References/Coding%20%26%20Development/0692-knowledge-update-chatgpt-reference.md) — requirements flagged
 - [Micro](Skill%20References/Coding%20%26%20Development/0694-micro-chatgpt-reference.md) — requirements flagged
 - [Microfrontends](Skill%20References/Coding%20%26%20Development/0695-microfrontends-chatgpt-reference.md) — requirements flagged
-- [Ncc](Skill%20References/Coding%20%26%20Development/0696-ncc-chatgpt-reference.md) — requirements flagged
+- [NCC](Skill%20References/Coding%20%26%20Development/0696-ncc-chatgpt-reference.md) — requirements flagged
 - [Next Cache Components](Skill%20References/Coding%20%26%20Development/0697-next-cache-components-chatgpt-reference.md) — requirements flagged
 - [Next Forge](Skill%20References/Coding%20%26%20Development/0698-next-forge-chatgpt-reference.md) — requirements flagged
 - [Next Upgrade](Skill%20References/Coding%20%26%20Development/0699-next-upgrade-chatgpt-reference.md) — requirements flagged
@@ -152,13 +152,13 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Satori](Skill%20References/Coding%20%26%20Development/0706-satori-chatgpt-reference.md) — requirements flagged
 - [Shadcn](Skill%20References/Coding%20%26%20Development/0707-shadcn-chatgpt-reference.md) — requirements flagged
 - [Sign In With Vercel](Skill%20References/Coding%20%26%20Development/0708-sign-in-with-vercel-chatgpt-reference.md) — requirements flagged
-- [Swr](Skill%20References/Coding%20%26%20Development/0709-swr-chatgpt-reference.md) — requirements flagged
+- [SWR](Skill%20References/Coding%20%26%20Development/0709-swr-chatgpt-reference.md) — requirements flagged
 - [Turbopack](Skill%20References/Coding%20%26%20Development/0710-turbopack-chatgpt-reference.md) — requirements flagged
 - [Turborepo](Skill%20References/Coding%20%26%20Development/0711-turborepo-chatgpt-reference.md) — requirements flagged
 - [V0 Dev](Skill%20References/Coding%20%26%20Development/0712-v0-dev-chatgpt-reference.md) — requirements flagged
 - [Vercel Agent](Skill%20References/Coding%20%26%20Development/0713-vercel-agent-chatgpt-reference.md) — requirements flagged
-- [Vercel Api](Skill%20References/Coding%20%26%20Development/0714-vercel-api-chatgpt-reference.md) — requirements flagged
-- [Vercel Cli](Skill%20References/Coding%20%26%20Development/0715-vercel-cli-chatgpt-reference.md) — requirements flagged
+- [Vercel API](Skill%20References/Coding%20%26%20Development/0714-vercel-api-chatgpt-reference.md) — requirements flagged
+- [Vercel CLI](Skill%20References/Coding%20%26%20Development/0715-vercel-cli-chatgpt-reference.md) — requirements flagged
 - [Vercel Connect](Skill%20References/Coding%20%26%20Development/0716-vercel-connect-chatgpt-reference.md) — requirements flagged
 - [Vercel Firewall](Skill%20References/Coding%20%26%20Development/0717-vercel-firewall-chatgpt-reference.md) — requirements flagged
 - [Vercel Flags](Skill%20References/Coding%20%26%20Development/0718-vercel-flags-chatgpt-reference.md) — requirements flagged
@@ -176,11 +176,11 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Systematic Debugging](Skill%20References/Coding%20%26%20Development/0761-systematic-debugging-chatgpt-reference.md) — requirements flagged
 - [Test Driven Development](Skill%20References/Coding%20%26%20Development/0762-test-driven-development-chatgpt-reference.md) — requirements flagged
 - [Using Git Worktrees](Skill%20References/Coding%20%26%20Development/0763-using-git-worktrees-chatgpt-reference.md) — requirements flagged
-- [Cdn Caching](Skill%20References/Coding%20%26%20Development/0773-cdn-caching-chatgpt-reference.md) — requirements flagged
+- [CDN Caching](Skill%20References/Coding%20%26%20Development/0773-cdn-caching-chatgpt-reference.md) — requirements flagged
 - [Eve](Skill%20References/Coding%20%26%20Development/0778-eve-chatgpt-reference.md) — requirements flagged
 - [Eve](Skill%20References/Coding%20%26%20Development/0779-eve-chatgpt-reference.md) — requirements flagged
 - [Knowledge Update](Skill%20References/Coding%20%26%20Development/0780-knowledge-update-chatgpt-reference.md) — requirements flagged
-- [Vercel Cli](Skill%20References/Coding%20%26%20Development/0797-vercel-cli-chatgpt-reference.md) — requirements flagged
+- [Vercel CLI](Skill%20References/Coding%20%26%20Development/0797-vercel-cli-chatgpt-reference.md) — requirements flagged
 - [Vercel Connect](Skill%20References/Coding%20%26%20Development/0799-vercel-connect-chatgpt-reference.md) — requirements flagged
 - [Vercel Functions](Skill%20References/Coding%20%26%20Development/0801-vercel-functions-chatgpt-reference.md) — requirements flagged
 - [Workflow](Skill%20References/Coding%20%26%20Development/0807-workflow-chatgpt-reference.md) — requirements flagged

@@ -66,14 +66,14 @@ for(const value of [...new Set(data.map(e=>e.category))].sort()){const o=el('opt
 function render(){
  const term=q.value.toLowerCase().trim();
  const items=data.filter(e=>(!category.value||e.category===category.value)&&(!status.value||e.status===status.value)&&
- (e.label+' '+e.display_name+' '+e.description+' '+e.copies.join(' ')).toLowerCase().includes(term)).sort((a,b)=>a.display_name.localeCompare(b.display_name));
+ (e.label+' '+e.display_name+' '+(e.subcategory||'')+' '+e.description+' '+e.copies.join(' ')).toLowerCase().includes(term)).sort((a,b)=>a.display_name.localeCompare(b.display_name));
  results.replaceChildren();
  document.getElementById('count').textContent=items.length+' matching entries · '+library.summary.zip_count+' prepared ZIPs across the library · 0 live-import verified';
  if(!items.length)results.append(el('p','No matches with these filters. Try “Everything” or a broader search.'));
  for(const e of items.slice(0,limit)){
   const row=el('article',''),body=el('div','');
   const brief=e.description.length>350?e.description.slice(0,347)+'…':e.description;
-  body.append(el('span',e.category,'eyebrow'),el('h2',e.display_name),el('p',brief,'description'),el('span',e.status,'badge'));
+  body.append(el('span',e.category+(e.subcategory?' · '+e.subcategory:''),'eyebrow'),el('h2',e.display_name),el('p',brief,'description'),el('span',e.status,'badge'));
   body.append(el('p','ID '+e.id+' · '+e.label+(e.copies.length>1?' · '+e.copies.length+' identical copies preserved':''),'meta'));
   const details=el('details','');details.append(el('summary','Requirements & original files'));
   if(e.signals.length)for(const signal of e.signals)details.append(el('p',signal));

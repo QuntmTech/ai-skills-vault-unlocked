@@ -1,4 +1,4 @@
-# ChatGPT reference — Cdn Caching
+# ChatGPT reference — CDN Caching
 
 Readable guidance, not a native skill installation. No live ChatGPT test is claimed. Supporting scripts and assets are not embedded in this document. Provider-specific commands may require adaptation; do not assume tools are available.
 

@@ -108,6 +108,21 @@ class EasyLibraryTests(unittest.TestCase):
         self.assertFalse(easy.needs_setup({"signals": []}))
         self.assertEqual(easy.category("frontend-design"), "Design & Media")
 
+    def test_coding_skills_have_readable_subcategories_and_names(self):
+        rows = [row for row in json.loads(easy.MANIFEST.read_text())['entries']
+                if row['category'] == 'Coding & Development']
+        self.assertEqual(len(rows), 183)
+        self.assertGreaterEqual(len({row['subcategory'] for row in rows}), 10)
+        for row in rows:
+            parts = Path(row['folder']).parts
+            self.assertEqual(parts[0:2], (easy.READY, 'Coding & Development'))
+            self.assertEqual(parts[2], row['subcategory'])
+            self.assertEqual(parts[3].split(' [variant ')[0], row['display_name'])
+            self.assertNotIn('-', row['display_name'])
+        self.assertEqual(easy.friendly_name('mcp-server-patterns'), 'MCP Server Patterns')
+        self.assertEqual(easy.coding_subcategory('python-testing'), '🧪 Testing & Debugging')
+        self.assertEqual(easy.coding_subcategory('vercel:nextjs'), '🌐 Vercel Frontend & Next.js')
+
     def test_rejects_symlink_output(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
