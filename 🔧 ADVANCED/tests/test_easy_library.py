@@ -11,6 +11,16 @@ from skillverse import catalog
 
 
 class EasyLibraryTests(unittest.TestCase):
+    def test_consistent_user_facing_names(self):
+        self.assertEqual(easy.READY, '📦 CLAUDE')
+        self.assertEqual(easy.CHATGPT, '💬 CHATGPT')
+        self.assertEqual(easy.START, '🔎 BROWSE LIBRARY.html')
+        self.assertTrue((easy.VAULT / easy.START).is_file())
+        for folder in (easy.READY, easy.CHATGPT, easy.COPY, easy.SETUP):
+            self.assertTrue((easy.VAULT / folder / 'README.md').is_file())
+        for old in ('📦 READY FOR CLAUDE', '💬 START HERE — CHATGPT', '📍 START HERE.html'):
+            self.assertFalse((easy.VAULT / old).exists())
+
     def test_all_source_ids_accounted_for_once(self):
         ids = [i for e in json.loads(easy.MANIFEST.read_text())["entries"] for i in e["copies"]]
         self.assertEqual(sorted(ids), sorted(e["id"] for e in catalog()))
@@ -47,7 +57,7 @@ class EasyLibraryTests(unittest.TestCase):
     def test_chatgpt_bundle_matches_documents(self):
         folder = easy.VAULT / easy.CHATGPT
         docs = list(folder.rglob('*.md'))
-        self.assertTrue((folder / 'START HERE.md').is_file())
+        self.assertTrue((folder / 'README.md').is_file())
         self.assertTrue((folder / 'Project Instructions/PROJECT-INSTRUCTIONS.md').is_file())
         with zipfile.ZipFile(folder / 'ChatGPT-Reference-Pack.zip') as archive:
             self.assertIsNone(archive.testzip())

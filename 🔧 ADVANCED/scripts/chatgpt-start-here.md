@@ -1,4 +1,4 @@
-# 💬 Start here — ChatGPT
+# 💬 ChatGPT — usage guide
 
 Your ChatGPT section: project guidance and __REFERENCE_COUNT__ readable skill references, organized by topic. No Terminal, manual zipping, or separate browsing website is needed.
 

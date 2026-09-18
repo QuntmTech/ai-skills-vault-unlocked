@@ -8,7 +8,7 @@ whole-package duplicate detection, and visible compatibility warnings.
 **Private GitHub repository · Public redistribution review required**
 
 These are the preserved originals and maintenance tools. For ready-made ZIPs,
-return to the main folder and open **📍 START HERE.html**. All command examples
+return to the main folder and open **🔎 BROWSE LIBRARY.html**. All command examples
 in this Advanced section run from this directory, not the vault's top level.
 
 ## Start here

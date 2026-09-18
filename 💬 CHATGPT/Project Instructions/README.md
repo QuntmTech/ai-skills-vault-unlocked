@@ -4,4 +4,4 @@ Start with PROJECT-INSTRUCTIONS.md for concise guidance and PROJECT-HANDBOOK.md 
 
 Copy only relevant instructions into the supported project instruction area, within its limits; upload the handbook as a source. These documents do not install native skills. Keep filled-in PROJECT-CONTEXT.template.md private and outside this repository.
 
-[Return to setup guide](../START%20HERE.md)
+[Return to setup guide](../README.md)

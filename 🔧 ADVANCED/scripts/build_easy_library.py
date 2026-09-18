@@ -15,11 +15,11 @@ from skillverse import ROOT, catalog, export, inspect, frontmatter
 from build_instruction_pack import FILES, COMBINED
 
 VAULT = ROOT.parent
-READY = "📦 READY FOR CLAUDE"
+READY = "📦 CLAUDE"
 SETUP = "⚠️ NEEDS SETUP"
 COPY = "📋 COPY & PASTE"
-CHATGPT = "💬 START HERE — CHATGPT"
-START = "📍 START HERE.html"
+CHATGPT = "💬 CHATGPT"
+START = "🔎 BROWSE LIBRARY.html"
 MANIFEST = ROOT / "metadata/easy-library.json"
 
 
@@ -151,7 +151,7 @@ def outputs(root=ROOT, vault=VAULT):
         generated[vault / CHATGPT / "Project Instructions" / name] = (root / "project-instructions" / name).read_bytes()
     chat_rows = [row for row in rows if row.get("chatgpt_reference")]
     chat_start = (root / "scripts/chatgpt-start-here.md").read_text().replace("__REFERENCE_COUNT__", str(len(chat_rows)))
-    generated[vault / CHATGPT / "START HERE.md"] = chat_start.encode()
+    generated[vault / CHATGPT / "README.md"] = chat_start.encode()
     generated[vault / CHATGPT / "Project Instructions/README.md"] = (
         "# Project instructions for ChatGPT\n\n"
         "Start with PROJECT-INSTRUCTIONS.md for concise guidance and PROJECT-HANDBOOK.md as reference. "
@@ -159,7 +159,7 @@ def outputs(root=ROOT, vault=VAULT):
         "Copy only relevant instructions into the supported project instruction area, within its limits; "
         "upload the handbook as a source. These documents do not install native skills. "
         "Keep filled-in PROJECT-CONTEXT.template.md private and outside this repository.\n\n"
-        "[Return to setup guide](../START%20HERE.md)\n"
+        "[Return to setup guide](../README.md)\n"
     ).encode()
     chat_index = ["# Browse ChatGPT references", "", "These are readable documents, not verified native skill packages.",
                   "Review each document's requirements. No supporting scripts/assets are embedded.", ""]
@@ -185,7 +185,7 @@ def outputs(root=ROOT, vault=VAULT):
                 info.external_attr = 0o100644 << 16
                 archive.writestr(info, data)
     generated[vault / CHATGPT / "ChatGPT-Reference-Pack.zip"] = bundle.getvalue()
-    generated[vault / READY / "READ ME FIRST.md"] = (
+    generated[vault / READY / "README.md"] = (
         "# Ready-made Claude ZIPs\n\n"
         "1. Open a topic folder here and choose a skill ZIP. The website is optional.\n"
         "2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.\n"
@@ -209,8 +209,8 @@ def outputs(root=ROOT, vault=VAULT):
             problem_lines += ["- " + str(row["id"]) + " · " + row["label"] + ": " + "; ".join(row["signals"])]
     problem_lines += ["", "Claude Code slash commands are not native Claude skill ZIPs; find them through the menu.",
                       "No originals were removed. No repaired behavior or successful account import is claimed.", ""]
-    generated[vault / SETUP / "READ ME FIRST.md"] = "\n".join(problem_lines).encode()
-    generated[vault / COPY / "READ ME FIRST.md"] = (
+    generated[vault / SETUP / "README.md"] = "\n".join(problem_lines).encode()
+    generated[vault / COPY / "README.md"] = (
         "# Copy and paste — not skill installation\n\n"
         "For general project guidance, open Project Instructions/COPY-PASTE-ALL.md. "
         "Use it instead of the separate core and handbook, not alongside them.\n\n"

@@ -8,9 +8,9 @@ Explore **472 prebuilt skill ZIPs**, readable references, and general-purpose pr
 
 **No Terminal or manual zipping required for the prepared downloads. No separate browsing website or local server required.** Individual skills may still require tools, accounts, or a developer environment; those requirements are flagged separately.
 
-[⬇ Download a packaged release](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest) · [🔎 Browse all skills](📦%20READY%20FOR%20CLAUDE/BROWSE%20ALL%20SKILLS.md) · [📋 Open project instructions](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md)
+[⬇ Download a packaged release](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest) · [🔎 Browse all skills](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) · [📋 Open project instructions](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md)
 
-**New: [💬 ChatGPT section](💬%20START%20HERE%20—%20CHATGPT/START%20HERE.md).** This addition is on the current branch; the older v0.2.0 release predates it. Use **Code → Download ZIP** for the latest complete folder, or open the ChatGPT section and download its **ChatGPT-Reference-Pack.zip** document bundle.
+**New: [💬 ChatGPT section](💬%20CHATGPT/README.md).** This addition is on the current branch; the older v0.2.0 release predates it. Use **Code → Download ZIP** for the latest complete folder, or open the ChatGPT section and download its **ChatGPT-Reference-Pack.zip** document bundle.
 
 > **Private preparation library.** Repository access is required. Packaging checks are not live compatibility tests, and inclusion does not grant redistribution or resale rights. See the [readiness guide](#understand-the-readiness-labels) and [license notice](LICENSE.md).
 
@@ -42,7 +42,7 @@ These are starting points for exploring the library—not claims that every work
 | Investigate a question | Research & Data | Structure research, compare evidence, or plan an analysis |
 | Connect work across tools | Tools & Workflows | Explore integrations and repeatable processes; check setup requirements first |
 
-Not every topic has a packaging-checked download. The [complete browse list](📦%20READY%20FOR%20CLAUDE/BROWSE%20ALL%20SKILLS.md) includes setup-dependent entries and their status.
+Not every topic has a packaging-checked download. The [complete browse list](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) includes setup-dependent entries and their status.
 
 ## Download from GitHub, then browse your folders
 
@@ -51,7 +51,7 @@ Not every topic has a packaging-checked download. The [complete browse list](�
 1. Open the [latest release](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest). Under **Assets**, choose
    **AI-SKILLS-VAULT-UNLOCKED.zip**.
 2. Extract that outer ZIP once.
-3. Start in **📦 READY FOR CLAUDE**, then the topic you want. For the other packaged skills, open **⚠️ NEEDS SETUP → Packaged - Review Requirements** and review their requirements first.
+3. Start in **📦 CLAUDE**, then the topic you want. For the other packaged skills, open **⚠️ NEEDS SETUP → Packaged - Review Requirements** and review their requirements first.
 4. Select the skill's existing **.zip** file in Claude's skill-upload control.
    **Do not extract or re-ZIP the individual skill.**
 
@@ -65,7 +65,7 @@ On the [repository page](https://github.com/QuntmTech/ai-skills-vault-unlocked),
 
 ### Optional: search instead of browsing folders
 
-After downloading, double-click **📍 START HERE.html** for a local search interface. Or open the [Markdown browse list](📦%20READY%20FOR%20CLAUDE/BROWSE%20ALL%20SKILLS.md) directly on GitHub.
+After downloading, double-click **🔎 BROWSE LIBRARY.html** for a local search interface. Or open the [Markdown browse list](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) directly on GitHub.
 
 Neither is an installation requirement. You can use the folders without opening a website or running a local server.
 
@@ -73,8 +73,8 @@ Neither is an installation requirement. You can use the folders without opening 
 
 | Folder | What it is for |
 | --- | --- |
-| [📦 READY FOR CLAUDE](📦%20READY%20FOR%20CLAUDE/) | Start here for individually zipped skills with packaging checks and no detected special setup signals |
-| [💬 START HERE — CHATGPT](💬%20START%20HERE%20—%20CHATGPT/START%20HERE.md) | ChatGPT setup guide, project instructions, 472 topic-organized reference documents, and an optional document-bundle ZIP—not a native installer |
+| [📦 CLAUDE](📦%20CLAUDE/) | Start here for individually zipped skills with packaging checks and no detected special setup signals |
+| [💬 CHATGPT](💬%20CHATGPT/README.md) | ChatGPT setup guide, project instructions, 472 topic-organized reference documents, and an optional document-bundle ZIP—not a native installer |
 | [📋 COPY & PASTE](📋%20COPY%20%26%20PASTE/) | Readable skill references and PROJECT COMPASS instructions you can adapt to your work |
 | [⚠️ NEEDS SETUP](⚠️%20NEEDS%20SETUP/) | Packaged skills flagged for requirements review, plus entries whose missing resources need repair |
 | [🔧 ADVANCED](🔧%20ADVANCED/README.md) | Preserved source material, catalogs, provenance reports, tests, and maintenance tools |
@@ -87,7 +87,7 @@ The current catalog contains **925 source entries**: **839 skill copies** and **
 
 | Browse entry status | Count | What you receive |
 | --- | ---: | --- |
-| Packaging checked | 26 | Individual ZIPs in READY FOR CLAUDE |
+| Packaging checked | 26 | Individual ZIPs in CLAUDE |
 | Needs tool/setup review | 446 | Individual ZIPs in NEEDS SETUP, with flagged requirements to inspect |
 | Needs repair | 13 | Documented entries without a prepared ZIP |
 | Command—not a skill ZIP | 86 | Separate command/reference material, not native Claude-app skill downloads |
@@ -111,16 +111,16 @@ Identical whole packages share one download. Distinct variants and every source 
 | Environment | What is available here today | What is not verified |
 | --- | --- | --- |
 | Claude | Prebuilt Claude-format skill ZIPs, requirement flags, and readable references | Live skill imports and runtime behavior |
-| ChatGPT projects and chats | Dedicated START HERE — CHATGPT folder with PROJECT COMPASS documents and 472 readable references to select, adapt, and supply as context | End-to-end use of every reference in ChatGPT |
+| ChatGPT projects and chats | Dedicated CHATGPT folder with PROJECT COMPASS documents and 472 readable references to select, adapt, and supply as context | End-to-end use of every reference in ChatGPT |
 | ChatGPT native skills / Codex | Preserved skill source folders for inspection and possible adaptation | A dedicated ChatGPT plugin distribution or verified installation of the whole collection |
 
 ### Use the readable material with ChatGPT
 
-Start in [**💬 START HERE — CHATGPT**](💬%20START%20HERE%20—%20CHATGPT/START%20HERE.md). It contains its own **Project Instructions** and **Skill References** folders, plus a browse index. Use the short project instructions for your project's guidance and the handbook as a reference, or choose the combined document instead. Add only the material needed for your task; do not upload the entire archive as project context.
+Start in [**💬 CHATGPT**](💬%20CHATGPT/README.md). It contains its own **Project Instructions** and **Skill References** folders, plus a browse index. Use the short project instructions for your project's guidance and the handbook as a reference, or choose the combined document instead. Add only the material needed for your task; do not upload the entire archive as project context.
 
 ChatGPT projects can share project instructions and uploaded sources across their chats. Select the relevant documents, add them through the supported project controls, and ask ChatGPT to use them for a small test task. See [OpenAI's project documentation](https://learn.chatgpt.com/docs/projects).
 
-For a specific workflow, browse **💬 START HERE — CHATGPT → Skill References**. These are readable references, not automatic native installations. Provider-specific tools and commands may require adaptation. The optional **ChatGPT-Reference-Pack.zip** contains these documents for extraction; it is not a native skill installer. The existing COPY & PASTE versions remain intact.
+For a specific workflow, browse **💬 CHATGPT → Skill References**. These are readable references, not automatic native installations. Provider-specific tools and commands may require adaptation. The optional **ChatGPT-Reference-Pack.zip** contains these documents for extraction; it is not a native skill installer. The existing COPY & PASTE versions remain intact.
 
 ### What about native ChatGPT skills?
 
@@ -222,4 +222,4 @@ For a deeper look:
 
 **Find the right guidance. Understand the requirements. Build a workflow you can trust through testing.**
 
-[Download a packaged release](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest) · [Browse the catalog](📦%20READY%20FOR%20CLAUDE/BROWSE%20ALL%20SKILLS.md) · [Start with PROJECT COMPASS](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md)
+[Download a packaged release](https://github.com/QuntmTech/ai-skills-vault-unlocked/releases/latest) · [Browse the catalog](📦%20CLAUDE/BROWSE%20ALL%20SKILLS.md) · [Start with PROJECT COMPASS](📋%20COPY%20%26%20PASTE/Project%20Instructions/COPY-PASTE-ALL.md)

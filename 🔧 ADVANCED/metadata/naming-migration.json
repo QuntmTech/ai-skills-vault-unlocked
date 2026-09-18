@@ -1,0 +1,2580 @@
+{
+  "scope": "Presentation renames; file bytes verified before regenerating links",
+  "files": [
+    {
+      "from": "⚠️ NEEDS SETUP/READ ME FIRST.md",
+      "to": "⚠️ NEEDS SETUP/README.md",
+      "sha256": "f3d6492620f39b75f3d56d14ed12d89d733ee93d3f468ff70690156b27bb75dc"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/.DS_Store",
+      "to": "💬 CHATGPT/.DS_Store",
+      "sha256": "d45ad64deccfc748e6a27ae8ab3f746e3c205dd6b22d9a044fe12756f0623635"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/BROWSE REFERENCES.md",
+      "to": "💬 CHATGPT/BROWSE REFERENCES.md",
+      "sha256": "1d2abc9f4cc7c3aeee2b427c404f07ee6fa2419111af0487849f3305ad675470"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/ChatGPT-Reference-Pack.zip",
+      "to": "💬 CHATGPT/ChatGPT-Reference-Pack.zip",
+      "sha256": "d3e616f3c660db783c3304a0a93f9928765bdc44ee5825f57447918c2f527470"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Project Instructions/COPY-PASTE-ALL.md",
+      "to": "💬 CHATGPT/Project Instructions/COPY-PASTE-ALL.md",
+      "sha256": "553c017346ff9d4fb4224d4b1c3ccd779641e21376ad370febb80e3cb7e1307e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Project Instructions/CURATION-NOTES.md",
+      "to": "💬 CHATGPT/Project Instructions/CURATION-NOTES.md",
+      "sha256": "f45f27a59ce3f43da512f646f07b1094a3f296d7e146ee1bae4c9d9de2ec52d8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Project Instructions/PROJECT-CONTEXT.template.md",
+      "to": "💬 CHATGPT/Project Instructions/PROJECT-CONTEXT.template.md",
+      "sha256": "3f3374a22f747e75283ecd7043547c40a4e05faee6705c9cf2490300870f4c02"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Project Instructions/PROJECT-HANDBOOK.md",
+      "to": "💬 CHATGPT/Project Instructions/PROJECT-HANDBOOK.md",
+      "sha256": "e21e0f9ea6f4722d1d02b3d90758d62ed13219e91a34c5acc80a532e9e07e690"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Project Instructions/PROJECT-INSTRUCTIONS.md",
+      "to": "💬 CHATGPT/Project Instructions/PROJECT-INSTRUCTIONS.md",
+      "sha256": "f289e166225833bfafca5010efadde6c40f978d809492167891739755331b6b3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Project Instructions/QUALITY-CHECKS.md",
+      "to": "💬 CHATGPT/Project Instructions/QUALITY-CHECKS.md",
+      "sha256": "9326c85f3267eae965ddccde19e90d8c81e4cbf3bb76bfdcf8436f63bf78e212"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Project Instructions/README.md",
+      "to": "💬 CHATGPT/Project Instructions/README.md",
+      "sha256": "acfa585389c37ef7a6d42d16d4ceaf79554a0ca8c86b6dfea926b1a1af9aa4b1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/START HERE.md",
+      "to": "💬 CHATGPT/README.md",
+      "sha256": "4d9bb150a3d4c1de1b8cadc4a64cfd113c02307ef3d960943e873de555718b3c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/.DS_Store",
+      "to": "💬 CHATGPT/Skill References/.DS_Store",
+      "sha256": "216498447c291a13d5d1d7f1aa1ce59d62eaf394b5c8e6b6e9a94983b818e0bb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0002-agent-introspection-debugging-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0002-agent-introspection-debugging-chatgpt-reference.md",
+      "sha256": "2613cbc087572baa6581b68fad6176224e934e84d813cec5110d305d6c7be720"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0006-ai-regression-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0006-ai-regression-testing-chatgpt-reference.md",
+      "sha256": "12a2f92914e5042bbcb082413576771ccad57a7af39e6c2f4b56c7006f5cf3a4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0010-android-clean-architecture-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0010-android-clean-architecture-chatgpt-reference.md",
+      "sha256": "36ec1ed46d07ee0ddf57e92ce41da37b1f0c3985618626a16dedc591244b150b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0011-api-connector-builder-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0011-api-connector-builder-chatgpt-reference.md",
+      "sha256": "e40bfe9d29eadbd459cabab64b424d53e533dca3fd31f315863229c40b03901d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0014-apify-automation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0014-apify-automation-chatgpt-reference.md",
+      "sha256": "da14c80efaf7e679e3c3c497ac07235ce8ec4e5890776cf36e742fd7920fa47c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0018-backend-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0018-backend-patterns-chatgpt-reference.md",
+      "sha256": "784282c8c406cb2983e9e030c50cbe9b83e361cedb7f874b6d6a31ddeae8526f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0025-brooks-review-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0025-brooks-review-chatgpt-reference.md",
+      "sha256": "0c605b0da271c784d68fe0ac7664a922c505ccd75bdc486c4dfe87587fd72660"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0027-brooks-test-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0027-brooks-test-chatgpt-reference.md",
+      "sha256": "abb0005490a99c1e901262748aaca4cc76d53b43aae3acdbc6b56b4a2033f48d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0034-claude-api-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0034-claude-api-chatgpt-reference.md",
+      "sha256": "db803d3ff2cb1163496a6577d8ca34b1d966eee051d3ff2138842ee3648b901f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0037-cloudflare-deploy-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0037-cloudflare-deploy-chatgpt-reference.md",
+      "sha256": "e72484ce6b4078809c1cba2c47a3c1e3d8514a73a9d2bc1f165b3bb6fcac573f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0038-code-tour-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0038-code-tour-chatgpt-reference.md",
+      "sha256": "3182439604693fde66fa42aa5064a9325f95fd6720fd966dfb1ec773ec0f9d31"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0039-codebase-recon-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0039-codebase-recon-chatgpt-reference.md",
+      "sha256": "635ef21e33d83a62774f4677884e787a3b660e2cc5e13816aa6482a627ae5c5a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0053-cpp-coding-standards-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0053-cpp-coding-standards-chatgpt-reference.md",
+      "sha256": "e81bd6316ca48a441f6e33e200830f09ccd419fa33f5ea5bce9a8dd4393816ec"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0054-cpp-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0054-cpp-testing-chatgpt-reference.md",
+      "sha256": "692bf0d91ee2ff5cc5359b5d881fbf9022a91de79372a7f291b6db6517703acb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0056-csharp-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0056-csharp-testing-chatgpt-reference.md",
+      "sha256": "255def6affbbce2fd1dd62e70afa897c4a2da7d0fde4b294a65dd283757c4436"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0060-dart-flutter-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0060-dart-flutter-patterns-chatgpt-reference.md",
+      "sha256": "ae29772faa863db78fcecacb5449cd0deda082e6328a7e68cb99322a92c208a2"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0065-defi-amm-security-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0065-defi-amm-security-chatgpt-reference.md",
+      "sha256": "acf33cfa152620f3cf79d195588dd1529e506176b497acb4503ab558668f09d4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0066-deploy-pipeline-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0066-deploy-pipeline-chatgpt-reference.md",
+      "sha256": "465fb581a42ad692721a9817d4a0383a068b931b2dd2295612bfa03d0d1250ee"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0067-deployment-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0067-deployment-patterns-chatgpt-reference.md",
+      "sha256": "ee0ab3d7e216711475a246c1f78b737aff49b7a76dfcebac5cb7f26f613cc31d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0070-django-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0070-django-patterns-chatgpt-reference.md",
+      "sha256": "6a2728c5d89b275a87276f79d709f1e3688f6d86bbd9472f7896515be3982c1c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0071-django-security-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0071-django-security-chatgpt-reference.md",
+      "sha256": "4d84b838719fcfe0bc86df953a7cc72ff8c420a46a745dadba9816484a4fc07c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0072-django-tdd-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0072-django-tdd-chatgpt-reference.md",
+      "sha256": "f2a4e51e35eb45685c8d87f64c073bb79f8191e5549fe489f5ec4d62315d5fd4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0073-django-verification-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0073-django-verification-chatgpt-reference.md",
+      "sha256": "5d47a9edd6fd9b055c7ec65e661087162d2f4a7c7be3a53a0ac2650f088e1bfb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0076-docker-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0076-docker-patterns-chatgpt-reference.md",
+      "sha256": "11de74d6d25e8363b60b63c0c75d7638111aa0400f12e50ff192ec5620b32019"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0079-dotnet-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0079-dotnet-patterns-chatgpt-reference.md",
+      "sha256": "381ccf1fc03ca5dc55bedc1bede0c99ac5a842dcfeea0927d39dc2df6d529481"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0080-e2e-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0080-e2e-testing-chatgpt-reference.md",
+      "sha256": "b02dd84934d183d6d21a5fcee052842b6082a50f353eb971cd69a9573306f6f7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0092-frontend-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0092-frontend-patterns-chatgpt-reference.md",
+      "sha256": "4a767213baf7e8bc2ee3ac6b1c7cd6f5eea6328a1d06dc368ea9475488a9e1c1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0094-github-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0094-github-ops-chatgpt-reference.md",
+      "sha256": "c13e71ce4c6658ba6ad5fda0faaf5ed26e21c960bb2c41f386df5f195c0ffc69"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0096-golang-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0096-golang-testing-chatgpt-reference.md",
+      "sha256": "4b068d2cb6677a0fca1385bcf1183d1483a38383838f672b17f33c5a870b3f31"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0103-improve-codebase-architecture-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0103-improve-codebase-architecture-chatgpt-reference.md",
+      "sha256": "2c664eba64e9836a95611a0defd7a775a3ef2ef0c1ce2375f32af716df608609"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0108-java-coding-standards-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0108-java-coding-standards-chatgpt-reference.md",
+      "sha256": "9ccf0dd91bd2a3cbcf0a780448d43f10bc480c76d5165b09577f0686bfd89f99"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0112-kotlin-coroutines-flows-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0112-kotlin-coroutines-flows-chatgpt-reference.md",
+      "sha256": "e967916f310185ebfc171db7c80d70f8b14fdd819eafc9e9698925f9648e6ce4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0113-kotlin-exposed-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0113-kotlin-exposed-patterns-chatgpt-reference.md",
+      "sha256": "44a8092a13ceba00c379812c3435d04871e4910425b5c7212adb257d3dc37909"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0114-kotlin-ktor-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0114-kotlin-ktor-patterns-chatgpt-reference.md",
+      "sha256": "235ba1ba2528f1541e410565c934b0bd06d0d7196fb3681dcc2f06957716a252"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0115-kotlin-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0115-kotlin-patterns-chatgpt-reference.md",
+      "sha256": "f21ded0a9c0693d82a492cca92a578afee02346a076849d532792e58ec298f00"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0116-kotlin-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0116-kotlin-testing-chatgpt-reference.md",
+      "sha256": "6613b606560b4cbb75241f4598650bd42b3d884984653e08bb6939bee2bcb301"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0117-laravel-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0117-laravel-patterns-chatgpt-reference.md",
+      "sha256": "a274c5310a60f1a1000939f3eec624ef0ad3d4c9dcff416efb5d520b41d81539"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0118-laravel-plugin-discovery-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0118-laravel-plugin-discovery-chatgpt-reference.md",
+      "sha256": "23499c1ebc72855947be74f7d37cb030d2b0dd1c6e532c332900b7cb34937e44"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0119-laravel-security-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0119-laravel-security-chatgpt-reference.md",
+      "sha256": "f8aa048062b4c0ee9297813e92d26c5b062a8f45a22d0f1126e53786af91b2c3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0120-laravel-tdd-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0120-laravel-tdd-chatgpt-reference.md",
+      "sha256": "43397faae8b74b9f93577c85048af316162a896b77cf09075ffa00f621d5ee77"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0121-laravel-verification-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0121-laravel-verification-chatgpt-reference.md",
+      "sha256": "48535a62493106691352b41f11963120930b5020cc3994822de02dc0b07cd275"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0128-mcp-builder-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0128-mcp-builder-chatgpt-reference.md",
+      "sha256": "8be894b19da80b31ad40a218093d83d8bd04c64891ee9c1697126194ad050e69"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0133-nodejs-keccak256-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0133-nodejs-keccak256-chatgpt-reference.md",
+      "sha256": "367bb5991a7e1815c7f6a389fa709259897af7626623e62880f35eefecbdcfbf"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0141-perl-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0141-perl-patterns-chatgpt-reference.md",
+      "sha256": "7407e0172a23a0e5d212709a98b7b52660c314a830bbee78c4053cfaf35489fd"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0142-perl-security-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0142-perl-security-chatgpt-reference.md",
+      "sha256": "112288acb9a87465b4ff6e3780b224b910f21f9080fba9a7706cbf9dcabd7abf"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0143-perl-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0143-perl-testing-chatgpt-reference.md",
+      "sha256": "42d5d765bcdc4f463305942172188882593f4d2a8d0a2c1e4554d265cdbba92a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0144-plankton-code-quality-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0144-plankton-code-quality-chatgpt-reference.md",
+      "sha256": "17811825a88d594b5f24ca6d8ba44760ff9a49635506953a0141258dc8511e28"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0151-python-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0151-python-patterns-chatgpt-reference.md",
+      "sha256": "635162713f85427d25e02d6366e4654b6c471c6150585119a0250faf8846534a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0152-python-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0152-python-testing-chatgpt-reference.md",
+      "sha256": "9d087c8fadb412642aa9c6198b1d179fe935e97d2902cc96688cb90b4f0ce653"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0160-rust-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0160-rust-patterns-chatgpt-reference.md",
+      "sha256": "889065c4fe0eb9b175d4030fef9174ffa9b57aa6044b91c993dd4976373c6fe5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0161-rust-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0161-rust-testing-chatgpt-reference.md",
+      "sha256": "8bcf6e700ac09eb120bc4453eef3a264e243d1f38ef0330e9e97fd8ec49d0ad3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0164-security-bounty-hunter-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0164-security-bounty-hunter-chatgpt-reference.md",
+      "sha256": "d93195eec9b4191cb4392eee574c14652d4797c21546bb8fb095982ef853a4d4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0165-security-review-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0165-security-review-chatgpt-reference.md",
+      "sha256": "779377fb3634e81d88022fc4df1f25464c3dd5a71761554de282af2983a9232a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0166-security-scan-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0166-security-scan-chatgpt-reference.md",
+      "sha256": "5d5671dfdb11fadebe8634bf4a7097ac60762e7fc3632f3eb4c7209a7febcd14"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0175-springboot-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0175-springboot-patterns-chatgpt-reference.md",
+      "sha256": "1f2e840adc42603f2b54b915e60bcfa93ac65172403e52eb1b5ec38f048e9b49"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0176-springboot-security-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0176-springboot-security-chatgpt-reference.md",
+      "sha256": "b46f8f8dbee9fccc1ae5bb0cb228e10abdd3f099d0609a54a87bec894bc1f94b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0177-springboot-tdd-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0177-springboot-tdd-chatgpt-reference.md",
+      "sha256": "930f9e7c9bcd995a0073f8c5c08457acb3d859ccb4a21ace674c261147576cf4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0178-springboot-verification-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0178-springboot-verification-chatgpt-reference.md",
+      "sha256": "21096671175d2acfba30a2e76d8349e6950b61b2ead3635efef209c91adef29d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0180-swift-actor-persistence-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0180-swift-actor-persistence-chatgpt-reference.md",
+      "sha256": "5b8d04abcdc96c97755060e34be73ad0a1586dfd6ee332fecf8fa7b5998f3941"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0181-swift-concurrency-6-2-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0181-swift-concurrency-6-2-chatgpt-reference.md",
+      "sha256": "bff1cda55575c194a7b96c2507f33d1da1e418ce19cfd7f41ad243976761f858"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0182-swift-protocol-di-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0182-swift-protocol-di-testing-chatgpt-reference.md",
+      "sha256": "f29840ed389c54a0ac9b9bb3776782b32cea17f5133903b7f122d1a1142ad5ac"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0184-tdd-workflow-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0184-tdd-workflow-chatgpt-reference.md",
+      "sha256": "e517b4a7a1a79031e89759919109491d8c4f7c495210bb8c9f53f345168ead5c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0194-vercel-deploy-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0194-vercel-deploy-chatgpt-reference.md",
+      "sha256": "2f164933b81bc8e7148435be11aa49d70368d6bf3145e9071791a3f0a67ad4cc"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0199-webapp-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0199-webapp-testing-chatgpt-reference.md",
+      "sha256": "7f635d839029efac5a50c4844de3eaa8b403786e46015ae88ffed614a2d93a0d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0202-x-api-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0202-x-api-chatgpt-reference.md",
+      "sha256": "f917c8260db3ae4bcd72ce3965153d965930f83de5992b27774b5581cb856769"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0215-security-ownership-map-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0215-security-ownership-map-chatgpt-reference.md",
+      "sha256": "f8191b535b806a38e7f3f722d645ae894ad8981405509afb1ac349b312900095"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0216-security-threat-model-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0216-security-threat-model-chatgpt-reference.md",
+      "sha256": "4eaf350b4cd6ed9d852d075a7fe77e0c4b82317166bdfbca791adf62b9f99107"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0224-review-agent-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0224-review-agent-chatgpt-reference.md",
+      "sha256": "a2381ccb53cbae56a18040e1996ff0d1d700548fcd71f19e85661855a2002ff5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0508-benchmark-testing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0508-benchmark-testing-chatgpt-reference.md",
+      "sha256": "fed1031663846c87ee127781f635caa3592b70ca654d43f1432197dd20d39bed"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0511-vercel-plugin-eval-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0511-vercel-plugin-eval-chatgpt-reference.md",
+      "sha256": "ebab47142775aab6cd081182db006d0c51350c93bcbefbd938fce9535bd8d138"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0530-gh-address-comments-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0530-gh-address-comments-chatgpt-reference.md",
+      "sha256": "a18027738950ddcbf363a91dd1b01c1c8872db6380f5f149d6a8fb98bf345465"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0531-gh-fix-ci-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0531-gh-fix-ci-chatgpt-reference.md",
+      "sha256": "cdad2a2ed56a0beb0cb85de366ee30aa1407e6162e13464bc64e7aa8cb4206ef"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0532-github-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0532-github-chatgpt-reference.md",
+      "sha256": "3f9397b68ddcc85c57ef1558510838931e65fb0602bc1639414c6992a4125c6a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0533-yeet-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0533-yeet-chatgpt-reference.md",
+      "sha256": "8a212afd69e7101f208c7959cf95561b624019e213238cca8745da492d464aed"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0569-artifact-template-operating-review-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0569-artifact-template-operating-review-chatgpt-reference.md",
+      "sha256": "fe3224559715a7e4885e98e34e57199a5c17c125a7385c40bddda34ba2f0bfb0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0593-supabase-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0593-supabase-chatgpt-reference.md",
+      "sha256": "7ee629ab164b7c7b82c0fa03357a31024e51a3b18f7389bb08d29daf5301438c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0594-supabase-postgres-best-practices-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0594-supabase-postgres-best-practices-chatgpt-reference.md",
+      "sha256": "fa3b12d20d487c3807f8f1cf4641fd412af04f92f7e839677ca078b756e141cd"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0596-ai-gateway-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0596-ai-gateway-chatgpt-reference.md",
+      "sha256": "c40085499a4ef4f0182f01808ea64300091d6ed77239c0be932ea3c43537440f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0598-ai-sdk-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0598-ai-sdk-chatgpt-reference.md",
+      "sha256": "ce008127a4825c555e374b6677a17a1a27e233492ec6b84bd980d6e16e447b10"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0599-ai-sdk-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0599-ai-sdk-chatgpt-reference.md",
+      "sha256": "c5ac25fe7b9c9cc50647e1c30cf96f6475d6a0cbfc13a3b532315b59146e0b96"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0602-auth-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0602-auth-chatgpt-reference.md",
+      "sha256": "76505e360c70ec2ebca6ea16b2bea0a7a64f50ac648f9efe356362a5707a176a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0604-bootstrap-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0604-bootstrap-chatgpt-reference.md",
+      "sha256": "2fdbd2bb09dae322bcc2177dcbf131b1f4d4bff931c726590f2f3c99072d8e71"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0606-chat-sdk-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0606-chat-sdk-chatgpt-reference.md",
+      "sha256": "2c29d60019d8254b37359c3530a943c9875ccef253dacedb7fc1a290aaad0483"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0607-chat-sdk-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0607-chat-sdk-chatgpt-reference.md",
+      "sha256": "a423e54fd25211f91c88693e31a4189b91498f1b220e6f63d6b54a0ced280588"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0610-deployments-cicd-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0610-deployments-cicd-chatgpt-reference.md",
+      "sha256": "dc64a38658ceb267266d7e931a1ca6276ae2b3f0e1d4a1d4031779ce71e6489b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0612-env-vars-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0612-env-vars-chatgpt-reference.md",
+      "sha256": "ea6dccc38eeb73acecc2fcdfc4711d5b2485c24054c5e96f9c9ebd277a53dfbd"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0614-knowledge-update-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0614-knowledge-update-chatgpt-reference.md",
+      "sha256": "56a0742e0d08e9941db20cdcc8e11fa0351478945a08a6696d900a5c5084a2d3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0618-microfrontends-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0618-microfrontends-chatgpt-reference.md",
+      "sha256": "d68cc995886e506a7609963588b64de0b02effac2bc71394aba2cc9bac10affc"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0622-next-cache-components-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0622-next-cache-components-chatgpt-reference.md",
+      "sha256": "53c2f6f374c14351575f94ad9f693e8f34ab4dedef5d34497523834e3e69db6e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0623-next-cache-components-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0623-next-cache-components-chatgpt-reference.md",
+      "sha256": "ce8a1423b77e64e896892daf646f19f471216afff495d997928803727645b69c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0626-next-forge-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0626-next-forge-chatgpt-reference.md",
+      "sha256": "60f87bcb550b6ccce773eae04d4c9d765af7a9c154feafbfb42f1cfbd6091c66"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0627-next-forge-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0627-next-forge-chatgpt-reference.md",
+      "sha256": "09b14ccf7c75b76c4ada3ec92a46aa135db7b7640c0c23b2483dfaa41a998188"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0630-next-upgrade-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0630-next-upgrade-chatgpt-reference.md",
+      "sha256": "0f79f8033a62f91c4fcda46dc1d4b7037c44fdd987594832498a7d86f5e58da1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0631-next-upgrade-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0631-next-upgrade-chatgpt-reference.md",
+      "sha256": "522a557c947cd7a9b0665d48a31ed904782277ee91941aec1316b49f34535567"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0636-react-best-practices-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0636-react-best-practices-chatgpt-reference.md",
+      "sha256": "e1159dd3315ccb342533901a51050d2498f9b3ea4eb77c7e4c328611b5393e2c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0638-routing-middleware-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0638-routing-middleware-chatgpt-reference.md",
+      "sha256": "859e57c975ccafa1b3c0f15ada22b7fc41875023ef10ab3cb1dc2c9a8b9defcd"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0640-runtime-cache-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0640-runtime-cache-chatgpt-reference.md",
+      "sha256": "b55a513a35417ddea91b49e6a9ac410920a072dac6070afc7e0a89542a9deb33"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0642-shadcn-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0642-shadcn-chatgpt-reference.md",
+      "sha256": "ad1d1e26f9e3dfa5358a17f032f4f1fccb06ef48ff0c2d3f129f8b9d6babc95b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0644-turbopack-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0644-turbopack-chatgpt-reference.md",
+      "sha256": "6e076d53e55e39f42b3eecb6b5a78666912acbd84090d00f49ac87a60e77ed28"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0646-vercel-agent-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0646-vercel-agent-chatgpt-reference.md",
+      "sha256": "3a4dce54adad40c944c65d15de8fc9a8e3f58c7e48a8f906d5248b5c928fed1f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0648-vercel-cli-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0648-vercel-cli-chatgpt-reference.md",
+      "sha256": "f48d982c07e71e307a78ab70530575ddc4973ac00f636cf1a92843475678dc5b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0649-vercel-cli-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0649-vercel-cli-chatgpt-reference.md",
+      "sha256": "db5b0c3cbb61cbf51c0370d2ea5aa6af007792fdd9fa97063bf3db27b0bf6e09"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0652-vercel-connect-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0652-vercel-connect-chatgpt-reference.md",
+      "sha256": "90c1f0b7680485498648b1ffac66a0b04a63f7efa1b4973223cfcfd726b40ba3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0654-vercel-firewall-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0654-vercel-firewall-chatgpt-reference.md",
+      "sha256": "e514e4777a7e60e7d5c2e9240b1eb8f645717841803e2932e21a9339fdde932e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0656-vercel-functions-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0656-vercel-functions-chatgpt-reference.md",
+      "sha256": "a5fb92269bded9365e601eeddd23884009041e904c5fa2670dd04bd661da0c14"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0658-vercel-react-best-practices-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0658-vercel-react-best-practices-chatgpt-reference.md",
+      "sha256": "36ea17a808ace444c9f8f2343bc5140018ce1992f3b2a11f27482bd3de461444"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0660-vercel-sandbox-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0660-vercel-sandbox-chatgpt-reference.md",
+      "sha256": "20435a7b5a4b91ee98604512f2e7a56d20e0605cda58f38c86422a960f839292"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0661-vercel-sandbox-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0661-vercel-sandbox-chatgpt-reference.md",
+      "sha256": "d33533c02597f043433af9a2db2bd80500067f68120ba43cce19bca89493e3f2"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0664-vercel-storage-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0664-vercel-storage-chatgpt-reference.md",
+      "sha256": "c12871318acdb4c559a44996e1482b19f070c53be55e097cfd156c5ad93a0f86"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0666-verification-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0666-verification-chatgpt-reference.md",
+      "sha256": "53620b83fc56d22ac900eb679873862ce7e856d0f8b2affac4a51ac94ef059c4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0668-workflow-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0668-workflow-chatgpt-reference.md",
+      "sha256": "3f78d7c17c08a939c5593873390a4813093226cc476955659d4d35a2f08a49b2"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0669-workflow-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0669-workflow-chatgpt-reference.md",
+      "sha256": "c61ab74b23a40458c513d6320fde1a142b495a6c6c07f01651644b9878ee3ffa"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0672-agent-browser-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0672-agent-browser-chatgpt-reference.md",
+      "sha256": "7c83a279b36d5c450b1dc3a9dcd3c9a1771172432a3e6a38baf6af69a4a34c1f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0673-agent-browser-verify-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0673-agent-browser-verify-chatgpt-reference.md",
+      "sha256": "33d7f703a47978b3d92df5bdce4508ebd97829ac772116ddb0604b4386639690"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0674-ai-elements-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0674-ai-elements-chatgpt-reference.md",
+      "sha256": "80a7289a060e718dc98c784f364538a7a37e796f2a0325eb8ec31540a315c20a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0675-ai-gateway-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0675-ai-gateway-chatgpt-reference.md",
+      "sha256": "abf3f4e3e09b7907f923cade326262b7afd8b2beae42e82d4dd142816c1c7ba4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0676-ai-generation-persistence-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0676-ai-generation-persistence-chatgpt-reference.md",
+      "sha256": "199739614f31e5db6e9b1f0ed8867025fab66b59b4c406ed56b1858a06a9ae1b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0677-ai-sdk-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0677-ai-sdk-chatgpt-reference.md",
+      "sha256": "2e63bce3983ca62f65a9a93123aee69cd4755100d3050be9554cf9dd66d0ea47"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0678-auth-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0678-auth-chatgpt-reference.md",
+      "sha256": "3b4fbfe46c139e54f7a66e31d1b3f8fd9cd3cf0a4110e78b5cbd31d99da0579b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0679-bootstrap-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0679-bootstrap-chatgpt-reference.md",
+      "sha256": "4683ed764a7a9482feea72b7ad5e816d0a09666aefdd924d01d7b655b2f95a14"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0680-cdn-caching-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0680-cdn-caching-chatgpt-reference.md",
+      "sha256": "8a0742abb9cbf7d68207ea8a3e95943c691dab6600a08d03464ac08d2714aa80"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0681-chat-sdk-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0681-chat-sdk-chatgpt-reference.md",
+      "sha256": "49a6fb1dca4940f064477a5bb3a67f0bed078f3c6c16f293e76db9e4da2d688d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0682-cms-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0682-cms-chatgpt-reference.md",
+      "sha256": "f944f7f53e566f630462b9d9e795d614d295b2a2dfd372dc72292919f1d10bde"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0683-cron-jobs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0683-cron-jobs-chatgpt-reference.md",
+      "sha256": "02a2a049410d78384643ba03c6f512902e992b18de3d75e96f0241a805b06605"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0684-deployments-cicd-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0684-deployments-cicd-chatgpt-reference.md",
+      "sha256": "1b0a26f343418c6690446fca2358dae999ce41e4c9c96a4cee2062546498dd84"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0686-env-vars-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0686-env-vars-chatgpt-reference.md",
+      "sha256": "8936b583f6f6e23e4e9c7ea606ad07df91126823c0b234b88956838d19de066f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0687-eve-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0687-eve-chatgpt-reference.md",
+      "sha256": "c37c4a980e59dc7819e921ef63543f0f7dbb4a520e47edc05e95d4d13883cfbd"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0688-geist-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0688-geist-chatgpt-reference.md",
+      "sha256": "7a9adb62c1474203060e21466de81057f2b8b215125115498ab964b3e90fd2eb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0689-geistdocs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0689-geistdocs-chatgpt-reference.md",
+      "sha256": "18d5bf9680915a7ecaf838b4b8034a3e6632232748022cb727e725c7cc65d566"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0690-investigation-mode-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0690-investigation-mode-chatgpt-reference.md",
+      "sha256": "f8a543c92733cfa950110853d83ff4e3cd551d6add518229d8eb49885b9f71a5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0691-json-render-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0691-json-render-chatgpt-reference.md",
+      "sha256": "60ce00d1107b273e237ef4e6027213df1313fca2f7ac3df6f96220d04d996845"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0692-knowledge-update-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0692-knowledge-update-chatgpt-reference.md",
+      "sha256": "ca73ed827e4345ecd316a46275931cf57d3ca6102e187bd2b4ea6fcc7a85b34c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0694-micro-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0694-micro-chatgpt-reference.md",
+      "sha256": "7925cf3c0d73846fa2f37c972f48399be237c90df27c9fc404ffee5ce54d1d6a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0695-microfrontends-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0695-microfrontends-chatgpt-reference.md",
+      "sha256": "467dff3520d26c4ec024db6e4bdc54467d5f3fad21f3d618198f378cc204e099"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0696-ncc-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0696-ncc-chatgpt-reference.md",
+      "sha256": "c173c566c680f49f12e2e004287ac0d460c56418cb45752c7e0bdcb5da0d58eb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0697-next-cache-components-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0697-next-cache-components-chatgpt-reference.md",
+      "sha256": "e9be14e0232ed66b9701400d604bdb319da5bac6d77ef6d0861da7bc6d93a824"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0698-next-forge-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0698-next-forge-chatgpt-reference.md",
+      "sha256": "2b1407f236007a8a2b44fbcd933a3ac929a377b89dc122a355ae7a5a9d4009a7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0699-next-upgrade-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0699-next-upgrade-chatgpt-reference.md",
+      "sha256": "83acbcdd4ae033a17795cc9d1a1e06dcc5091ed6c3359f7a994b32755102e4b8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0700-nextjs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0700-nextjs-chatgpt-reference.md",
+      "sha256": "f1ac6e4b8af97c7aaf3b3a6169720cca0feaf6eb977610825c507037784d573d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0701-observability-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0701-observability-chatgpt-reference.md",
+      "sha256": "e3ee2f47f1bb998e0d9c8e294aa480c4f5def47c7f917547296665456aee0d5f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0702-payments-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0702-payments-chatgpt-reference.md",
+      "sha256": "1060ab518c373eda0f46635d706a7f241b3dcaba284beeb6b9f99527d0257b30"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0703-react-best-practices-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0703-react-best-practices-chatgpt-reference.md",
+      "sha256": "242a8f6c3732a0e1f90b75c01e97cd62a77c3be91699e360e62e484c57a96750"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0704-routing-middleware-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0704-routing-middleware-chatgpt-reference.md",
+      "sha256": "2624367097f20b425ba400b80948c3d5bfdfa9e81f126140700c2cb171233e7e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0705-runtime-cache-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0705-runtime-cache-chatgpt-reference.md",
+      "sha256": "7f16ce6b15b34e448300a075f6fb237e5b8054c4bc9b92f3e3b8d9a1e40bd6fe"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0706-satori-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0706-satori-chatgpt-reference.md",
+      "sha256": "5070963cab3627a2cb2ba34a99b4e8ad4ef6ec390eb3b91c7a428a89dd8cf936"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0707-shadcn-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0707-shadcn-chatgpt-reference.md",
+      "sha256": "d75379b7f655958d512608be589d9383f846690f319f9c50cb00e7661cee9ea4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0708-sign-in-with-vercel-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0708-sign-in-with-vercel-chatgpt-reference.md",
+      "sha256": "8bf3f30bffd44bc339c292a3157d1774cdc192a4530c5e1e25aaa43ce024cf29"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0709-swr-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0709-swr-chatgpt-reference.md",
+      "sha256": "c9c8bfe53cc4ddb69c0bbb9df92f4352a1f44197f9e94405e6d7c446b787094f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0710-turbopack-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0710-turbopack-chatgpt-reference.md",
+      "sha256": "4b361b52fe45f7e1406c43d071771ef38acf58c2e6998d5a904c281fcf045a49"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0711-turborepo-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0711-turborepo-chatgpt-reference.md",
+      "sha256": "59d323b9a5cf7223d627d65ec633880097dc017387235f79e30bf4349498209c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0712-v0-dev-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0712-v0-dev-chatgpt-reference.md",
+      "sha256": "b194b771c1028bfcfb113c1b3c085c81d46c8612fdfbf75d35e8823a956c81d4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0713-vercel-agent-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0713-vercel-agent-chatgpt-reference.md",
+      "sha256": "1fc189c46f797301e7a72e2d739e8a3e89c1a745a946152f32b4b4e5f48681bb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0714-vercel-api-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0714-vercel-api-chatgpt-reference.md",
+      "sha256": "02e61a77fe8bbd1a19b7aa68bfc78d1a39744c156a4c61566e6c5f3e3144a42d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0715-vercel-cli-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0715-vercel-cli-chatgpt-reference.md",
+      "sha256": "2b707b831793d58be59090eb5f17c4d06e97c030aa5f680da84e20e48ee78ea2"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0716-vercel-connect-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0716-vercel-connect-chatgpt-reference.md",
+      "sha256": "aa1efd2e1d0534f36b1fa3b2c9854b5534043d3fbb06b04a7695de27c2a9c184"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0717-vercel-firewall-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0717-vercel-firewall-chatgpt-reference.md",
+      "sha256": "eb64b5cc2e171fa385afb840031d3d536289ad7b74e1dc027e3eedbc3a860e7b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0718-vercel-flags-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0718-vercel-flags-chatgpt-reference.md",
+      "sha256": "4cad8f14b2ce096393b7fbc39bd952a93f99fdee7c709fa865ed4465c478f53d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0719-vercel-functions-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0719-vercel-functions-chatgpt-reference.md",
+      "sha256": "8ccf51053573fc21333892e43f5de9f7143561752de33e3016c57134b87dd8e0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0720-vercel-queues-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0720-vercel-queues-chatgpt-reference.md",
+      "sha256": "ef52f58efea658af86b7b86ba702a3bf2e64cd9aad828f0715559843a6af8237"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0721-vercel-sandbox-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0721-vercel-sandbox-chatgpt-reference.md",
+      "sha256": "e92b14152a359dc6a88a839be4c290fcae53a95da7b63ec1a2379ad4f6c34ee7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0722-vercel-services-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0722-vercel-services-chatgpt-reference.md",
+      "sha256": "192040035d42904442a1f144cd419c74dc7644aa1f55db653ca0295f2977dbda"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0723-vercel-storage-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0723-vercel-storage-chatgpt-reference.md",
+      "sha256": "1c1800eb0609849f65c340e31977a9e5542022a592d61491130eb79e38f31eb7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0724-verification-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0724-verification-chatgpt-reference.md",
+      "sha256": "25283d64ec79e124f56bd0431bdd3eec9e6cd90d9abce5f54937cd5fc14d5ded"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0725-workflow-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0725-workflow-chatgpt-reference.md",
+      "sha256": "eaa88b25dfa85a5f29168f75d2ac19de9c75e99e99b6bf2a70b7e7101a93b970"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0734-learn-codebase-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0734-learn-codebase-chatgpt-reference.md",
+      "sha256": "ddaea72c9d0515d5422c3395956cd55ae5e78a4df274dcc6a57ea2d2ac547f2f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0752-review-claudemd-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0752-review-claudemd-chatgpt-reference.md",
+      "sha256": "f9a27f959754cedc09da2f98f072ec93709b8b58eba7b1db42cd0b9153fd727c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0758-receiving-code-review-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0758-receiving-code-review-chatgpt-reference.md",
+      "sha256": "2e2fc21d17eff591f8850c7abc40b3ca82a47b60a1e4ef729e71b1b047742b09"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0759-requesting-code-review-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0759-requesting-code-review-chatgpt-reference.md",
+      "sha256": "c6d7cd4abb8f8a1c619d61385737d1485fe6a7b043878af386e852e89188d1af"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0761-systematic-debugging-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0761-systematic-debugging-chatgpt-reference.md",
+      "sha256": "5684827b77d9101b2250b795fa4179a121e284926966de86ecfb41597555ca45"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0762-test-driven-development-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0762-test-driven-development-chatgpt-reference.md",
+      "sha256": "09e8f12c2012512a98cf82e720445c853d754c17b3f5e3c6ac52fddb9962acb5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0763-using-git-worktrees-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0763-using-git-worktrees-chatgpt-reference.md",
+      "sha256": "1794dfacabc1ce252f0176f41d631834ec78794ed11aaf88a2d0941a4dd00047"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0773-cdn-caching-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0773-cdn-caching-chatgpt-reference.md",
+      "sha256": "bcd2d8213fdb56c214bd9282142974b2122547280ff621da942953e7effbef81"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0778-eve-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0778-eve-chatgpt-reference.md",
+      "sha256": "082eedf179691c20b9e5afe822bd50cd88fa360420fadb018668e0391b756257"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0779-eve-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0779-eve-chatgpt-reference.md",
+      "sha256": "dc6fdbae91ec790b04734f503d8cd5fb823c610a5f794ef62d31543d355e948f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0780-knowledge-update-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0780-knowledge-update-chatgpt-reference.md",
+      "sha256": "3c4b2dcde65252631fbf80dc0aa43140408e72ac4c5c7a061ae347ef54d190e7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0797-vercel-cli-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0797-vercel-cli-chatgpt-reference.md",
+      "sha256": "06cbdb255487826d31fa12271977d3a1f0995a99ee921a4857313d0cbcaa57a9"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0799-vercel-connect-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0799-vercel-connect-chatgpt-reference.md",
+      "sha256": "26696e5c73c76a47d7226892c88be53c2833513ee3d480e47608a87e0da5c8e0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0801-vercel-functions-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0801-vercel-functions-chatgpt-reference.md",
+      "sha256": "020a22dab004ff0d5488a02a196ccfa0e7e2258daea60f30c827a2718748ba13"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Coding & Development/0807-workflow-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Coding & Development/0807-workflow-chatgpt-reference.md",
+      "sha256": "aa708646be83b98f4dd9a7a4d6a80e13eb73f786eb848ed40290464abb05c0f8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0008-all-images-ai-automation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0008-all-images-ai-automation-chatgpt-reference.md",
+      "sha256": "c1bb9a1b8b5ff4f95adccffee18863486946f759a99d7f5c81a648eed06f66ea"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0012-api-design-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0012-api-design-chatgpt-reference.md",
+      "sha256": "11986ab82855a9f4516adca7a51f4d54ad52a24073d44866b42330947acec572"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0031-canvas-design-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0031-canvas-design-chatgpt-reference.md",
+      "sha256": "2a0fb25821f93d593535906c286bea6db94ddebaaaac297243f99c1eba78faac"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0068-design-an-interface-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0068-design-an-interface-chatgpt-reference.md",
+      "sha256": "151f7081481ae40a27b4b3037efb329dc7cfb791df14459e8aeeecdef47c2bb5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0074-dmux-workflows-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0074-dmux-workflows-chatgpt-reference.md",
+      "sha256": "12d787a419b339b40552dfccfee8004a56aa847bca4d752cc4bff3455789471a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0091-frontend-design-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0091-frontend-design-chatgpt-reference.md",
+      "sha256": "2c4edbc6993f71ab462fd4639f53ca2c25685bcad01072ea15b201d91b15b446"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0093-frontend-slides-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0093-frontend-slides-chatgpt-reference.md",
+      "sha256": "684597d612498bdac30d518604d7102fd0311c0f78caaecaf093ebf07bcd51e5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0102-imagegen-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0102-imagegen-chatgpt-reference.md",
+      "sha256": "6d47395b307f4b8ff9a8a53e4ad042797233200a56a7f251d37d9c725718b8a3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0123-liquid-glass-design-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0123-liquid-glass-design-chatgpt-reference.md",
+      "sha256": "f967b9635f7273151c972e070a9f53a7937c1576721a807c870af2c1e72bff2c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0126-manim-video-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0126-manim-video-chatgpt-reference.md",
+      "sha256": "d1c1e4ca75b8481d45d60064d5a3e34e13caa6c2aa4a28069f439d5a961b0b71"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0157-remotion-video-creation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0157-remotion-video-creation-chatgpt-reference.md",
+      "sha256": "3ca60a73203216bb4ba88fa308db13935bcac297caee9d923a7e5413012d7880"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0174-sora-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0174-sora-chatgpt-reference.md",
+      "sha256": "3e5ce02d5314a66240f493d46f9508bc8c198c8b71101d31e25a95efd19a44d4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0183-swiftui-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0183-swiftui-patterns-chatgpt-reference.md",
+      "sha256": "cd23ba8bc78b17a7722c47f52d18606a4be40faae3847c9647210e0005120c19"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0192-ui-demo-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0192-ui-demo-chatgpt-reference.md",
+      "sha256": "901ca9a42be7f3c8c3c912f95125f8808b20583b99e9199fc4fb8dc6cb8e79b1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0196-video-editing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0196-video-editing-chatgpt-reference.md",
+      "sha256": "f4593d50802c3cc386c6f5085f50924157a1d4831cdca20475f35053f137eb00"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0197-videodb-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0197-videodb-chatgpt-reference.md",
+      "sha256": "6b60d76bfa36a492c5918ca1a9ba30a63fa41519a5153036fdb6142bcb0afe28"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0214-pptx-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0214-pptx-chatgpt-reference.md",
+      "sha256": "1e1c1e5ffbe0584ba088f4390ee4e6db0fa4cd09613970cdd91dbc3303fb82ad"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0218-theme-factory-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0218-theme-factory-chatgpt-reference.md",
+      "sha256": "4a415354f6ccecfbec0085f8d5b6cab8e10dc5e518aa7a425864654e41a6853d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0221-imagegen-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0221-imagegen-chatgpt-reference.md",
+      "sha256": "03d5725060a6851734435f871685329e54c818977cddaa0181b5da4f10f25560"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0470-design-an-interface-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0470-design-an-interface-chatgpt-reference.md",
+      "sha256": "17e25f5576ee003ab9cb85907bf14bafe6aef28cfc62adb018ba9027afc1885f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0542-google-slides-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0542-google-slides-chatgpt-reference.md",
+      "sha256": "9842d1f5582ad27fdbd866bb1d64312be53525f61f33bd0c6680398e88936db7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0543-google-slides-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0543-google-slides-chatgpt-reference.md",
+      "sha256": "1b11126d05ad344f8260e65fb0047d2aecd1cb52cc6fb961ef64821cc5d6d319"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0561-artifact-template-design-report-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0561-artifact-template-design-report-chatgpt-reference.md",
+      "sha256": "e3260f305da3dc9f9fce2003e4950e57aabeb45c495bec03a3513d770f27e02a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0576-artifact-template-system-design-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0576-artifact-template-system-design-chatgpt-reference.md",
+      "sha256": "0e316295400d103a743ae1cc1f8c17e448c74c73b2a7f573999f73d3b5425b0f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0581-presentations-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0581-presentations-chatgpt-reference.md",
+      "sha256": "148cdef9418fe40ee0f7eefb56aaca46a09122fa5f0ced35bf3a7ceb5b7faa5b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0730-design-is-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0730-design-is-chatgpt-reference.md",
+      "sha256": "a2301c80cb12dd875a74527be7d418c04dfbd01adae1aac85694b27037d7dfe1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Design & Media/0753-frontend-design-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Design & Media/0753-frontend-design-chatgpt-reference.md",
+      "sha256": "5f499f76b467f5faf504deb27a3e94fa8257dbd75ba4cb514c7cad355f6e528e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0020-brand-guidelines-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0020-brand-guidelines-chatgpt-reference.md",
+      "sha256": "826fa8a1e455199a3f23c634cddedafacd152927bc4eaf67dc350837bc17c33b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0082-email-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0082-email-ops-chatgpt-reference.md",
+      "sha256": "92a5cac8c3324a27ac211c45ef794e7b716c8387c1489b20435528727dd53907"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0105-investor-materials-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0105-investor-materials-chatgpt-reference.md",
+      "sha256": "7da7c5a5273429c893517f71fdba7862119935b6035268954b46efd12150e01d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0106-investor-outreach-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0106-investor-outreach-chatgpt-reference.md",
+      "sha256": "cb2cd4bace1edb5c9c936eb60238f16c851c9069e68db7abf9edf4b6ee5a59dc"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0122-lead-intelligence-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0122-lead-intelligence-chatgpt-reference.md",
+      "sha256": "654b0a53c15805d89a691b1e8c055239b02ab8a18f3a73750d17a996832445c4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0127-market-research-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0127-market-research-chatgpt-reference.md",
+      "sha256": "1c97303661d0059be3726258dd12adbd19f7bfd667d469b5023cb55dec83e076"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0167-seo-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0167-seo-chatgpt-reference.md",
+      "sha256": "c23550fe1c425b652861ee59c8cf51d138c6e58eb723408726332c8debd10bba"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0172-social-graph-ranker-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0172-social-graph-ranker-chatgpt-reference.md",
+      "sha256": "e4eb180adcd36d933aa4603604680b13b715cd0b06f1096ebbd8c89d2135039d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0227-ads-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0227-ads-chatgpt-reference.md",
+      "sha256": "9401abc937eab65db28ff1a134e33a45445f1316277425c4ffa65232da29abe7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0228-ads-apple-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0228-ads-apple-chatgpt-reference.md",
+      "sha256": "bedc682eb7c9f50c21cd54fc8fab0b8c97715ceca1efd15f9cc39bde064fba17"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0229-ads-audit-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0229-ads-audit-chatgpt-reference.md",
+      "sha256": "4f8c5924a0f7953ab319fecbc2aced372b927223542a0e1b4bc5df0af6d37d36"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0230-ads-budget-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0230-ads-budget-chatgpt-reference.md",
+      "sha256": "2514dbd89d126b7306e4473c8adee3a3e4d1ff2952d8c33675bbcf0a6d526ea6"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0231-ads-competitor-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0231-ads-competitor-chatgpt-reference.md",
+      "sha256": "da802adde2d47b5adbb5e7f10780ed21734f73e7647019badcfbefd87822d52a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0232-ads-create-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0232-ads-create-chatgpt-reference.md",
+      "sha256": "460ee172a886b0166b2276c3daf75215392cc74bcdd1698a3803a33b2ad26cb1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0233-ads-creative-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0233-ads-creative-chatgpt-reference.md",
+      "sha256": "6f0730fa898450a232c201c411cf8390aafddacac641ed6e42db5933527cbbc1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0234-ads-dna-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0234-ads-dna-chatgpt-reference.md",
+      "sha256": "7d17991bb8a0102828030659cbc8183accced1bd9d946b17e8ddfdb448a12956"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0235-ads-generate-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0235-ads-generate-chatgpt-reference.md",
+      "sha256": "dfe4c76e2f8f7a28ffcf3a78f00852bdaac7f192185e93a610dd15f3ea84f412"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0236-ads-google-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0236-ads-google-chatgpt-reference.md",
+      "sha256": "2923116f7479c818684646b73a3485631b636feba9e8c5413c7ea55da88de2fa"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0237-ads-landing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0237-ads-landing-chatgpt-reference.md",
+      "sha256": "004e9c982781910ebccc03b4d3e1e4bd58916b84c0f88eed83b5a0e35c3244a3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0238-ads-linkedin-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0238-ads-linkedin-chatgpt-reference.md",
+      "sha256": "bb7a9371ca0df14101d6bfb064de7fdb1125f8ce4920e0021eea60872bb108b9"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0239-ads-math-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0239-ads-math-chatgpt-reference.md",
+      "sha256": "e83c3bbeea7f7336062cbc4a3b3a1a310994e487fae47750ca99a9ce60cbe4b3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0240-ads-meta-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0240-ads-meta-chatgpt-reference.md",
+      "sha256": "298ff44f1f26570896f8ad1561ae8a685ffa148db03e2269431f91a44a750cca"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0241-ads-microsoft-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0241-ads-microsoft-chatgpt-reference.md",
+      "sha256": "76a4b9102a5597cd948b3b0badadde0038152e85589d97f10f18cba71dad518d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0242-ads-photoshoot-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0242-ads-photoshoot-chatgpt-reference.md",
+      "sha256": "9ff23e135cc38888a8a1349be67157342d22f428c4f7ef03493a7780c676682e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0243-ads-plan-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0243-ads-plan-chatgpt-reference.md",
+      "sha256": "b836b26228ece711826bc421dd5d9f4827a09d9e438e0b35e7dfa05dd7c172d1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0244-ads-test-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0244-ads-test-chatgpt-reference.md",
+      "sha256": "e23107dbe96fa9e98cdd84c016edefa1c2caa228bd4a45681be06a5bc74355cb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0245-ads-tiktok-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0245-ads-tiktok-chatgpt-reference.md",
+      "sha256": "14e7e6c1144dc1cd5a30d311086f6e4a3c9a45d7c0d7ea8cf35049db4629bf95"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0246-ads-youtube-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0246-ads-youtube-chatgpt-reference.md",
+      "sha256": "e5a55a3e55070951cdf7a0ec09b4864fe99b7a057dc304ad3f34831267e8555c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0560-artifact-template-business-review-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0560-artifact-template-business-review-chatgpt-reference.md",
+      "sha256": "0855a57b7840541a68939ee68104d1ac09bf022bdb93f1693e6a8e3c98119fd8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0566-artifact-template-market-trends-report-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0566-artifact-template-market-trends-report-chatgpt-reference.md",
+      "sha256": "06c286e38a32439e2ba081b1f17538e6ed33b007227f496cde07cf399d961963"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0572-artifact-template-sales-pipeline-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0572-artifact-template-sales-pipeline-chatgpt-reference.md",
+      "sha256": "589bdffdcb7dacfd3378b751da6228f880d6cc329e7fc457b160cb5681735b0e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0616-marketplace-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0616-marketplace-chatgpt-reference.md",
+      "sha256": "0901630a12edff239bceaf3ac723f61bca0a251bf9f5467d838f2d604aca2bad"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0685-email-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0685-email-chatgpt-reference.md",
+      "sha256": "36c71d95b346b6312a79e7de0c694e0ee35fbaa430ad02a7af5f74f8b704819e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0693-marketplace-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0693-marketplace-chatgpt-reference.md",
+      "sha256": "a1f64a402cf49426b76606e42a9605023fdcef72f39617dd152c3703b3017164"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Marketing & Business/0781-marketplace-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Marketing & Business/0781-marketplace-chatgpt-reference.md",
+      "sha256": "35f548326a4ecd4c68744553bd361231ae8adf9731ea38b0d8c1273690e81b8b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0062-data-scraper-agent-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0062-data-scraper-agent-chatgpt-reference.md",
+      "sha256": "368182de9ab135d79d46e8d2216c697d69e136f7abc12ab30956972ef55c2ab0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0063-database-migrations-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0063-database-migrations-chatgpt-reference.md",
+      "sha256": "25186150e5da8d0e50f0e6742fadd9b64b0326bb0a63eda320b8a3b41eaeabfd"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0064-deep-research-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0064-deep-research-chatgpt-reference.md",
+      "sha256": "3c115aabb88afb03dda38cd882b4a4226b08919239cd54cb41f3bb27d40385d8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0087-exa-search-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0087-exa-search-chatgpt-reference.md",
+      "sha256": "a58bbd2b48378b06f73046bef8673bff815b93c009853db07a08ff444d1c18e6"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0089-finance-billing-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0089-finance-billing-ops-chatgpt-reference.md",
+      "sha256": "f2d705f634048431f2f2af61b2e309f2c7adc54e8083c8f0cc3350ba79577e15"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0124-llm-trading-agent-security-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0124-llm-trading-agent-security-chatgpt-reference.md",
+      "sha256": "42fb08fcde8c2bb23418263d8c1b45526f24d6f9d2e477e125899b4d4f554461"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0139-paperjsx-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0139-paperjsx-chatgpt-reference.md",
+      "sha256": "7c39affdf7fcaa33c92f6ba50c02ed6a675b1ea996f4004528221d12120cf77f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0158-research-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0158-research-ops-chatgpt-reference.md",
+      "sha256": "8643e15d7e255b67adf819bc49a8fc92ab461491547950912a4c84fda6e36ded"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0163-search-first-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0163-search-first-chatgpt-reference.md",
+      "sha256": "7ae714eae92ddf56304a679179ebed3b4b08b410bbc0605dade41a43e51cf08d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0528-deep-research-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0528-deep-research-chatgpt-reference.md",
+      "sha256": "44ce88b485c9408c6a3d4fb910efec1eff1fc5571c061373cbfb265608434793"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0544-hf-cli-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0544-hf-cli-chatgpt-reference.md",
+      "sha256": "6e5922feee1e2c1725a566b591105b130f01f4da04dae662e4e91186e734f66b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0545-huggingface-community-evals-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0545-huggingface-community-evals-chatgpt-reference.md",
+      "sha256": "118933d9c1417ae2823116ca70cf55d5e16598368e8e67271c12fcf5e9f3ee19"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0546-huggingface-datasets-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0546-huggingface-datasets-chatgpt-reference.md",
+      "sha256": "77246d966e3e8cb5139d4a54c7bbf1190d41eb82f02fcabb69337f544d56cfe6"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0547-huggingface-gradio-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0547-huggingface-gradio-chatgpt-reference.md",
+      "sha256": "c1427cbdfb3cceb684912779c584f7861d65b7833c38d81854132a8e48408e90"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0548-huggingface-jobs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0548-huggingface-jobs-chatgpt-reference.md",
+      "sha256": "a07841a2152c895bcc70ee5914b19e8590989fbd977a8df8db92b3c21c58ad85"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0549-huggingface-llm-trainer-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0549-huggingface-llm-trainer-chatgpt-reference.md",
+      "sha256": "594fbf5b6484761fa522b3d666930bdbdc9dca07f59a477c2f96cc4a3cc717d1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0550-huggingface-paper-publisher-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0550-huggingface-paper-publisher-chatgpt-reference.md",
+      "sha256": "399aeff73175dbe7743d836d1572899c3a7c04d2f9c66f7a6e14d7008e290f29"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0551-huggingface-papers-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0551-huggingface-papers-chatgpt-reference.md",
+      "sha256": "f7a5ec28eac22193984ca7c5fc8051b752bbf88d191aa6ada3e86e7f1d19f31a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0552-huggingface-trackio-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0552-huggingface-trackio-chatgpt-reference.md",
+      "sha256": "c05347dc81877390a334ef09ccd968b5cce19dfb81a29302d51fd2640fcfe1d5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0553-huggingface-vision-trainer-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0553-huggingface-vision-trainer-chatgpt-reference.md",
+      "sha256": "457f6307c4b675cdaf8ea2201c678063b511d11a01089adfdc243418cb55d6a4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0554-transformers-js-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0554-transformers-js-chatgpt-reference.md",
+      "sha256": "6cbefafad9b5fd43ef60be6b23c9633efcabb3ca4a5fc8becc967fedb747891f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0562-artifact-template-experiment-analysis-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0562-artifact-template-experiment-analysis-chatgpt-reference.md",
+      "sha256": "53450496ecfde257791a3dcdba36ef3dd1ee9f72d0c9ad32b7cdf2e0d7ea5a1d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0584-excel-live-control-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0584-excel-live-control-chatgpt-reference.md",
+      "sha256": "97f39a29317859e09ea68a05736d5ae548f84b082b5583c09f537a4f30bfda6a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0585-spreadsheets-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0585-spreadsheets-chatgpt-reference.md",
+      "sha256": "cec4b6eaf071f4475ced208b9b74802398843315cd486cdcd6bc91b3d9b2ce72"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Research & Data/0736-mem-search-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Research & Data/0736-mem-search-chatgpt-reference.md",
+      "sha256": "ad0481bfc8c5ad9b75d5cf7e65916f94cb28388620983dd96cce6f1b32ffd3f0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0001-agent-harness-construction-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0001-agent-harness-construction-chatgpt-reference.md",
+      "sha256": "24959f2085758b0021d8f1c72da23dfc69dcc543b292c96feda73c329226752e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0003-agent-sort-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0003-agent-sort-chatgpt-reference.md",
+      "sha256": "da9f03da75b3754dca9431a3f0b9b7e7768230918743eb6050e8c4921089732f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0004-agentic-engineering-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0004-agentic-engineering-chatgpt-reference.md",
+      "sha256": "7265ea45f0bab933849abd59091245cbb13a2d00a46375b1c5dbb2cd32faca9d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0005-ai-first-engineering-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0005-ai-first-engineering-chatgpt-reference.md",
+      "sha256": "731600add7162df4dda59463469089ee2a06ed47ec7585c66ae910fd3c2fc35b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0007-algorithmic-art-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0007-algorithmic-art-chatgpt-reference.md",
+      "sha256": "3ef8b5497f082f085828d0522d683ed35f0d424c91b7130209d3b70eed54e17e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0009-amazon-automation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0009-amazon-automation-chatgpt-reference.md",
+      "sha256": "f4906a62bb6ffc3a67f593bf3a669296ae5a4891f6dfdb9880f0012cf0674620"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0016-automation-audit-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0016-automation-audit-ops-chatgpt-reference.md",
+      "sha256": "8564803f832464e6bbe3c29bc031f5cecc383db07b9e62e9a45bd28492df29c3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0017-autonomous-loops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0017-autonomous-loops-chatgpt-reference.md",
+      "sha256": "8c3fadd2ec891cf75778e3f19913c71446e09c50c7e4a39cdc0c8c73b6fa6f5f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0019-blueprint-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0019-blueprint-chatgpt-reference.md",
+      "sha256": "8531ddc3907b6c74fff8068933645d22a98861a951d1b1fcd263ad9061cadb4c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0022-brooks-audit-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0022-brooks-audit-chatgpt-reference.md",
+      "sha256": "b8a837a3a01a42f72b7b289650159aabf2c769d1be002170e0cb0a8094e61880"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0023-brooks-debt-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0023-brooks-debt-chatgpt-reference.md",
+      "sha256": "48aeb53f87d0719323cd81b10dcac39800477fffe8beb0a48b5973779f559e56"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0024-brooks-health-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0024-brooks-health-chatgpt-reference.md",
+      "sha256": "456fa1d6765aa4e2ccd9ef525315f0845119855ebca9a623ff49b5c92837aade"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0026-brooks-sweep-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0026-brooks-sweep-chatgpt-reference.md",
+      "sha256": "c15353fd13e6c69a9106ad93f9bd3e95549fb8edf4a29bd649b09e908f037378"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0028-browseai-automation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0028-browseai-automation-chatgpt-reference.md",
+      "sha256": "c73b473aa9f3430e9a2702b068759bc2694769e2be3df64beb4938709e6ce48c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0029-browser-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0029-browser-chatgpt-reference.md",
+      "sha256": "c947c08116901820cc93cadf61251a23852b8ae62224b0a610d9034787bd8282"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0030-browser-tool-automation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0030-browser-tool-automation-chatgpt-reference.md",
+      "sha256": "01d4522a62db127d7c1965a739fd7c15143bc0c74fb5c860fdd703b19c93a722"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0032-carrier-relationship-management-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0032-carrier-relationship-management-chatgpt-reference.md",
+      "sha256": "a2abfd2a90af6655100f01b94a7d7fdd080536cb56a5ffe5229659abcde5ca1a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0033-caveman-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0033-caveman-chatgpt-reference.md",
+      "sha256": "46606bbff7e440eec86bb614c74e407e83b21664c3e1e2c0d0be845e55c692dd"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0035-claude-devfleet-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0035-claude-devfleet-chatgpt-reference.md",
+      "sha256": "af9eb9fe84f82d86568d2241cd363ef58013742d756f39aaa7ed4a6a048ac1d3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0036-clickhouse-io-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0036-clickhouse-io-chatgpt-reference.md",
+      "sha256": "b0bffea90c1b106d86caa5f4e42c1cbb232965fdf260269ca044f303521c98cf"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0040-coding-standards-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0040-coding-standards-chatgpt-reference.md",
+      "sha256": "595f3315f1eaeb8f787532ba04aaefaad4853f02ebca8a3feb62b5183a23f064"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0041-compose-multiplatform-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0041-compose-multiplatform-patterns-chatgpt-reference.md",
+      "sha256": "304476c1b258f0e0bdd236afc274fbcf5cd5cc858e1200f800411f5580b41a72"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0042-configure-ecc-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0042-configure-ecc-chatgpt-reference.md",
+      "sha256": "d971747899710768869fee155beeb29c2a8f5029647b8e94e8f5407891fcb7ef"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0043-connect-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0043-connect-chatgpt-reference.md",
+      "sha256": "09017df12fbe9ede5f91ced1b7a1816306f89bf9a48890d79dbbba6c4c4bb8a3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0044-connect-apps-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0044-connect-apps-chatgpt-reference.md",
+      "sha256": "06cbe8a7a2683eb3742b8849f5add37c19062eb412b15e1ed83547f1124a8b13"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0045-connections-optimizer-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0045-connections-optimizer-chatgpt-reference.md",
+      "sha256": "720e0898228dfdc6d3ba2c90aaf8e1611ab81f1d84d9c8d728e55b701bd36619"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0048-continuous-agent-loop-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0048-continuous-agent-loop-chatgpt-reference.md",
+      "sha256": "f1abde9e48ecd7c2723bb7fba58f256a633f4579eaec179e792133f703ee3c42"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0049-continuous-learning-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0049-continuous-learning-chatgpt-reference.md",
+      "sha256": "cb37ae72dfd27f3d7f1103291aa19a4a070ae92473e6bc701836e592b9a1255c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0050-continuous-learning-v2-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0050-continuous-learning-v2-chatgpt-reference.md",
+      "sha256": "8c3428f82054635fef3a87c3e8276263dc5041c53e4cc8625a15fb70cf57fc1b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0051-cost-aware-llm-pipeline-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0051-cost-aware-llm-pipeline-chatgpt-reference.md",
+      "sha256": "0d23c8abaeba2a243ae8f5b5302bc066de0a3297da6718a5c34bf026f5d05e3b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0052-council-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0052-council-chatgpt-reference.md",
+      "sha256": "f3772ea977aa70046ff1cf951ed4e2298c0eb1884905bfbfc53d377ba479fe64"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0055-crosspost-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0055-crosspost-chatgpt-reference.md",
+      "sha256": "ffe80792bbb3b94ec83e2260f38b2ab68edfa955dafacfd0e33075d9b8db230c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0057-customer-billing-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0057-customer-billing-ops-chatgpt-reference.md",
+      "sha256": "98a862d3e13d449395c4eac4819efffe345c41d0941c678cdbde134f900874b6"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0058-customs-trade-compliance-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0058-customs-trade-compliance-chatgpt-reference.md",
+      "sha256": "c7e8e49f6bb15f4a6e10fc5d94f2a7252684b45c31dae3bc04a2bcba8cdc29ac"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0059-dailybot-automation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0059-dailybot-automation-chatgpt-reference.md",
+      "sha256": "1673273655263f532095c048e21503a2838bf6f07eeaabe0ceddb8385bf973ec"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0061-dashboard-builder-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0061-dashboard-builder-chatgpt-reference.md",
+      "sha256": "85e0602c562f249dd47342e2881515446948613847a9e3c14f1ceb217c6b1198"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0069-diagnose-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0069-diagnose-chatgpt-reference.md",
+      "sha256": "284fc51a9c2ded9b24458a8f07990181f8e0eeadcf1e92ae3cfdbba49333db47"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0075-doc-coauthoring-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0075-doc-coauthoring-chatgpt-reference.md",
+      "sha256": "27e82dc6411f251c8d1e7c17e8cb4eb385397c93c2611c885e4d4355d06a3e71"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0078-domain-model-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0078-domain-model-chatgpt-reference.md",
+      "sha256": "c65dc7b8f60fb1bb73403dcafdd641edcb268f47d6a032fadc52aa94d34e2e6c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0083-energy-procurement-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0083-energy-procurement-chatgpt-reference.md",
+      "sha256": "4da6df07e27da0c8a41928f5ef999423fac48cdfdfad613e9fbacec349185c84"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0084-enterprise-agent-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0084-enterprise-agent-ops-chatgpt-reference.md",
+      "sha256": "ff07d4dd4743211f0db3768a0853df93bb6f2bf8588de266cebb5e184a9e962f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0085-eval-harness-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0085-eval-harness-chatgpt-reference.md",
+      "sha256": "55c33e55acd49580eeb8809bd15a1c21208bb827942002daa5edee61cf7a88a5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0086-evm-token-decimals-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0086-evm-token-decimals-chatgpt-reference.md",
+      "sha256": "844271c5304e8d1f305698c9a0074fa1cebfb74c2b001c4334c4b4e20995a421"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0088-fal-ai-media-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0088-fal-ai-media-chatgpt-reference.md",
+      "sha256": "5793539940878075f48bc18ab44bcf06b385cca38af72d4be6edb3aaeb4691a8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0090-foundation-models-on-device-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0090-foundation-models-on-device-chatgpt-reference.md",
+      "sha256": "b01a09e94059491cbb607eab2c2e50ceddffb1fdb889cc8b8e41aac9354b03ff"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0095-golang-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0095-golang-patterns-chatgpt-reference.md",
+      "sha256": "a9ff89e02b9e556384de7b6e19680429be07fe6518a3ba265f212da91889982b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0097-google-workspace-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0097-google-workspace-ops-chatgpt-reference.md",
+      "sha256": "e5058fb286a7d97b640076d70af1c9fe849bba89abf908b040e6fc872f2e9709"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0098-grill-me-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0098-grill-me-chatgpt-reference.md",
+      "sha256": "e2f6c757e6c3c26d917857137576156269b3da1f29dcbf60215bede69837eb49"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0099-healthcare-phi-compliance-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0099-healthcare-phi-compliance-chatgpt-reference.md",
+      "sha256": "1d14b11c5f7c8dab0ece1fc87e72c9d4c4d6cd5b4ecad89d11ae8fab7d52b05d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0100-hipaa-compliance-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0100-hipaa-compliance-chatgpt-reference.md",
+      "sha256": "718f01bc83284542234b6d39b8df8d3f9687e5233a7bfee71eb3e73143f73bd5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0101-hookify-rules-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0101-hookify-rules-chatgpt-reference.md",
+      "sha256": "5b0481fb17e4b37182d2c749718dbf0018d3cbd51487b8a99db9dbee5601a6f4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0104-inventory-demand-planning-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0104-inventory-demand-planning-chatgpt-reference.md",
+      "sha256": "94c0c37a477d6a930d38486cd1881c66f2d56bf8b2911baedd87c45ab905c7e9"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0107-iterative-retrieval-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0107-iterative-retrieval-chatgpt-reference.md",
+      "sha256": "24756db22b969c581d61e010395396427cb80d360c98be55e2e04c39d1c16acf"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0109-jira-integration-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0109-jira-integration-chatgpt-reference.md",
+      "sha256": "39fe3cec6ec112c54a08f48d1dbc19fb3691f51b2f987acfda5f3bf71647278d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0110-jpa-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0110-jpa-patterns-chatgpt-reference.md",
+      "sha256": "1eb0cfd582e65b48278b087aae98e65a8fff855ebacf415b915b5236738ef978"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0111-knowledge-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0111-knowledge-ops-chatgpt-reference.md",
+      "sha256": "74f03c2fa418974f0ed53c462a711e31b2dbbc51890f83cfe76060adeaf838da"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0125-logistics-exception-management-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0125-logistics-exception-management-chatgpt-reference.md",
+      "sha256": "9347eaf914322b94f2f2d156a8a55000d1399c40865bb9dfee1152113b4e105c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0130-messages-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0130-messages-ops-chatgpt-reference.md",
+      "sha256": "e7576150802934622105e77c8a5f4ea2fa4091babb7cc52873ccc0b0270a1ab7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0131-nanoclaw-repl-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0131-nanoclaw-repl-chatgpt-reference.md",
+      "sha256": "b913ef81c37ac44019ad128d3d58e7f664eff8ddddb083b27d12fd7a4d132fc1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0132-nestjs-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0132-nestjs-patterns-chatgpt-reference.md",
+      "sha256": "8accc7632d7c7fa02d116adca0ba6551216d8f2ca53bf5b1c68d8425cba98804"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0134-notion-knowledge-capture-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0134-notion-knowledge-capture-chatgpt-reference.md",
+      "sha256": "4e5f6ff58d732210a825d33ced85d3f1422d0e50fd08c7652e4962a8b7d709a0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0136-notion-spec-to-implementation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0136-notion-spec-to-implementation-chatgpt-reference.md",
+      "sha256": "d2b0c95ff7fc7aa5a2777472473c0c836459a67a5a6cb3db823d450f5999a6ea"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0138-openai-docs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0138-openai-docs-chatgpt-reference.md",
+      "sha256": "d5e81a9de4aa74b0175b87a40658a2ba3171a31f725ce20eeed479017a3c27f3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0145-playwright-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0145-playwright-chatgpt-reference.md",
+      "sha256": "3b68c3f2f7c4874bf85e347bf7d6313cb9bd5f794151cc1e0a0e4b598533d332"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0146-postgres-patterns-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0146-postgres-patterns-chatgpt-reference.md",
+      "sha256": "60f560aff392b38ed17bc27ded6735e3d57f62b035f19b7ce7820582483dc46e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0147-product-capability-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0147-product-capability-chatgpt-reference.md",
+      "sha256": "d1ace3fd4bb81b5e0f15ac369fc9df4c6665ac24250be25d3e9794ebbe9cd07a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0148-production-scheduling-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0148-production-scheduling-chatgpt-reference.md",
+      "sha256": "f55f27e767b5b349724441aafb070ca070b07945b1a5c6468d2fd5ad1d549cc8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0149-project-flow-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0149-project-flow-ops-chatgpt-reference.md",
+      "sha256": "15dc070a10b036021f3f64f37c8ae0cb77079e4678f60137cfdf9aa38d50c035"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0150-prompt-optimizer-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0150-prompt-optimizer-chatgpt-reference.md",
+      "sha256": "b4b3047b6ff7270ebd0fe7e639ed34f24a62defd2344eac6883a944ae9512ff7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0153-qa-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0153-qa-chatgpt-reference.md",
+      "sha256": "46ecc9e4ded2f219d6d9e27907c69a8a2edb31940e060fa53f3086f4900125ca"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0154-quality-nonconformance-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0154-quality-nonconformance-chatgpt-reference.md",
+      "sha256": "5478b4e85f377dc1c797389b341ea022e47ea386de2bd855ab8be63c6ea0f43b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0155-ralphinho-rfc-pipeline-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0155-ralphinho-rfc-pipeline-chatgpt-reference.md",
+      "sha256": "672d535fc7869337f65f465a3bcd2b978ce51245d19b7a1fe85407e34bfa8563"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0156-regex-vs-llm-structured-text-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0156-regex-vs-llm-structured-text-chatgpt-reference.md",
+      "sha256": "46e4d629bf5d7e997a740b59be17a1681f4146700b8f8f47523a6d945ae454dd"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0159-returns-reverse-logistics-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0159-returns-reverse-logistics-chatgpt-reference.md",
+      "sha256": "d9de09b31185052b2ce2e77c029a2d6c85384bed417d471c548a0a63729b4685"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0162-screenshot-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0162-screenshot-chatgpt-reference.md",
+      "sha256": "f33b75f945c2616b70fa04e64087c907164db11638367e376537c2dc9cd794f8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0168-setup-matt-pocock-skills-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0168-setup-matt-pocock-skills-chatgpt-reference.md",
+      "sha256": "949794ad4b9c56381b49affa6613827fc1b4420806a1db0ee4d3da51759c61be"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0169-setup-pre-commit-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0169-setup-pre-commit-chatgpt-reference.md",
+      "sha256": "21d073dde23b45dc4349d03de90f25bbb84ab4744a30bf661b0d06acdfad0654"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0170-skill-creator-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0170-skill-creator-chatgpt-reference.md",
+      "sha256": "290d0ce5b06d0c609c943edbb6eeae0eb4670b2fa71c015f49ea737c2c40033e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0171-skill-stocktake-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0171-skill-stocktake-chatgpt-reference.md",
+      "sha256": "c7b44247a45fd9103c8418b1413f0f41aa7f7b14a0745cfa501d876ff1665caa"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0179-strategic-compact-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0179-strategic-compact-chatgpt-reference.md",
+      "sha256": "ac0f3455c9ef3c70365d641e203b97d8c988aaf0978509be8f5bddce9b81db9f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0185-team-builder-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0185-team-builder-chatgpt-reference.md",
+      "sha256": "a191e49c7adfa87ef238a46ecd6e2da7d6451385b297697d5f004190f1188444"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0186-terminal-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0186-terminal-ops-chatgpt-reference.md",
+      "sha256": "da0ee489635d146f4cecfcb87633bed996db3f0066f28aa3bcc8d2723dc1ee67"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0187-to-issues-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0187-to-issues-chatgpt-reference.md",
+      "sha256": "52521f53ae81ed62d6a8d0530ec76ad986accbec00cd3fa0d8d687c228ef7495"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0188-to-prd-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0188-to-prd-chatgpt-reference.md",
+      "sha256": "ccce94af247ddb09327b147ef265bda91ff84ec8e8f5aa9fb07d142aaeca6a26"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0190-triage-issue-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0190-triage-issue-chatgpt-reference.md",
+      "sha256": "b06cb803f58dc36bbbcadbc041ae4d5f5ab2d5c748a7b6efa311edbaa4cb45e9"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0191-ubiquitous-language-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0191-ubiquitous-language-chatgpt-reference.md",
+      "sha256": "1d9eb46a0489d7b2dca3c957d14e1e1d774e377841c1923d95976b4d2a6ff2f5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0193-unified-notifications-ops-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0193-unified-notifications-ops-chatgpt-reference.md",
+      "sha256": "d88ea2d26225bd667892a5879b00716135f9ddb732e3983059aadc01128f254a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0195-verification-loop-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0195-verification-loop-chatgpt-reference.md",
+      "sha256": "a7a7610a4ddb7379cd3627eb61dd0a2825e575a12908a687d91a1fa59b11d3bb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0198-visa-doc-translate-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0198-visa-doc-translate-chatgpt-reference.md",
+      "sha256": "4e393654a051ad9c712794d3b6c4ca3228b99b6a68e9f73f4f5d878c46d59337"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0200-workspace-surface-audit-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0200-workspace-surface-audit-chatgpt-reference.md",
+      "sha256": "4e261af75606738bec4dfd8e493d77a4bd0e8995216ef354b3b3a35579114210"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0203-zoom-out-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0203-zoom-out-chatgpt-reference.md",
+      "sha256": "75ae3f4af703d041e6a04142ab2b9aa5a9890a30eb6929ca2d65c68456b591bf"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0206-gh-address-comments-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0206-gh-address-comments-chatgpt-reference.md",
+      "sha256": "aa16f3590707a1dcd8ac435019487894dbae017d35a9c0a56e6e2b03bf605130"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0207-gh-fix-ci-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0207-gh-fix-ci-chatgpt-reference.md",
+      "sha256": "5932a0c5fe347d142740898cd6efd4eac4b2aadb97db26011f4022967e990534"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0209-internal-comms-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0209-internal-comms-chatgpt-reference.md",
+      "sha256": "f2567365c3011426cf6b1a04a9193b86f6152701f49cdd462be1de4138eef5e0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0210-jupyter-notebook-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0210-jupyter-notebook-chatgpt-reference.md",
+      "sha256": "17a02ba557425eb019b57b33875026753fa8867e7704d7f3e49a0ec994551e63"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0211-last30days-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0211-last30days-chatgpt-reference.md",
+      "sha256": "442d0ba95cafb97f06c2c005cd2886ec1440a7adfecd1a24f8620778fdea14a7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0212-linear-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0212-linear-chatgpt-reference.md",
+      "sha256": "7f36226b3351a4e70117ed9ac8ca211049e3d70e99bf6b79e2a1bf89eb742b18"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0213-notion-meeting-intelligence-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0213-notion-meeting-intelligence-chatgpt-reference.md",
+      "sha256": "9e6f06fa3f0247945fbf9ef095c98810a69179ab1367f2274d43b737671ee024"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0217-sentry-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0217-sentry-chatgpt-reference.md",
+      "sha256": "879f19296134a1ebbc20a7492ae7e7baf5203a8209a19db7fb2762bf64647655"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0219-web-artifacts-builder-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0219-web-artifacts-builder-chatgpt-reference.md",
+      "sha256": "058b13d0ff6f536cce65f6a37f7e09f194bd4eb0200973db64f231f0adbfb204"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0220-xlsx-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0220-xlsx-chatgpt-reference.md",
+      "sha256": "deb5f34a85917cda82ded12795ec0580604390647b59f9c1f0ad4b921e2e839a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0222-openai-docs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0222-openai-docs-chatgpt-reference.md",
+      "sha256": "b48d09f580b5f6354b26ea94b3a19de2512675752779bef4a1f3360289611956"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0223-plugin-creator-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0223-plugin-creator-chatgpt-reference.md",
+      "sha256": "f2888a15e8db183ec4b176a43b58c1d12aa15be666bb34fc9b81bb92699c0644"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0225-skill-creator-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0225-skill-creator-chatgpt-reference.md",
+      "sha256": "980049537b600262061aeddf30bb20b9ed2106c8b92b5330e4b120b4c421a60f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0226-skill-installer-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0226-skill-installer-chatgpt-reference.md",
+      "sha256": "c0de9c9d8e435a701af2e005ccc8489d188b42d0eba3dfd2aee614a720c74bd4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0276-browser-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0276-browser-chatgpt-reference.md",
+      "sha256": "5c9ac4c31d9c8b91c047339157c1242abe94b9142c5ca9c78d966f1285acec24"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0277-browser-automation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0277-browser-automation-chatgpt-reference.md",
+      "sha256": "ecf92b62a691b18b35429fd7499a72251469c121830a55cd7efd919d24f95dbc"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0471-diagnose-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0471-diagnose-chatgpt-reference.md",
+      "sha256": "7a99610b2894bae2e574ad72b11a92a49cbb116a4748ba2c7e39d4c6f1aa8d54"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0473-grill-me-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0473-grill-me-chatgpt-reference.md",
+      "sha256": "b18dddbb7ef524f9f7bd385a8deec1ace356bd3b18cb18c36bdd1e775442722c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0475-miller-memory-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0475-miller-memory-chatgpt-reference.md",
+      "sha256": "08bc8f9b5c2d51a331dbab9abfa2f1467049c2600f337bf106ada816752643a0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0476-qa-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0476-qa-chatgpt-reference.md",
+      "sha256": "54fff520dd0989e460f8f20d3438a2d224e453ae35a5fa473c3d88d4a3ad09c4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0477-setup-pre-commit-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0477-setup-pre-commit-chatgpt-reference.md",
+      "sha256": "4329ef9a02605330a62a51df94b19c7b0dab7d5bb43330474a011b3aad97284e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0478-to-issues-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0478-to-issues-chatgpt-reference.md",
+      "sha256": "538c270521484afce4774076fc007ccff42bd6a2e8a3563b840a533c75c26e17"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0479-to-prd-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0479-to-prd-chatgpt-reference.md",
+      "sha256": "b469fe102bf2740321f8828d8f14df3aa0a4f34ba7e7ae0d331794feb4cc41d8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0481-ubiquitous-language-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0481-ubiquitous-language-chatgpt-reference.md",
+      "sha256": "af711c3f003a3e8b2e790ed7f1a40c044e96d673d76d885635c1f63a5edf4736"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0483-zoom-out-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0483-zoom-out-chatgpt-reference.md",
+      "sha256": "f8aa38205af940c62549122be652bdb08fdff2762101a242f0e2678ff4d1f887"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0505-benchmark-agents-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0505-benchmark-agents-chatgpt-reference.md",
+      "sha256": "7fa426d9c79f9906131d30c2a745ffb42e9b2036f700a065a0507f77a805b7c9"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0506-benchmark-e2e-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0506-benchmark-e2e-chatgpt-reference.md",
+      "sha256": "9c92e814f1ea98169aa0e4ff76da060616be101b2f656e8f2159056d5447db7b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0507-benchmark-sandbox-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0507-benchmark-sandbox-chatgpt-reference.md",
+      "sha256": "e3008980e668d708468285205220dc415ccf4b43bd6017ae9520eed690fba173"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0509-plugin-audit-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0509-plugin-audit-chatgpt-reference.md",
+      "sha256": "1f0775ae6d875cfa8c42f795f033734333776a4e01a0515feade425779083cb2"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0510-release-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0510-release-chatgpt-reference.md",
+      "sha256": "c3d3b5710583adfd4a008183a9993dfed11d9e069294e682df6f38229f8d0d16"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0520-collect-files-with-request-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0520-collect-files-with-request-chatgpt-reference.md",
+      "sha256": "24473f2aea31164aea8eb4a58e9dbaf5b69de76aa1f228f8f02596e9fbebf519"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0522-inspect-dropbox-file-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0522-inspect-dropbox-file-chatgpt-reference.md",
+      "sha256": "0c34144340b9ef7fff7c622a6b3c0d68255f13c9df42365ab5046a90f27d8558"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0523-organize-dropbox-folder-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0523-organize-dropbox-folder-chatgpt-reference.md",
+      "sha256": "6dda20cab031dbf594c3fc323231b1d99bfb64f3882bfcf80c60451a64b42ed7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0525-control-in-app-browser-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0525-control-in-app-browser-chatgpt-reference.md",
+      "sha256": "36c02250216e4103e8a3dc8c88b723323cfc045c5d171dd3b6d5744e10411675"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0526-control-chrome-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0526-control-chrome-chatgpt-reference.md",
+      "sha256": "53acf1396e951893d939ac6242319a456618c4ce13b4e6e16c216051fae9aedc"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0527-computer-use-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0527-computer-use-chatgpt-reference.md",
+      "sha256": "b2ed68dcd9f6f8626df26ca3342b20593b585021929bb095b1d1d97dcdd0efed"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0534-google-docs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0534-google-docs-chatgpt-reference.md",
+      "sha256": "829211d98dd0e0e181f1bedd576db9f9af1041c4b458b5af33cba97cd4c6f713"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0535-google-docs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0535-google-docs-chatgpt-reference.md",
+      "sha256": "45843345f9edc769a02e6b9714bc95a0d7393578eeb1de8697ed1c38fb2e5eb3"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0538-google-drive-comments-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0538-google-drive-comments-chatgpt-reference.md",
+      "sha256": "8cfcfa9596bb0bffa3fba0426da631a4730450f0102558b9348f9b2f1ed7503a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0540-google-sheets-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0540-google-sheets-chatgpt-reference.md",
+      "sha256": "0a87c61c6a20ff9fd4eb639607337aa9c0de9c055bea2327ec63839b8cb94c1e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0541-google-sheets-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0541-google-sheets-chatgpt-reference.md",
+      "sha256": "f7126b6d7287c41ba64a40bf495998a222510338ce32fc89508d7ddc8fa9b07b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0555-notion-knowledge-capture-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0555-notion-knowledge-capture-chatgpt-reference.md",
+      "sha256": "ed02499f9833cfe6ab04a616cdc38b5c26d4b58bfde75f09671d321018c02e73"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0556-notion-meeting-intelligence-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0556-notion-meeting-intelligence-chatgpt-reference.md",
+      "sha256": "8d1dcbcff189ba240a231013aa78223f56b53dc9b8d9aa0284278195ea3fb7b0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0558-notion-spec-to-implementation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0558-notion-spec-to-implementation-chatgpt-reference.md",
+      "sha256": "dbecbc93ebd47b332bdf7bca4cff1799772d00a817d35dc9f07c2b4960d0dd88"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0559-artifact-template-analytics-dashboard-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0559-artifact-template-analytics-dashboard-chatgpt-reference.md",
+      "sha256": "3091696188b023077d74027fe49e9557129bd0a742918dfe510d9ec899a586db"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0563-artifact-template-financial-budget-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0563-artifact-template-financial-budget-chatgpt-reference.md",
+      "sha256": "44764e3eb991efa25bf067ebbb7a82af22d890bacf4bdc2425a294db8d9ac680"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0564-artifact-template-investment-committee-memo-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0564-artifact-template-investment-committee-memo-chatgpt-reference.md",
+      "sha256": "94dce160fb4b4accf922cdd31d91499a921d01cce740dedde7a477189e755956"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0565-artifact-template-legal-memorandum-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0565-artifact-template-legal-memorandum-chatgpt-reference.md",
+      "sha256": "6a26f429de6d7b3c654faf4a22500f6ea7c2581b66b6bb8c4a9bb713827a3dfa"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0567-artifact-template-minimal-letterhead-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0567-artifact-template-minimal-letterhead-chatgpt-reference.md",
+      "sha256": "6d97ed278579d7decb5caee80097e55ba18f826659035c9ae2fa766ebb669f12"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0568-artifact-template-operating-calendar-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0568-artifact-template-operating-calendar-chatgpt-reference.md",
+      "sha256": "8f7b1428c25af3d66b17297ae940bb5986fdb69c08494769d2a579ce6edbfe85"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0570-artifact-template-project-kickoff-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0570-artifact-template-project-kickoff-chatgpt-reference.md",
+      "sha256": "1e842dd221e3ca8ace03cda9f6035c6a654e75e573c1e0a18c80a61b80a23839"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0571-artifact-template-project-tracker-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0571-artifact-template-project-tracker-chatgpt-reference.md",
+      "sha256": "e280af9911477eceea2e77d11a2eed5adef4e4e8e54675df1967be4d95d23657"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0573-artifact-template-simple-dark-mode-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0573-artifact-template-simple-dark-mode-chatgpt-reference.md",
+      "sha256": "ec4382c79392554338e7827981ddc739e3cef382f9ddc37cd0067336801a78e0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0574-artifact-template-simple-light-mode-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0574-artifact-template-simple-light-mode-chatgpt-reference.md",
+      "sha256": "add94b349faec9a590ee68223c73e1cf0eaebfc140a3124a6dd3e46e6d4a1d86"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0575-artifact-template-strategy-memorandum-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0575-artifact-template-strategy-memorandum-chatgpt-reference.md",
+      "sha256": "fb39016bf329a2a700040f4f113cf1eabdc526e43c226011b5471bd645156d60"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0577-artifact-template-team-alignment-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0577-artifact-template-team-alignment-chatgpt-reference.md",
+      "sha256": "f38d65ef5488c2c4334260adca8fbe1932d69707c65fda26fe8368cf3d5e5b73"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0578-artifact-template-three-statement-forecast-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0578-artifact-template-three-statement-forecast-chatgpt-reference.md",
+      "sha256": "b62a6d0ad469660c80fe17a3f54bee40a91634a7c7a5cdfd52b5a56664e0d62d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0580-plugin-management-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0580-plugin-management-chatgpt-reference.md",
+      "sha256": "ef611629e23a08c6a39efe9dba167eda8f1a046994abbcfa8208f20302498307"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0582-sites-building-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0582-sites-building-chatgpt-reference.md",
+      "sha256": "c6c0767a6ed872eef65a85894849b65f8c8f048582326536c69c325a37beb858"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0583-sites-hosting-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0583-sites-hosting-chatgpt-reference.md",
+      "sha256": "d58247588ad1aa4cf98923eaa078c03da290d20267bd867eea6403125c609e17"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0586-connect-recommend-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0586-connect-recommend-chatgpt-reference.md",
+      "sha256": "aea56597a24f82f84475b87d9099bb94d461779378fb0c89cc92796024d0f48c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0587-stripe-apps-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0587-stripe-apps-chatgpt-reference.md",
+      "sha256": "c6f1a6a5f23ad7223bc4e84ef447f223659dd199e5f43a9cfe4cea5b9579894c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0588-stripe-best-practices-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0588-stripe-best-practices-chatgpt-reference.md",
+      "sha256": "5574b39d9c70df9600313515fa4cda540b2820014d5d242ad2d33d7b73b181ef"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0589-stripe-directory-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0589-stripe-directory-chatgpt-reference.md",
+      "sha256": "9b26f8f64c07f3e67d2d98b56d9baf2e60e93b7d60627067b0e7031b627fc1b9"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0590-stripe-docs-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0590-stripe-docs-chatgpt-reference.md",
+      "sha256": "01d83c5cebf7893ae9bfdd6929e53108baa51958bcea4329be36b84712a817d8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0591-stripe-projects-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0591-stripe-projects-chatgpt-reference.md",
+      "sha256": "fcfbefa25374a13c75c04e43cae9d11a66b764121b689a482e003d7cf7c3cbbb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0592-upgrade-stripe-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0592-upgrade-stripe-chatgpt-reference.md",
+      "sha256": "e03b6e0b438d7b85c94307b3b61e244e542a087b6d6b3d3cfec231fde484b34d"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0595-template-creator-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0595-template-creator-chatgpt-reference.md",
+      "sha256": "34e512719a24dae42db9c69ddc190418bcc82672fdbfac475e419f6923fd8b6a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0726-visualize-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0726-visualize-chatgpt-reference.md",
+      "sha256": "ed90411d0e7bdca5e8fec73cf08f2fc2487171952b32302f7d29ce92bb8946d8"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0727-karpathy-guidelines-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0727-karpathy-guidelines-chatgpt-reference.md",
+      "sha256": "167da592db1cfeb3a651658bd651e4b5a7be485086475bea7513524e822408e0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0728-babysit-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0728-babysit-chatgpt-reference.md",
+      "sha256": "9f980f0df0b8aa0537b43be51f4536b1e41d3f2db904b89866f401e2ce4168bb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0729-cloud-sync-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0729-cloud-sync-chatgpt-reference.md",
+      "sha256": "137a26c76b151841383b4d0818950d29c24830dc31feadbe8d8f67426aa77954"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0731-do-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0731-do-chatgpt-reference.md",
+      "sha256": "a3836445e53d5746cf8766be3c4ec7692945668aaab63aaa76e3c9a0b0a9d1d5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0732-how-it-works-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0732-how-it-works-chatgpt-reference.md",
+      "sha256": "c96b919c98c8c2c0d2b1fd74c34c70ee491a167be1ddc0ead96b52a0a1032565"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0733-knowledge-agent-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0733-knowledge-agent-chatgpt-reference.md",
+      "sha256": "2695323c580b102cb1bc7a2c790a98e4bf9cb7a4b8b257efd4a4d485736d79ff"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0735-make-plan-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0735-make-plan-chatgpt-reference.md",
+      "sha256": "04829d9dc05b89739148a82446c84691dac81a15d41fe96b39d94e3c6afc4847"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0737-mode-creator-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0737-mode-creator-chatgpt-reference.md",
+      "sha256": "2fe51a50083e5a9e85d2b55a8b145445d27c75b7bc553f8649d8808fcaf4a43a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0738-oh-my-issues-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0738-oh-my-issues-chatgpt-reference.md",
+      "sha256": "53f6a8fa4786ad4453c08746bd58b5be3848c565fd480e53ad532e9cdfc53dc0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0739-pathfinder-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0739-pathfinder-chatgpt-reference.md",
+      "sha256": "241844ce1a862c0d0eacf7b63258f8fbf971ec090a8fdf9ddec7b3b8cdf2ed68"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0740-smart-explore-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0740-smart-explore-chatgpt-reference.md",
+      "sha256": "699c2acbf0ac3be4188deccccf6c6418eb7d70c191eeaca5aa9290110e5158db"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0741-standup-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0741-standup-chatgpt-reference.md",
+      "sha256": "62f17983834d02c609c15aa1ae27f1e78d86088213c3ab093e00132700a23c06"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0742-timeline-report-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0742-timeline-report-chatgpt-reference.md",
+      "sha256": "a51f9bc5e3aa4d338ec6c1db9466a3c4d69d5ce6b03399006504dee077431957"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0743-version-bump-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0743-version-bump-chatgpt-reference.md",
+      "sha256": "dffa8630b51e9ef23cdf98e22563a6e0613261a78ad72682740dc1ed60c8e0c4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0744-weekly-digests-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0744-weekly-digests-chatgpt-reference.md",
+      "sha256": "3fb2b19bd69d5e71ea173f11e0082f4a77937a220b3bc5cf28ca3545ebb75123"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0745-what-the-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0745-what-the-chatgpt-reference.md",
+      "sha256": "0184641140fa694fe7b3941ad243e1fce087e9fdfebf6216f97ad65cdf6a8e8a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0746-wowerpoint-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0746-wowerpoint-chatgpt-reference.md",
+      "sha256": "0120726be7d76301edcc0d248c05e7b97c2df263b7e0bcba0d66d17ff9df2b52"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0747-clone-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0747-clone-chatgpt-reference.md",
+      "sha256": "80624d99f06cc6b3b06cbc6213dc11f3dcadbffd7b05336da38b79daa3fc9df7"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0748-gha-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0748-gha-chatgpt-reference.md",
+      "sha256": "3a03464e399a3431f8bc9bc6f48af3a57a6d817ca8b0ab5b4893ffd5dd10b26c"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0749-half-clone-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0749-half-clone-chatgpt-reference.md",
+      "sha256": "bedc1c1da00a98180e250bdf4e77240423bd50d23492731b91a2870405662c24"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0750-handoff-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0750-handoff-chatgpt-reference.md",
+      "sha256": "968e3a0abb49d90bd1fc5de7e74cc5a05af748a57230a54f79ff5382d923c587"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0751-reddit-fetch-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0751-reddit-fetch-chatgpt-reference.md",
+      "sha256": "0bd49f9cbb240f5252dab39396d650b6993f620f8dbfb5f5ffbfff61209917e0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0754-brainstorming-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0754-brainstorming-chatgpt-reference.md",
+      "sha256": "5caaf4592d9f9ec71bf5f6b216f468fcc76a11967dd795f3f7a408436bcb4c06"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0755-dispatching-parallel-agents-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0755-dispatching-parallel-agents-chatgpt-reference.md",
+      "sha256": "509a9e4f35ac9a31afa6cc05588ccd40f7181c03aa40e358bef67d389ef4f4a1"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0756-executing-plans-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0756-executing-plans-chatgpt-reference.md",
+      "sha256": "c3fb14e7781388aff938257b86cbf6fbb170f09a88e2a9692f51ce498d61b0a4"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0757-finishing-a-development-branch-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0757-finishing-a-development-branch-chatgpt-reference.md",
+      "sha256": "349d7e074f6d16d4bed5ad7068aa055c2aad6f92c6acde3d208bc7349affddf6"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0764-using-superpowers-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0764-using-superpowers-chatgpt-reference.md",
+      "sha256": "3955e469022313d71ba066ad0a3b364c862b60d765d64221ae5ef87d8ccf195a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Tools & Workflows/0765-verification-before-completion-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Tools & Workflows/0765-verification-before-completion-chatgpt-reference.md",
+      "sha256": "ec3d522e393e531fad787b6c9c2211b779b0f53dc65dc68ad337a76864bd7afb"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0013-api2pdf-automation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0013-api2pdf-automation-chatgpt-reference.md",
+      "sha256": "27e67746d91bf9e1639b997fd66af7687529dbd84ac4ff2a4f0f1f6b99da45cc"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0015-article-writing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0015-article-writing-chatgpt-reference.md",
+      "sha256": "1f801b419bef4d3129835b2e56cbd7ec1ae70473a8cf493c03523697591c9025"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0021-brand-voice-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0021-brand-voice-chatgpt-reference.md",
+      "sha256": "77db152f12dd0e75ec84790a3a0282480e7b7bdcf3387065fe78714ec4937e6e"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0046-content-engine-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0046-content-engine-chatgpt-reference.md",
+      "sha256": "0dd2eb60e05a995f891e5dc8c4a6eba80ae5f4ca4412553adc1888f5bec8f764"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0047-content-hash-cache-pattern-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0047-content-hash-cache-pattern-chatgpt-reference.md",
+      "sha256": "927c494c7a3bdc42aea81c44df3d060c7f7be6e363a14240b0b1faab0eec963f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0077-docx-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0077-docx-chatgpt-reference.md",
+      "sha256": "46d6b15f009fe843fa8002ff9f42f9cc5b0aa2823f34d0efe02248f5919f4e69"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0135-notion-research-documentation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0135-notion-research-documentation-chatgpt-reference.md",
+      "sha256": "34475492c4bbc14ccacafeb20884f4c0ec17632534c204942f8f5e7968bc2850"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0137-nutrient-document-processing-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0137-nutrient-document-processing-chatgpt-reference.md",
+      "sha256": "201eee2044e18aa768573765285f42e1bc9a2550c871b0decc1c6b364013305f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0140-pdf-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0140-pdf-chatgpt-reference.md",
+      "sha256": "2cccec24dbb4973b35b70ddb0ca9828650c516e18d36a0d9ea3fe76e30ea80ef"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0201-write-a-skill-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0201-write-a-skill-chatgpt-reference.md",
+      "sha256": "4c99979df8b8d3c9371c7867cee2c5e7e8ce9727e0e0851f3eed867ec285672b"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0208-humanizer-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0208-humanizer-chatgpt-reference.md",
+      "sha256": "84a0d30dc00354919bb8e6538b644310ba2b7d8c938c2eb70e042fbc23690c0f"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0519-clean-up-dropbox-content-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0519-clean-up-dropbox-content-chatgpt-reference.md",
+      "sha256": "3ac09d6955c89b116e36d288efefad61b232e20edcc2005f9ce1b31b78d9745a"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0521-find-dropbox-content-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0521-find-dropbox-content-chatgpt-reference.md",
+      "sha256": "55d5cc68718704338fe23abb6c7e182bdd70b9f81e4ccb7b75c12c00168d38f0"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0524-share-dropbox-content-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0524-share-dropbox-content-chatgpt-reference.md",
+      "sha256": "6e452997e9225240b1d0407f89beea5a1c98cdc24c9a3992cb0d407a3022abf5"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0529-documents-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0529-documents-chatgpt-reference.md",
+      "sha256": "9022bb256ae14cc3ea5819ca30f33bdca38358872c49e2db14ccd3eb6c7cbcaa"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0557-notion-research-documentation-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0557-notion-research-documentation-chatgpt-reference.md",
+      "sha256": "2c875ac1b506f0c15f9fe986bb1a91e10e903fd940b4fa2dbabf30c96f8c09a9"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0579-pdf-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0579-pdf-chatgpt-reference.md",
+      "sha256": "f1053eeed65a75c6975b2f3f842b50041e153b16b3efa6a45652fb09a2d47e47"
+    },
+    {
+      "from": "💬 START HERE — CHATGPT/Skill References/Writing & Documents/0766-writing-plans-chatgpt-reference.md",
+      "to": "💬 CHATGPT/Skill References/Writing & Documents/0766-writing-plans-chatgpt-reference.md",
+      "sha256": "f3a1d886f552771e29e3f60a3cc29634ed0b171e7c4f28ae6e74ea4b3ab06f54"
+    },
+    {
+      "from": "📋 COPY & PASTE/READ ME FIRST.md",
+      "to": "📋 COPY & PASTE/README.md",
+      "sha256": "043c639546afd7cdd4393326c56694fdb5a373bdd239c524c72130e557afba2d"
+    },
+    {
+      "from": "📍 START HERE.html",
+      "to": "🔎 BROWSE LIBRARY.html",
+      "sha256": "fe755bd75832a163120549ecc4b2aa987d4682333d7e93070cfcc9eafd64910c"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/BROWSE ALL SKILLS.md",
+      "to": "📦 CLAUDE/BROWSE ALL SKILLS.md",
+      "sha256": "50e57638276ef037f5e57d6b7fe9f7d4312352b39c01f6c0fdee93918c3046b8"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Coding & Development/0010-android-clean-architecture-claude.zip",
+      "to": "📦 CLAUDE/Coding & Development/0010-android-clean-architecture-claude.zip",
+      "sha256": "67e6f525aa882d5eb51c9f7890bfa17585cbd7834475f0e418713f2cf47e8bf0"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Coding & Development/0092-frontend-patterns-claude.zip",
+      "to": "📦 CLAUDE/Coding & Development/0092-frontend-patterns-claude.zip",
+      "sha256": "e6fcd9b687bc54946c9f6b802c6e5500e7a41fc5bf9ceea337a4de86126f522a"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Coding & Development/0108-java-coding-standards-claude.zip",
+      "to": "📦 CLAUDE/Coding & Development/0108-java-coding-standards-claude.zip",
+      "sha256": "fb2792e317fece362a9cb9049e519af6929b57fe0d26d22813c7ccd112be7585"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Coding & Development/0113-kotlin-exposed-patterns-claude.zip",
+      "to": "📦 CLAUDE/Coding & Development/0113-kotlin-exposed-patterns-claude.zip",
+      "sha256": "fc6f8f3ffa77c07a71c66c0a5cf6c8b2ba0082e996c944e802df494e16b92182"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Design & Media/0123-liquid-glass-design-claude.zip",
+      "to": "📦 CLAUDE/Design & Media/0123-liquid-glass-design-claude.zip",
+      "sha256": "6602a5614b498dac4a801d40e43867df826660ac9f8821218d0f2bfe73c1f73f"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Marketing & Business/0020-brand-guidelines-claude.zip",
+      "to": "📦 CLAUDE/Marketing & Business/0020-brand-guidelines-claude.zip",
+      "sha256": "36343c0503ecfd26b7cc8436b5600ced7ba3e7ccfc58ae2402618df4a769bc97"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Marketing & Business/0105-investor-materials-claude.zip",
+      "to": "📦 CLAUDE/Marketing & Business/0105-investor-materials-claude.zip",
+      "sha256": "27e177f92a31e75756d03c951e67739f1a51b699cc76141470ab69e9ad406eca"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Marketing & Business/0127-market-research-claude.zip",
+      "to": "📦 CLAUDE/Marketing & Business/0127-market-research-claude.zip",
+      "sha256": "426bc47327d237270dfa9ef1808fb0c55c20d9a9465de965d5d2bab009e21712"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Marketing & Business/0172-social-graph-ranker-claude.zip",
+      "to": "📦 CLAUDE/Marketing & Business/0172-social-graph-ranker-claude.zip",
+      "sha256": "c9602886ba62c134870a55923dc8aaeccae2db5c6346459643876793c6790674"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Marketing & Business/0239-ads-math-claude.zip",
+      "to": "📦 CLAUDE/Marketing & Business/0239-ads-math-claude.zip",
+      "sha256": "eebd3adee852a3d3c9caaa13ca82a81c2b3fccbe4c92908790560d6d0644a33e"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Marketing & Business/0244-ads-test-claude.zip",
+      "to": "📦 CLAUDE/Marketing & Business/0244-ads-test-claude.zip",
+      "sha256": "62879dae6ef8beff61cf65c405bca0f255ccbdc501e60c2762aed7bc4065e72c"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/READ ME FIRST.md",
+      "to": "📦 CLAUDE/README.md",
+      "sha256": "af23e9d596c33a9a98ee0cb226e599ac095d0e363f23e266f021fc05fe07040e"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0005-ai-first-engineering-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0005-ai-first-engineering-claude.zip",
+      "sha256": "1459dfca972ea051f4ed73d2021243d5b43a4381763f379a860b26e89511ef6a"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0033-caveman-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0033-caveman-claude.zip",
+      "sha256": "b72a08bb22fe1c43461bee0296d30cfdfe36d6a86c3e601b936690410560250c"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0041-compose-multiplatform-patterns-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0041-compose-multiplatform-patterns-claude.zip",
+      "sha256": "0ff89c37e7e931a60d4aecb4c85d3c1dabf6f72b428802711324cd7cf1e699c9"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0048-continuous-agent-loop-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0048-continuous-agent-loop-claude.zip",
+      "sha256": "d05f31f94fbca938390d9b8d1657e0fcef454a50e4fc3883c5a892780c3ffdd4"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0098-grill-me-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0098-grill-me-claude.zip",
+      "sha256": "ceffac84c97fe99ee834c2802919d96496198248f3aed65145d4d78910b464ce"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0104-inventory-demand-planning-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0104-inventory-demand-planning-claude.zip",
+      "sha256": "015e76a7353ec50047838e7a67d4ca5fc6fcd2d6f6e5eceb513ed21739d148ef"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0132-nestjs-patterns-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0132-nestjs-patterns-claude.zip",
+      "sha256": "16ee4cb9bf51b7b6d068530d2a0b836145d4c27cb302365371b5861243efd0e4"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0146-postgres-patterns-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0146-postgres-patterns-claude.zip",
+      "sha256": "e27c61baba771db67b6c266ff53b8c2ddba01195153650c3a5712e3c212749e2"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0154-quality-nonconformance-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0154-quality-nonconformance-claude.zip",
+      "sha256": "cabbed8c28452796daa97d26c3aac9ce48a481426d5e4af931b31329779344a9"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0155-ralphinho-rfc-pipeline-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0155-ralphinho-rfc-pipeline-claude.zip",
+      "sha256": "134780005142296abad66ad09d7559359be08d5cd0f40e03dc5ea5f2d952a2df"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0203-zoom-out-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0203-zoom-out-claude.zip",
+      "sha256": "0696cb6f7b410a6d71627ff15702b5272cf7350465b1454fcf6da12da78cec67"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0473-grill-me-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0473-grill-me-claude.zip",
+      "sha256": "a87c35f123e94dd83d3f2f9535d6ef648dd6a955b34fabc6a8d723d0c7aa4859"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0478-to-issues-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0478-to-issues-claude.zip",
+      "sha256": "374fd2aa6d9533ccbead5188bedbb91cd84b4004711423a8c5c9d5380a1ead4d"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Tools & Workflows/0483-zoom-out-claude.zip",
+      "to": "📦 CLAUDE/Tools & Workflows/0483-zoom-out-claude.zip",
+      "sha256": "dedce6f8db9f6e7b2d6ff088b4e0302f05194f5bf503a40f4059cd58a394f0d0"
+    },
+    {
+      "from": "📦 READY FOR CLAUDE/Writing & Documents/0021-brand-voice-claude.zip",
+      "to": "📦 CLAUDE/Writing & Documents/0021-brand-voice-claude.zip",
+      "sha256": "ebaaeb6d78c60227140c5b20fa7bf49097dc03168622cab75468c22f7bf47637"
+    }
+  ]
+}

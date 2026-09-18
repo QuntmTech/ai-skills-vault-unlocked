@@ -99,7 +99,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 - [agent-introspection-debugging](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0002-agent-introspection-debugging-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [ai-regression-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0006-ai-regression-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [android-clean-architecture](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Coding%20%26%20Development/0010-android-clean-architecture-claude.zip) — Packaging checked; 2 identical source copies
+- [android-clean-architecture](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/0010-android-clean-architecture-claude.zip) — Packaging checked; 2 identical source copies
 - [api-connector-builder](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0011-api-connector-builder-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [apify-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0014-apify-automation-claude.zip) — Needs tool/setup review; 3 identical source copies
 - [backend-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0018-backend-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -123,13 +123,13 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [docker-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0076-docker-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [dotnet-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0079-dotnet-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [e2e-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0080-e2e-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [frontend-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Coding%20%26%20Development/0092-frontend-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [frontend-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/0092-frontend-patterns-claude.zip) — Packaging checked; 2 identical source copies
 - [github-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0094-github-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [golang-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0096-golang-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [improve-codebase-architecture](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0103-improve-codebase-architecture-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [java-coding-standards](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Coding%20%26%20Development/0108-java-coding-standards-claude.zip) — Packaging checked; 2 identical source copies
+- [java-coding-standards](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/0108-java-coding-standards-claude.zip) — Packaging checked; 2 identical source copies
 - [kotlin-coroutines-flows](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0112-kotlin-coroutines-flows-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [kotlin-exposed-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Coding%20%26%20Development/0113-kotlin-exposed-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [kotlin-exposed-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/0113-kotlin-exposed-patterns-claude.zip) — Packaging checked; 2 identical source copies
 - [kotlin-ktor-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0114-kotlin-ktor-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [kotlin-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0115-kotlin-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [kotlin-testing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Coding%20%26%20Development/0116-kotlin-testing-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -291,7 +291,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [frontend-design](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0091-frontend-design-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [frontend-slides](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0093-frontend-slides-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [imagegen](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0102-imagegen-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [liquid-glass-design](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Design%20%26%20Media/0123-liquid-glass-design-claude.zip) — Packaging checked; 2 identical source copies
+- [liquid-glass-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/0123-liquid-glass-design-claude.zip) — Packaging checked; 2 identical source copies
 - [manim-video](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0126-manim-video-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [remotion-video-creation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0157-remotion-video-creation-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [sora](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Design%20%26%20Media/0174-sora-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -315,14 +315,14 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 ## Marketing & Business
 
-- [brand-guidelines](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0020-brand-guidelines-claude.zip) — Packaging checked; 2 identical source copies
+- [brand-guidelines](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/0020-brand-guidelines-claude.zip) — Packaging checked; 2 identical source copies
 - [email-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0082-email-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [investor-materials](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0105-investor-materials-claude.zip) — Packaging checked; 2 identical source copies
+- [investor-materials](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/0105-investor-materials-claude.zip) — Packaging checked; 2 identical source copies
 - [investor-outreach](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0106-investor-outreach-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [lead-intelligence](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0122-lead-intelligence-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [market-research](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0127-market-research-claude.zip) — Packaging checked; 2 identical source copies
+- [market-research](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/0127-market-research-claude.zip) — Packaging checked; 2 identical source copies
 - [seo](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0167-seo-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [social-graph-ranker](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0172-social-graph-ranker-claude.zip) — Packaging checked; 2 identical source copies
+- [social-graph-ranker](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/0172-social-graph-ranker-claude.zip) — Packaging checked; 2 identical source copies
 - [social-media](../%F0%9F%94%A7%20ADVANCED/skills/cc-switch/managed/social-media/SKILL.md) — Needs repair — no ZIP; 2 identical source copies
 - [ads](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0227-ads-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [ads-apple](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0228-ads-apple-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -336,12 +336,12 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [ads-google](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0236-ads-google-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [ads-landing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0237-ads-landing-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [ads-linkedin](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0238-ads-linkedin-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [ads-math](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0239-ads-math-claude.zip) — Packaging checked; 2 identical source copies
+- [ads-math](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/0239-ads-math-claude.zip) — Packaging checked; 2 identical source copies
 - [ads-meta](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0240-ads-meta-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [ads-microsoft](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0241-ads-microsoft-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [ads-photoshoot](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0242-ads-photoshoot-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [ads-plan](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0243-ads-plan-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [ads-test](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Marketing%20%26%20Business/0244-ads-test-claude.zip) — Packaging checked; 2 identical source copies
+- [ads-test](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/0244-ads-test-claude.zip) — Packaging checked; 2 identical source copies
 - [ads-tiktok](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0245-ads-tiktok-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [ads-youtube](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0246-ads-youtube-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [openai-templates:artifact-template-business-review](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Marketing%20%26%20Business/0560-artifact-template-business-review-claude.zip) — Needs tool/setup review
@@ -385,7 +385,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [agent-harness-construction](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0001-agent-harness-construction-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [agent-sort](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0003-agent-sort-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [agentic-engineering](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0004-agentic-engineering-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [ai-first-engineering](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0005-ai-first-engineering-claude.zip) — Packaging checked; 2 identical source copies
+- [ai-first-engineering](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0005-ai-first-engineering-claude.zip) — Packaging checked; 2 identical source copies
 - [algorithmic-art](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0007-algorithmic-art-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [amazon-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0009-amazon-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [automation-audit-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0016-automation-audit-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -399,16 +399,16 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [browser](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0029-browser-claude.zip) — Needs tool/setup review
 - [browser-tool-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0030-browser-tool-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [carrier-relationship-management](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0032-carrier-relationship-management-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [caveman](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0033-caveman-claude.zip) — Packaging checked; 3 identical source copies
+- [caveman](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0033-caveman-claude.zip) — Packaging checked; 3 identical source copies
 - [claude-devfleet](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0035-claude-devfleet-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [clickhouse-io](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0036-clickhouse-io-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [coding-standards](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0040-coding-standards-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [compose-multiplatform-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0041-compose-multiplatform-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [compose-multiplatform-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0041-compose-multiplatform-patterns-claude.zip) — Packaging checked; 2 identical source copies
 - [configure-ecc](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0042-configure-ecc-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [connect](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0043-connect-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [connect-apps](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0044-connect-apps-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [connections-optimizer](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0045-connections-optimizer-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [continuous-agent-loop](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0048-continuous-agent-loop-claude.zip) — Packaging checked; 2 identical source copies
+- [continuous-agent-loop](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0048-continuous-agent-loop-claude.zip) — Packaging checked; 2 identical source copies
 - [continuous-learning](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0049-continuous-learning-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [continuous-learning-v2](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0050-continuous-learning-v2-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [cost-aware-llm-pipeline](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0051-cost-aware-llm-pipeline-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -430,11 +430,11 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [foundation-models-on-device](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0090-foundation-models-on-device-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [golang-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0095-golang-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [google-workspace-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0097-google-workspace-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [grill-me](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0098-grill-me-claude.zip) — Packaging checked; 2 identical source copies
+- [grill-me](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0098-grill-me-claude.zip) — Packaging checked; 2 identical source copies
 - [healthcare-phi-compliance](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0099-healthcare-phi-compliance-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [hipaa-compliance](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0100-hipaa-compliance-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [hookify-rules](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0101-hookify-rules-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [inventory-demand-planning](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0104-inventory-demand-planning-claude.zip) — Packaging checked; 2 identical source copies
+- [inventory-demand-planning](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0104-inventory-demand-planning-claude.zip) — Packaging checked; 2 identical source copies
 - [iterative-retrieval](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0107-iterative-retrieval-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [jira-integration](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0109-jira-integration-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [jpa-patterns](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0110-jpa-patterns-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -442,19 +442,19 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [logistics-exception-management](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0125-logistics-exception-management-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [messages-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0130-messages-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [nanoclaw-repl](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0131-nanoclaw-repl-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [nestjs-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0132-nestjs-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [nestjs-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0132-nestjs-patterns-claude.zip) — Packaging checked; 2 identical source copies
 - [notion-knowledge-capture](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0134-notion-knowledge-capture-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [notion-spec-to-implementation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0136-notion-spec-to-implementation-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [openai-docs](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0138-openai-docs-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [playwright](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0145-playwright-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [postgres-patterns](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0146-postgres-patterns-claude.zip) — Packaging checked; 2 identical source copies
+- [postgres-patterns](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0146-postgres-patterns-claude.zip) — Packaging checked; 2 identical source copies
 - [product-capability](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0147-product-capability-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [production-scheduling](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0148-production-scheduling-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [project-flow-ops](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0149-project-flow-ops-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [prompt-optimizer](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0150-prompt-optimizer-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [qa](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0153-qa-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [quality-nonconformance](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0154-quality-nonconformance-claude.zip) — Packaging checked; 2 identical source copies
-- [ralphinho-rfc-pipeline](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0155-ralphinho-rfc-pipeline-claude.zip) — Packaging checked; 2 identical source copies
+- [quality-nonconformance](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0154-quality-nonconformance-claude.zip) — Packaging checked; 2 identical source copies
+- [ralphinho-rfc-pipeline](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0155-ralphinho-rfc-pipeline-claude.zip) — Packaging checked; 2 identical source copies
 - [regex-vs-llm-structured-text](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0156-regex-vs-llm-structured-text-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [returns-reverse-logistics](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0159-returns-reverse-logistics-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [screenshot](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0162-screenshot-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -474,7 +474,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [verification-loop](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0195-verification-loop-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [visa-doc-translate](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0198-visa-doc-translate-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [workspace-surface-audit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0200-workspace-surface-audit-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [zoom-out](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0203-zoom-out-claude.zip) — Packaging checked; 2 identical source copies
+- [zoom-out](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0203-zoom-out-claude.zip) — Packaging checked; 2 identical source copies
 - [gh-address-comments](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0206-gh-address-comments-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [gh-fix-ci](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0207-gh-fix-ci-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [internal-comms](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0209-internal-comms-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -492,14 +492,14 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [browser](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0276-browser-claude.zip) — Needs tool/setup review
 - [browser-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0277-browser-automation-claude.zip) — Needs tool/setup review
 - [diagnose](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0471-diagnose-claude.zip) — Needs tool/setup review
-- [grill-me](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0473-grill-me-claude.zip) — Packaging checked
+- [grill-me](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0473-grill-me-claude.zip) — Packaging checked
 - [miller-memory](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0475-miller-memory-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [qa](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0476-qa-claude.zip) — Needs tool/setup review
 - [setup-pre-commit](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0477-setup-pre-commit-claude.zip) — Needs tool/setup review
-- [to-issues](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0478-to-issues-claude.zip) — Packaging checked
+- [to-issues](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0478-to-issues-claude.zip) — Packaging checked
 - [to-prd](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0479-to-prd-claude.zip) — Needs tool/setup review
 - [ubiquitous-language](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0481-ubiquitous-language-claude.zip) — Needs tool/setup review
-- [zoom-out](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Tools%20%26%20Workflows/0483-zoom-out-claude.zip) — Packaging checked
+- [zoom-out](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/0483-zoom-out-claude.zip) — Packaging checked
 - [0.44.0:benchmark-agents](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0505-benchmark-agents-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [0.44.0:benchmark-e2e](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0506-benchmark-e2e-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [0.44.0:benchmark-sandbox](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Tools%20%26%20Workflows/0507-benchmark-sandbox-claude.zip) — Needs tool/setup review; 2 identical source copies
@@ -580,7 +580,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 - [api2pdf-automation](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0013-api2pdf-automation-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [article-writing](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0015-article-writing-claude.zip) — Needs tool/setup review; 2 identical source copies
-- [brand-voice](../%F0%9F%93%A6%20READY%20FOR%20CLAUDE/Writing%20%26%20Documents/0021-brand-voice-claude.zip) — Packaging checked; 2 identical source copies
+- [brand-voice](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/0021-brand-voice-claude.zip) — Packaging checked; 2 identical source copies
 - [content-engine](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0046-content-engine-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [content-hash-cache-pattern](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0047-content-hash-cache-pattern-claude.zip) — Needs tool/setup review; 2 identical source copies
 - [docx](../%E2%9A%A0%EF%B8%8F%20NEEDS%20SETUP/Packaged%20-%20Review%20Requirements/Writing%20%26%20Documents/0077-docx-claude.zip) — Needs tool/setup review; 2 identical source copies

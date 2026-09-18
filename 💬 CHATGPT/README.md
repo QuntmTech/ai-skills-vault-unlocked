@@ -1,4 +1,4 @@
-# 💬 Start here — ChatGPT
+# 💬 ChatGPT — usage guide
 
 Your ChatGPT section: project guidance and 472 readable skill references, organized by topic. No Terminal, manual zipping, or separate browsing website is needed.
 

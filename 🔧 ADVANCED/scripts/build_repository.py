@@ -260,11 +260,84 @@ def safety_errors(catalog: dict) -> list[str]:
     return sorted(set(errors))
 
 
+def simplify_names(vault: Path) -> None:
+    """Rename presentation paths only; preserve bytes and refuse collisions."""
+    directories = {"📦 READY FOR CLAUDE": "📦 CLAUDE", "💬 START HERE — CHATGPT": "💬 CHATGPT"}
+    files = {
+        "📍 START HERE.html": "🔎 BROWSE LIBRARY.html",
+        "📦 READY FOR CLAUDE/READ ME FIRST.md": "📦 CLAUDE/README.md",
+        "💬 START HERE — CHATGPT/START HERE.md": "💬 CHATGPT/README.md",
+        "⚠️ NEEDS SETUP/READ ME FIRST.md": "⚠️ NEEDS SETUP/README.md",
+        "📋 COPY & PASTE/READ ME FIRST.md": "📋 COPY & PASTE/README.md",
+    }
+    def prefix(path):
+        for old, new in directories.items():
+            if path == old or path.startswith(old + "/"):
+                return new + path[len(old):]
+        return path
+    def mapped(path):
+        return files.get(path, prefix(path))
+    targets = {**directories, **files}
+    before = {}
+    for old, new in targets.items():
+        src, dst = vault / old, vault / new
+        if not src.exists() or dst.exists() or src.is_symlink():
+            raise ValueError("Migration source missing or destination occupied: " + old)
+        for path in ([src] if src.is_file() else src.rglob("*")):
+            if path.is_symlink():
+                raise ValueError("Migration refuses symlinks")
+            if path.is_file():
+                before[path.relative_to(vault).as_posix()] = sha256(path)
+    manifest_path = vault / "🔧 ADVANCED/metadata/easy-library.json"
+    manifest = json.loads(manifest_path.read_text())
+    ledger = vault / "🔧 ADVANCED/metadata/naming-migration.json"
+    if ledger.exists():
+        raise ValueError("Naming migration already recorded")
+    for old, new in directories.items():
+        (vault / old).rename(vault / new)
+    for old, new in files.items():
+        (vault / prefix(old)).rename(vault / new)
+    for old, expected in before.items():
+        if sha256(vault / mapped(old)) != expected:
+            raise ValueError("Preservation mismatch: " + old)
+    # Remap managed-output ownership before regenerating changed links and guides.
+    manifest["artifacts"] = {mapped(p): h for p, h in manifest["artifacts"].items()}
+    manifest_path.write_text(json_text(manifest))
+    replacements = {
+        "📦 READY FOR CLAUDE": "📦 CLAUDE",
+        "💬 START HERE — CHATGPT": "💬 CHATGPT",
+        "📍 START HERE.html": "🔎 BROWSE LIBRARY.html",
+        "READY FOR CLAUDE": "CLAUDE",
+        "START HERE — CHATGPT": "CHATGPT",
+        "START HERE.md": "README.md",
+        "READ ME FIRST.md": "README.md",
+        "# 💬 Start here — ChatGPT": "# 💬 ChatGPT — usage guide",
+    }
+    documents = ("README.md", ".gitattributes", "🔧 ADVANCED/README.md",
+                 "🔧 ADVANCED/scripts/easy-library-template.html",
+                 "🔧 ADVANCED/scripts/chatgpt-start-here.md",
+                 "🔧 ADVANCED/tests/test_easy_library.py")
+    for name in documents:
+        path = vault / name
+        content = path.read_text()
+        for old, new in replacements.items():
+            content = content.replace(old, new).replace(old.replace(" ", "%20"), new.replace(" ", "%20"))
+        path.write_text(content)
+    ledger.write_text(json_text({"scope": "Presentation renames; file bytes verified before regenerating links",
+                                "files": [{"from": p, "to": mapped(p), "sha256": h} for p, h in sorted(before.items())]}))
+    print(f"Renamed and verified {len(before)} files; no files deleted.")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--check", action="store_true", help="verify generated files and safety rules")
     parser.add_argument("--organize", action="store_true", help="One-time preservation-checked move into Advanced")
+    parser.add_argument("--simplify-names", action="store_true", help="Preserve files while simplifying user-facing names")
     args = parser.parse_args()
+
+    if args.simplify_names:
+        simplify_names(ROOT.parent)
+        return 0
 
     if args.organize:
         destination = ROOT / "🔧 ADVANCED"
