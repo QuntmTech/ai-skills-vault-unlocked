@@ -257,69 +257,101 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 
 ## Marketing & Business
 
-- [Ads](Skill%20References/Marketing%20%26%20Business/0227-ads-chatgpt-reference.md) — requirements flagged
-- [Ads Apple](Skill%20References/Marketing%20%26%20Business/0228-ads-apple-chatgpt-reference.md) — requirements flagged
-- [Ads Audit](Skill%20References/Marketing%20%26%20Business/0229-ads-audit-chatgpt-reference.md) — requirements flagged
-- [Ads Budget](Skill%20References/Marketing%20%26%20Business/0230-ads-budget-chatgpt-reference.md) — requirements flagged
-- [Ads Competitor](Skill%20References/Marketing%20%26%20Business/0231-ads-competitor-chatgpt-reference.md) — requirements flagged
-- [Ads Create](Skill%20References/Marketing%20%26%20Business/0232-ads-create-chatgpt-reference.md) — requirements flagged
-- [Ads Creative](Skill%20References/Marketing%20%26%20Business/0233-ads-creative-chatgpt-reference.md) — requirements flagged
-- [Ads Dna](Skill%20References/Marketing%20%26%20Business/0234-ads-dna-chatgpt-reference.md) — requirements flagged
-- [Ads Generate](Skill%20References/Marketing%20%26%20Business/0235-ads-generate-chatgpt-reference.md) — requirements flagged
-- [Ads Google](Skill%20References/Marketing%20%26%20Business/0236-ads-google-chatgpt-reference.md) — requirements flagged
-- [Ads Landing](Skill%20References/Marketing%20%26%20Business/0237-ads-landing-chatgpt-reference.md) — requirements flagged
-- [Ads Linkedin](Skill%20References/Marketing%20%26%20Business/0238-ads-linkedin-chatgpt-reference.md) — requirements flagged
-- [Ads Math](Skill%20References/Marketing%20%26%20Business/0239-ads-math-chatgpt-reference.md) — no special setup signals detected
-- [Ads Meta](Skill%20References/Marketing%20%26%20Business/0240-ads-meta-chatgpt-reference.md) — requirements flagged
-- [Ads Microsoft](Skill%20References/Marketing%20%26%20Business/0241-ads-microsoft-chatgpt-reference.md) — requirements flagged
-- [Ads Photoshoot](Skill%20References/Marketing%20%26%20Business/0242-ads-photoshoot-chatgpt-reference.md) — requirements flagged
-- [Ads Plan](Skill%20References/Marketing%20%26%20Business/0243-ads-plan-chatgpt-reference.md) — requirements flagged
-- [Ads Test](Skill%20References/Marketing%20%26%20Business/0244-ads-test-chatgpt-reference.md) — no special setup signals detected
-- [Ads Tiktok](Skill%20References/Marketing%20%26%20Business/0245-ads-tiktok-chatgpt-reference.md) — requirements flagged
-- [Ads Youtube](Skill%20References/Marketing%20%26%20Business/0246-ads-youtube-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Business Review](Skill%20References/Marketing%20%26%20Business/0560-artifact-template-business-review-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Market Trends Report](Skill%20References/Marketing%20%26%20Business/0566-artifact-template-market-trends-report-chatgpt-reference.md) — requirements flagged
-- [Artifact Template Sales Pipeline](Skill%20References/Marketing%20%26%20Business/0572-artifact-template-sales-pipeline-chatgpt-reference.md) — requirements flagged
-- [Brand Guidelines](Skill%20References/Marketing%20%26%20Business/0020-brand-guidelines-chatgpt-reference.md) — no special setup signals detected
-- [Email](Skill%20References/Marketing%20%26%20Business/0685-email-chatgpt-reference.md) — requirements flagged
-- [Email Ops](Skill%20References/Marketing%20%26%20Business/0082-email-ops-chatgpt-reference.md) — requirements flagged
-- [Investor Materials](Skill%20References/Marketing%20%26%20Business/0105-investor-materials-chatgpt-reference.md) — no special setup signals detected
-- [Investor Outreach](Skill%20References/Marketing%20%26%20Business/0106-investor-outreach-chatgpt-reference.md) — requirements flagged
-- [Lead Intelligence](Skill%20References/Marketing%20%26%20Business/0122-lead-intelligence-chatgpt-reference.md) — requirements flagged
-- [Market Research](Skill%20References/Marketing%20%26%20Business/0127-market-research-chatgpt-reference.md) — no special setup signals detected
-- [Marketplace](Skill%20References/Marketing%20%26%20Business/0616-marketplace-chatgpt-reference.md) — requirements flagged
-- [Marketplace](Skill%20References/Marketing%20%26%20Business/0693-marketplace-chatgpt-reference.md) — requirements flagged
-- [Marketplace](Skill%20References/Marketing%20%26%20Business/0781-marketplace-chatgpt-reference.md) — requirements flagged
-- [Seo](Skill%20References/Marketing%20%26%20Business/0167-seo-chatgpt-reference.md) — requirements flagged
-- [Social Graph Ranker](Skill%20References/Marketing%20%26%20Business/0172-social-graph-ranker-chatgpt-reference.md) — no special setup signals detected
+### ✉️ Email & Communications
+
+- [Email](Skill%20References/Marketing%20%26%20Business/%E2%9C%89%EF%B8%8F%20Email%20%26%20Communications/Email%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Email Ops](Skill%20References/Marketing%20%26%20Business/%E2%9C%89%EF%B8%8F%20Email%20%26%20Communications/Email%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🎨 Ad Creative & Landing Pages
+
+- [Ads Create](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Create%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Creative](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Creative%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Dna](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Dna%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Generate](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Generate%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Landing](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Landing%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Photoshoot](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Photoshoot%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🎯 Advertising Platforms
+
+- [Ads Apple](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Apple%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Google](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Google%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Linkedin](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Linkedin%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Meta](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Meta%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Microsoft](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Microsoft%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Tiktok](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Tiktok%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Youtube](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Youtube%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 💼 Fundraising & Business Materials
+
+- [Artifact Template Business Review](Skill%20References/Marketing%20%26%20Business/%F0%9F%92%BC%20Fundraising%20%26%20Business%20Materials/Artifact%20Template%20Business%20Review%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Investor Materials](Skill%20References/Marketing%20%26%20Business/%F0%9F%92%BC%20Fundraising%20%26%20Business%20Materials/Investor%20Materials%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+### 📊 Paid Ads Strategy & Audits
+
+- [Ads](Skill%20References/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Audit](Skill%20References/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Audit%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Budget](Skill%20References/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Budget%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Competitor](Skill%20References/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Competitor%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Math](Skill%20References/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Math%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [Ads Plan](Skill%20References/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Plan%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Ads Test](Skill%20References/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Test%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+### 📣 Brand & Social Marketing
+
+- [Brand Guidelines](Skill%20References/Marketing%20%26%20Business/%F0%9F%93%A3%20Brand%20%26%20Social%20Marketing/Brand%20Guidelines%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+### 🔎 SEO & Market Intelligence
+
+- [Artifact Template Market Trends Report](Skill%20References/Marketing%20%26%20Business/%F0%9F%94%8E%20SEO%20%26%20Market%20Intelligence/Artifact%20Template%20Market%20Trends%20Report%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Market Research](Skill%20References/Marketing%20%26%20Business/%F0%9F%94%8E%20SEO%20%26%20Market%20Intelligence/Market%20Research%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [SEO](Skill%20References/Marketing%20%26%20Business/%F0%9F%94%8E%20SEO%20%26%20Market%20Intelligence/SEO%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🤝 Sales, Leads & Outreach
+
+- [Artifact Template Sales Pipeline](Skill%20References/Marketing%20%26%20Business/%F0%9F%A4%9D%20Sales%2C%20Leads%20%26%20Outreach/Artifact%20Template%20Sales%20Pipeline%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Investor Outreach](Skill%20References/Marketing%20%26%20Business/%F0%9F%A4%9D%20Sales%2C%20Leads%20%26%20Outreach/Investor%20Outreach%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Lead Intelligence](Skill%20References/Marketing%20%26%20Business/%F0%9F%A4%9D%20Sales%2C%20Leads%20%26%20Outreach/Lead%20Intelligence%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Social Graph Ranker](Skill%20References/Marketing%20%26%20Business/%F0%9F%A4%9D%20Sales%2C%20Leads%20%26%20Outreach/Social%20Graph%20Ranker%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+### 🧩 Marketing Tools & Integrations
+
+- [Marketplace](Skill%20References/Marketing%20%26%20Business/%F0%9F%A7%A9%20Marketing%20Tools%20%26%20Integrations/Marketplace%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Marketplace](Skill%20References/Marketing%20%26%20Business/%F0%9F%A7%A9%20Marketing%20Tools%20%26%20Integrations/Marketplace%20%5Bvariant%200693%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Marketplace](Skill%20References/Marketing%20%26%20Business/%F0%9F%A7%A9%20Marketing%20Tools%20%26%20Integrations/Marketplace%20%5Bvariant%200781%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 
 ## Research & Data
 
-- [Artifact Template Experiment Analysis](Skill%20References/Research%20%26%20Data/0562-artifact-template-experiment-analysis-chatgpt-reference.md) — requirements flagged
-- [Data Scraper Agent](Skill%20References/Research%20%26%20Data/0062-data-scraper-agent-chatgpt-reference.md) — requirements flagged
-- [Database Migrations](Skill%20References/Research%20%26%20Data/0063-database-migrations-chatgpt-reference.md) — requirements flagged
-- [Deep Research](Skill%20References/Research%20%26%20Data/0064-deep-research-chatgpt-reference.md) — requirements flagged
-- [Deep Research](Skill%20References/Research%20%26%20Data/0528-deep-research-chatgpt-reference.md) — requirements flagged
-- [Exa Search](Skill%20References/Research%20%26%20Data/0087-exa-search-chatgpt-reference.md) — requirements flagged
-- [Excel Live Control](Skill%20References/Research%20%26%20Data/0584-excel-live-control-chatgpt-reference.md) — requirements flagged
-- [Finance Billing Ops](Skill%20References/Research%20%26%20Data/0089-finance-billing-ops-chatgpt-reference.md) — requirements flagged
-- [Hf Cli](Skill%20References/Research%20%26%20Data/0544-hf-cli-chatgpt-reference.md) — requirements flagged
-- [Huggingface Community Evals](Skill%20References/Research%20%26%20Data/0545-huggingface-community-evals-chatgpt-reference.md) — requirements flagged
-- [Huggingface Datasets](Skill%20References/Research%20%26%20Data/0546-huggingface-datasets-chatgpt-reference.md) — requirements flagged
-- [Huggingface Gradio](Skill%20References/Research%20%26%20Data/0547-huggingface-gradio-chatgpt-reference.md) — requirements flagged
-- [Huggingface Jobs](Skill%20References/Research%20%26%20Data/0548-huggingface-jobs-chatgpt-reference.md) — requirements flagged
-- [Huggingface Llm Trainer](Skill%20References/Research%20%26%20Data/0549-huggingface-llm-trainer-chatgpt-reference.md) — requirements flagged
-- [Huggingface Paper Publisher](Skill%20References/Research%20%26%20Data/0550-huggingface-paper-publisher-chatgpt-reference.md) — requirements flagged
-- [Huggingface Papers](Skill%20References/Research%20%26%20Data/0551-huggingface-papers-chatgpt-reference.md) — requirements flagged
-- [Huggingface Trackio](Skill%20References/Research%20%26%20Data/0552-huggingface-trackio-chatgpt-reference.md) — requirements flagged
-- [Huggingface Vision Trainer](Skill%20References/Research%20%26%20Data/0553-huggingface-vision-trainer-chatgpt-reference.md) — requirements flagged
-- [Llm Trading Agent Security](Skill%20References/Research%20%26%20Data/0124-llm-trading-agent-security-chatgpt-reference.md) — requirements flagged
-- [Mem Search](Skill%20References/Research%20%26%20Data/0736-mem-search-chatgpt-reference.md) — requirements flagged
-- [Paperjsx](Skill%20References/Research%20%26%20Data/0139-paperjsx-chatgpt-reference.md) — requirements flagged
-- [Research Ops](Skill%20References/Research%20%26%20Data/0158-research-ops-chatgpt-reference.md) — requirements flagged
-- [Search First](Skill%20References/Research%20%26%20Data/0163-search-first-chatgpt-reference.md) — requirements flagged
-- [Spreadsheets](Skill%20References/Research%20%26%20Data/0585-spreadsheets-chatgpt-reference.md) — requirements flagged
-- [Transformers Js](Skill%20References/Research%20%26%20Data/0554-transformers-js-chatgpt-reference.md) — requirements flagged
+### 💰 Finance & Trading Research
+
+- [Finance Billing Ops](Skill%20References/Research%20%26%20Data/%F0%9F%92%B0%20Finance%20%26%20Trading%20Research/Finance%20Billing%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [LLM Trading Agent Security](Skill%20References/Research%20%26%20Data/%F0%9F%92%B0%20Finance%20%26%20Trading%20Research/LLM%20Trading%20Agent%20Security%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 📊 Spreadsheets & Data Analysis
+
+- [Artifact Template Experiment Analysis](Skill%20References/Research%20%26%20Data/%F0%9F%93%8A%20Spreadsheets%20%26%20Data%20Analysis/Artifact%20Template%20Experiment%20Analysis%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Excel Live Control](Skill%20References/Research%20%26%20Data/%F0%9F%93%8A%20Spreadsheets%20%26%20Data%20Analysis/Excel%20Live%20Control%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Paperjsx](Skill%20References/Research%20%26%20Data/%F0%9F%93%8A%20Spreadsheets%20%26%20Data%20Analysis/Paperjsx%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Spreadsheets](Skill%20References/Research%20%26%20Data/%F0%9F%93%8A%20Spreadsheets%20%26%20Data%20Analysis/Spreadsheets%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 📚 Papers & Publishing
+
+- [Huggingface Paper Publisher](Skill%20References/Research%20%26%20Data/%F0%9F%93%9A%20Papers%20%26%20Publishing/Huggingface%20Paper%20Publisher%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Huggingface Papers](Skill%20References/Research%20%26%20Data/%F0%9F%93%9A%20Papers%20%26%20Publishing/Huggingface%20Papers%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🔍 Web Search & Deep Research
+
+- [Data Scraper Agent](Skill%20References/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Data%20Scraper%20Agent%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Deep Research](Skill%20References/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Deep%20Research%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Deep Research](Skill%20References/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Deep%20Research%20%5Bvariant%200528%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Exa Search](Skill%20References/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Exa%20Search%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Mem Search](Skill%20References/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Mem%20Search%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Research Ops](Skill%20References/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Research%20Ops%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Search First](Skill%20References/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Search%20First%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🗄️ Databases & Data Operations
+
+- [Database Migrations](Skill%20References/Research%20%26%20Data/%F0%9F%97%84%EF%B8%8F%20Databases%20%26%20Data%20Operations/Database%20Migrations%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🤗 Hugging Face Models & Datasets
+
+- [HF CLI](Skill%20References/Research%20%26%20Data/%F0%9F%A4%97%20Hugging%20Face%20Models%20%26%20Datasets/HF%20CLI%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Huggingface Datasets](Skill%20References/Research%20%26%20Data/%F0%9F%A4%97%20Hugging%20Face%20Models%20%26%20Datasets/Huggingface%20Datasets%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Huggingface Gradio](Skill%20References/Research%20%26%20Data/%F0%9F%A4%97%20Hugging%20Face%20Models%20%26%20Datasets/Huggingface%20Gradio%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Transformers Js](Skill%20References/Research%20%26%20Data/%F0%9F%A4%97%20Hugging%20Face%20Models%20%26%20Datasets/Transformers%20Js%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🧪 Model Training & Evaluation
+
+- [Huggingface Community Evals](Skill%20References/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20Community%20Evals%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Huggingface Jobs](Skill%20References/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20Jobs%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Huggingface LLM Trainer](Skill%20References/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20LLM%20Trainer%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Huggingface Trackio](Skill%20References/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20Trackio%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Huggingface Vision Trainer](Skill%20References/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20Vision%20Trainer%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 
 ## Tools & Workflows
 

@@ -22,7 +22,10 @@ COPY = "📋 COPY & PASTE"
 CHATGPT = "💬 CHATGPT"
 START = "🔎 BROWSE LIBRARY.html"
 MANIFEST = ROOT / "metadata/easy-library.json"
-ORGANIZED_TOPICS = {"Coding & Development", "Design & Media", "Writing & Documents"}
+ORGANIZED_TOPICS = {
+    "Coding & Development", "Design & Media", "Writing & Documents",
+    "Marketing & Business", "Research & Data",
+}
 
 
 def digest(data):
@@ -64,12 +67,12 @@ def friendly_name(label):
         "Ai": "AI", "Api": "API", "Cdn": "CDN", "Ci": "CI", "Cli": "CLI",
         "Api2Pdf": "API2PDF", "Cpp": "C++", "Css": "CSS",
         "Docx": "Word Documents (DOCX)", "E2E": "E2E",
-        "Gh": "GitHub", "Html": "HTML", "Ios": "iOS",
-        "Json": "JSON", "Mcp": "MCP", "Ncc": "NCC", "Orm": "ORM", "Pr": "PR",
+        "Gh": "GitHub", "Hf": "HF", "Html": "HTML", "Ios": "iOS",
+        "Json": "JSON", "Llm": "LLM", "Mcp": "MCP", "Ncc": "NCC", "Orm": "ORM", "Pr": "PR",
         "Pdf": "PDF", "Pptx": "PowerPoint (PPTX)", "Sdk": "SDK", "Sql": "SQL",
         "Ssh": "SSH", "Ssr": "SSR", "Swa": "SWA",
         "Swr": "SWR", "Tdd": "TDD", "Tsx": "TSX", "Ui": "UI", "Url": "URL",
-        "Ux": "UX", "Waf": "WAF",
+        "Ux": "UX", "Waf": "WAF", "Seo": "SEO",
     }
     return " ".join(acronyms.get(word, word) for word in name.split())
 
@@ -137,6 +140,46 @@ def writing_subcategory(label):
     return "⚙️ Document Automation & Utilities"
 
 
+def marketing_subcategory(label):
+    name = label.casefold()
+    if re.search(r"ads-(apple|google|linkedin|meta|microsoft|tiktok|youtube)", name):
+        return "🎯 Advertising Platforms"
+    if re.search(r"ads-(create|creative|dna|generate|landing|photoshoot)", name):
+        return "🎨 Ad Creative & Landing Pages"
+    if re.search(r"(^|:)ads($|-audit|-budget|-competitor|-math|-plan|-test)", name):
+        return "📊 Paid Ads Strategy & Audits"
+    if re.search(r"lead|outreach|sales-pipeline|social-graph", name):
+        return "🤝 Sales, Leads & Outreach"
+    if re.search(r"investor-material|business-review", name):
+        return "💼 Fundraising & Business Materials"
+    if re.search(r"seo|market-research|market-trends", name):
+        return "🔎 SEO & Market Intelligence"
+    if re.search(r"brand|social-media", name):
+        return "📣 Brand & Social Marketing"
+    if re.search(r"email", name):
+        return "✉️ Email & Communications"
+    return "🧩 Marketing Tools & Integrations"
+
+
+def research_subcategory(label):
+    name = label.casefold()
+    if "hugging-face:" in name:
+        if re.search(r"paper", name):
+            return "📚 Papers & Publishing"
+        if re.search(r"eval|trainer|trackio|jobs", name):
+            return "🧪 Model Training & Evaluation"
+        return "🤗 Hugging Face Models & Datasets"
+    if re.search(r"deep-research|exa-search|research-ops|search-first|data-scraper|mem-search", name):
+        return "🔍 Web Search & Deep Research"
+    if re.search(r"spreadsheet|excel|experiment-analysis|paperjsx", name):
+        return "📊 Spreadsheets & Data Analysis"
+    if re.search(r"database-migration", name):
+        return "🗄️ Databases & Data Operations"
+    if re.search(r"finance|trading", name):
+        return "💰 Finance & Trading Research"
+    return "📐 Research Tools & Methods"
+
+
 def browsing_subcategory(topic, label):
     if topic == "Coding & Development":
         return coding_subcategory(label)
@@ -144,6 +187,10 @@ def browsing_subcategory(topic, label):
         return design_subcategory(label)
     if topic == "Writing & Documents":
         return writing_subcategory(label)
+    if topic == "Marketing & Business":
+        return marketing_subcategory(label)
+    if topic == "Research & Data":
+        return research_subcategory(label)
     return None
 
 
@@ -368,7 +415,7 @@ def outputs(root=ROOT, vault=VAULT):
         "All 485 distinct skills are visible here: 472 with a ZIP and 13 with source files and repair warnings. "
         "The 86 command entries are visible separately under Claude Code Commands. "
         "Together these represent all 925 catalog entries, including identical source copies.\n\n"
-        "1. Open a topic. Coding & Development, Design & Media, and Writing & Documents have smaller task-based subcategories; then open the clearly named skill folder. "
+        "1. Open a topic. Coding, design, writing, marketing, and research topics have smaller task-based subcategories; then open the clearly named skill folder. "
         "SKILL.md and supporting files are directly inside, beside the upload ZIP.\n"
         "Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.\n"
         "2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.\n"

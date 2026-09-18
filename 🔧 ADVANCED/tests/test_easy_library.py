@@ -148,6 +148,24 @@ class EasyLibraryTests(unittest.TestCase):
                     self.assertEqual(chat.parts[3], row['subcategory'])
                     self.assertTrue(chat.name.endswith('ChatGPT Reference.md'))
 
+    def test_phase_two_topics_mirror_readable_subcategories(self):
+        rows = json.loads(easy.MANIFEST.read_text())['entries']
+        expected = {'Marketing & Business': 36, 'Research & Data': 25}
+        for topic, count in expected.items():
+            selected = [row for row in rows if row['category'] == topic]
+            self.assertEqual(len(selected), count)
+            self.assertGreaterEqual(len({row['subcategory'] for row in selected}), 7)
+            for row in selected:
+                self.assertEqual(Path(row['folder']).parts[0:2], (easy.READY, topic))
+                self.assertEqual(Path(row['folder']).parts[2], row['subcategory'])
+                if row.get('chatgpt_reference'):
+                    chat = Path(row['chatgpt_reference'])
+                    self.assertEqual(chat.parts[0:3], (easy.CHATGPT, 'Skill References', topic))
+                    self.assertEqual(chat.parts[3], row['subcategory'])
+                    self.assertTrue(chat.name.endswith('ChatGPT Reference.md'))
+        self.assertEqual(easy.friendly_name('seo'), 'SEO')
+        self.assertEqual(easy.friendly_name('hugging-face:hf-cli'), 'HF CLI')
+
     def test_rejects_symlink_output(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

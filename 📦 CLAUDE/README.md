@@ -2,7 +2,7 @@
 
 All 485 distinct skills are visible here: 472 with a ZIP and 13 with source files and repair warnings. The 86 command entries are visible separately under Claude Code Commands. Together these represent all 925 catalog entries, including identical source copies.
 
-1. Open a topic. Coding & Development, Design & Media, and Writing & Documents have smaller task-based subcategories; then open the clearly named skill folder. SKILL.md and supporting files are directly inside, beside the upload ZIP.
+1. Open a topic. Coding, design, writing, marketing, and research topics have smaller task-based subcategories; then open the clearly named skill folder. SKILL.md and supporting files are directly inside, beside the upload ZIP.
 Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.
 2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.
 3. In Claude, use Customize → Skills → add/create → upload (labels may vary).

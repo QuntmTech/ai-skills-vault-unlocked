@@ -355,70 +355,102 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 ## Marketing & Business
 
-- [ads](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-apple](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-apple/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-audit](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-budget](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-budget/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-competitor](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-competitor/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-create](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-create/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-creative](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-creative/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-dna](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-dna/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-generate](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-generate/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-google](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-google/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-landing](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-landing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-linkedin](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-linkedin/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-math](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-math/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [ads-meta](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-meta/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-microsoft](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-microsoft/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-photoshoot](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-photoshoot/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-plan](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-plan/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-test](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-test/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [ads-tiktok](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-tiktok/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ads-youtube](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/ads-youtube/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [openai-templates:artifact-template-business-review](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/openai-templates%20%E2%80%94%20artifact-template-business-review/VAULT%20GUIDE.md) — Needs tool/setup review
-- [openai-templates:artifact-template-market-trends-report](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/openai-templates%20%E2%80%94%20artifact-template-market-trends-report/VAULT%20GUIDE.md) — Needs tool/setup review
-- [openai-templates:artifact-template-sales-pipeline](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/openai-templates%20%E2%80%94%20artifact-template-sales-pipeline/VAULT%20GUIDE.md) — Needs tool/setup review
-- [brand-guidelines](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/brand-guidelines/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [vercel:email](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel%20%E2%80%94%20email/VAULT%20GUIDE.md) — Needs tool/setup review
-- [email-ops](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/email-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [investor-materials](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/investor-materials/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [investor-outreach](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/investor-outreach/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [lead-intelligence](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/lead-intelligence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [market-research](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/market-research/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [vercel-plugin:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel-plugin%20%E2%80%94%20marketplace/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [vercel:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel%20%E2%80%94%20marketplace/VAULT%20GUIDE.md) — Needs tool/setup review
-- [vercel:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/vercel%20%E2%80%94%20marketplace%20%5Bvariant%200781%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [seo](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/seo/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [social-graph-ranker](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/social-graph-ranker/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [social-media](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/social-media/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
+### ✉️ Email & Communications
+
+- [vercel:email](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%E2%9C%89%EF%B8%8F%20Email%20%26%20Communications/Email/VAULT%20GUIDE.md) — Needs tool/setup review
+- [email-ops](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%E2%9C%89%EF%B8%8F%20Email%20%26%20Communications/Email%20Ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🎨 Ad Creative & Landing Pages
+
+- [ads-create](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Create/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-creative](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Creative/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-dna](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Dna/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-generate](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Generate/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-landing](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Landing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-photoshoot](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%A8%20Ad%20Creative%20%26%20Landing%20Pages/Ads%20Photoshoot/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🎯 Advertising Platforms
+
+- [ads-apple](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Apple/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-google](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Google/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-linkedin](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Linkedin/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-meta](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Meta/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-microsoft](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Microsoft/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-tiktok](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Tiktok/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-youtube](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Youtube/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 💼 Fundraising & Business Materials
+
+- [openai-templates:artifact-template-business-review](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%92%BC%20Fundraising%20%26%20Business%20Materials/Artifact%20Template%20Business%20Review/VAULT%20GUIDE.md) — Needs tool/setup review
+- [investor-materials](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%92%BC%20Fundraising%20%26%20Business%20Materials/Investor%20Materials/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+### 📊 Paid Ads Strategy & Audits
+
+- [ads](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-audit](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Audit/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-budget](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Budget/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-competitor](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Competitor/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-math](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Math/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [ads-plan](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Plan/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ads-test](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%8A%20Paid%20Ads%20Strategy%20%26%20Audits/Ads%20Test/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+### 📣 Brand & Social Marketing
+
+- [brand-guidelines](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%A3%20Brand%20%26%20Social%20Marketing/Brand%20Guidelines/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [social-media](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%93%A3%20Brand%20%26%20Social%20Marketing/Social%20Media/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
+### 🔎 SEO & Market Intelligence
+
+- [openai-templates:artifact-template-market-trends-report](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%94%8E%20SEO%20%26%20Market%20Intelligence/Artifact%20Template%20Market%20Trends%20Report/VAULT%20GUIDE.md) — Needs tool/setup review
+- [market-research](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%94%8E%20SEO%20%26%20Market%20Intelligence/Market%20Research/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [seo](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%94%8E%20SEO%20%26%20Market%20Intelligence/SEO/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🤝 Sales, Leads & Outreach
+
+- [openai-templates:artifact-template-sales-pipeline](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%A4%9D%20Sales%2C%20Leads%20%26%20Outreach/Artifact%20Template%20Sales%20Pipeline/VAULT%20GUIDE.md) — Needs tool/setup review
+- [investor-outreach](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%A4%9D%20Sales%2C%20Leads%20%26%20Outreach/Investor%20Outreach/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [lead-intelligence](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%A4%9D%20Sales%2C%20Leads%20%26%20Outreach/Lead%20Intelligence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [social-graph-ranker](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%A4%9D%20Sales%2C%20Leads%20%26%20Outreach/Social%20Graph%20Ranker/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+### 🧩 Marketing Tools & Integrations
+
+- [vercel-plugin:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%A7%A9%20Marketing%20Tools%20%26%20Integrations/Marketplace/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vercel:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%A7%A9%20Marketing%20Tools%20%26%20Integrations/Marketplace%20%5Bvariant%200693%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vercel:marketplace](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%A7%A9%20Marketing%20Tools%20%26%20Integrations/Marketplace%20%5Bvariant%200781%5D/VAULT%20GUIDE.md) — Needs tool/setup review
 
 ## Research & Data
 
-- [openai-templates:artifact-template-experiment-analysis](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/openai-templates%20%E2%80%94%20artifact-template-experiment-analysis/VAULT%20GUIDE.md) — Needs tool/setup review
-- [data-scraper-agent](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/data-scraper-agent/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [database-migrations](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/database-migrations/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [deep-research](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/deep-research/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [deep-research-work:deep-research](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/deep-research-work%20%E2%80%94%20deep-research/VAULT%20GUIDE.md) — Needs tool/setup review
-- [exa-search](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/exa-search/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [spreadsheets:excel-live-control](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/spreadsheets%20%E2%80%94%20excel-live-control/VAULT%20GUIDE.md) — Needs tool/setup review
-- [finance-billing-ops](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/finance-billing-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [hugging-face:hf-cli](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20hf-cli/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-community-evals](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-community-evals/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-datasets](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-datasets/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-gradio](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-gradio/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-jobs](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-jobs/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-llm-trainer](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-llm-trainer/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-paper-publisher](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-paper-publisher/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-papers](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-papers/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-trackio](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-trackio/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:huggingface-vision-trainer](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20huggingface-vision-trainer/VAULT%20GUIDE.md) — Needs tool/setup review
-- [llm-trading-agent-security](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/llm-trading-agent-security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [claude-mem:mem-search](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/claude-mem%20%E2%80%94%20mem-search/VAULT%20GUIDE.md) — Needs tool/setup review
-- [paperjsx](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/paperjsx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [research-ops](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/research-ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [search-first](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/search-first/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [spreadsheets:Spreadsheets](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/spreadsheets%20%E2%80%94%20Spreadsheets/VAULT%20GUIDE.md) — Needs tool/setup review
-- [hugging-face:transformers-js](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/hugging-face%20%E2%80%94%20transformers-js/VAULT%20GUIDE.md) — Needs tool/setup review
+### 💰 Finance & Trading Research
+
+- [finance-billing-ops](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%92%B0%20Finance%20%26%20Trading%20Research/Finance%20Billing%20Ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [llm-trading-agent-security](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%92%B0%20Finance%20%26%20Trading%20Research/LLM%20Trading%20Agent%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 📊 Spreadsheets & Data Analysis
+
+- [openai-templates:artifact-template-experiment-analysis](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%93%8A%20Spreadsheets%20%26%20Data%20Analysis/Artifact%20Template%20Experiment%20Analysis/VAULT%20GUIDE.md) — Needs tool/setup review
+- [spreadsheets:excel-live-control](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%93%8A%20Spreadsheets%20%26%20Data%20Analysis/Excel%20Live%20Control/VAULT%20GUIDE.md) — Needs tool/setup review
+- [paperjsx](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%93%8A%20Spreadsheets%20%26%20Data%20Analysis/Paperjsx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [spreadsheets:Spreadsheets](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%93%8A%20Spreadsheets%20%26%20Data%20Analysis/Spreadsheets/VAULT%20GUIDE.md) — Needs tool/setup review
+### 📚 Papers & Publishing
+
+- [hugging-face:huggingface-paper-publisher](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%93%9A%20Papers%20%26%20Publishing/Huggingface%20Paper%20Publisher/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:huggingface-papers](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%93%9A%20Papers%20%26%20Publishing/Huggingface%20Papers/VAULT%20GUIDE.md) — Needs tool/setup review
+### 🔍 Web Search & Deep Research
+
+- [data-scraper-agent](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Data%20Scraper%20Agent/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [deep-research](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Deep%20Research/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [deep-research-work:deep-research](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Deep%20Research%20%5Bvariant%200528%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [exa-search](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Exa%20Search/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [claude-mem:mem-search](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Mem%20Search/VAULT%20GUIDE.md) — Needs tool/setup review
+- [research-ops](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Research%20Ops/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [search-first](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%94%8D%20Web%20Search%20%26%20Deep%20Research/Search%20First/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🗄️ Databases & Data Operations
+
+- [database-migrations](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%97%84%EF%B8%8F%20Databases%20%26%20Data%20Operations/Database%20Migrations/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🤗 Hugging Face Models & Datasets
+
+- [hugging-face:hf-cli](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A4%97%20Hugging%20Face%20Models%20%26%20Datasets/HF%20CLI/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:huggingface-datasets](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A4%97%20Hugging%20Face%20Models%20%26%20Datasets/Huggingface%20Datasets/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:huggingface-gradio](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A4%97%20Hugging%20Face%20Models%20%26%20Datasets/Huggingface%20Gradio/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:transformers-js](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A4%97%20Hugging%20Face%20Models%20%26%20Datasets/Transformers%20Js/VAULT%20GUIDE.md) — Needs tool/setup review
+### 🧪 Model Training & Evaluation
+
+- [hugging-face:huggingface-community-evals](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20Community%20Evals/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:huggingface-jobs](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20Jobs/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:huggingface-llm-trainer](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20LLM%20Trainer/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:huggingface-trackio](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20Trackio/VAULT%20GUIDE.md) — Needs tool/setup review
+- [hugging-face:huggingface-vision-trainer](../%F0%9F%93%A6%20CLAUDE/Research%20%26%20Data/%F0%9F%A7%AA%20Model%20Training%20%26%20Evaluation/Huggingface%20Vision%20Trainer/VAULT%20GUIDE.md) — Needs tool/setup review
 
 ## Tools & Workflows
 

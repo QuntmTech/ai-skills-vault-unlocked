@@ -1,6 +1,6 @@
 # 💬 ChatGPT — usage guide
 
-Your ChatGPT section: project guidance and 472 readable skill references, organized by topic. Coding & Development, Design & Media, and Writing & Documents also have smaller task-based subcategories and readable names. No Terminal, manual zipping, or separate browsing website is needed.
+Your ChatGPT section: project guidance and 472 readable skill references, organized by topic. Coding, design, writing, marketing, and research topics also have smaller task-based subcategories and readable names. No Terminal, manual zipping, or separate browsing website is needed.
 
 **These are reference documents—not a verified native ChatGPT skill/plugin installation.** The documents can describe tools or workflows your account does not have. No live ChatGPT imports or workflow tests are claimed.
 
