@@ -1,9 +1,11 @@
 import json
+import re
 import sys
 import tempfile
 import unittest
 import zipfile
 from pathlib import Path
+from urllib.parse import unquote
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 import build_easy_library as easy
@@ -71,6 +73,13 @@ class EasyLibraryTests(unittest.TestCase):
             self.assertIn(b'No live ChatGPT test is claimed', copy)
             for signal in row['signals']:
                 self.assertIn(signal.encode(), copy)
+            document = easy.VAULT / row['chatgpt_reference']
+            match = re.search(r'\[Preserved source and supporting files\]\(([^)]+)\)',
+                              copy.decode(errors='replace'))
+            self.assertIsNotNone(match, str(document))
+            href = match.group(1)
+            self.assertTrue((document.parent / unquote(href)).resolve().exists(),
+                            f'Broken ChatGPT source link: {document} -> {href}')
 
     def test_chatgpt_bundle_matches_documents(self):
         folder = easy.VAULT / easy.CHATGPT
@@ -122,6 +131,22 @@ class EasyLibraryTests(unittest.TestCase):
         self.assertEqual(easy.friendly_name('mcp-server-patterns'), 'MCP Server Patterns')
         self.assertEqual(easy.coding_subcategory('python-testing'), '🧪 Testing & Debugging')
         self.assertEqual(easy.coding_subcategory('vercel:nextjs'), '🌐 Vercel Frontend & Next.js')
+
+    def test_phase_one_topics_mirror_readable_subcategories(self):
+        rows = json.loads(easy.MANIFEST.read_text())['entries']
+        expected = {'Design & Media': 29, 'Writing & Documents': 19}
+        for topic, count in expected.items():
+            selected = [row for row in rows if row['category'] == topic]
+            self.assertEqual(len(selected), count)
+            self.assertGreaterEqual(len({row['subcategory'] for row in selected}), 5)
+            for row in selected:
+                self.assertEqual(Path(row['folder']).parts[0:2], (easy.READY, topic))
+                self.assertEqual(Path(row['folder']).parts[2], row['subcategory'])
+                if row.get('chatgpt_reference'):
+                    chat = Path(row['chatgpt_reference'])
+                    self.assertEqual(chat.parts[0:3], (easy.CHATGPT, 'Skill References', topic))
+                    self.assertEqual(chat.parts[3], row['subcategory'])
+                    self.assertTrue(chat.name.endswith('ChatGPT Reference.md'))
 
     def test_rejects_symlink_output(self):
         with tempfile.TemporaryDirectory() as tmp:

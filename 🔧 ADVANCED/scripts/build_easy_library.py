@@ -22,6 +22,7 @@ COPY = "📋 COPY & PASTE"
 CHATGPT = "💬 CHATGPT"
 START = "🔎 BROWSE LIBRARY.html"
 MANIFEST = ROOT / "metadata/easy-library.json"
+ORGANIZED_TOPICS = {"Coding & Development", "Design & Media", "Writing & Documents"}
 
 
 def digest(data):
@@ -61,9 +62,12 @@ def friendly_name(label):
     name = label.split(":")[-1].replace("-", " ").replace("_", " ").strip().title()
     acronyms = {
         "Ai": "AI", "Api": "API", "Cdn": "CDN", "Ci": "CI", "Cli": "CLI",
-        "Cpp": "C++", "Css": "CSS", "E2E": "E2E", "Gh": "GitHub", "Html": "HTML",
+        "Api2Pdf": "API2PDF", "Cpp": "C++", "Css": "CSS",
+        "Docx": "Word Documents (DOCX)", "E2E": "E2E",
+        "Gh": "GitHub", "Html": "HTML", "Ios": "iOS",
         "Json": "JSON", "Mcp": "MCP", "Ncc": "NCC", "Orm": "ORM", "Pr": "PR",
-        "Sdk": "SDK", "Sql": "SQL", "Ssh": "SSH", "Ssr": "SSR", "Swa": "SWA",
+        "Pdf": "PDF", "Pptx": "PowerPoint (PPTX)", "Sdk": "SDK", "Sql": "SQL",
+        "Ssh": "SSH", "Ssr": "SSR", "Swa": "SWA",
         "Swr": "SWR", "Tdd": "TDD", "Tsx": "TSX", "Ui": "UI", "Url": "URL",
         "Ux": "UX", "Waf": "WAF",
     }
@@ -103,16 +107,56 @@ def coding_subcategory(label):
     return "🧱 Architecture & Code Quality"
 
 
+def design_subcategory(label):
+    name = label.casefold()
+    if re.search(r"video|manim|remotion|sora|videodb|ui-demo", name):
+        return "🎬 Video, Motion & Demos"
+    if re.search(r"slide|pptx|presentation", name):
+        return "📊 Presentations & Slides"
+    if re.search(r"figma|interface|frontend-design|liquid-glass|swiftui|design-is", name):
+        return "🖥️ UI, UX & Product Design"
+    if re.search(r"image|canvas", name):
+        return "🖼️ Images & Visual Artwork"
+    if re.search(r"theme|design-report|system-design|api-design", name):
+        return "🎨 Design Systems & Reports"
+    return "🧩 Creative Tools & Workflows"
+
+
+def writing_subcategory(label):
+    name = label.casefold()
+    if re.search(r"article|brand-voice|content-engine|humanizer", name):
+        return "✍️ Writing, Voice & Content"
+    if re.search(r"docx|documents:documents", name):
+        return "📝 Word Documents"
+    if re.search(r"pdf|api2pdf|nutrient", name):
+        return "📄 PDF & Document Processing"
+    if re.search(r"notion|dropbox", name):
+        return "🗂️ Knowledge & File Management"
+    if re.search(r"write-a-skill|writing-plans|writing-skills", name):
+        return "🧠 Skills, Plans & Instructions"
+    return "⚙️ Document Automation & Utilities"
+
+
+def browsing_subcategory(topic, label):
+    if topic == "Coding & Development":
+        return coding_subcategory(label)
+    if topic == "Design & Media":
+        return design_subcategory(label)
+    if topic == "Writing & Documents":
+        return writing_subcategory(label)
+    return None
+
+
 def visible_folder(entry, topic, used):
     source = Path(entry['path'])
     # The nested readable-name migration is deliberately scoped to the large
     # Coding & Development topic. Every other topic keeps its established path.
     name = (friendly_name(entry['label'])
-            if topic == "Coding & Development" and entry['type'] == 'skill'
+            if topic in ORGANIZED_TOPICS and entry['type'] == 'skill'
             else (source.parent.name if entry['type'] == 'skill' else source.stem))
     parts = [READY, topic]
-    if topic == "Coding & Development" and entry['type'] == 'skill':
-        parts.append(coding_subcategory(entry['label']))
+    if topic in ORGANIZED_TOPICS and entry['type'] == 'skill':
+        parts.append(browsing_subcategory(topic, entry['label']))
     folder = '/'.join([*parts, name])
     if folder.casefold() in used:
         folder += f" [variant {entry['id']:04d}]"
@@ -140,7 +184,7 @@ def outputs(root=ROOT, vault=VAULT):
             if re.search(r"\b(?:CLI|connector|connected|terminal|shell|subagents?|Stripe|Dropbox)\b", text, re.I):
                 report["signals"].append("External tools or services mentioned — review availability")
         topic = category(entry["label"]) if entry["type"] == "skill" else "Claude Code Commands"
-        entry["display_name"] = (friendly_name(entry["label"]) if topic == "Coding & Development"
+        entry["display_name"] = (friendly_name(entry["label"]) if topic in ORGANIZED_TOPICS
                                  else entry["label"].split(":")[-1].replace("-", " ").replace("_", " ").strip().title())
         if entry["type"] != "skill":
             row = {**entry, "category": "Claude Code Commands", "status": "Command — not a skill ZIP",
@@ -155,7 +199,7 @@ def outputs(root=ROOT, vault=VAULT):
             continue
         row = {**entry, "category": topic, "source": "🔧 ADVANCED/" + entry["path"],
                "signals": report["signals"], "copies": [entry["id"]], "zip": None}
-        row["subcategory"] = coding_subcategory(entry["label"]) if row["category"] == "Coding & Development" else None
+        row["subcategory"] = browsing_subcategory(row["category"], entry["label"])
         seen[key] = row
         rows.append(row)
         row['folder'] = visible_folder(entry, row['category'], used_folders)
@@ -182,8 +226,13 @@ def outputs(root=ROOT, vault=VAULT):
             ref_relative = COPY + "/Skill References/" + row["category"] + "/" + ref.name
             row["reference"] = ref_relative
             generated[vault / ref_relative] = ref.read_bytes()
-            chat_path = CHATGPT + "/Skill References/" + row["category"] + "/" + ref.name.replace("-claude-reference", "-chatgpt-reference")
+            if row["category"] in ORGANIZED_TOPICS:
+                chat_name = Path(row['folder']).name + " — ChatGPT Reference.md"
+                chat_path = CHATGPT + "/Skill References/" + row["category"] + "/" + row["subcategory"] + "/" + chat_name
+            else:
+                chat_path = CHATGPT + "/Skill References/" + row["category"] + "/" + ref.name.replace("-claude-reference", "-chatgpt-reference")
             row["chatgpt_reference"] = chat_path
+            chat_source = posixpath.relpath(row["source"], start=posixpath.dirname(chat_path))
             context = ("# ChatGPT reference — " + row["display_name"] + "\n\n"
                        "Readable guidance, not a native skill installation. No live ChatGPT test is claimed. "
                        "Supporting scripts and assets are not embedded in this document. "
@@ -191,7 +240,7 @@ def outputs(root=ROOT, vault=VAULT):
                        "## Requirements to review\n\n" +
                        "\n".join("- " + signal for signal in row["signals"]) +
                        ("\n" if row["signals"] else "No special setup signals detected; this is not a compatibility guarantee.\n") +
-                       "\n[Preserved source and supporting files](" + quote("../../../" + row["source"], safe="/") + ")\n\n---\n\n")
+                       "\n[Preserved source and supporting files](" + quote(chat_source, safe="/") + ")\n\n---\n\n")
             generated[vault / chat_path] = context.encode() + ref.read_bytes()
             audit.append(json.loads(archive.with_suffix(".json").read_text()))
     entries_by_id = {e['id']: e for e in catalog(root)}
@@ -287,7 +336,14 @@ def outputs(root=ROOT, vault=VAULT):
                   "Review each document's requirements. No supporting scripts/assets are embedded.", ""]
     for title in sorted({row["category"] for row in chat_rows}):
         chat_index += ["## " + title, ""]
-        for row in (r for r in chat_rows if r["category"] == title):
+        selected = [r for r in chat_rows if r["category"] == title]
+        selected.sort(key=lambda r: ((r.get("subcategory") or ""), r["display_name"]))
+        current_subcategory = None
+        for row in selected:
+            if row.get("subcategory") != current_subcategory:
+                current_subcategory = row.get("subcategory")
+                if current_subcategory:
+                    chat_index += ["### " + current_subcategory, ""]
             relative = Path(row["chatgpt_reference"]).relative_to(CHATGPT).as_posix()
             label = row["display_name"].replace("[", "").replace("]", "")
             chat_index.append("- [" + label + "](" + quote(relative, safe="/") + ") — " +
@@ -312,7 +368,7 @@ def outputs(root=ROOT, vault=VAULT):
         "All 485 distinct skills are visible here: 472 with a ZIP and 13 with source files and repair warnings. "
         "The 86 command entries are visible separately under Claude Code Commands. "
         "Together these represent all 925 catalog entries, including identical source copies.\n\n"
-        "1. Open a topic. Coding & Development has smaller task-based subcategories; then open the clearly named skill folder. "
+        "1. Open a topic. Coding & Development, Design & Media, and Writing & Documents have smaller task-based subcategories; then open the clearly named skill folder. "
         "SKILL.md and supporting files are directly inside, beside the upload ZIP.\n"
         "Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.\n"
         "2. Read its requirements, then select its ZIP. Do not unzip that individual ZIP.\n"

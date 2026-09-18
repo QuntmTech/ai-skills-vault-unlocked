@@ -1,6 +1,6 @@
 # 💬 ChatGPT — usage guide
 
-Your ChatGPT section: project guidance and __REFERENCE_COUNT__ readable skill references, organized by topic. No Terminal, manual zipping, or separate browsing website is needed.
+Your ChatGPT section: project guidance and __REFERENCE_COUNT__ readable skill references, organized by topic. Coding & Development, Design & Media, and Writing & Documents also have smaller task-based subcategories and readable names. No Terminal, manual zipping, or separate browsing website is needed.
 
 **These are reference documents—not a verified native ChatGPT skill/plugin installation.** The documents can describe tools or workflows your account does not have. No live ChatGPT imports or workflow tests are claimed.
 
@@ -24,7 +24,7 @@ ChatGPT projects can share instructions and uploaded sources across their chats.
 
 ## Use a reference for a single task
 
-Open **Skill References**, choose a topic, then read one document. Each copy includes requirement warnings and a link back to its preserved source. The original instruction text is retained; it has not been rewritten or certified as ChatGPT-compatible.
+Open **Skill References**, choose a topic and—where available—a subcategory, then read one clearly named document. Each copy includes requirement warnings and a link back to its preserved source. The original instruction text is retained; it has not been rewritten or certified as ChatGPT-compatible.
 
 You can adapt this starter message after supplying the chosen document:
 

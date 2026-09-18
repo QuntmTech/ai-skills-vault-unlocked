@@ -311,35 +311,47 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 ## Design & Media
 
-- [all-images-ai-automation](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/all-images-ai-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [api-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/api-design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [openai-templates:artifact-template-design-report](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/openai-templates%20%E2%80%94%20artifact-template-design-report/VAULT%20GUIDE.md) — Needs tool/setup review
-- [openai-templates:artifact-template-system-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/openai-templates%20%E2%80%94%20artifact-template-system-design/VAULT%20GUIDE.md) — Needs tool/setup review
-- [canvas-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/canvas-design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [design-an-interface](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/design-an-interface/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [design-an-interface](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/design-an-interface%20%5Bvariant%200470%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [claude-mem:design-is](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/claude-mem%20%E2%80%94%20design-is/VAULT%20GUIDE.md) — Needs tool/setup review
-- [dmux-workflows](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/dmux-workflows/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [figma-implement-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/figma-implement-design/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
-- [figma-use](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/figma-use/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
-- [frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/frontend-design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [frontend-design:frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/frontend-design%20%E2%80%94%20frontend-design/VAULT%20GUIDE.md) — Needs tool/setup review
-- [frontend-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/frontend-slides/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [google-drive:google-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/google-drive%20%E2%80%94%20google-slides/VAULT%20GUIDE.md) — Needs tool/setup review
-- [google-drive:google-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/google-drive%20%E2%80%94%20google-slides%20%E2%80%94%20Copy%202/VAULT%20GUIDE.md) — Needs tool/setup review
-- [imagegen](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/imagegen/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [imagegen](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/imagegen%20%5Bvariant%200221%5D/VAULT%20GUIDE.md) — Needs tool/setup review
-- [liquid-glass-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/liquid-glass-design/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [manim-video](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/manim-video/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [pptx](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/pptx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [presentations:Presentations](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/presentations%20%E2%80%94%20Presentations/VAULT%20GUIDE.md) — Needs tool/setup review
-- [remotion-video-creation](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/remotion-video-creation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [sora](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/sora/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [swiftui-patterns](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/swiftui-patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [theme-factory](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/theme-factory/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [ui-demo](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/ui-demo/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [video-editing](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/video-editing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [videodb](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/videodb/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🎨 Design Systems & Reports
+
+- [api-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%A8%20Design%20Systems%20%26%20Reports/API%20Design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [openai-templates:artifact-template-design-report](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%A8%20Design%20Systems%20%26%20Reports/Artifact%20Template%20Design%20Report/VAULT%20GUIDE.md) — Needs tool/setup review
+- [openai-templates:artifact-template-system-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%A8%20Design%20Systems%20%26%20Reports/Artifact%20Template%20System%20Design/VAULT%20GUIDE.md) — Needs tool/setup review
+- [theme-factory](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%A8%20Design%20Systems%20%26%20Reports/Theme%20Factory/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🎬 Video, Motion & Demos
+
+- [manim-video](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%AC%20Video%2C%20Motion%20%26%20Demos/Manim%20Video/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [remotion-video-creation](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%AC%20Video%2C%20Motion%20%26%20Demos/Remotion%20Video%20Creation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [sora](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%AC%20Video%2C%20Motion%20%26%20Demos/Sora/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [ui-demo](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%AC%20Video%2C%20Motion%20%26%20Demos/UI%20Demo/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [video-editing](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%AC%20Video%2C%20Motion%20%26%20Demos/Video%20Editing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [videodb](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%AC%20Video%2C%20Motion%20%26%20Demos/Videodb/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 📊 Presentations & Slides
+
+- [frontend-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%93%8A%20Presentations%20%26%20Slides/Frontend%20Slides/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [google-drive:google-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%93%8A%20Presentations%20%26%20Slides/Google%20Slides/VAULT%20GUIDE.md) — Needs tool/setup review
+- [google-drive:google-slides](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%93%8A%20Presentations%20%26%20Slides/Google%20Slides%20%5Bvariant%200543%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [pptx](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%93%8A%20Presentations%20%26%20Slides/PowerPoint%20%28PPTX%29/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [presentations:Presentations](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%93%8A%20Presentations%20%26%20Slides/Presentations/VAULT%20GUIDE.md) — Needs tool/setup review
+### 🖥️ UI, UX & Product Design
+
+- [design-an-interface](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Design%20An%20Interface/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [design-an-interface](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Design%20An%20Interface%20%5Bvariant%200470%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [claude-mem:design-is](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Design%20Is/VAULT%20GUIDE.md) — Needs tool/setup review
+- [figma-implement-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Figma%20Implement%20Design/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
+- [figma-use](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Figma%20Use/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
+- [frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Frontend%20Design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [frontend-design:frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Frontend%20Design%20%5Bvariant%200753%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [liquid-glass-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Liquid%20Glass%20Design/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [swiftui-patterns](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Swiftui%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🖼️ Images & Visual Artwork
+
+- [all-images-ai-automation](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%BC%EF%B8%8F%20Images%20%26%20Visual%20Artwork/All%20Images%20AI%20Automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [canvas-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%BC%EF%B8%8F%20Images%20%26%20Visual%20Artwork/Canvas%20Design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [imagegen](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%BC%EF%B8%8F%20Images%20%26%20Visual%20Artwork/Imagegen/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [imagegen](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%BC%EF%B8%8F%20Images%20%26%20Visual%20Artwork/Imagegen%20%5Bvariant%200221%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+### 🧩 Creative Tools & Workflows
+
+- [dmux-workflows](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%A7%A9%20Creative%20Tools%20%26%20Workflows/Dmux%20Workflows/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 
 ## Marketing & Business
 
@@ -606,22 +618,34 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 ## Writing & Documents
 
-- [api2pdf-automation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/api2pdf-automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [article-writing](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/article-writing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [brand-voice](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/brand-voice/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
-- [app-69b31dc2110c8191b8b47dc98fe5a052:clean-up-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20clean-up-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
-- [content-engine](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/content-engine/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [content-hash-cache-pattern](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/content-hash-cache-pattern/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [documents:documents](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/documents%20%E2%80%94%20documents/VAULT%20GUIDE.md) — Needs tool/setup review
-- [docx](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/docx/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [app-69b31dc2110c8191b8b47dc98fe5a052:find-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20find-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
-- [humanizer](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/humanizer/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [notion-research-documentation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/notion-research-documentation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [notion:notion-research-documentation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/notion%20%E2%80%94%20notion-research-documentation/VAULT%20GUIDE.md) — Needs tool/setup review
-- [nutrient-document-processing](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/nutrient-document-processing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [pdf](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/pdf/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
-- [pdf:pdf](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/pdf%20%E2%80%94%20pdf/VAULT%20GUIDE.md) — Needs tool/setup review
-- [app-69b31dc2110c8191b8b47dc98fe5a052:share-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/app-69b31dc2110c8191b8b47dc98fe5a052%20%E2%80%94%20share-dropbox-content/VAULT%20GUIDE.md) — Needs tool/setup review
-- [write-a-skill](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/write-a-skill/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
-- [superpowers:writing-plans](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/superpowers%20%E2%80%94%20writing-plans/VAULT%20GUIDE.md) — Needs tool/setup review
-- [superpowers:writing-skills](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/superpowers%20%E2%80%94%20writing-skills/VAULT%20GUIDE.md) — Needs repair — no ZIP
+### ⚙️ Document Automation & Utilities
+
+- [content-hash-cache-pattern](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%E2%9A%99%EF%B8%8F%20Document%20Automation%20%26%20Utilities/Content%20Hash%20Cache%20Pattern/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### ✍️ Writing, Voice & Content
+
+- [article-writing](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%E2%9C%8D%EF%B8%8F%20Writing%2C%20Voice%20%26%20Content/Article%20Writing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [brand-voice](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%E2%9C%8D%EF%B8%8F%20Writing%2C%20Voice%20%26%20Content/Brand%20Voice/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+- [content-engine](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%E2%9C%8D%EF%B8%8F%20Writing%2C%20Voice%20%26%20Content/Content%20Engine/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [humanizer](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%E2%9C%8D%EF%B8%8F%20Writing%2C%20Voice%20%26%20Content/Humanizer/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 📄 PDF & Document Processing
+
+- [api2pdf-automation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%93%84%20PDF%20%26%20Document%20Processing/API2PDF%20Automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [nutrient-document-processing](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%93%84%20PDF%20%26%20Document%20Processing/Nutrient%20Document%20Processing/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [pdf](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%93%84%20PDF%20%26%20Document%20Processing/PDF/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [pdf:pdf](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%93%84%20PDF%20%26%20Document%20Processing/PDF%20%5Bvariant%200579%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+### 📝 Word Documents
+
+- [documents:documents](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%93%9D%20Word%20Documents/Documents/VAULT%20GUIDE.md) — Needs tool/setup review
+- [docx](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%93%9D%20Word%20Documents/Word%20Documents%20%28DOCX%29/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🗂️ Knowledge & File Management
+
+- [app-69b31dc2110c8191b8b47dc98fe5a052:clean-up-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%97%82%EF%B8%8F%20Knowledge%20%26%20File%20Management/Clean%20Up%20Dropbox%20Content/VAULT%20GUIDE.md) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:find-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%97%82%EF%B8%8F%20Knowledge%20%26%20File%20Management/Find%20Dropbox%20Content/VAULT%20GUIDE.md) — Needs tool/setup review
+- [notion-research-documentation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%97%82%EF%B8%8F%20Knowledge%20%26%20File%20Management/Notion%20Research%20Documentation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [notion:notion-research-documentation](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%97%82%EF%B8%8F%20Knowledge%20%26%20File%20Management/Notion%20Research%20Documentation%20%5Bvariant%200557%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [app-69b31dc2110c8191b8b47dc98fe5a052:share-dropbox-content](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%97%82%EF%B8%8F%20Knowledge%20%26%20File%20Management/Share%20Dropbox%20Content/VAULT%20GUIDE.md) — Needs tool/setup review
+### 🧠 Skills, Plans & Instructions
+
+- [write-a-skill](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%A7%A0%20Skills%2C%20Plans%20%26%20Instructions/Write%20A%20Skill/VAULT%20GUIDE.md) — Needs tool/setup review; 3 identical source copies
+- [superpowers:writing-plans](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%A7%A0%20Skills%2C%20Plans%20%26%20Instructions/Writing%20Plans/VAULT%20GUIDE.md) — Needs tool/setup review
+- [superpowers:writing-skills](../%F0%9F%93%A6%20CLAUDE/Writing%20%26%20Documents/%F0%9F%A7%A0%20Skills%2C%20Plans%20%26%20Instructions/Writing%20Skills/VAULT%20GUIDE.md) — Needs repair — no ZIP
