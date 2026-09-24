@@ -1,0 +1,31 @@
+{
+  "repository": "https://github.com/trailofbits/skills",
+  "commit": "0cc1c73a5e96749ab32d7ea5e14892fafa6972ae",
+  "source_path": "plugins/insecure-defaults",
+  "license": "CC-BY-SA-4.0",
+  "upstream_files_sha256": {
+    ".claude-plugin/plugin.json": "0da557acf1632bf73f97e1a9ae46b8e3cd9fef48f59466b703486f9ca14a0f22",
+    "README.md": "999d8d5fcb7153eedd3d31a0826f4f72183a427836f585a357a4cdf1f1ce254f",
+    "commands/audit.md": "75883127cbe66d51977f4ea1db1a8107f6df6b302bc338121e46a851d79c6518",
+    "references/debug-features.json": "5f1ea6080d50bc4698e239dbf1c168bcbcead834b7161b754d2731bf96561e13",
+    "references/debug-features.md": "c83c54a3f8a36939b61f897f919dde8f2b41c18b8249a653c071ab749f562cf6",
+    "references/default-credentials.json": "46169168a34a18439aaeb882f248a73012ecc9af95cc0f31ab962067a62d9879",
+    "references/default-credentials.md": "259a036867182b0480d0ee8be3c89fe8199a086c7084a0410adb9899cb024ab9",
+    "references/fail-open-security.json": "c44057e9251b46eb14b7afa70931d0a0353567e640eb936e4fbd813bdb2b2946",
+    "references/fail-open-security.md": "0e837dd32f600c7788cf34407f9ef836e8af7ed028e83019a099c036afccf39c",
+    "references/fallback-secrets.json": "717eb7850b4d0fec43c1a528f4b09a12050f11f9cfc0ebf3faae328365346f1a",
+    "references/fallback-secrets.md": "eea72165e891ff40d2d6f7eea5bc0ee20c13332856b1e5914334f06f5f984f59",
+    "references/permissive-access.json": "8ee01d7845a964c255aa5d320ec372e4d71d3a14bdf6f35fe34bbeef5669e006",
+    "references/permissive-access.md": "6e4bd7798b7d1e4065f25e57c4409764eda47ce192cd7f683f9771ed54626842",
+    "references/weak-crypto.json": "792b59a3488fabe5b2e72254de3b0f589de926f8f6c17deb3096033be61eaa4c",
+    "references/weak-crypto.md": "df424cfe3ba37fc69482b4dcd7d03b0191cb8db3b2e239a416cb295f11dc70ef",
+    "tests/README.md": "f2f2c3e9334048c52e6323c54900d34ad4a80e41e70aa469b5934687550811f0",
+    "tests/harness.js": "61338f0652ae7569c5dbd2076194ff577a333b52b5e6331f28a7d959639d5259",
+    "tests/run_seeds.sh": "07f5ee633b753cd41c49e30ae91c06afbca189feac196d5931ee8c3f5d6a4712",
+    "tests/seed-coverage.js": "d7c05450da39c115823eb359fba14d1291051191298e73be2725a4fd341af202",
+    "workflows/audit.js": "d11f066eebc5390233c0a1308b6f7fc5da80a7dbd79a533e43dbd8f5cbc23572"
+  },
+  "adaptations": [
+    "Added a vault-authored SKILL.md navigation adapter; upstream plugin files preserved byte-for-byte."
+  ]
+}

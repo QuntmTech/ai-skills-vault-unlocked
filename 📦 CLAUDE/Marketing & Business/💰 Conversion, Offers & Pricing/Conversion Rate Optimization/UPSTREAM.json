@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/coreyhaines31/marketingskills",
+  "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+  "source_path": "skills/cro",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "199016bec3b44bc6a7507b111b6028f6550cc852cd54c7d0df789f15d6f814c4",
+    "evals/evals.json": "62f3003602836e2b49d797ca582e7703629a6b07b131eb77b51b2bb39fe65775",
+    "references/experiments.md": "bbcc356c0af36cfaa4556bf9e929deac30c65cafb37f909d7c51d4777fe254ca",
+    "references/form.md": "e3115b0fdfb3968915b8e3acdc32a6e5f1d2c6a335ebbed25bee9b601ec573d7"
+  },
+  "adaptations": []
+}

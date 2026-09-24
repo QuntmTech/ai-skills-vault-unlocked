@@ -87,6 +87,11 @@ def load_catalog() -> dict:
                         "description": str(meta.get("description", "")), "path": relative,
                     })
                     next_id += 1
+            imports_path = METADATA / "community-imports.json"
+            imports = json.loads(imports_path.read_text())["entries"] if imports_path.exists() else {}
+            for entry in data["entries"]:
+                if entry["path"] in imports:
+                    entry["collection"] = imports[entry["path"]]["collection"]
             data["entry_count"] = len(data["entries"])
             return data
 

@@ -4,7 +4,7 @@
 
 A browsable collection of AI skills, reusable project instructions, and developer commands—organized for people who want to use the material, not spend their afternoon repackaging it.
 
-Explore **472 prebuilt skill ZIPs**, readable references, and general-purpose project guidance in one place. Browse by topic, choose what fits your task, and keep the underlying source available when you need to look deeper.
+Explore **489 prebuilt skill ZIPs**, readable references, and general-purpose project guidance in one place. Browse by topic, choose what fits your task, and keep the underlying source available when you need to look deeper.
 
 **No Terminal or manual zipping required for the prepared downloads. No separate browsing website or local server required.** Individual skills may still require tools, accounts, or a developer environment; those requirements are flagged separately.
 
@@ -73,8 +73,8 @@ Neither is an installation requirement. You can use the folders without opening 
 
 | Folder | What it is for |
 | --- | --- |
-| [📦 CLAUDE](📦%20CLAUDE/) | All 485 distinct skill folders grouped by topic: 472 ZIPs alongside actual source files, 13 clearly labeled repair entries, and a separate category for 86 commands |
-| [💬 CHATGPT](💬%20CHATGPT/README.md) | ChatGPT setup guide, project instructions, 472 topic-organized reference documents, and an optional document-bundle ZIP—not a native installer |
+| [📦 CLAUDE](📦%20CLAUDE/) | All 502 distinct skill folders grouped by topic: 489 ZIPs alongside actual source files, 13 clearly labeled repair entries, and a separate category for 86 commands |
+| [💬 CHATGPT](💬%20CHATGPT/README.md) | ChatGPT setup guide, project instructions, 489 topic-organized reference documents, and an optional document-bundle ZIP—not a native installer |
 | [📋 COPY & PASTE](📋%20COPY%20%26%20PASTE/) | Readable skill references and PROJECT COMPASS instructions you can adapt to your work |
 | [⚠️ NEEDS SETUP](⚠️%20NEEDS%20SETUP/) | A setup/repair report linking to the visible skill folders—not a separate collection of hidden ZIPs |
 | [🔧 ADVANCED](🔧%20ADVANCED/README.md) | Preserved source material, catalogs, provenance reports, tests, and maintenance tools |
@@ -83,18 +83,26 @@ You do not need to understand Advanced to browse the prepared packages. It is th
 
 ## What is inside?
 
-The current catalog contains **925 source entries**: **839 skill copies** and **86 command files**. Exact-package deduplication produces **571 browse entries** rather than presenting every identical copy as a separate download.
+The current catalog contains **942 source entries**: **856 skill copies** and **86 command files**. Exact-package deduplication produces **588 browse entries** rather than presenting every identical copy as a separate download.
 
 | Browse entry status | Count | What you receive |
 | --- | ---: | --- |
 | Packaging checked | 26 | Individual ZIPs in CLAUDE |
-| Needs tool/setup review | 446 | ZIPs in their own CLAUDE skill folders, with setup warnings beside them |
+| Needs tool/setup review | 463 | ZIPs in their own CLAUDE skill folders, with setup warnings beside them |
 | Needs repair | 13 | Visible CLAUDE skill folders with source files and an explanation of why no ZIP is supplied |
 | Command—not a skill ZIP | 86 | Visible command folders under CLAUDE → Claude Code Commands; not native Claude-app skill downloads |
 
-**26 + 446 = 472 prebuilt skill ZIPs.** These counts describe different views of the same collection; they should not be added together as extra skills. The [generated manifest](🔧%20ADVANCED/metadata/easy-library.json) records the inventory and status breakdown.
+**26 + 463 = 489 prebuilt skill ZIPs.** These counts describe different views of the same collection; they should not be added together as extra skills. The [generated manifest](🔧%20ADVANCED/metadata/easy-library.json) records the inventory and status breakdown.
 
 Identical whole packages share one download. Distinct variants and every source copy remain preserved; deduplicating the download list did not delete the source archive.
+
+### New community additions — September 24, 2026
+
+Seventeen packages from six pinned upstream repositories add clearer response formatting, interface design, conversion and pricing guidance, Xcode build analysis, SwiftUI expertise, and security reviews. Each has a visible Claude folder with files and a ZIP, a ChatGPT reference, and upstream license/provenance records.
+
+Start with **ADHD Friendly Answers** under Tools & Workflows, **Impeccable — UI Design & Polish** under Design & Media, or **Conversion, Offers & Pricing** under Marketing & Business. The six Xcode specialists are together under Coding & Development → **🍎 Xcode Build Performance**. See [the complete additions and requirements](🔧%20ADVANCED/docs/COMMUNITY-ADDITIONS-2026-09-24.md).
+
+These are not globally installed or live-tested. Xcode companion guidance is bundled so the ZIPs retain their local references; original entrypoints are preserved separately. **Insecure Defaults — Plugin Workflow Guide** includes an explicitly labeled adapter for a plugin that cannot be activated by uploading a ZIP alone. Licenses remain with upstream authors; this collection is not cleared for blanket resale.
 
 ### Inside each skill folder
 
@@ -132,7 +140,7 @@ The **86 Claude Code Commands** are grouped by purpose under **📦 CLAUDE → C
 | Environment | What is available here today | What is not verified |
 | --- | --- | --- |
 | Claude | Prebuilt Claude-format skill ZIPs, requirement flags, and readable references | Live skill imports and runtime behavior |
-| ChatGPT projects and chats | Dedicated CHATGPT folder with PROJECT COMPASS documents and 472 readable references to select, adapt, and supply as context | End-to-end use of every reference in ChatGPT |
+| ChatGPT projects and chats | Dedicated CHATGPT folder with PROJECT COMPASS documents and 489 readable references to select, adapt, and supply as context | End-to-end use of every reference in ChatGPT |
 | ChatGPT native skills / Codex | Preserved skill source folders for inspection and possible adaptation | A dedicated ChatGPT plugin distribution or verified installation of the whole collection |
 
 ### Use the readable material with ChatGPT

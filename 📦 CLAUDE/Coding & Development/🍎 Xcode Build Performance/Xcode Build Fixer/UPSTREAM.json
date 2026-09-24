@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+  "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+  "source_path": "skills/xcode-build-fixer",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "0904653e787129bdf7a2dbeb3df8928406bbf766742af961b523c14b402dde35",
+    "references/build-settings-best-practices.md": "26f1a3a23b3fece4b067fb094ab12fb6bd7dee33e97044d515db3cf70bc9b8a4",
+    "references/fix-patterns.md": "fe39f595180f803de46e7040155475e60681376beb039a6a666804fb3480bc9c",
+    "references/recommendation-format.md": "ad8eb87228be739d2dd53d0b927558fc9e68b2135e1b1eec475a981c4cd1feb2",
+    "scripts/benchmark_builds.py": "efb10cb4702243a69441692d6fc49106618ad693ad26333a8b0c29f0e5425227"
+  },
+  "adaptations": [
+    "Sibling Markdown links redirected to bundled companion references; original SKILL.md preserved as UPSTREAM-SKILL.md."
+  ]
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "scope": "SKILL.md and Claude command Markdown files",
   "counts": {
-    "adjacent-license-found": 83,
+    "adjacent-license-found": 100,
     "no-adjacent-license": 842
   },
   "unverified_paths": [

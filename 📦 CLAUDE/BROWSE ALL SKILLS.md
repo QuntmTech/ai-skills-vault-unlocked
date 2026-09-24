@@ -209,6 +209,14 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 ### 🌐 Websites & Frontend
 
 - [frontend-patterns](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8C%90%20Websites%20%26%20Frontend/Frontend%20Patterns/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
+### 🍎 Xcode Build Performance
+
+- [spm-build-analysis](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/SPM%20Build%20Analysis/VAULT%20GUIDE.md) — Needs tool/setup review
+- [xcode-build-benchmark](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Build%20Benchmark/VAULT%20GUIDE.md) — Needs tool/setup review
+- [xcode-build-fixer](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Build%20Fixer/VAULT%20GUIDE.md) — Needs tool/setup review
+- [xcode-build-orchestrator](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Build%20Orchestrator/VAULT%20GUIDE.md) — Needs tool/setup review
+- [xcode-compilation-analyzer](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Compilation%20Analyzer/VAULT%20GUIDE.md) — Needs tool/setup review
+- [xcode-project-analyzer](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Project%20Analyzer/VAULT%20GUIDE.md) — Needs tool/setup review
 ### 💻 Languages & Frameworks
 
 - [cpp-coding-standards](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/C%2B%2B%20Coding%20Standards/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
@@ -225,6 +233,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [kotlin-coroutines-flows](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Kotlin%20Coroutines%20Flows/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [swift-actor-persistence](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Swift%20Actor%20Persistence/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [swift-concurrency-6-2](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Swift%20Concurrency%206%202/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [swiftui-expert-skill](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/SwiftUI%20Expert/VAULT%20GUIDE.md) — Needs tool/setup review
 ### 🔀 GitHub & Code Review
 
 - [brooks-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Brooks%20Review/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
@@ -250,11 +259,14 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 - [defi-amm-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Defi%20Amm%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [django-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Django%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [variant-analysis](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Find%20Related%20Vulnerabilities/VAULT%20GUIDE.md) — Needs tool/setup review
+- [insecure-defaults](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Insecure%20Defaults%20%E2%80%94%20Plugin%20Workflow%20Guide/VAULT%20GUIDE.md) — Needs tool/setup review
 - [laravel-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Laravel%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [perl-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Perl%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [security-bounty-hunter](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Bounty%20Hunter/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [security-ownership-map](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Ownership%20Map/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [security-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Review/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [differential-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Review%20of%20Code%20Changes/VAULT%20GUIDE.md) — Needs tool/setup review
 - [security-scan](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Scan/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [security-threat-model](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Threat%20Model/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [springboot-security](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Springboot%20Security/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
@@ -363,6 +375,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [figma-use](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Figma%20Use/VAULT%20GUIDE.md) — Needs repair — no ZIP; 2 identical source copies
 - [frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Frontend%20Design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [frontend-design:frontend-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Frontend%20Design%20%5Bvariant%200753%5D/VAULT%20GUIDE.md) — Needs tool/setup review
+- [impeccable](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Impeccable%20%E2%80%94%20UI%20Design%20%26%20Polish/VAULT%20GUIDE.md) — Needs tool/setup review
 - [liquid-glass-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Liquid%20Glass%20Design/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
 - [swiftui-patterns](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Swiftui%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 ### 🖼️ Images & Visual Artwork
@@ -398,6 +411,13 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [ads-microsoft](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Microsoft/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [ads-tiktok](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Tiktok/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 - [ads-youtube](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Youtube/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 💰 Conversion, Offers & Pricing
+
+- [copywriting](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Conversion%20Copywriting/VAULT%20GUIDE.md) — Needs tool/setup review
+- [cro](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Conversion%20Rate%20Optimization/VAULT%20GUIDE.md) — Needs tool/setup review
+- [offers](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Offer%20Design/VAULT%20GUIDE.md) — Needs tool/setup review
+- [pricing](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Pricing%20%26%20Monetization/VAULT%20GUIDE.md) — Needs tool/setup review
+- [product-marketing](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Product%20Marketing%20Context/VAULT%20GUIDE.md) — Needs tool/setup review
 ### 💼 Fundraising & Business Materials
 
 - [openai-templates:artifact-template-business-review](../%F0%9F%93%A6%20CLAUDE/Marketing%20%26%20Business/%F0%9F%92%BC%20Fundraising%20%26%20Business%20Materials/Artifact%20Template%20Business%20Review/VAULT%20GUIDE.md) — Needs tool/setup review
@@ -628,6 +648,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [team-builder](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Team%20Builder/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
 ### 🧠 Memory, Knowledge & Prompting
 
+- [i-have-adhd](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/ADHD%20Friendly%20Answers/VAULT%20GUIDE.md) — Needs tool/setup review
 - [claude-mem:babysit](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Babysit/VAULT%20GUIDE.md) — Needs tool/setup review
 - [superpowers:brainstorming](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Brainstorming/VAULT%20GUIDE.md) — Needs tool/setup review
 - [caveman](../%F0%9F%93%A6%20CLAUDE/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Caveman/VAULT%20GUIDE.md) — Packaging checked; 3 identical source copies

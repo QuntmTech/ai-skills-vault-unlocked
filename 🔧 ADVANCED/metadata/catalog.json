@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "entry_count": 925,
+  "entry_count": 942,
   "entries": [
     {
       "id": 1,
@@ -7401,6 +7401,142 @@
       "collection": "Additional nested skill variants",
       "description": "Creates durable, resumable workflows using Vercel's Workflow DevKit. Use when building workflows that need to survive restarts, pause for external events, retry on failure, or coordinate multi-step operations over time. Triggers on mentions of \"workflow\", \"durable functions\", \"resumable\", \"workflow devkit\", \"queue\", \"event\", \"push\", \"subscribe\", or step-based orchestration.",
       "path": "skills/codex/plugins/vercel-plugin — workflow — Copy 3/upstream/SKILL.md"
+    },
+    {
+      "id": 926,
+      "label": "i-have-adhd",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate state across turns, suppress tangents, give specific time estimates, make wins visible. Invoke with /i-have-adhd; stays on until \"stop adhd mode\".",
+      "path": "skills/community/adhd/i-have-adhd/SKILL.md"
+    },
+    {
+      "id": 927,
+      "label": "impeccable",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adapt, animate, colorize, extract, or otherwise improve a frontend interface. Covers websites, landing pages, dashboards, product UI, app shells, components, forms, settings, onboarding, and empty states. Handles UX review, visual hierarchy, information architecture, cognitive load, accessibility, performance, responsive behavior, theming, anti-patterns, typography, fonts, spacing, layout, alignment, color, motion, micro-interactions, UX copy, error states, edge cases, i18n, and reusable design systems or tokens. Also use for bland designs that need to become bolder or more delightful, loud designs that should become quieter, live browser iteration on UI elements, or ambitious visual effects that should feel technically extraordinary. Not for backend-only or non-UI tasks.",
+      "path": "skills/community/impeccable/impeccable/SKILL.md"
+    },
+    {
+      "id": 928,
+      "label": "copywriting",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" \"CTA copy,\" \"value proposition,\" \"tagline,\" \"subheadline,\" \"hero section copy,\" \"above the fold,\" \"this copy is weak,\" \"make this more compelling,\" or \"help me describe my product.\" Use this whenever someone is working on website text that needs to persuade or convert. For email copy, see emails. For popup copy, see popups. For editing existing copy, see copy-editing. For the offer underneath the copy (bonuses, guarantees, value framing), see offers.",
+      "path": "skills/community/marketing/copywriting/SKILL.md"
+    },
+    {
+      "id": 929,
+      "label": "cro",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "When the user wants to optimize, improve, or increase conversions on any marketing page or form — including homepage, landing pages, pricing pages, feature pages, lead capture forms, or contact forms. Also use when the user says 'CRO,' 'conversion rate optimization,' 'this page isn't converting,' 'improve conversions,' 'why isn't this page working,' 'my landing page sucks,' 'form abandonment,' 'nobody's converting,' 'low conversion rate,' or 'this page needs work.' Use this even if the user just shares a URL and asks for feedback. For signup/registration flows, see signup. For post-signup activation, see onboarding. For popups/modals, see popups.",
+      "path": "skills/community/marketing/cro/SKILL.md"
+    },
+    {
+      "id": 930,
+      "label": "offers",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "When the user wants to design, construct, or improve an offer — the thing they actually sell — including value framing, bonus stacking, guarantee design, scarcity/urgency, naming, and payment structure. Also use when the user mentions 'offer,' 'offer design,' 'build an offer,' 'grand slam offer,' 'irresistible offer,' 'value stack,' 'bonus stack,' 'guarantee,' 'risk reversal,' 'money-back guarantee,' 'scarcity,' 'urgency,' 'high-ticket offer,' 'productize a service,' 'naming an offer,' 'payment plan,' 'down-sell,' 'upsell offer,' or 'why isn't my offer converting.' Best for services, agencies, courses, coaching, info products, high-ticket B2B, and direct-response. If you run pure self-serve SaaS, read pricing first — tiers and packaging do more work there. For price level itself (tiers, freemium, value metric), see pricing. For the page that presents the offer, see copywriting. For the launch moment, see launch. For sales collateral, see sales-enablement.",
+      "path": "skills/community/marketing/offers/SKILL.md"
+    },
+    {
+      "id": 931,
+      "label": "pricing",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' 'monetization,' 'how much should I charge,' 'my pricing is wrong,' 'pricing page,' 'annual vs monthly,' 'per seat pricing,' 'should I offer a free plan,' 'pricing page teardown,' 'pricing page audit,' 'is my pricing page AI-readable,' or 'can AI read my pricing.' Use this whenever someone is figuring out what to charge, how to structure their plans, or wants to audit a pricing page (for humans and for the AI agents that shortlist tools). For in-app upgrade screens, see paywalls. For offer construction (bonuses, guarantees, value framing, naming) on services/courses/coaching/high-ticket B2B, see offers.",
+      "path": "skills/community/marketing/pricing/SKILL.md"
+    },
+    {
+      "id": 932,
+      "label": "product-marketing",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to avoid repeating foundational information across marketing tasks. Use this at the start of any new project before using other marketing skills — it creates `.agents/product-marketing.md` that all other skills reference for product, audience, and positioning context.",
+      "path": "skills/community/marketing/product-marketing/SKILL.md"
+    },
+    {
+      "id": 933,
+      "label": "differential-review",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Performs security-focused differential review of code changes. Adapts analysis depth to codebase size, uses git blame for context, calculates blast radius by counting callers, checks test coverage of modified code, and generates a markdown report. Use when reviewing a PR, commit, or diff for security vulnerabilities, checking whether a change re-introduces a previously fixed bug, asking what else a change could break, or finding which modified code has no test covering it.",
+      "path": "skills/community/security/differential-review/SKILL.md"
+    },
+    {
+      "id": 934,
+      "label": "insecure-defaults",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Review requirements and use the preserved Trail of Bits insecure-defaults plugin workflow for auditing configuration security. Requires a compatible developer host and Workflow tool.",
+      "path": "skills/community/security/insecure-defaults/SKILL.md"
+    },
+    {
+      "id": 935,
+      "label": "variant-analysis",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Hunts for the other instances of a bug already found — the variants of one root cause across a codebase. Use immediately after a vulnerability, logic bug, or bad pattern turns up in a specific file and the question becomes where else it occurs, including the bare conversational form (\"are there others like this?\", \"is this the same bug?\"). Also for generalizing one known instance into a CodeQL or Semgrep query for its whole pattern family, and for triaging a set of look-alike candidates against a known root cause. Not for initial discovery with no bug in hand.",
+      "path": "skills/community/security/variant-analysis/SKILL.md"
+    },
+    {
+      "id": 936,
+      "label": "swiftui-expert-skill",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS, including state and `@Observable` data flow, view composition, resizable layouts, safe areas, display scale, performance, lists, environment, localization, animation, Liquid Glass, and API migration. Also use for iPhone Duo or foldable layouts, `ArrangementView`, `ReservedRegion`, hinge effects, vertical bars, `@State` initialization or synthesized-property diagnostics, `@ContentBuilder` ambiguity, `reorderable` drag/drop, custom `AsyncImage` `URLSession`, swipe actions outside List, item-bound `alert`/`confirmationDialog`, `ToolbarOverflowMenu`, `AnimatableValues`, Document APIs (`Document`/`DocumentReader`), and Instruments `.trace` capture or analysis.",
+      "path": "skills/community/swiftui/swiftui-expert-skill/SKILL.md"
+    },
+    {
+      "id": 937,
+      "label": "spm-build-analysis",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Analyze Swift Package Manager dependencies, package plugins, module variants, and CI-oriented build overhead that slow Xcode builds. Use when a developer suspects packages, plugins, or dependency graph shape are hurting clean or incremental build performance, mentions SPM slowness, package resolution time, build plugin overhead, duplicate module builds from configuration drift, circular dependencies between modules, oversized modules needing splitting, or modularization best practices.",
+      "path": "skills/community/xcode/spm-build-analysis/SKILL.md"
+    },
+    {
+      "id": 938,
+      "label": "xcode-build-benchmark",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Benchmark Xcode clean and incremental builds with repeatable inputs, timing summaries, and timestamped `.build-benchmark/` artifacts. Use when a developer wants a baseline, wants to compare before and after changes, asks to measure build performance, mentions build times, build duration, how long builds take, or wants to know if builds got faster or slower.",
+      "path": "skills/community/xcode/xcode-build-benchmark/SKILL.md"
+    },
+    {
+      "id": 939,
+      "label": "xcode-build-fixer",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Apply approved Xcode build optimization changes following best practices, then re-benchmark to verify improvement. Use when a developer has an approved optimization plan from xcode-build-orchestrator, wants to apply specific build fixes, needs help implementing build setting changes, script phase guards, source-level compilation fixes, or SPM restructuring that was recommended by an analysis skill.",
+      "path": "skills/community/xcode/xcode-build-fixer/SKILL.md"
+    },
+    {
+      "id": 940,
+      "label": "xcode-build-orchestrator",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Orchestrate Xcode build optimization by benchmarking first, running the specialist analysis skills, prioritizing findings, requesting explicit approval, delegating approved fixes to xcode-build-fixer, and re-benchmarking after changes. Use when a developer wants an end-to-end build optimization workflow, asks to speed up Xcode builds, wants a full build audit, or needs a recommend-first optimization pass covering compilation, project settings, and packages.",
+      "path": "skills/community/xcode/xcode-build-orchestrator/SKILL.md"
+    },
+    {
+      "id": 941,
+      "label": "xcode-compilation-analyzer",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Analyze Swift and mixed-language compile hotspots using build timing summaries and Swift frontend diagnostics, then produce a recommend-first source-level optimization plan. Use when a developer reports slow compilation, type-checking warnings, expensive clean-build compile phases, long CompileSwiftSources tasks, warn-long-function-bodies output, or wants to speed up Swift type checking.",
+      "path": "skills/community/xcode/xcode-compilation-analyzer/SKILL.md"
+    },
+    {
+      "id": 942,
+      "label": "xcode-project-analyzer",
+      "type": "skill",
+      "collection": "Community additions — 2026-09-24",
+      "description": "Audit Xcode project configuration, build settings, scheme behavior, and script phases to find build-time improvements with explicit approval gates. Use when a developer wants project-level build analysis, slow incremental builds, guidance on target dependencies, build settings review, run script phase analysis, parallelization improvements, or module-map and DEFINES_MODULE configuration.",
+      "path": "skills/community/xcode/xcode-project-analyzer/SKILL.md"
     }
   ]
 }

@@ -26,13 +26,15 @@ It is a document pack, not another skill, and contains no imported private profi
 
 ## What is inside?
 
-- **925 source entries:** 839 skill copies and 86 Claude commands.
-- **571 distinct package contents**, compared using filenames and every included file.
-- All 894 original entries, plus 31 previously unlisted nested skill variants.
+- **942 source entries:** 856 skill copies and 86 Claude commands.
+- **588 distinct package contents**, compared using filenames and every included file.
+- All 894 original entries, plus 31 previously unlisted nested skill variants and 17 pinned community additions.
 - Supporting scripts, references, templates, assets and existing notices retained.
 
-These counts are not a claim of 925 unique, original or universally compatible
+These counts are not a claim of 942 unique, original or universally compatible
 skills. Some require particular plugins, MCP connections, accounts or local tools.
+
+See [community additions](docs/COMMUNITY-ADDITIONS-2026-09-24.md) for the new package list, licenses, source revisions and documented packaging adaptations.
 
 ## Export your first skill
 

@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+  "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+  "source_path": "skills/xcode-build-orchestrator",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "e919677be70ad7ddf4b0e5be5c5d5275d4e820490233f6084ce1ab3a9555404b",
+    "references/benchmark-artifacts.md": "ec3a5ed992db24e945255c87361ab347f925ef94b474fd3f002fde650fbd4392",
+    "references/build-settings-best-practices.md": "26f1a3a23b3fece4b067fb094ab12fb6bd7dee33e97044d515db3cf70bc9b8a4",
+    "references/orchestration-report-template.md": "78bead992d838c737088ec2f98cfba620a7a32569f1f525d281f7500c479b72e",
+    "references/recommendation-format.md": "ad8eb87228be739d2dd53d0b927558fc9e68b2135e1b1eec475a981c4cd1feb2",
+    "scripts/benchmark_builds.py": "efb10cb4702243a69441692d6fc49106618ad693ad26333a8b0c29f0e5425227",
+    "scripts/diagnose_compilation.py": "5d3783b053ae54f0e3730d40cf3931a4261625daa5893ad4a942b55303a9cdc6",
+    "scripts/generate_optimization_report.py": "7c03d61fbce2c7ae44eaa752fbf65ce5256ddba336690a9265976dd9c0a69a85"
+  },
+  "adaptations": [
+    "Sibling Markdown links redirected to bundled companion references; original SKILL.md preserved as UPSTREAM-SKILL.md."
+  ]
+}

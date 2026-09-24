@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+  "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+  "source_path": "skills/xcode-build-benchmark",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "91b85f1b9b7344123178d23896f5cc7e0c6bcfdbb05aa670c0ba1411ba72a3bd",
+    "references/benchmark-artifacts.md": "8087ebebff618af462200af9a49f825281ea039feaa7c5d5e3dbc49afe425798",
+    "references/benchmarking-workflow.md": "036c6b7de76974dd6648d0edc64cf6d950b079a3a2e509b61138dba560518c9d",
+    "schemas/build-benchmark.schema.json": "473b377e7677bc4aeeac8cc16ea09b90b6e3ea00c23ee7f027e1f9a5c96a27ba",
+    "scripts/benchmark_builds.py": "efb10cb4702243a69441692d6fc49106618ad693ad26333a8b0c29f0e5425227"
+  },
+  "adaptations": [
+    "Sibling Markdown links redirected to bundled companion references; original SKILL.md preserved as UPSTREAM-SKILL.md."
+  ]
+}

@@ -281,7 +281,7 @@ def visible_folder(entry, topic, used):
             else (source.parent.name if entry['type'] == 'skill' else source.stem))
     parts = [READY, topic]
     if topic in ORGANIZED_TOPICS:
-        parts.append(browsing_subcategory(topic, entry['label']))
+        parts.append(entry.get('subcategory') or browsing_subcategory(topic, entry['label']))
     folder = '/'.join([*parts, name])
     if folder.casefold() in used:
         folder += f" [variant {entry['id']:04d}]"
@@ -297,9 +297,13 @@ def outputs(root=ROOT, vault=VAULT):
     seen = {}
     audit = []
     used_folders = set()
+    imports_path = root / 'metadata/community-imports.json'
+    imports = json.loads(imports_path.read_text())['entries'] if imports_path.exists() else {}
     for entry in catalog(root):
         report = inspect(entry, root)
         entry = dict(entry)
+        curated = imports.get(entry['path'], {})
+        report['signals'].extend(curated.get('setup_notes', []))
         if entry["type"] == "skill":
             text = (root / entry["path"]).read_text()
             meta, _ = frontmatter(text)
@@ -309,6 +313,7 @@ def outputs(root=ROOT, vault=VAULT):
             if re.search(r"\b(?:CLI|connector|connected|terminal|shell|subagents?|Stripe|Dropbox)\b", text, re.I):
                 report["signals"].append("External tools or services mentioned — review availability")
         topic = category(entry["label"]) if entry["type"] == "skill" else "Claude Code Commands"
+        topic = curated.get('category', topic)
         if topic in ORGANIZED_TOPICS:
             entry["display_name"] = (friendly_name(entry["label"])
                                      if entry["type"] == "skill"
@@ -317,6 +322,9 @@ def outputs(root=ROOT, vault=VAULT):
             entry["display_name"] = entry["label"].split(":")[-1].replace(
                 "-", " "
             ).replace("_", " ").strip().title()
+        if curated:
+            entry['display_name'] = curated['display_name']
+            entry['subcategory'] = curated['subcategory']
         if entry["type"] != "skill":
             row = {**entry, "category": "Claude Code Commands", "status": "Command — not a skill ZIP",
                    "source": "🔧 ADVANCED/" + entry["path"], "zip": None,
@@ -331,7 +339,7 @@ def outputs(root=ROOT, vault=VAULT):
             continue
         row = {**entry, "category": topic, "source": "🔧 ADVANCED/" + entry["path"],
                "signals": report["signals"], "copies": [entry["id"]], "zip": None}
-        row["subcategory"] = browsing_subcategory(row["category"], entry["label"])
+        row["subcategory"] = curated.get('subcategory') or browsing_subcategory(row["category"], entry["label"])
         seen[key] = row
         rows.append(row)
         row['folder'] = visible_folder(entry, row['category'], used_folders)
@@ -481,8 +489,11 @@ def outputs(root=ROOT, vault=VAULT):
             chat_index.append("- [" + label + "](" + quote(relative, safe="/") + ") — " +
                               ("requirements flagged" if row["status"] == "Needs tool/setup review" else "no special setup signals detected"))
         chat_index.append("")
+    repair_count = sum(r['status'] == 'Needs repair — no ZIP' for r in rows)
+    command_count = sum(r['type'] != 'skill' for r in rows)
+    skill_count = len(rows) - command_count
     chat_index += ["## Not converted to references here", "",
-                   "The 13 incomplete skill packages and 86 command entries remain in the original catalog; "
+                   f"The {repair_count} incomplete skill packages and {command_count} command entries remain in the original catalog; "
                    "they are not represented as ChatGPT-ready workflows.", ""]
     generated[vault / CHATGPT / "BROWSE REFERENCES.md"] = "\n".join(chat_index).encode()
     # An optional document bundle for extraction, never a native skill installer.
@@ -497,9 +508,9 @@ def outputs(root=ROOT, vault=VAULT):
     generated[vault / CHATGPT / "ChatGPT-Reference-Pack.zip"] = bundle.getvalue()
     generated[vault / READY / "README.md"] = (
         "# Claude — all skills and source files\n\n"
-        "All 485 distinct skills are visible here: 472 with a ZIP and 13 with source files and repair warnings. "
-        "The 86 command entries are grouped by task under Claude Code Commands. "
-        "Together these represent all 925 catalog entries, including identical source copies.\n\n"
+        f"All {skill_count} distinct skills are visible here: {summary['zip_count']} with a ZIP and {repair_count} with source files and repair warnings. "
+        f"The {command_count} command entries are grouped by task under Claude Code Commands. "
+        f"Together these represent all {summary['catalog_entries']} catalog entries, including identical source copies.\n\n"
         "1. Open any topic or the Claude Code Commands collection; every section has smaller task-based subcategories and readable names. Then open the exact skill or command folder. "
         "SKILL.md and supporting files are directly inside, beside the upload ZIP.\n"
         "Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.\n"

@@ -21873,5 +21873,578 @@
       }
     },
     "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 926,
+    "path": "skills/community/adhd/i-have-adhd/SKILL.md",
+    "type": "skill",
+    "label": "i-have-adhd",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "frontmatter": "MIT"
+      },
+      {
+        "file": "skills/community/adhd/i-have-adhd/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "81541ec4a66308dc3cf9aeef8b831f9e7e9be3c9d9dd61be504c001b8e43b5ea",
+    "file_count": 6,
+    "bytes": 11710,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "i-have-adhd",
+      "description": "Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate state across turns, suppress tangents, give specific time estimates, make wins visible. Invoke with /i-have-adhd; stays on until \"stop adhd mode\".",
+      "disable-model-invocation": true,
+      "license": "MIT",
+      "metadata": {
+        "tags": "ADHD, Output Style, Productivity, Formatting",
+        "category": "productivity"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 927,
+    "path": "skills/community/impeccable/impeccable/SKILL.md",
+    "type": "skill",
+    "label": "impeccable",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "frontmatter": "Apache 2.0"
+      },
+      {
+        "file": "skills/community/impeccable/impeccable/LICENSE"
+      },
+      {
+        "file": "skills/community/impeccable/impeccable/NOTICE.md"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "66e9556662f4d09e552ef5cc2f9b35f2c15b5a6787e57a41d84bf7aa3c79fe9f",
+    "file_count": 56,
+    "bytes": 2151537,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "impeccable",
+      "description": "Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adapt, animate, colorize, extract, or otherwise improve a frontend interface. Covers websites, landing pages, dashboards, product UI, app shells, components, forms, settings, onboarding, and empty states. Handles UX review, visual hierarchy, information architecture, cognitive load, accessibility, performance, responsive behavior, theming, anti-patterns, typography, fonts, spacing, layout, alignment, color, motion, micro-interactions, UX copy, error states, edge cases, i18n, and reusable design systems or tokens. Also use for bland designs that need to become bolder or more delightful, loud designs that should become quieter, live browser iteration on UI elements, or ambitious visual effects that should feel technically extraordinary. Not for backend-only or non-UI tasks.",
+      "version": "4.3.1",
+      "user-invocable": true,
+      "argument-hint": "[shape · audit|critique · animate|bolder|colorize|delight|layout|overdrive|quieter|typeset · adapt|clarify|distill · harden|onboard|optimize|polish · init|document|extract|live|generate] [target]",
+      "license": "Apache 2.0"
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 928,
+    "path": "skills/community/marketing/copywriting/SKILL.md",
+    "type": "skill",
+    "label": "copywriting",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/marketing/copywriting/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "06bb8253bc9fb14fdcff7b94b40d7e4a42310c1bf8345ab980fd2ec23e7cdfca",
+    "file_count": 7,
+    "bytes": 40543,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "copywriting",
+      "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" \"CTA copy,\" \"value proposition,\" \"tagline,\" \"subheadline,\" \"hero section copy,\" \"above the fold,\" \"this copy is weak,\" \"make this more compelling,\" or \"help me describe my product.\" Use this whenever someone is working on website text that needs to persuade or convert. For email copy, see emails. For popup copy, see popups. For editing existing copy, see copy-editing. For the offer underneath the copy (bonuses, guarantees, value framing), see offers.",
+      "metadata": {
+        "version": "2.0.2"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 929,
+    "path": "skills/community/marketing/cro/SKILL.md",
+    "type": "skill",
+    "label": "cro",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/marketing/cro/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "071a9d4ca219b816613e746ab562d7fa22f728e8e6583f26475285d323e1c3ef",
+    "file_count": 7,
+    "bytes": 34093,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "cro",
+      "description": "When the user wants to optimize, improve, or increase conversions on any marketing page or form — including homepage, landing pages, pricing pages, feature pages, lead capture forms, or contact forms. Also use when the user says 'CRO,' 'conversion rate optimization,' 'this page isn't converting,' 'improve conversions,' 'why isn't this page working,' 'my landing page sucks,' 'form abandonment,' 'nobody's converting,' 'low conversion rate,' or 'this page needs work.' Use this even if the user just shares a URL and asks for feedback. For signup/registration flows, see signup. For post-signup activation, see onboarding. For popups/modals, see popups.",
+      "metadata": {
+        "version": "2.0.0"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 930,
+    "path": "skills/community/marketing/offers/SKILL.md",
+    "type": "skill",
+    "label": "offers",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/marketing/offers/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "d2bb37b8a312bb42f73f6a39ca88f208227589db41ebf96a1dda99d1fe591d14",
+    "file_count": 13,
+    "bytes": 83313,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "offers",
+      "description": "When the user wants to design, construct, or improve an offer — the thing they actually sell — including value framing, bonus stacking, guarantee design, scarcity/urgency, naming, and payment structure. Also use when the user mentions 'offer,' 'offer design,' 'build an offer,' 'grand slam offer,' 'irresistible offer,' 'value stack,' 'bonus stack,' 'guarantee,' 'risk reversal,' 'money-back guarantee,' 'scarcity,' 'urgency,' 'high-ticket offer,' 'productize a service,' 'naming an offer,' 'payment plan,' 'down-sell,' 'upsell offer,' or 'why isn't my offer converting.' Best for services, agencies, courses, coaching, info products, high-ticket B2B, and direct-response. If you run pure self-serve SaaS, read pricing first — tiers and packaging do more work there. For price level itself (tiers, freemium, value metric), see pricing. For the page that presents the offer, see copywriting. For the launch moment, see launch. For sales collateral, see sales-enablement.",
+      "metadata": {
+        "version": "1.0.1"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 931,
+    "path": "skills/community/marketing/pricing/SKILL.md",
+    "type": "skill",
+    "label": "pricing",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/marketing/pricing/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "81d3aa04d3b70f25b3d86cbe148b72dbb9cb94bc8f3cc0959aa283adbe33ab57",
+    "file_count": 9,
+    "bytes": 49608,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "pricing",
+      "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' 'monetization,' 'how much should I charge,' 'my pricing is wrong,' 'pricing page,' 'annual vs monthly,' 'per seat pricing,' 'should I offer a free plan,' 'pricing page teardown,' 'pricing page audit,' 'is my pricing page AI-readable,' or 'can AI read my pricing.' Use this whenever someone is figuring out what to charge, how to structure their plans, or wants to audit a pricing page (for humans and for the AI agents that shortlist tools). For in-app upgrade screens, see paywalls. For offer construction (bonuses, guarantees, value framing, naming) on services/courses/coaching/high-ticket B2B, see offers.",
+      "metadata": {
+        "version": "2.1.1"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 932,
+    "path": "skills/community/marketing/product-marketing/SKILL.md",
+    "type": "skill",
+    "label": "product-marketing",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/marketing/product-marketing/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "c1e00b98ccedb3cb321ce449b951670dc419734fb6bfd5cc54d2d2c1d1ee7e0b",
+    "file_count": 5,
+    "bytes": 18654,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "product-marketing",
+      "description": "When the user wants to create or update their product marketing context document. Also use when the user mentions 'product context,' 'marketing context,' 'set up context,' 'positioning,' 'who is my target audience,' 'describe my product,' 'ICP,' 'ideal customer profile,' or wants to avoid repeating foundational information across marketing tasks. Use this at the start of any new project before using other marketing skills — it creates `.agents/product-marketing.md` that all other skills reference for product, audience, and positioning context.",
+      "metadata": {
+        "version": "2.1.0"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 933,
+    "path": "skills/community/security/differential-review/SKILL.md",
+    "type": "skill",
+    "label": "differential-review",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/security/differential-review/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "97c0b4ebff1829f64634f494b53d315956e0f57a1e9d1ec2fd93502a89a60a39",
+    "file_count": 10,
+    "bytes": 58186,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "differential-review",
+      "description": "Performs security-focused differential review of code changes. Adapts analysis depth to codebase size, uses git blame for context, calculates blast radius by counting callers, checks test coverage of modified code, and generates a markdown report. Use when reviewing a PR, commit, or diff for security vulnerabilities, checking whether a change re-introduces a previously fixed bug, asking what else a change could break, or finding which modified code has no test covering it.",
+      "allowed-tools": "Read Write Grep Glob Bash"
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 934,
+    "path": "skills/community/security/insecure-defaults/SKILL.md",
+    "type": "skill",
+    "label": "insecure-defaults",
+    "issues": [],
+    "signals": [
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "frontmatter": "CC-BY-SA-4.0"
+      },
+      {
+        "file": "skills/community/security/insecure-defaults/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "237889ec83ef4d887db556c0bdcebe7746dc1ba294aa42ac5381ae94ba5fd66b",
+    "file_count": 24,
+    "bytes": 152973,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [],
+    "original_metadata": {
+      "name": "insecure-defaults",
+      "description": "Review requirements and use the preserved Trail of Bits insecure-defaults plugin workflow for auditing configuration security. Requires a compatible developer host and Workflow tool.",
+      "license": "CC-BY-SA-4.0",
+      "disable-model-invocation": true
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 935,
+    "path": "skills/community/security/variant-analysis/SKILL.md",
+    "type": "skill",
+    "label": "variant-analysis",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/security/variant-analysis/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "fba79632b93f55d4df4cba614b1d533ad7857321e8a333fb99f27a044a6240c6",
+    "file_count": 21,
+    "bytes": 67681,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "variant-analysis",
+      "description": "Hunts for the other instances of a bug already found — the variants of one root cause across a codebase. Use immediately after a vulnerability, logic bug, or bad pattern turns up in a specific file and the question becomes where else it occurs, including the bare conversational form (\"are there others like this?\", \"is this the same bug?\"). Also for generalizing one known instance into a CodeQL or Semgrep query for its whole pattern family, and for triaging a set of look-alike candidates against a known root cause. Not for initial discovery with no bug in hand."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 936,
+    "path": "skills/community/swiftui/swiftui-expert-skill/SKILL.md",
+    "type": "skill",
+    "label": "swiftui-expert-skill",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/swiftui/swiftui-expert-skill/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "6321a51ceb29f124af94a20f7fc47453528866b6b5352aca9b4d58ab236e1624",
+    "file_count": 54,
+    "bytes": 898763,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "swiftui-expert-skill",
+      "description": "Use when writing, reviewing, or refactoring SwiftUI code for iOS or macOS, including state and `@Observable` data flow, view composition, resizable layouts, safe areas, display scale, performance, lists, environment, localization, animation, Liquid Glass, and API migration. Also use for iPhone Duo or foldable layouts, `ArrangementView`, `ReservedRegion`, hinge effects, vertical bars, `@State` initialization or synthesized-property diagnostics, `@ContentBuilder` ambiguity, `reorderable` drag/drop, custom `AsyncImage` `URLSession`, swipe actions outside List, item-bound `alert`/`confirmationDialog`, `ToolbarOverflowMenu`, `AnimatableValues`, Document APIs (`Document`/`DocumentReader`), and Instruments `.trace` capture or analysis."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 937,
+    "path": "skills/community/xcode/spm-build-analysis/SKILL.md",
+    "type": "skill",
+    "label": "spm-build-analysis",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/xcode/spm-build-analysis/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "19fadeea2bc6e57549013a4a2091219cac48d04f68fdc4cb65d5d956c8d2b90d",
+    "file_count": 42,
+    "bytes": 279708,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "spm-build-analysis",
+      "description": "Analyze Swift Package Manager dependencies, package plugins, module variants, and CI-oriented build overhead that slow Xcode builds. Use when a developer suspects packages, plugins, or dependency graph shape are hurting clean or incremental build performance, mentions SPM slowness, package resolution time, build plugin overhead, duplicate module builds from configuration drift, circular dependencies between modules, oversized modules needing splitting, or modularization best practices."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 938,
+    "path": "skills/community/xcode/xcode-build-benchmark/SKILL.md",
+    "type": "skill",
+    "label": "xcode-build-benchmark",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/xcode/xcode-build-benchmark/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "5aaa731eb15fda92e2b7f6c78e303ef24847c8f340942af77bfd470677ba0062",
+    "file_count": 42,
+    "bytes": 279375,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "xcode-build-benchmark",
+      "description": "Benchmark Xcode clean and incremental builds with repeatable inputs, timing summaries, and timestamped `.build-benchmark/` artifacts. Use when a developer wants a baseline, wants to compare before and after changes, asks to measure build performance, mentions build times, build duration, how long builds take, or wants to know if builds got faster or slower."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 939,
+    "path": "skills/community/xcode/xcode-build-fixer/SKILL.md",
+    "type": "skill",
+    "label": "xcode-build-fixer",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/xcode/xcode-build-fixer/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "ce9524b2631486b2e623bb5b97d60aa21f53c6bb09134a5439fce87ae42b5c00",
+    "file_count": 42,
+    "bytes": 300520,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "xcode-build-fixer",
+      "description": "Apply approved Xcode build optimization changes following best practices, then re-benchmark to verify improvement. Use when a developer has an approved optimization plan from xcode-build-orchestrator, wants to apply specific build fixes, needs help implementing build setting changes, script phase guards, source-level compilation fixes, or SPM restructuring that was recommended by an analysis skill."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 940,
+    "path": "skills/community/xcode/xcode-build-orchestrator/SKILL.md",
+    "type": "skill",
+    "label": "xcode-build-orchestrator",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/xcode/xcode-build-orchestrator/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "44fe80bda79f8dc76a71a04e7e43e8a86bd985e8e4f68a4c55f80723d00738a1",
+    "file_count": 45,
+    "bytes": 337599,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "xcode-build-orchestrator",
+      "description": "Orchestrate Xcode build optimization by benchmarking first, running the specialist analysis skills, prioritizing findings, requesting explicit approval, delegating approved fixes to xcode-build-fixer, and re-benchmarking after changes. Use when a developer wants an end-to-end build optimization workflow, asks to speed up Xcode builds, wants a full build audit, or needs a recommend-first optimization pass covering compilation, project settings, and packages."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 941,
+    "path": "skills/community/xcode/xcode-compilation-analyzer/SKILL.md",
+    "type": "skill",
+    "label": "xcode-compilation-analyzer",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/xcode/xcode-compilation-analyzer/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "7e11b4fc80cacbc465cac98cbf3b512df4b99e53405e5a8c488460144add61a4",
+    "file_count": 42,
+    "bytes": 283773,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "xcode-compilation-analyzer",
+      "description": "Analyze Swift and mixed-language compile hotspots using build timing summaries and Swift frontend diagnostics, then produce a recommend-first source-level optimization plan. Use when a developer reports slow compilation, type-checking warnings, expensive clean-build compile phases, long CompileSwiftSources tasks, warn-long-function-bodies output, or wants to speed up Swift type checking."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 942,
+    "path": "skills/community/xcode/xcode-project-analyzer/SKILL.md",
+    "type": "skill",
+    "label": "xcode-project-analyzer",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/xcode/xcode-project-analyzer/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "06b24fd0787ac4b9099f9f410b0b38bd2a0da1552efde0c7b17d410c4fecc5d7",
+    "file_count": 42,
+    "bytes": 283599,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "xcode-project-analyzer",
+      "description": "Audit Xcode project configuration, build settings, scheme behavior, and script phases to find build-time improvements with explicit approval gates. Use when a developer wants project-level build analysis, slow incremental builds, guidance on target dependencies, build settings review, run script phase analysis, parallelization improvements, or module-map and DEFINES_MODULE configuration."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "entry_count": 925,
-  "skill_file_count": 839,
+  "entry_count": 942,
+  "skill_file_count": 856,
   "command_file_count": 86,
   "entries": [
     {
@@ -6715,6 +6715,142 @@
       "sha256": "d68b77e5bbb34dedab89d134da52855f140fc4b4299b80104f534e3b9e98f8ee",
       "license_status": "adjacent-license-found",
       "license_path": "skills/codex/system/skill-installer/LICENSE.txt"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/adhd/i-have-adhd/SKILL.md",
+      "bytes": 7207,
+      "sha256": "3170b16ace00aecb0dd7feb54c0b5aa642e7502acda06ecd24fd89a11c7127e9",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/adhd/i-have-adhd/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/impeccable/impeccable/SKILL.md",
+      "bytes": 12146,
+      "sha256": "b71863a370c38c6afdf2ec401118b4c68ebdac4b1527d6920e8d849d8cb15c24",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/impeccable/impeccable/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/marketing/copywriting/SKILL.md",
+      "bytes": 8401,
+      "sha256": "ce18137ae31ab37f261078501431649865ab6b403054d97490754e82acb002d8",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/marketing/copywriting/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/marketing/cro/SKILL.md",
+      "bytes": 6101,
+      "sha256": "199016bec3b44bc6a7507b111b6028f6550cc852cd54c7d0df789f15d6f814c4",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/marketing/cro/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/marketing/offers/SKILL.md",
+      "bytes": 10006,
+      "sha256": "f27239be82e5d4ad42daa944fad7d0a640b80ca82697ba7399843437a001e5aa",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/marketing/offers/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/marketing/pricing/SKILL.md",
+      "bytes": 13253,
+      "sha256": "6cb88c2e944331c12f2fb83341ff16aba85a34629df11f4cffc7f611e4df6868",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/marketing/pricing/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/marketing/product-marketing/SKILL.md",
+      "bytes": 9433,
+      "sha256": "6dfd6bd485f62448385844cb9eceefcee0977c843d7a1c9e6077590d4e19d1ec",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/marketing/product-marketing/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/security/differential-review/SKILL.md",
+      "bytes": 7439,
+      "sha256": "f9af6a8193fc1a9f8ca3c54bb8d19095a5f20c9472ca6d014488bbde50b67da0",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/security/differential-review/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/security/insecure-defaults/SKILL.md",
+      "bytes": 1160,
+      "sha256": "4c445f5e07889054b6a9d0b1d59e7783d95a8c3a1e51406757b5942f0fef1588",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/security/insecure-defaults/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/security/variant-analysis/SKILL.md",
+      "bytes": 3903,
+      "sha256": "7b6b78e499bcb88d05c68254ffc91ebc28edabf4e9808adcc40e2628ebb9407e",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/security/variant-analysis/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/swiftui/swiftui-expert-skill/SKILL.md",
+      "bytes": 11357,
+      "sha256": "3bc4c2c7bfa72481a20cd62cc90fa26890291cfeb00d95b3175037fc03e4d943",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/swiftui/swiftui-expert-skill/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/xcode/spm-build-analysis/SKILL.md",
+      "bytes": 6153,
+      "sha256": "5f91b84bd03ec650faf8f7ecec7f75f9a508e247c463e5153b5732b3c0dcd400",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/xcode/spm-build-analysis/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/xcode/xcode-build-benchmark/SKILL.md",
+      "bytes": 4680,
+      "sha256": "701ca044b94e8bb1f869e5be6c3e5e5a9414b05a85a129e5544f6c78c378f69f",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/xcode/xcode-build-benchmark/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/xcode/xcode-build-fixer/SKILL.md",
+      "bytes": 12377,
+      "sha256": "dee096b1a0a8b0a6295978a42c6eb81f9c17847019264ca67edcf9b51a8ea928",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/xcode/xcode-build-fixer/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/xcode/xcode-build-orchestrator/SKILL.md",
+      "bytes": 11585,
+      "sha256": "59047f6cbf3c38fde2dc7af95b87cf00d80df62048c3166881eaa3703683552e",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/xcode/xcode-build-orchestrator/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/xcode/xcode-compilation-analyzer/SKILL.md",
+      "bytes": 5464,
+      "sha256": "e238f250f589161993a12923786f07f6f974ef4e6e0e2d7986d552d8532419fb",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/xcode/xcode-compilation-analyzer/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/xcode/xcode-project-analyzer/SKILL.md",
+      "bytes": 4908,
+      "sha256": "30f359f680bcaad69fd00734b8ec8e8d31693a04076f614a5b6b6f81f4e5f4f3",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/xcode/xcode-project-analyzer/LICENSE"
     },
     {
       "type": "command",

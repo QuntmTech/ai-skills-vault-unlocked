@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/coreyhaines31/marketingskills",
+  "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+  "source_path": "skills/offers",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "f27239be82e5d4ad42daa944fad7d0a640b80ca82697ba7399843437a001e5aa",
+    "evals/evals.json": "b87e20bf1f392e216fea6f586befe632dd9d45895998108864a705fc8a4bc607",
+    "references/bonus-stacking.md": "872abbfd14501fd0b097f5ae62b9931571152d43b6690b57df5e65ab48aedfbd",
+    "references/examples.md": "f1033e181845effe8c659800aaf68523686be6bdcb1c5e256c87008e8ea638af",
+    "references/guarantee-design.md": "daa421558b664fe5a335c6cb764d47755799662c79606551a848bba864255c29",
+    "references/offer-anatomy.md": "0810080788bedc9b40dc0aba53109991aa816397f4b45e813289985eb8a64cad",
+    "references/offer-formats.md": "667d87198dcd3b5892151d33a917919141bc718822a2a4add3e9c100891755bb",
+    "references/saas-offers.md": "1b21638f0fd2e623f638c13f4b82e2d8c8ecb79d1324f0183f8322db5f5ceea3",
+    "references/scarcity-urgency.md": "4abe51a54188e6c93feb6cface92abc5c8e03212b8ade5bd9366ed159ad3f8f8",
+    "references/value-equation.md": "4610ff358be2be643e7783884e628f01e1e0c56915a7924e5ccb92c096121eff"
+  },
+  "adaptations": []
+}

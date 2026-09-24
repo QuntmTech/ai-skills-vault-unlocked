@@ -44,7 +44,7 @@ class EasyLibraryTests(unittest.TestCase):
                 self.assertEqual((easy.VAULT / row['zip']).parent, folder)
             else:
                 self.assertFalse(list(folder.glob('*.zip')))
-        self.assertEqual(sum(bool(row['zip']) for row in rows), 472)
+        self.assertEqual(sum(bool(row['zip']) for row in rows), 489)
 
     def test_zip_links_integrity_and_entrypoint(self):
         for row in json.loads(easy.MANIFEST.read_text())["entries"]:
@@ -140,7 +140,7 @@ class EasyLibraryTests(unittest.TestCase):
     def test_coding_skills_have_readable_subcategories_and_names(self):
         rows = [row for row in json.loads(easy.MANIFEST.read_text())['entries']
                 if row['category'] == 'Coding & Development']
-        self.assertEqual(len(rows), 183)
+        self.assertEqual(len(rows), 193)
         self.assertGreaterEqual(len({row['subcategory'] for row in rows}), 10)
         for row in rows:
             parts = Path(row['folder']).parts
@@ -154,7 +154,7 @@ class EasyLibraryTests(unittest.TestCase):
 
     def test_phase_one_topics_mirror_readable_subcategories(self):
         rows = json.loads(easy.MANIFEST.read_text())['entries']
-        expected = {'Design & Media': 29, 'Writing & Documents': 19}
+        expected = {'Design & Media': 30, 'Writing & Documents': 19}
         for topic, count in expected.items():
             selected = [row for row in rows if row['category'] == topic]
             self.assertEqual(len(selected), count)
@@ -170,7 +170,7 @@ class EasyLibraryTests(unittest.TestCase):
 
     def test_phase_two_topics_mirror_readable_subcategories(self):
         rows = json.loads(easy.MANIFEST.read_text())['entries']
-        expected = {'Marketing & Business': 36, 'Research & Data': 25}
+        expected = {'Marketing & Business': 41, 'Research & Data': 25}
         for topic, count in expected.items():
             selected = [row for row in rows if row['category'] == topic]
             self.assertEqual(len(selected), count)
@@ -189,7 +189,7 @@ class EasyLibraryTests(unittest.TestCase):
     def test_phase_three_tools_mirror_readable_subcategories(self):
         rows = [row for row in json.loads(easy.MANIFEST.read_text())['entries']
                 if row['category'] == 'Tools & Workflows']
-        self.assertEqual(len(rows), 193)
+        self.assertEqual(len(rows), 194)
         self.assertGreaterEqual(len({row['subcategory'] for row in rows}), 13)
         for row in rows:
             self.assertEqual(Path(row['folder']).parts[0:2],
@@ -233,8 +233,8 @@ class EasyLibraryTests(unittest.TestCase):
 
     def test_phase_five_all_front_sections_are_organized(self):
         rows = json.loads(easy.MANIFEST.read_text())['entries']
-        self.assertEqual(len(rows), 571)
-        self.assertEqual(sum(row['zip'] is not None for row in rows), 472)
+        self.assertEqual(len(rows), 588)
+        self.assertEqual(sum(row['zip'] is not None for row in rows), 489)
         self.assertFalse([row for row in rows if not row.get('subcategory')])
         readme = (easy.VAULT / 'README.md').read_text()
         self.assertIn('Every Claude section is now organized', readme)

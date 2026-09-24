@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "entries": {
+    "skills/community/adhd/i-have-adhd/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "ADHD Friendly Answers",
+      "category": "Tools & Workflows",
+      "subcategory": "🧠 Memory, Knowledge & Prompting",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "Optional response style only, not a diagnosis or treatment. Do not infer that the reader has ADHD. Safety, accuracy and user instructions override formatting preferences."
+      ],
+      "repository": "https://github.com/ayghri/i-have-adhd",
+      "commit": "839872f9d1cd634fed642b4589ce7226199cc15f",
+      "license": "MIT"
+    },
+    "skills/community/impeccable/impeccable/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Impeccable — UI Design & Polish",
+      "category": "Design & Media",
+      "subcategory": "🖥️ UI, UX & Product Design",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: developer shell and project access. Its launcher may download an upstream binary on first use; no binary was downloaded or executed by the vault import."
+      ],
+      "repository": "https://github.com/pbakaus/impeccable",
+      "commit": "edb9c7fbcba158fb6236bd043d6cba18d9cde8d3",
+      "license": "Apache-2.0"
+    },
+    "skills/community/marketing/copywriting/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Conversion Copywriting",
+      "category": "Marketing & Business",
+      "subcategory": "💰 Conversion, Offers & Pricing",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "license": "MIT"
+    },
+    "skills/community/marketing/cro/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Conversion Rate Optimization",
+      "category": "Marketing & Business",
+      "subcategory": "💰 Conversion, Offers & Pricing",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "license": "MIT"
+    },
+    "skills/community/marketing/offers/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Offer Design",
+      "category": "Marketing & Business",
+      "subcategory": "💰 Conversion, Offers & Pricing",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "license": "MIT"
+    },
+    "skills/community/marketing/pricing/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Pricing & Monetization",
+      "category": "Marketing & Business",
+      "subcategory": "💰 Conversion, Offers & Pricing",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "license": "MIT"
+    },
+    "skills/community/marketing/product-marketing/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Product Marketing Context",
+      "category": "Marketing & Business",
+      "subcategory": "💰 Conversion, Offers & Pricing",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "license": "MIT"
+    },
+    "skills/community/xcode/xcode-build-orchestrator/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Xcode Build Orchestrator",
+      "category": "Coding & Development",
+      "subcategory": "🍎 Xcode Build Performance",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: macOS, Xcode, Python and access to the target project; ordinary cloud chat cannot run local Xcode.",
+        "All six specialist packages are visible in the Xcode category. Companion guidance/assets are also bundled inside each ZIP; these are references, not automatically installed skills.",
+        "Build benchmarking consumes CPU and disk space. This is not a cache cleaner. Review any clean-build, source-touch or project-change commands before execution.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+      "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+      "license": "MIT"
+    },
+    "skills/community/xcode/xcode-build-benchmark/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Xcode Build Benchmark",
+      "category": "Coding & Development",
+      "subcategory": "🍎 Xcode Build Performance",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: macOS, Xcode, Python and access to the target project; ordinary cloud chat cannot run local Xcode.",
+        "All six specialist packages are visible in the Xcode category. Companion guidance/assets are also bundled inside each ZIP; these are references, not automatically installed skills.",
+        "Build benchmarking consumes CPU and disk space. This is not a cache cleaner. Review any clean-build, source-touch or project-change commands before execution.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+      "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+      "license": "MIT"
+    },
+    "skills/community/xcode/xcode-compilation-analyzer/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Xcode Compilation Analyzer",
+      "category": "Coding & Development",
+      "subcategory": "🍎 Xcode Build Performance",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: macOS, Xcode, Python and access to the target project; ordinary cloud chat cannot run local Xcode.",
+        "All six specialist packages are visible in the Xcode category. Companion guidance/assets are also bundled inside each ZIP; these are references, not automatically installed skills.",
+        "Build benchmarking consumes CPU and disk space. This is not a cache cleaner. Review any clean-build, source-touch or project-change commands before execution.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+      "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+      "license": "MIT"
+    },
+    "skills/community/xcode/xcode-project-analyzer/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Xcode Project Analyzer",
+      "category": "Coding & Development",
+      "subcategory": "🍎 Xcode Build Performance",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: macOS, Xcode, Python and access to the target project; ordinary cloud chat cannot run local Xcode.",
+        "All six specialist packages are visible in the Xcode category. Companion guidance/assets are also bundled inside each ZIP; these are references, not automatically installed skills.",
+        "Build benchmarking consumes CPU and disk space. This is not a cache cleaner. Review any clean-build, source-touch or project-change commands before execution.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+      "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+      "license": "MIT"
+    },
+    "skills/community/xcode/spm-build-analysis/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "SPM Build Analysis",
+      "category": "Coding & Development",
+      "subcategory": "🍎 Xcode Build Performance",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: macOS, Xcode, Python and access to the target project; ordinary cloud chat cannot run local Xcode.",
+        "All six specialist packages are visible in the Xcode category. Companion guidance/assets are also bundled inside each ZIP; these are references, not automatically installed skills.",
+        "Build benchmarking consumes CPU and disk space. This is not a cache cleaner. Review any clean-build, source-touch or project-change commands before execution.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+      "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+      "license": "MIT"
+    },
+    "skills/community/xcode/xcode-build-fixer/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Xcode Build Fixer",
+      "category": "Coding & Development",
+      "subcategory": "🍎 Xcode Build Performance",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: macOS, Xcode, Python and access to the target project; ordinary cloud chat cannot run local Xcode.",
+        "All six specialist packages are visible in the Xcode category. Companion guidance/assets are also bundled inside each ZIP; these are references, not automatically installed skills.",
+        "Build benchmarking consumes CPU and disk space. This is not a cache cleaner. Review any clean-build, source-touch or project-change commands before execution.",
+        "Marketing guidance only; verify factual claims, prices and product context. Related optional marketing skills are not all included."
+      ],
+      "repository": "https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill",
+      "commit": "6bd7b596cd688b1127ded00e812b1b6937ec35d6",
+      "license": "MIT"
+    },
+    "skills/community/swiftui/swiftui-expert-skill/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "SwiftUI Expert",
+      "category": "Coding & Development",
+      "subcategory": "📱 Mobile & Desktop Apps",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required for profiling: macOS, Xcode/xctrace and Python. Guidance can be read independently; scripts require local project/device access."
+      ],
+      "repository": "https://github.com/AvdLee/SwiftUI-Agent-Skill",
+      "commit": "b24e68a965dc4b5bd2cc41dc60c094a26a9379ce",
+      "license": "MIT"
+    },
+    "skills/community/security/differential-review/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Security Review of Code Changes",
+      "category": "Coding & Development",
+      "subcategory": "🔐 Security & Authentication",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: repository/filesystem access and compatible code-search or agent tools. Preserve Trail of Bits attribution and CC-BY-SA-4.0 notices."
+      ],
+      "repository": "https://github.com/trailofbits/skills",
+      "commit": "0cc1c73a5e96749ab32d7ea5e14892fafa6972ae",
+      "license": "CC-BY-SA-4.0"
+    },
+    "skills/community/security/variant-analysis/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Find Related Vulnerabilities",
+      "category": "Coding & Development",
+      "subcategory": "🔐 Security & Authentication",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "External tools required: repository/filesystem access and compatible code-search or agent tools. Preserve Trail of Bits attribution and CC-BY-SA-4.0 notices."
+      ],
+      "repository": "https://github.com/trailofbits/skills",
+      "commit": "0cc1c73a5e96749ab32d7ea5e14892fafa6972ae",
+      "license": "CC-BY-SA-4.0"
+    },
+    "skills/community/security/insecure-defaults/SKILL.md": {
+      "collection": "Community additions — 2026-09-24",
+      "display_name": "Insecure Defaults — Plugin Workflow Guide",
+      "category": "Coding & Development",
+      "subcategory": "🔐 Security & Authentication",
+      "setup_notes": [
+        "Third-party instructions and scripts: statically packaged, not executed or live-import tested.",
+        "Plugin source: requires Workflow tool, plugin registration, filesystem access and agent support. ZIP upload alone does not activate the audit pipeline.",
+        "Parallel-agent audit can be expensive; use only with an explicit target and usage budget."
+      ],
+      "repository": "https://github.com/trailofbits/skills",
+      "commit": "0cc1c73a5e96749ab32d7ea5e14892fafa6972ae",
+      "license": "CC-BY-SA-4.0"
+    }
+  }
+}

@@ -93,6 +93,14 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 ### 🌐 Websites & Frontend
 
 - [Frontend Patterns](Skill%20References/Coding%20%26%20Development/%F0%9F%8C%90%20Websites%20%26%20Frontend/Frontend%20Patterns%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+### 🍎 Xcode Build Performance
+
+- [SPM Build Analysis](Skill%20References/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/SPM%20Build%20Analysis%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Xcode Build Benchmark](Skill%20References/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Build%20Benchmark%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Xcode Build Fixer](Skill%20References/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Build%20Fixer%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Xcode Build Orchestrator](Skill%20References/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Build%20Orchestrator%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Xcode Compilation Analyzer](Skill%20References/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Compilation%20Analyzer%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Xcode Project Analyzer](Skill%20References/Coding%20%26%20Development/%F0%9F%8D%8E%20Xcode%20Build%20Performance/Xcode%20Project%20Analyzer%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 ### 💻 Languages & Frameworks
 
 - [C++ Coding Standards](Skill%20References/Coding%20%26%20Development/%F0%9F%92%BB%20Languages%20%26%20Frameworks/C%2B%2B%20Coding%20Standards%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
@@ -109,6 +117,7 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Kotlin Coroutines Flows](Skill%20References/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Kotlin%20Coroutines%20Flows%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Swift Actor Persistence](Skill%20References/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Swift%20Actor%20Persistence%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Swift Concurrency 6 2](Skill%20References/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/Swift%20Concurrency%206%202%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [SwiftUI Expert](Skill%20References/Coding%20%26%20Development/%F0%9F%93%B1%20Mobile%20%26%20Desktop%20Apps/SwiftUI%20Expert%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 ### 🔀 GitHub & Code Review
 
 - [Brooks Review](Skill%20References/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Brooks%20Review%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
@@ -133,11 +142,14 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 
 - [Defi Amm Security](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Defi%20Amm%20Security%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Django Security](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Django%20Security%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Find Related Vulnerabilities](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Find%20Related%20Vulnerabilities%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Insecure Defaults — Plugin Workflow Guide](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Insecure%20Defaults%20%E2%80%94%20Plugin%20Workflow%20Guide%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Laravel Security](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Laravel%20Security%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Perl Security](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Perl%20Security%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Security Bounty Hunter](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Bounty%20Hunter%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Security Ownership Map](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Ownership%20Map%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Security Review](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Review%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Security Review of Code Changes](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Review%20of%20Code%20Changes%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Security Scan](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Scan%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Security Threat Model](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Security%20Threat%20Model%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Springboot Security](Skill%20References/Coding%20%26%20Development/%F0%9F%94%90%20Security%20%26%20Authentication/Springboot%20Security%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
@@ -243,6 +255,7 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Design Is](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Design%20Is%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Frontend Design](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Frontend%20Design%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Frontend Design](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Frontend%20Design%20%5Bvariant%200753%5D%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Impeccable — UI Design & Polish](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Impeccable%20%E2%80%94%20UI%20Design%20%26%20Polish%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Liquid Glass Design](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Liquid%20Glass%20Design%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
 - [Swiftui Patterns](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Swiftui%20Patterns%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 ### 🖼️ Images & Visual Artwork
@@ -278,6 +291,13 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Ads Microsoft](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Microsoft%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Ads Tiktok](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Tiktok%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Ads Youtube](Skill%20References/Marketing%20%26%20Business/%F0%9F%8E%AF%20Advertising%20Platforms/Ads%20Youtube%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 💰 Conversion, Offers & Pricing
+
+- [Conversion Copywriting](Skill%20References/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Conversion%20Copywriting%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Conversion Rate Optimization](Skill%20References/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Conversion%20Rate%20Optimization%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Offer Design](Skill%20References/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Offer%20Design%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Pricing & Monetization](Skill%20References/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Pricing%20%26%20Monetization%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Product Marketing Context](Skill%20References/Marketing%20%26%20Business/%F0%9F%92%B0%20Conversion%2C%20Offers%20%26%20Pricing/Product%20Marketing%20Context%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 ### 💼 Fundraising & Business Materials
 
 - [Artifact Template Business Review](Skill%20References/Marketing%20%26%20Business/%F0%9F%92%BC%20Fundraising%20%26%20Business%20Materials/Artifact%20Template%20Business%20Review%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
@@ -504,6 +524,7 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Team Builder](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A4%96%20AI%20Agents%20%26%20Orchestration/Team%20Builder%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 ### 🧠 Memory, Knowledge & Prompting
 
+- [ADHD Friendly Answers](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/ADHD%20Friendly%20Answers%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Babysit](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Babysit%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Brainstorming](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Brainstorming%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Caveman](Skill%20References/Tools%20%26%20Workflows/%F0%9F%A7%A0%20Memory%2C%20Knowledge%20%26%20Prompting/Caveman%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected

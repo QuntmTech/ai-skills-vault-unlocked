@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "scope": "Every catalog entry, including nested skill variants; static checks only",
-  "entry_count": 925,
-  "unique_package_contents": 571,
+  "entry_count": 942,
+  "unique_package_contents": 588,
   "exact_duplicate_groups": [
     [
       1,
@@ -1223,7 +1223,7 @@
   "format_counts": {
     "command-only": 86,
     "needs-review": 33,
-    "structurally-valid": 806
+    "structurally-valid": 823
   },
   "publication_status": "blocked-pending-provenance-and-license-review",
   "entries": [
@@ -18360,6 +18360,400 @@
       "package_sha256": "792a4ac2596e9bfdc860bc93247a7bde80c7f94ef34d3efae1a1d344ddc253d3",
       "file_count": 2,
       "bytes": 21255,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 926,
+      "path": "skills/community/adhd/i-have-adhd/SKILL.md",
+      "type": "skill",
+      "label": "i-have-adhd",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "frontmatter": "MIT"
+        },
+        {
+          "file": "skills/community/adhd/i-have-adhd/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "81541ec4a66308dc3cf9aeef8b831f9e7e9be3c9d9dd61be504c001b8e43b5ea",
+      "file_count": 6,
+      "bytes": 11710,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 927,
+      "path": "skills/community/impeccable/impeccable/SKILL.md",
+      "type": "skill",
+      "label": "impeccable",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "frontmatter": "Apache 2.0"
+        },
+        {
+          "file": "skills/community/impeccable/impeccable/LICENSE"
+        },
+        {
+          "file": "skills/community/impeccable/impeccable/NOTICE.md"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "66e9556662f4d09e552ef5cc2f9b35f2c15b5a6787e57a41d84bf7aa3c79fe9f",
+      "file_count": 56,
+      "bytes": 2151537,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 928,
+      "path": "skills/community/marketing/copywriting/SKILL.md",
+      "type": "skill",
+      "label": "copywriting",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/marketing/copywriting/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "06bb8253bc9fb14fdcff7b94b40d7e4a42310c1bf8345ab980fd2ec23e7cdfca",
+      "file_count": 7,
+      "bytes": 40543,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 929,
+      "path": "skills/community/marketing/cro/SKILL.md",
+      "type": "skill",
+      "label": "cro",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/marketing/cro/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "071a9d4ca219b816613e746ab562d7fa22f728e8e6583f26475285d323e1c3ef",
+      "file_count": 7,
+      "bytes": 34093,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 930,
+      "path": "skills/community/marketing/offers/SKILL.md",
+      "type": "skill",
+      "label": "offers",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/marketing/offers/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "d2bb37b8a312bb42f73f6a39ca88f208227589db41ebf96a1dda99d1fe591d14",
+      "file_count": 13,
+      "bytes": 83313,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 931,
+      "path": "skills/community/marketing/pricing/SKILL.md",
+      "type": "skill",
+      "label": "pricing",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/marketing/pricing/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "81d3aa04d3b70f25b3d86cbe148b72dbb9cb94bc8f3cc0959aa283adbe33ab57",
+      "file_count": 9,
+      "bytes": 49608,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 932,
+      "path": "skills/community/marketing/product-marketing/SKILL.md",
+      "type": "skill",
+      "label": "product-marketing",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/marketing/product-marketing/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "c1e00b98ccedb3cb321ce449b951670dc419734fb6bfd5cc54d2d2c1d1ee7e0b",
+      "file_count": 5,
+      "bytes": 18654,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 933,
+      "path": "skills/community/security/differential-review/SKILL.md",
+      "type": "skill",
+      "label": "differential-review",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/security/differential-review/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "97c0b4ebff1829f64634f494b53d315956e0f57a1e9d1ec2fd93502a89a60a39",
+      "file_count": 10,
+      "bytes": 58186,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 934,
+      "path": "skills/community/security/insecure-defaults/SKILL.md",
+      "type": "skill",
+      "label": "insecure-defaults",
+      "issues": [],
+      "signals": [
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "frontmatter": "CC-BY-SA-4.0"
+        },
+        {
+          "file": "skills/community/security/insecure-defaults/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "237889ec83ef4d887db556c0bdcebe7746dc1ba294aa42ac5381ae94ba5fd66b",
+      "file_count": 24,
+      "bytes": 152973,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 935,
+      "path": "skills/community/security/variant-analysis/SKILL.md",
+      "type": "skill",
+      "label": "variant-analysis",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/security/variant-analysis/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "fba79632b93f55d4df4cba614b1d533ad7857321e8a333fb99f27a044a6240c6",
+      "file_count": 21,
+      "bytes": 67681,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 936,
+      "path": "skills/community/swiftui/swiftui-expert-skill/SKILL.md",
+      "type": "skill",
+      "label": "swiftui-expert-skill",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/swiftui/swiftui-expert-skill/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "6321a51ceb29f124af94a20f7fc47453528866b6b5352aca9b4d58ab236e1624",
+      "file_count": 54,
+      "bytes": 898763,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 937,
+      "path": "skills/community/xcode/spm-build-analysis/SKILL.md",
+      "type": "skill",
+      "label": "spm-build-analysis",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/xcode/spm-build-analysis/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "19fadeea2bc6e57549013a4a2091219cac48d04f68fdc4cb65d5d956c8d2b90d",
+      "file_count": 42,
+      "bytes": 279708,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 938,
+      "path": "skills/community/xcode/xcode-build-benchmark/SKILL.md",
+      "type": "skill",
+      "label": "xcode-build-benchmark",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/xcode/xcode-build-benchmark/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "5aaa731eb15fda92e2b7f6c78e303ef24847c8f340942af77bfd470677ba0062",
+      "file_count": 42,
+      "bytes": 279375,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 939,
+      "path": "skills/community/xcode/xcode-build-fixer/SKILL.md",
+      "type": "skill",
+      "label": "xcode-build-fixer",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/xcode/xcode-build-fixer/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "ce9524b2631486b2e623bb5b97d60aa21f53c6bb09134a5439fce87ae42b5c00",
+      "file_count": 42,
+      "bytes": 300520,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 940,
+      "path": "skills/community/xcode/xcode-build-orchestrator/SKILL.md",
+      "type": "skill",
+      "label": "xcode-build-orchestrator",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/xcode/xcode-build-orchestrator/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "44fe80bda79f8dc76a71a04e7e43e8a86bd985e8e4f68a4c55f80723d00738a1",
+      "file_count": 45,
+      "bytes": 337599,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 941,
+      "path": "skills/community/xcode/xcode-compilation-analyzer/SKILL.md",
+      "type": "skill",
+      "label": "xcode-compilation-analyzer",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/xcode/xcode-compilation-analyzer/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "7e11b4fc80cacbc465cac98cbf3b512df4b99e53405e5a8c488460144add61a4",
+      "file_count": 42,
+      "bytes": 283773,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 942,
+      "path": "skills/community/xcode/xcode-project-analyzer/SKILL.md",
+      "type": "skill",
+      "label": "xcode-project-analyzer",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/xcode/xcode-project-analyzer/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "06b24fd0787ac4b9099f9f410b0b38bd2a0da1552efde0c7b17d410c4fecc5d7",
+      "file_count": 42,
+      "bytes": 283599,
       "missing_local_links": [],
       "format": "structurally-valid"
     }
