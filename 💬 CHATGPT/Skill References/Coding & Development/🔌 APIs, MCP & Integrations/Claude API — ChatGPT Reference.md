@@ -12,12 +12,12 @@ Readable guidance, not a native skill installation. No live ChatGPT test is clai
 
 ---
 
-# Reference copy — claude-api
+# Reference copy — anthropic-api
 
 This is a reading/copy-paste aid, not an installed skill. It does not include supporting files or grant access to tools. Review the ZIP and audit report before using this workflow.
 
 ---
-name: claude-api
+name: anthropic-api
 description: Anthropic Claude API patterns for Python and TypeScript. Covers Messages
   API, streaming, tool use, vision, extended thinking, batches, prompt caching, and
   Claude Agent SDK. Use when building...

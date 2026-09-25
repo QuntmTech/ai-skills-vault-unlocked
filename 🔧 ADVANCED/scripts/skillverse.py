@@ -16,6 +16,10 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 SKIP = {".DS_Store", "__pycache__", ".git", "node_modules"}
 NAME = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
+CLAUDE_NAME_ALIASES = {
+    "claude-api": "anthropic-api",
+    "claude-devfleet": "agent-devfleet",
+}
 
 
 def contained(root, relative):
@@ -152,6 +156,13 @@ def export(entry, target, out, root=ROOT):
     if meta != original_meta:
         changes.append("Normalized or supplied skill name")
     if target == "claude":
+        if "claude" in name:
+            replacement = CLAUDE_NAME_ALIASES.get(name)
+            if not replacement:
+                raise ValueError("Claude upload name contains reserved word: " + name)
+            name = replacement
+            meta["name"] = name
+            changes.append("Replaced a Claude-reserved internal skill name")
         desc = " ".join(meta["description"].split())
         if len(desc) > 200:
             meta["description"] = desc[:197].rsplit(" ", 1)[0] + "..."
@@ -174,6 +185,10 @@ def export(entry, target, out, root=ROOT):
     with zipfile.ZipFile(zip_path, "x", compression=zipfile.ZIP_DEFLATED) as archive:
         for file in files:
             rel = file.relative_to(source.parent).as_posix()
+            if target == "claude" and file != source and (
+                file.name == "SKILL.md" or ".claude-plugin" in file.relative_to(source.parent).parts
+            ):
+                continue
             info = zipfile.ZipInfo(name + "/" + rel, date_time=(2020, 1, 1, 0, 0, 0))
             info.compress_type = zipfile.ZIP_DEFLATED
             info.external_attr = (0o100755 if file.stat().st_mode & 0o111 else 0o100644) << 16

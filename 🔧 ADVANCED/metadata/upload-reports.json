@@ -960,6 +960,7 @@
     "format": "structurally-valid",
     "target": "claude",
     "normalization": [
+      "Replaced a Claude-reserved internal skill name",
       "Shortened discovery description to 200 characters; full description retained in body"
     ],
     "original_metadata": {
@@ -987,7 +988,9 @@
     "missing_local_links": [],
     "format": "structurally-valid",
     "target": "claude",
-    "normalization": [],
+    "normalization": [
+      "Replaced a Claude-reserved internal skill name"
+    ],
     "original_metadata": {
       "name": "claude-devfleet",
       "description": "Orchestrate multi-agent coding tasks via Claude DevFleet — plan projects, dispatch parallel agents in isolated worktrees, monitor progress, and read structured reports.",

@@ -55,7 +55,13 @@ class EasyLibraryTests(unittest.TestCase):
                 self.assertIsNone(archive.testzip())
                 prefixes = {p.split("/")[0] for p in archive.namelist()}
                 self.assertEqual(len(prefixes), 1)
-                self.assertIn(next(iter(prefixes)) + "/SKILL.md", archive.namelist())
+                entrypoint = next(iter(prefixes)) + "/SKILL.md"
+                self.assertIn(entrypoint, archive.namelist())
+                self.assertEqual([p for p in archive.namelist() if p.endswith('/SKILL.md')], [entrypoint])
+                self.assertFalse(any('.claude-plugin/' in p for p in archive.namelist()))
+                meta, _ = easy.frontmatter(archive.read(entrypoint).decode())
+                self.assertRegex(meta['name'], r'^[a-z0-9]+(?:-[a-z0-9]+)*$')
+                self.assertNotIn('claude', meta['name'].casefold())
             self.assertTrue((easy.VAULT / row["reference"]).is_file())
 
     def test_artifact_hashes_match(self):

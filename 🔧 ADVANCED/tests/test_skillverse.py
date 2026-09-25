@@ -98,6 +98,29 @@ class PackageTests(unittest.TestCase):
             self.assertLessEqual(len(meta["description"]), 200)
             self.assertIn(description.strip(), body)
 
+    def test_claude_export_replaces_reserved_internal_name(self):
+        self.source.write_text(
+            "---\nname: claude-api\ndescription: Explain an API workflow.\n---\nBody."
+        )
+        with zipfile.ZipFile(self.export("claude")) as archive:
+            self.assertIn("anthropic-api/SKILL.md", archive.namelist())
+            meta, _ = sv.frontmatter(archive.read("anthropic-api/SKILL.md").decode())
+            self.assertEqual(meta["name"], "anthropic-api")
+
+    def test_claude_export_omits_nested_entrypoints_and_plugin_manifest(self):
+        nested = self.folder / "upstream/SKILL.md"
+        nested.parent.mkdir()
+        nested.write_text("---\nname: upstream\ndescription: Preserved source.\n---\nBody.")
+        manifest = self.folder / ".claude-plugin/plugin.json"
+        manifest.parent.mkdir()
+        manifest.write_text('{"name":"demo"}\n')
+        with zipfile.ZipFile(self.export("claude")) as archive:
+            self.assertNotIn("demo/upstream/SKILL.md", archive.namelist())
+            self.assertNotIn("demo/.claude-plugin/plugin.json", archive.namelist())
+            self.assertIn("demo/SKILL.md", archive.namelist())
+        self.assertTrue(nested.exists())
+        self.assertTrue(manifest.exists())
+
     def test_keeps_policy_metadata_and_agent_file(self):
         self.source.write_text("---\nname: demo\ndescription: Do a task.\ndisable-model-invocation: true\n---\nBody.")
         (self.folder / "agents").mkdir()

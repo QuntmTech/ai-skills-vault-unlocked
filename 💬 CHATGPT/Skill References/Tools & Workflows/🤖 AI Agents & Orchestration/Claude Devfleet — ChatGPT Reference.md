@@ -12,12 +12,12 @@ Readable guidance, not a native skill installation. No live ChatGPT test is clai
 
 ---
 
-# Reference copy — claude-devfleet
+# Reference copy — agent-devfleet
 
 This is a reading/copy-paste aid, not an installed skill. It does not include supporting files or grant access to tools. Review the ZIP and audit report before using this workflow.
 
 ---
-name: claude-devfleet
+name: agent-devfleet
 description: Orchestrate multi-agent coding tasks via Claude DevFleet — plan projects,
   dispatch parallel agents in isolated worktrees, monitor progress, and read structured
   reports.

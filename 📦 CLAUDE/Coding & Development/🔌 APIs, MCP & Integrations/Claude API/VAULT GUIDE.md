@@ -6,7 +6,7 @@
 
 This folder contains the preserved instructions and available supporting files directly. No collected scripts were executed. Review requirements before use.
 
-[Upload this ZIP to Claude](0034-claude-api-claude.zip)
+[Upload this ZIP to Claude](0034-anthropic-api-claude.zip)
 
 Do not unzip the individual skill ZIP for Claude upload. The ZIP may normalize metadata; The unpacked files preserve the original bytes. No live Claude import is verified.
 
