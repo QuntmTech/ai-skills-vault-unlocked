@@ -82,6 +82,33 @@ def add_grouped_batches(generated, base, entries, platform, inventory, section):
         add_batch(generated, base / category, rows, platform, inventory, section)
 
 
+def add_flat_upload_folder(generated, folder, entries):
+    """Add ZIP-only copies for selecting an entire curated set at once."""
+    seen_names = set()
+    inventory = []
+    for entry in entries:
+        internal_name = entry['_internal_name']
+        assert internal_name not in seen_names, f'Duplicate internal skill name: {internal_name}'
+        seen_names.add(internal_name)
+        source = ROOT / entry['zip']
+        data = source.read_bytes()
+        destination = folder / f"{entry['id']:04d} — {clean_filename(entry['display_name'])}.zip"
+        assert destination not in generated
+        generated[destination] = data
+        inventory.append({
+            'file': destination.name,
+            'id': entry['id'],
+            'internal_name': internal_name,
+            'display_name': entry['display_name'],
+            'category': entry['category'],
+            'subcategory': entry.get('subcategory'),
+            'status': entry['status'],
+            'source': entry['zip'],
+            'sha256': hashlib.sha256(data).hexdigest(),
+        })
+    return inventory
+
+
 def primary_rank(entry):
     return (
         entry['status'] != 'Packaging checked',
@@ -217,6 +244,40 @@ def outputs():
         'same-name packages are preserved separately and must not be uploaded as part of the primary queue.\n\n'
         'Start with the platform folder’s **00 START HERE.md** file.\n'
     ).encode()
+
+    flat_root = ROOT / '📤 UPLOAD BATCHES/⚡ ONE-FOLDER BULK UPLOADS'
+    flat_folder = flat_root / '📦 CLAUDE — TOOLS WORKFLOWS + WRITING DOCUMENTS — UPLOAD ALL'
+    flat_categories = {'Tools & Workflows', 'Writing & Documents'}
+    flat_entries = [entry for entry in primary if entry['category'] in flat_categories]
+    flat_inventory = add_flat_upload_folder(generated, flat_folder, flat_entries)
+    flat_counts = {
+        category: sum(entry['category'] == category for entry in flat_entries)
+        for category in sorted(flat_categories)
+    }
+    assert flat_counts == {'Tools & Workflows': 173, 'Writing & Documents': 16}
+    assert len(flat_entries) == len({entry['_internal_name'] for entry in flat_entries}) == 189
+    generated[flat_root / '00 INVENTORY.json'] = (
+        json.dumps({
+            'summary': {
+                'platform': 'Claude',
+                'distinct_primary_skills': len(flat_entries),
+                'category_counts': flat_counts,
+                'zip_only_upload_folder': flat_folder.relative_to(flat_root).as_posix(),
+                'live_claude_imports_verified': 0,
+            },
+            'entries': flat_inventory,
+        }, indent=2, ensure_ascii=False) + '\n'
+    ).encode()
+    generated[flat_root / 'README.md'] = (
+        '# One-folder Claude bulk upload\n\n'
+        f'The **{flat_folder.name}** folder contains exactly {len(flat_entries)} individual ZIP files: '
+        f"{flat_counts['Tools & Workflows']} Tools & Workflows skills and "
+        f"{flat_counts['Writing & Documents']} Writing & Documents skills.\n\n"
+        'Open that folder, select all ZIP files, and add them with Claude’s skill uploader if the interface accepts '
+        'that many files at once. The upload folder itself contains no README, inventory, subfolders, or alternate '
+        'same-name packages. Packages passed structural checks; live account import and runtime behavior were not tested.\n'
+    ).encode()
+    summary['claude_flat_tools_and_writing'] = len(flat_entries)
     return generated, summary
 
 
