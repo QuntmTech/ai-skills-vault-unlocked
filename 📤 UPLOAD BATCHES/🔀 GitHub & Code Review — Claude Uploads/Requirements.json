@@ -1,0 +1,116 @@
+[
+  {
+    "file": "Brooks Review.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Brooks Review/0025-brooks-review-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ]
+  },
+  {
+    "file": "Github Ops.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Github Ops/0094-github-ops-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "External tools or services mentioned — review availability"
+    ]
+  },
+  {
+    "file": "Review Agent.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Review Agent/0224-review-agent-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ]
+  },
+  {
+    "file": "GitHub Address Comments.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/GitHub Address Comments/0530-gh-address-comments-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested",
+      "Plugin source — verify required plugin capabilities in Claude",
+      "External tools or services mentioned — review availability"
+    ]
+  },
+  {
+    "file": "GitHub Fix CI.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/GitHub Fix CI/0531-gh-fix-ci-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested",
+      "Plugin source — verify required plugin capabilities in Claude",
+      "External tools or services mentioned — review availability"
+    ]
+  },
+  {
+    "file": "Github.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Github/0532-github-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Plugin source — verify required plugin capabilities in Claude",
+      "External tools or services mentioned — review availability"
+    ]
+  },
+  {
+    "file": "Yeet.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Yeet/0533-yeet-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Plugin source — verify required plugin capabilities in Claude",
+      "External tools or services mentioned — review availability"
+    ]
+  },
+  {
+    "file": "Review Claudemd.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Review Claudemd/0752-review-claudemd-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Host-specific paths mentioned",
+      "Agent tools mentioned",
+      "Plugin source — verify required plugin capabilities in Claude",
+      "External tools or services mentioned — review availability"
+    ]
+  },
+  {
+    "file": "Receiving Code Review.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Receiving Code Review/0758-receiving-code-review-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Plugin source — verify required plugin capabilities in Claude"
+    ]
+  },
+  {
+    "file": "Requesting Code Review.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Requesting Code Review/0759-requesting-code-review-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Agent tools mentioned",
+      "Plugin source — verify required plugin capabilities in Claude",
+      "External tools or services mentioned — review availability"
+    ]
+  },
+  {
+    "file": "Using Git Worktrees.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Using Git Worktrees/0763-using-git-worktrees-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Agent tools mentioned",
+      "Plugin source — verify required plugin capabilities in Claude"
+    ]
+  }
+]

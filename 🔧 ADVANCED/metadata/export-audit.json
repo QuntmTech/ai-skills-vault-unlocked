@@ -3,7 +3,7 @@
   "scope": "ZIP integrity, layout, asset preservation and source preservation; not live imports",
   "counts": {
     "blocked": 52,
-    "passed": 1660
+    "passed": 1676
   },
   "entries": [
     {
@@ -8615,6 +8615,86 @@
     },
     {
       "id": 942,
+      "target": "portable",
+      "status": "passed"
+    },
+    {
+      "id": 943,
+      "target": "claude",
+      "status": "passed"
+    },
+    {
+      "id": 943,
+      "target": "portable",
+      "status": "passed"
+    },
+    {
+      "id": 944,
+      "target": "claude",
+      "status": "passed"
+    },
+    {
+      "id": 944,
+      "target": "portable",
+      "status": "passed"
+    },
+    {
+      "id": 945,
+      "target": "claude",
+      "status": "passed"
+    },
+    {
+      "id": 945,
+      "target": "portable",
+      "status": "passed"
+    },
+    {
+      "id": 946,
+      "target": "claude",
+      "status": "passed"
+    },
+    {
+      "id": 946,
+      "target": "portable",
+      "status": "passed"
+    },
+    {
+      "id": 947,
+      "target": "claude",
+      "status": "passed"
+    },
+    {
+      "id": 947,
+      "target": "portable",
+      "status": "passed"
+    },
+    {
+      "id": 948,
+      "target": "claude",
+      "status": "passed"
+    },
+    {
+      "id": 948,
+      "target": "portable",
+      "status": "passed"
+    },
+    {
+      "id": 949,
+      "target": "claude",
+      "status": "passed"
+    },
+    {
+      "id": 949,
+      "target": "portable",
+      "status": "passed"
+    },
+    {
+      "id": 950,
+      "target": "claude",
+      "status": "passed"
+    },
+    {
+      "id": 950,
       "target": "portable",
       "status": "passed"
     }

@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/mae616/design-skills",
+  "commit": "79e3398bee27664de70c7b97a30dd928f6fe7976",
+  "source_path": "skills/creative-coder",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "56985140767008ccd85eae5770a15df8c03668fb85313bb5e30651ba2adc42df"
+  },
+  "adaptations": [
+    "Namespaced internal skill name; removed Claude Code-only user-invocable metadata where present.",
+    "Added host capability and design-system adaptation guidance."
+  ]
+}

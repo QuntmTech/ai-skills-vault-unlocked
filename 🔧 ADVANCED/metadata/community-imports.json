@@ -240,6 +240,111 @@
       "repository": "https://github.com/trailofbits/skills",
       "commit": "0cc1c73a5e96749ab32d7ea5e14892fafa6972ae",
       "license": "CC-BY-SA-4.0"
+    },
+    "skills/community/ux-design/usability-psychologist/SKILL.md": {
+      "collection": "UX design additions — 2026-09-25",
+      "display_name": "Usability & Cognitive Load Review",
+      "category": "Design & Media",
+      "subcategory": "🧭 UX Research & Usability",
+      "setup_notes": [
+        "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+        "Internal name is vault-usability-psychologist to reduce collisions; original entrypoint and MIT license are preserved."
+      ],
+      "repository": "https://github.com/mae616/design-skills",
+      "commit": "79e3398bee27664de70c7b97a30dd928f6fe7976",
+      "license": "MIT"
+    },
+    "skills/community/ux-design/accessibility-engineer/SKILL.md": {
+      "collection": "UX design additions — 2026-09-25",
+      "display_name": "Accessible Interface Design",
+      "category": "Design & Media",
+      "subcategory": "♿ Accessibility & Inclusive Design",
+      "setup_notes": [
+        "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+        "Internal name is vault-accessibility-engineer to reduce collisions; original entrypoint and MIT license are preserved."
+      ],
+      "repository": "https://github.com/mae616/design-skills",
+      "commit": "79e3398bee27664de70c7b97a30dd928f6fe7976",
+      "license": "MIT"
+    },
+    "skills/community/ux-design/creative-coder/SKILL.md": {
+      "collection": "UX design additions — 2026-09-25",
+      "display_name": "Motion & Micro-Interaction Design",
+      "category": "Design & Media",
+      "subcategory": "✨ Motion & Interaction",
+      "setup_notes": [
+        "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+        "Internal name is vault-creative-coder to reduce collisions; original entrypoint and MIT license are preserved."
+      ],
+      "repository": "https://github.com/mae616/design-skills",
+      "commit": "79e3398bee27664de70c7b97a30dd928f6fe7976",
+      "license": "MIT"
+    },
+    "skills/community/ux-design/wireframe-agent/SKILL.md": {
+      "collection": "UX design additions — 2026-09-25",
+      "display_name": "Wireframe & Screen Layouts",
+      "category": "Design & Media",
+      "subcategory": "🖥️ UI, UX & Product Design",
+      "setup_notes": [
+        "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+        "Internal name is vault-wireframe-agent to reduce collisions; original entrypoint and MIT license are preserved."
+      ],
+      "repository": "https://github.com/richhemsley3/claude-design-skills",
+      "commit": "1185d0d84974eaed6e927b953243c96754de02b6",
+      "license": "MIT"
+    },
+    "skills/community/ux-design/ux-flow-planner/SKILL.md": {
+      "collection": "UX design additions — 2026-09-25",
+      "display_name": "User Flows & Onboarding",
+      "category": "Design & Media",
+      "subcategory": "🧭 UX Research & Usability",
+      "setup_notes": [
+        "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+        "Internal name is vault-ux-flow-planner to reduce collisions; original entrypoint and MIT license are preserved."
+      ],
+      "repository": "https://github.com/richhemsley3/claude-design-skills",
+      "commit": "1185d0d84974eaed6e927b953243c96754de02b6",
+      "license": "MIT"
+    },
+    "skills/community/ux-design/information-architect/SKILL.md": {
+      "collection": "UX design additions — 2026-09-25",
+      "display_name": "Navigation & Information Architecture",
+      "category": "Design & Media",
+      "subcategory": "🧭 UX Research & Usability",
+      "setup_notes": [
+        "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+        "Internal name is vault-information-architect to reduce collisions; original entrypoint and MIT license are preserved."
+      ],
+      "repository": "https://github.com/richhemsley3/claude-design-skills",
+      "commit": "1185d0d84974eaed6e927b953243c96754de02b6",
+      "license": "MIT"
+    },
+    "skills/community/ux-design/content-copy-designer/SKILL.md": {
+      "collection": "UX design additions — 2026-09-25",
+      "display_name": "UI Microcopy & Error Messages",
+      "category": "Design & Media",
+      "subcategory": "✍️ UI Writing & Microcopy",
+      "setup_notes": [
+        "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+        "Internal name is vault-content-copy-designer to reduce collisions; original entrypoint and MIT license are preserved."
+      ],
+      "repository": "https://github.com/richhemsley3/claude-design-skills",
+      "commit": "1185d0d84974eaed6e927b953243c96754de02b6",
+      "license": "MIT"
+    },
+    "skills/community/ux-design/ui-ux-pro-max/SKILL.md": {
+      "collection": "UX design additions — 2026-09-25",
+      "display_name": "UI UX Pro Max — Design System Toolkit",
+      "category": "Design & Media",
+      "subcategory": "🖥️ UI, UX & Product Design",
+      "setup_notes": [
+        "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+        "Internal name is vault-ui-ux-pro-max to reduce collisions; original entrypoint and MIT license are preserved.",
+        "Python/code execution is needed for the bundled search tool. Without it, use the included reference-only fallback; no plugin installation required."
+      ],
+      "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "dcc40ff5133ef78276117db0cc34e7b83cc8aeba",
+      "license": "MIT"
     }
   }
 }

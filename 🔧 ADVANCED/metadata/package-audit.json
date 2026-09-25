@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "scope": "Every catalog entry, including nested skill variants; static checks only",
-  "entry_count": 942,
-  "unique_package_contents": 588,
+  "entry_count": 950,
+  "unique_package_contents": 596,
   "exact_duplicate_groups": [
     [
       1,
@@ -1223,7 +1223,7 @@
   "format_counts": {
     "command-only": 86,
     "needs-review": 33,
-    "structurally-valid": 823
+    "structurally-valid": 831
   },
   "publication_status": "blocked-pending-provenance-and-license-review",
   "entries": [
@@ -18754,6 +18754,178 @@
       "package_sha256": "06b24fd0787ac4b9099f9f410b0b38bd2a0da1552efde0c7b17d410c4fecc5d7",
       "file_count": 42,
       "bytes": 283599,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 943,
+      "path": "skills/community/ux-design/accessibility-engineer/SKILL.md",
+      "type": "skill",
+      "label": "vault-accessibility-engineer",
+      "issues": [],
+      "signals": [
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/ux-design/accessibility-engineer/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "dbb4cdd3e693f9f9830e5acc8bc57f941bdffe4560db0bdc73157b8a70fec0a8",
+      "file_count": 5,
+      "bytes": 10607,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 944,
+      "path": "skills/community/ux-design/content-copy-designer/SKILL.md",
+      "type": "skill",
+      "label": "vault-content-copy-designer",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/ux-design/content-copy-designer/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "bf8effd5580afa682cfcd342b5dceb08c9cfc0ed140d22358519cebe076652e8",
+      "file_count": 5,
+      "bytes": 16038,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 945,
+      "path": "skills/community/ux-design/creative-coder/SKILL.md",
+      "type": "skill",
+      "label": "vault-creative-coder",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/ux-design/creative-coder/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "6d6e68c02f97bfa094942cb284a166612050430c2fb54759928f1bda6df2157e",
+      "file_count": 5,
+      "bytes": 7857,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 946,
+      "path": "skills/community/ux-design/information-architect/SKILL.md",
+      "type": "skill",
+      "label": "vault-information-architect",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/ux-design/information-architect/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "d0751913f5c12700c1a0b41d31fb52616fcc5786abaee56d0a45874e267332ff",
+      "file_count": 5,
+      "bytes": 14408,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 947,
+      "path": "skills/community/ux-design/ui-ux-pro-max/SKILL.md",
+      "type": "skill",
+      "label": "vault-ui-ux-pro-max",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned",
+        "Executable code included; not executed or behavior-tested"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/ux-design/ui-ux-pro-max/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "a7066641175b4ad355e3a40fe71a98e7a3b9efd5e85f7c027d7b04e5c111d1c9",
+      "file_count": 77,
+      "bytes": 3606140,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 948,
+      "path": "skills/community/ux-design/usability-psychologist/SKILL.md",
+      "type": "skill",
+      "label": "vault-usability-psychologist",
+      "issues": [],
+      "signals": [],
+      "license_evidence": [
+        {
+          "file": "skills/community/ux-design/usability-psychologist/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "eb92b456660850271cc7cdf6042515f570492125802caa8cba127526abf44eb6",
+      "file_count": 5,
+      "bytes": 7709,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 949,
+      "path": "skills/community/ux-design/ux-flow-planner/SKILL.md",
+      "type": "skill",
+      "label": "vault-ux-flow-planner",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/ux-design/ux-flow-planner/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "f3b82bfe689335ca18611c59ad8fdd1f7ac09daa18f91c154d4061b7d0210f20",
+      "file_count": 5,
+      "bytes": 12824,
+      "missing_local_links": [],
+      "format": "structurally-valid"
+    },
+    {
+      "id": 950,
+      "path": "skills/community/ux-design/wireframe-agent/SKILL.md",
+      "type": "skill",
+      "label": "vault-wireframe-agent",
+      "issues": [],
+      "signals": [
+        "Claude upload description will be shortened; full text retained",
+        "Agent tools mentioned"
+      ],
+      "license_evidence": [
+        {
+          "file": "skills/community/ux-design/wireframe-agent/LICENSE"
+        }
+      ],
+      "publication": "review-required",
+      "package_sha256": "c05ff2e587a88a30fe3ca367a51a7b30fc901aca388ec20b457ad699e7062c6a",
+      "file_count": 5,
+      "bytes": 14193,
       "missing_local_links": [],
       "format": "structurally-valid"
     }

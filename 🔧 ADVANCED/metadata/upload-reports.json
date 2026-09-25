@@ -22446,5 +22446,254 @@
       "description": "Audit Xcode project configuration, build settings, scheme behavior, and script phases to find build-time improvements with explicit approval gates. Use when a developer wants project-level build analysis, slow incremental builds, guidance on target dependencies, build settings review, run script phase analysis, parallelization improvements, or module-map and DEFINES_MODULE configuration."
     },
     "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 943,
+    "path": "skills/community/ux-design/accessibility-engineer/SKILL.md",
+    "type": "skill",
+    "label": "vault-accessibility-engineer",
+    "issues": [],
+    "signals": [
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/ux-design/accessibility-engineer/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "dbb4cdd3e693f9f9830e5acc8bc57f941bdffe4560db0bdc73157b8a70fec0a8",
+    "file_count": 5,
+    "bytes": 10607,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [],
+    "original_metadata": {
+      "name": "vault-accessibility-engineer",
+      "description": "Apply semantic HTML/JSX and WAI-ARIA correctly and minimally. Apply when implementing any UI, especially forms, interactive components, or when accessibility is mentioned.",
+      "metadata": {
+        "tags": "accessibility, a11y, aria, semantic-html, screen-reader, keyboard"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 944,
+    "path": "skills/community/ux-design/content-copy-designer/SKILL.md",
+    "type": "skill",
+    "label": "vault-content-copy-designer",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/ux-design/content-copy-designer/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "bf8effd5580afa682cfcd342b5dceb08c9cfc0ed140d22358519cebe076652e8",
+    "file_count": 5,
+    "bytes": 16038,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "vault-content-copy-designer",
+      "description": "Craft UI copy, microcopy, error messages, empty states, tooltips, button labels, and confirmation dialogs. Use this skill when the user needs help writing text that appears in a user interface — including page titles, descriptions, form labels, help text, success/error messages, onboarding copy, empty state messages, toast notifications, modal dialogs, or any user-facing text. Also trigger when the user says 'write the copy for', 'what should this say', 'error message for', or 'empty state text'."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 945,
+    "path": "skills/community/ux-design/creative-coder/SKILL.md",
+    "type": "skill",
+    "label": "vault-creative-coder",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/ux-design/creative-coder/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "6d6e68c02f97bfa094942cb284a166612050430c2fb54759928f1bda6df2157e",
+    "file_count": 5,
+    "bytes": 7857,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "vault-creative-coder",
+      "description": "Translate motion, interaction, and visual experience into implementable constraints while preserving accessibility and performance. Apply when working on animations, transitions, scroll effects, or micro-UX.",
+      "metadata": {
+        "tags": "animation, interaction, motion, micro-ux, transitions, creative"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 946,
+    "path": "skills/community/ux-design/information-architect/SKILL.md",
+    "type": "skill",
+    "label": "vault-information-architect",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/ux-design/information-architect/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "d0751913f5c12700c1a0b41d31fb52616fcc5786abaee56d0a45874e267332ff",
+    "file_count": 5,
+    "bytes": 14408,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "vault-information-architect",
+      "description": "Define content structure, navigation hierarchy, taxonomy, and information grouping for web applications. Use this skill when the user wants to organize pages, plan site structure, design navigation menus, create content taxonomies, group features into sections, or define how information is structured in an application. Also trigger when the user mentions 'sitemap', 'navigation structure', 'information architecture', 'IA', 'content hierarchy', 'menu structure', or 'how should I organize these pages'."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 947,
+    "path": "skills/community/ux-design/ui-ux-pro-max/SKILL.md",
+    "type": "skill",
+    "label": "vault-ui-ux-pro-max",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/ux-design/ui-ux-pro-max/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "a7066641175b4ad355e3a40fe71a98e7a3b9efd5e85f7c027d7b04e5c111d1c9",
+    "file_count": 77,
+    "bytes": 3606140,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "vault-ui-ux-pro-max",
+      "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 948,
+    "path": "skills/community/ux-design/usability-psychologist/SKILL.md",
+    "type": "skill",
+    "label": "vault-usability-psychologist",
+    "issues": [],
+    "signals": [],
+    "license_evidence": [
+      {
+        "file": "skills/community/ux-design/usability-psychologist/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "eb92b456660850271cc7cdf6042515f570492125802caa8cba127526abf44eb6",
+    "file_count": 5,
+    "bytes": 7709,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [],
+    "original_metadata": {
+      "name": "vault-usability-psychologist",
+      "description": "Evaluate UI/flows from cognitive load, error prevention, and accessibility perspectives. Apply when reviewing UX, discussing user confusion, high drop-off, or form usability issues.",
+      "metadata": {
+        "tags": "usability, ux, cognitive-load, error-prevention, accessibility, user-testing"
+      }
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 949,
+    "path": "skills/community/ux-design/ux-flow-planner/SKILL.md",
+    "type": "skill",
+    "label": "vault-ux-flow-planner",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/ux-design/ux-flow-planner/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "f3b82bfe689335ca18611c59ad8fdd1f7ac09daa18f91c154d4061b7d0210f20",
+    "file_count": 5,
+    "bytes": 12824,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "vault-ux-flow-planner",
+      "description": "Map user journeys, screen flows, and interaction sequences for web applications. Use this skill when the user wants to plan how users move through screens, define multi-step workflows, map user journeys, design navigation structures, or think through interaction flows. This includes onboarding flows, checkout processes, CRUD workflows, settings management, error recovery paths, or any multi-screen user experience. Also trigger when the user mentions 'user flow', 'screen flow', 'journey map', 'interaction design', or 'workflow'."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
+  },
+  {
+    "id": 950,
+    "path": "skills/community/ux-design/wireframe-agent/SKILL.md",
+    "type": "skill",
+    "label": "vault-wireframe-agent",
+    "issues": [],
+    "signals": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned"
+    ],
+    "license_evidence": [
+      {
+        "file": "skills/community/ux-design/wireframe-agent/LICENSE"
+      }
+    ],
+    "publication": "review-required",
+    "package_sha256": "c05ff2e587a88a30fe3ca367a51a7b30fc901aca388ec20b457ad699e7062c6a",
+    "file_count": 5,
+    "bytes": 14193,
+    "missing_local_links": [],
+    "format": "structurally-valid",
+    "target": "claude",
+    "normalization": [
+      "Shortened discovery description to 200 characters; full description retained in body"
+    ],
+    "original_metadata": {
+      "name": "vault-wireframe-agent",
+      "description": "Create quick low-fidelity wireframes and page structure sketches. Use this skill when the user wants a rough layout, wireframe, skeleton, mockup outline, or structural sketch of a page or screen before diving into visual design. This is for early-stage ideation where content hierarchy and layout matter more than colors and polish. Also trigger this when the user says 'sketch this out', 'rough layout', 'quick mockup', or 'show me the structure'."
+    },
+    "warning": "Structure only; not an import, runtime, security or redistribution approval"
   }
 ]

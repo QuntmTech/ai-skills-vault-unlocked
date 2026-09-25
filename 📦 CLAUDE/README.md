@@ -1,6 +1,6 @@
 # Claude — all skills and source files
 
-All 502 distinct skills are visible here: 489 with a ZIP and 13 with source files and repair warnings. The 86 command entries are grouped by task under Claude Code Commands. Together these represent all 942 catalog entries, including identical source copies.
+All 510 distinct skills are visible here: 497 with a ZIP and 13 with source files and repair warnings. The 86 command entries are grouped by task under Claude Code Commands. Together these represent all 950 catalog entries, including identical source copies.
 
 1. Open any topic or the Claude Code Commands collection; every section has smaller task-based subcategories and readable names. Then open the exact skill or command folder. SKILL.md and supporting files are directly inside, beside the upload ZIP.
 Read VAULT GUIDE.md for setup warnings. Same-name distinct variants have a suffix to prevent overwriting.

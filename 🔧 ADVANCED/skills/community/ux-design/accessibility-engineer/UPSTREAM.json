@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/mae616/design-skills",
+  "commit": "79e3398bee27664de70c7b97a30dd928f6fe7976",
+  "source_path": "skills/accessibility-engineer",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "3ab7144acb19e8b36444179203bbab513eee63cc68d874f7b91ac4731dc51b2d"
+  },
+  "adaptations": [
+    "Namespaced internal skill name; removed Claude Code-only user-invocable metadata where present.",
+    "Added host capability and design-system adaptation guidance."
+  ]
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Accessible Interface Design.zip",
+    "source": "📦 CLAUDE/Design & Media/♿ Accessibility & Inclusive Design/Accessible Interface Design/0943-vault-accessibility-engineer-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Agent tools mentioned",
+      "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+      "Internal name is vault-accessibility-engineer to reduce collisions; original entrypoint and MIT license are preserved."
+    ]
+  },
+  {
+    "file": "UI Microcopy & Error Messages.zip",
+    "source": "📦 CLAUDE/Design & Media/✍️ UI Writing & Microcopy/UI Microcopy & Error Messages/0944-vault-content-copy-designer-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+      "Internal name is vault-content-copy-designer to reduce collisions; original entrypoint and MIT license are preserved."
+    ]
+  },
+  {
+    "file": "Motion & Micro-Interaction Design.zip",
+    "source": "📦 CLAUDE/Design & Media/✨ Motion & Interaction/Motion & Micro-Interaction Design/0945-vault-creative-coder-claude.zip",
+    "status": "Packaging checked",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+      "Internal name is vault-creative-coder to reduce collisions; original entrypoint and MIT license are preserved."
+    ]
+  },
+  {
+    "file": "Navigation & Information Architecture.zip",
+    "source": "📦 CLAUDE/Design & Media/🧭 UX Research & Usability/Navigation & Information Architecture/0946-vault-information-architect-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+      "Internal name is vault-information-architect to reduce collisions; original entrypoint and MIT license are preserved."
+    ]
+  },
+  {
+    "file": "UI UX Pro Max — Design System Toolkit.zip",
+    "source": "📦 CLAUDE/Design & Media/🖥️ UI, UX & Product Design/UI UX Pro Max — Design System Toolkit/0947-vault-ui-ux-pro-max-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Executable code included; not executed or behavior-tested",
+      "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+      "Internal name is vault-ui-ux-pro-max to reduce collisions; original entrypoint and MIT license are preserved.",
+      "Python/code execution is needed for the bundled search tool. Without it, use the included reference-only fallback; no plugin installation required.",
+      "External tools or services mentioned — review availability"
+    ]
+  },
+  {
+    "file": "Usability & Cognitive Load Review.zip",
+    "source": "📦 CLAUDE/Design & Media/🧭 UX Research & Usability/Usability & Cognitive Load Review/0948-vault-usability-psychologist-claude.zip",
+    "status": "Packaging checked",
+    "requirements": [
+      "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+      "Internal name is vault-usability-psychologist to reduce collisions; original entrypoint and MIT license are preserved."
+    ]
+  },
+  {
+    "file": "User Flows & Onboarding.zip",
+    "source": "📦 CLAUDE/Design & Media/🧭 UX Research & Usability/User Flows & Onboarding/0949-vault-ux-flow-planner-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+      "Internal name is vault-ux-flow-planner to reduce collisions; original entrypoint and MIT license are preserved."
+    ]
+  },
+  {
+    "file": "Wireframe & Screen Layouts.zip",
+    "source": "📦 CLAUDE/Design & Media/🖥️ UI, UX & Product Design/Wireframe & Screen Layouts/0950-vault-wireframe-agent-claude.zip",
+    "status": "Needs tool/setup review",
+    "requirements": [
+      "Claude upload description will be shortened; full text retained",
+      "Agent tools mentioned",
+      "Individual Claude upload package; archive checks are not live-import or behavior verification.",
+      "Internal name is vault-wireframe-agent to reduce collisions; original entrypoint and MIT license are preserved.",
+      "External tools or services mentioned — review availability"
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "entry_count": 942,
-  "skill_file_count": 856,
+  "entry_count": 950,
+  "skill_file_count": 864,
   "command_file_count": 86,
   "entries": [
     {
@@ -6803,6 +6803,70 @@
       "sha256": "3bc4c2c7bfa72481a20cd62cc90fa26890291cfeb00d95b3175037fc03e4d943",
       "license_status": "adjacent-license-found",
       "license_path": "skills/community/swiftui/swiftui-expert-skill/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/ux-design/accessibility-engineer/SKILL.md",
+      "bytes": 4403,
+      "sha256": "eb6ff482a394267b8904ec08aaf58fa8f81edbafd3480d62cb4955bd269a9430",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/ux-design/accessibility-engineer/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/ux-design/content-copy-designer/SKILL.md",
+      "bytes": 7258,
+      "sha256": "d1c8dfb9ea21620b2bd02bcdb29e560aadf7c78ca3883265efca47e6402b0c15",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/ux-design/content-copy-designer/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/ux-design/creative-coder/SKILL.md",
+      "bytes": 3040,
+      "sha256": "2855854da85b5678cfce355f44eba415eb98173123d95019eb773f457cb4e06a",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/ux-design/creative-coder/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/ux-design/information-architect/SKILL.md",
+      "bytes": 6433,
+      "sha256": "51eb481a86e2230a6ff8188aab54c9152b24729ae1de572f4fc4cd6aba05fa6d",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/ux-design/information-architect/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/ux-design/ui-ux-pro-max/SKILL.md",
+      "bytes": 16617,
+      "sha256": "c0a525deaba85db646534d91a22440e27f8917d5aafe427328dda3ba13856c7c",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/ux-design/ui-ux-pro-max/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/ux-design/usability-psychologist/SKILL.md",
+      "bytes": 2954,
+      "sha256": "92daead0c9ac1fb596f231e123b732ae24b797f361ea3403889fe2de7cfbe652",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/ux-design/usability-psychologist/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/ux-design/ux-flow-planner/SKILL.md",
+      "bytes": 5666,
+      "sha256": "be061a0cafd8c6eb4299c564989cb638a34f385178ef45cbd4c3059b4b888417",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/ux-design/ux-flow-planner/LICENSE"
+    },
+    {
+      "type": "skill",
+      "path": "skills/community/ux-design/wireframe-agent/SKILL.md",
+      "bytes": 6316,
+      "sha256": "08956c67cbdc99881220a8a74cdcaad146be1ca34b5f1cb01a1d171a2778d0e9",
+      "license_status": "adjacent-license-found",
+      "license_path": "skills/community/ux-design/wireframe-agent/LICENSE"
     },
     {
       "type": "skill",

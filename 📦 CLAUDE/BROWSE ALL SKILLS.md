@@ -345,6 +345,15 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 
 ## Design & Media
 
+### ♿ Accessibility & Inclusive Design
+
+- [vault-accessibility-engineer](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%E2%99%BF%20Accessibility%20%26%20Inclusive%20Design/Accessible%20Interface%20Design/VAULT%20GUIDE.md) — Needs tool/setup review
+### ✍️ UI Writing & Microcopy
+
+- [vault-content-copy-designer](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%E2%9C%8D%EF%B8%8F%20UI%20Writing%20%26%20Microcopy/UI%20Microcopy%20%26%20Error%20Messages/VAULT%20GUIDE.md) — Needs tool/setup review
+### ✨ Motion & Interaction
+
+- [vault-creative-coder](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%E2%9C%A8%20Motion%20%26%20Interaction/Motion%20%26%20Micro-Interaction%20Design/VAULT%20GUIDE.md) — Packaging checked
 ### 🎨 Design Systems & Reports
 
 - [api-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%8E%A8%20Design%20Systems%20%26%20Reports/API%20Design/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
@@ -378,6 +387,8 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [impeccable](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Impeccable%20%E2%80%94%20UI%20Design%20%26%20Polish/VAULT%20GUIDE.md) — Needs tool/setup review
 - [liquid-glass-design](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Liquid%20Glass%20Design/VAULT%20GUIDE.md) — Packaging checked; 2 identical source copies
 - [swiftui-patterns](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Swiftui%20Patterns/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+- [vault-ui-ux-pro-max](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/UI%20UX%20Pro%20Max%20%E2%80%94%20Design%20System%20Toolkit/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vault-wireframe-agent](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Wireframe%20%26%20Screen%20Layouts/VAULT%20GUIDE.md) — Needs tool/setup review
 ### 🖼️ Images & Visual Artwork
 
 - [all-images-ai-automation](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%96%BC%EF%B8%8F%20Images%20%26%20Visual%20Artwork/All%20Images%20AI%20Automation/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
@@ -387,6 +398,11 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 ### 🧩 Creative Tools & Workflows
 
 - [dmux-workflows](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%A7%A9%20Creative%20Tools%20%26%20Workflows/Dmux%20Workflows/VAULT%20GUIDE.md) — Needs tool/setup review; 2 identical source copies
+### 🧭 UX Research & Usability
+
+- [vault-information-architect](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%A7%AD%20UX%20Research%20%26%20Usability/Navigation%20%26%20Information%20Architecture/VAULT%20GUIDE.md) — Needs tool/setup review
+- [vault-usability-psychologist](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%A7%AD%20UX%20Research%20%26%20Usability/Usability%20%26%20Cognitive%20Load%20Review/VAULT%20GUIDE.md) — Packaging checked
+- [vault-ux-flow-planner](../%F0%9F%93%A6%20CLAUDE/Design%20%26%20Media/%F0%9F%A7%AD%20UX%20Research%20%26%20Usability/User%20Flows%20%26%20Onboarding/VAULT%20GUIDE.md) — Needs tool/setup review
 
 ## Marketing & Business
 

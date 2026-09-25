@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/richhemsley3/claude-design-skills",
+  "commit": "1185d0d84974eaed6e927b953243c96754de02b6",
+  "source_path": "skills/ux-flow-planner",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "562450eaa53a54001dc44cbb5c5ca16963ef082f8db49fa8e62746f238a3fe3b"
+  },
+  "adaptations": [
+    "Namespaced internal skill name; removed Claude Code-only user-invocable metadata where present.",
+    "Added host capability and design-system adaptation guidance.",
+    "Relabeled upstream fixed design values as examples; renamed sds tokens to example tokens; removed slash-command assumptions."
+  ]
+}

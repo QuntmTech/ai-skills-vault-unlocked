@@ -227,6 +227,15 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 
 ## Design & Media
 
+### ♿ Accessibility & Inclusive Design
+
+- [Accessible Interface Design](Skill%20References/Design%20%26%20Media/%E2%99%BF%20Accessibility%20%26%20Inclusive%20Design/Accessible%20Interface%20Design%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### ✍️ UI Writing & Microcopy
+
+- [UI Microcopy & Error Messages](Skill%20References/Design%20%26%20Media/%E2%9C%8D%EF%B8%8F%20UI%20Writing%20%26%20Microcopy/UI%20Microcopy%20%26%20Error%20Messages%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### ✨ Motion & Interaction
+
+- [Motion & Micro-Interaction Design](Skill%20References/Design%20%26%20Media/%E2%9C%A8%20Motion%20%26%20Interaction/Motion%20%26%20Micro-Interaction%20Design%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
 ### 🎨 Design Systems & Reports
 
 - [API Design](Skill%20References/Design%20%26%20Media/%F0%9F%8E%A8%20Design%20Systems%20%26%20Reports/API%20Design%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
@@ -258,6 +267,8 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Impeccable — UI Design & Polish](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Impeccable%20%E2%80%94%20UI%20Design%20%26%20Polish%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Liquid Glass Design](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Liquid%20Glass%20Design%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
 - [Swiftui Patterns](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Swiftui%20Patterns%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [UI UX Pro Max — Design System Toolkit](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/UI%20UX%20Pro%20Max%20%E2%80%94%20Design%20System%20Toolkit%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Wireframe & Screen Layouts](Skill%20References/Design%20%26%20Media/%F0%9F%96%A5%EF%B8%8F%20UI%2C%20UX%20%26%20Product%20Design/Wireframe%20%26%20Screen%20Layouts%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 ### 🖼️ Images & Visual Artwork
 
 - [All Images AI Automation](Skill%20References/Design%20%26%20Media/%F0%9F%96%BC%EF%B8%8F%20Images%20%26%20Visual%20Artwork/All%20Images%20AI%20Automation%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
@@ -267,6 +278,11 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 ### 🧩 Creative Tools & Workflows
 
 - [Dmux Workflows](Skill%20References/Design%20%26%20Media/%F0%9F%A7%A9%20Creative%20Tools%20%26%20Workflows/Dmux%20Workflows%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+### 🧭 UX Research & Usability
+
+- [Navigation & Information Architecture](Skill%20References/Design%20%26%20Media/%F0%9F%A7%AD%20UX%20Research%20%26%20Usability/Navigation%20%26%20Information%20Architecture%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Usability & Cognitive Load Review](Skill%20References/Design%20%26%20Media/%F0%9F%A7%AD%20UX%20Research%20%26%20Usability/Usability%20%26%20Cognitive%20Load%20Review%20%E2%80%94%20ChatGPT%20Reference.md) — no special setup signals detected
+- [User Flows & Onboarding](Skill%20References/Design%20%26%20Media/%F0%9F%A7%AD%20UX%20Research%20%26%20Usability/User%20Flows%20%26%20Onboarding%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 
 ## Marketing & Business
 

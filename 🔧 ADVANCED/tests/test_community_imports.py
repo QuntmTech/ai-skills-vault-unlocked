@@ -16,7 +16,8 @@ from skillverse import frontmatter
 class CommunityImportsTests(unittest.TestCase):
     def test_seventeen_pinned_packages_and_original_bytes(self):
         imports = json.loads((easy.ROOT / 'metadata/community-imports.json').read_text())['entries']
-        self.assertEqual(len(imports), 17)
+        original_batch = [v for v in imports.values() if v['collection'] == 'Community additions — 2026-09-24']
+        self.assertEqual(len(original_batch), 17)
         for path, info in imports.items():
             folder = (easy.ROOT / path).parent
             origin = json.loads((folder / 'UPSTREAM.json').read_text())
@@ -25,7 +26,7 @@ class CommunityImportsTests(unittest.TestCase):
             self.assertTrue((folder / 'LICENSE').exists())
             for rel, expected in origin['upstream_files_sha256'].items():
                 original = folder / rel
-                if '/xcode/' in path and rel == 'SKILL.md':
+                if ('/xcode/' in path or '/ux-design/' in path) and rel == 'SKILL.md':
                     original = folder / 'UPSTREAM-SKILL.md'
                 self.assertEqual(hashlib.sha256(original.read_bytes()).hexdigest(), expected, str(original))
 

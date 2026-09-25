@@ -1,0 +1,13 @@
+{
+  "repository": "https://github.com/mae616/design-skills",
+  "commit": "79e3398bee27664de70c7b97a30dd928f6fe7976",
+  "source_path": "skills/usability-psychologist",
+  "license": "MIT",
+  "upstream_files_sha256": {
+    "SKILL.md": "87fc838c55d1b684bc1bfb3e011b7249a276f6e4c52b5fa3f0c42e963bff6636"
+  },
+  "adaptations": [
+    "Namespaced internal skill name; removed Claude Code-only user-invocable metadata where present.",
+    "Added host capability and design-system adaptation guidance."
+  ]
+}
