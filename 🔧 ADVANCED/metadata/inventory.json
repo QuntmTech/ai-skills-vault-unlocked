@@ -2135,8 +2135,8 @@
     {
       "type": "skill",
       "path": "skills/claude/plugins/dx — review-claudemd/SKILL.md",
-      "bytes": 2719,
-      "sha256": "2a47abadeec7b28a5b4151257625f911e843388bb5ceb80360925bc7ff369b53",
+      "bytes": 2731,
+      "sha256": "34dcf536c2f5920400903cf9c95c95ed3a021f75e483fd34e793ef49be83a886",
       "license_status": "no-adjacent-license",
       "license_path": null
     },

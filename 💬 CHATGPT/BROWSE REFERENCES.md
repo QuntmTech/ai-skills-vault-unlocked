@@ -128,7 +128,7 @@ Review each document's requirements. No supporting scripts/assets are embedded.
 - [Receiving Code Review](Skill%20References/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Receiving%20Code%20Review%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Requesting Code Review](Skill%20References/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Requesting%20Code%20Review%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Review Agent](Skill%20References/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Review%20Agent%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
-- [Review Claudemd](Skill%20References/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Review%20Claudemd%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
+- [Review Project Instructions](Skill%20References/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Review%20Project%20Instructions%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Using Git Worktrees](Skill%20References/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Using%20Git%20Worktrees%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 - [Yeet](Skill%20References/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Yeet%20%E2%80%94%20ChatGPT%20Reference.md) — requirements flagged
 ### 🔌 APIs, MCP & Integrations

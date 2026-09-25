@@ -3,6 +3,7 @@
 import argparse
 import hashlib
 import json
+import re
 import zipfile
 from pathlib import Path
 
@@ -25,6 +26,14 @@ def outputs():
             with zipfile.ZipFile(src) as z:
                 assert z.testzip() is None
                 assert not any('.claude-plugin' in n for n in z.namelist())
+                skill_files = [name for name in z.namelist() if name.endswith('/SKILL.md')]
+                assert len(skill_files) == 1, f'Expected one SKILL.md: {src}'
+                text = z.read(skill_files[0]).decode('utf-8')
+                match = re.search(r'^name:\s*(.+?)\s*$', text, re.MULTILINE)
+                assert match, f'Missing internal skill name: {src}'
+                assert not re.search(r'claude', match.group(1), re.IGNORECASE), (
+                    'Reserved word in internal skill name: ' + str(src)
+                )
             dest = folder/(e['display_name'].replace('/',' - ')+'.zip')
             assert dest not in generated
             data = src.read_bytes()

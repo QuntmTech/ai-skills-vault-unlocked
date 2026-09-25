@@ -1,5 +1,5 @@
 ---
-name: review-claudemd
+name: review-project-instructions
 description: Review recent conversations to find improvements for CLAUDE.md files.
 ---
 

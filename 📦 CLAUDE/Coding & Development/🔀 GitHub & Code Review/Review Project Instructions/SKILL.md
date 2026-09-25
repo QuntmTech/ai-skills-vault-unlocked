@@ -1,9 +1,5 @@
-# Reference copy — review-claudemd
-
-This is a reading/copy-paste aid, not an installed skill. It does not include supporting files or grant access to tools. Review the ZIP and audit report before using this workflow.
-
 ---
-name: review-claudemd
+name: review-project-instructions
 description: Review recent conversations to find improvements for CLAUDE.md files.
 ---
 

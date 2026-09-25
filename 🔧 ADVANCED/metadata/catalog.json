@@ -6012,7 +6012,7 @@
     },
     {
       "id": 752,
-      "label": "dx:review-claudemd",
+      "label": "dx:review-project-instructions",
       "type": "skill",
       "collection": "Claude installed plugin skills",
       "description": "Review recent conversations to find improvements for CLAUDE.md files.",

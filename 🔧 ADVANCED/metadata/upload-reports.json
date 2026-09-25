@@ -19746,7 +19746,7 @@
     "id": 752,
     "path": "skills/claude/plugins/dx — review-claudemd/SKILL.md",
     "type": "skill",
-    "label": "dx:review-claudemd",
+    "label": "dx:review-project-instructions",
     "issues": [],
     "signals": [
       "Host-specific paths mentioned",
@@ -19754,15 +19754,15 @@
     ],
     "license_evidence": [],
     "publication": "review-required",
-    "package_sha256": "c2cd118ebfcb632d5ca7a703b55e282c410ee5d2313c24d5dedcd9e88ef47c4c",
+    "package_sha256": "81fdef802cc0057b6e7d108407b8fb056b922cdb209787a1d7e376abfd7f5216",
     "file_count": 1,
-    "bytes": 2719,
+    "bytes": 2731,
     "missing_local_links": [],
     "format": "structurally-valid",
     "target": "claude",
     "normalization": [],
     "original_metadata": {
-      "name": "review-claudemd",
+      "name": "review-project-instructions",
       "description": "Review recent conversations to find improvements for CLAUDE.md files."
     },
     "warning": "Structure only; not an import, runtime, security or redistribution approval"

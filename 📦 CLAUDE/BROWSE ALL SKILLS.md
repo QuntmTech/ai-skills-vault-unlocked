@@ -244,7 +244,7 @@ Identical whole packages share one ZIP; all source copies remain in Advanced.
 - [superpowers:receiving-code-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Receiving%20Code%20Review/VAULT%20GUIDE.md) — Needs tool/setup review
 - [superpowers:requesting-code-review](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Requesting%20Code%20Review/VAULT%20GUIDE.md) — Needs tool/setup review
 - [review-agent](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Review%20Agent/VAULT%20GUIDE.md) — Needs tool/setup review
-- [dx:review-claudemd](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Review%20Claudemd/VAULT%20GUIDE.md) — Needs tool/setup review
+- [dx:review-project-instructions](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Review%20Project%20Instructions/VAULT%20GUIDE.md) — Needs tool/setup review
 - [superpowers:using-git-worktrees](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Using%20Git%20Worktrees/VAULT%20GUIDE.md) — Needs tool/setup review
 - [github:yeet](../%F0%9F%93%A6%20CLAUDE/Coding%20%26%20Development/%F0%9F%94%80%20GitHub%20%26%20Code%20Review/Yeet/VAULT%20GUIDE.md) — Needs tool/setup review
 ### 🔌 APIs, MCP & Integrations

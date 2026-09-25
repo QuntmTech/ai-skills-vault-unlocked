@@ -74,8 +74,8 @@
     ]
   },
   {
-    "file": "Review Claudemd.zip",
-    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Review Claudemd/0752-review-claudemd-claude.zip",
+    "file": "Review Project Instructions.zip",
+    "source": "📦 CLAUDE/Coding & Development/🔀 GitHub & Code Review/Review Project Instructions/0752-review-project-instructions-claude.zip",
     "status": "Needs tool/setup review",
     "requirements": [
       "Host-specific paths mentioned",

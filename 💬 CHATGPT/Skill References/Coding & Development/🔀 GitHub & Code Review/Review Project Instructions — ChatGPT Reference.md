@@ -1,4 +1,4 @@
-# ChatGPT reference — Review Claudemd
+# ChatGPT reference — Review Project Instructions
 
 Readable guidance, not a native skill installation. No live ChatGPT test is claimed. Supporting scripts and assets are not embedded in this document. Provider-specific commands may require adaptation; do not assume tools are available.
 
@@ -13,12 +13,12 @@ Readable guidance, not a native skill installation. No live ChatGPT test is clai
 
 ---
 
-# Reference copy — review-claudemd
+# Reference copy — review-project-instructions
 
 This is a reading/copy-paste aid, not an installed skill. It does not include supporting files or grant access to tools. Review the ZIP and audit report before using this workflow.
 
 ---
-name: review-claudemd
+name: review-project-instructions
 description: Review recent conversations to find improvements for CLAUDE.md files.
 ---
 

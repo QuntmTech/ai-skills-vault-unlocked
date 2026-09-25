@@ -94,7 +94,7 @@ def coding_subcategory(label):
         return "☁️ Vercel Platform & Deployment"
     if re.search(r"security|threat|bounty|firewall|auth", name):
         return "🔐 Security & Authentication"
-    if re.search(r"github|\bgh-|git-worktree|code-review|review-agent|brooks-review|review-claudemd", name):
+    if re.search(r"github|\bgh-|git-worktree|code-review|review-agent|brooks-review|review-claudemd|review-project-instructions", name):
         return "🔀 GitHub & Code Review"
     if re.search(r"test|debug|benchmark|eval|verification|regression|\btdd\b|webapp-testing", name):
         return "🧪 Testing & Debugging"
