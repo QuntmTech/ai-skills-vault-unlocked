@@ -121,6 +121,14 @@ class PackageTests(unittest.TestCase):
         self.assertTrue(nested.exists())
         self.assertTrue(manifest.exists())
 
+    def test_claude_export_omits_nested_zip_without_deleting_source(self):
+        nested_archive = self.folder / "browser.zip"
+        nested_archive.write_bytes(b"nested archive placeholder")
+        with zipfile.ZipFile(self.export("claude")) as archive:
+            self.assertNotIn("demo/browser.zip", archive.namelist())
+            self.assertIn("demo/SKILL.md", archive.namelist())
+        self.assertTrue(nested_archive.exists())
+
     def test_keeps_policy_metadata_and_agent_file(self):
         self.source.write_text("---\nname: demo\ndescription: Do a task.\ndisable-model-invocation: true\n---\nBody.")
         (self.folder / "agents").mkdir()

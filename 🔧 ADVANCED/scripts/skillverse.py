@@ -168,6 +168,8 @@ def export(entry, target, out, root=ROOT):
             meta["description"] = desc[:197].rsplit(" ", 1)[0] + "..."
             body = "## Full original description\n\n" + original_meta["description"].strip() + "\n\n" + body
             changes.append("Shortened discovery description to 200 characters; full description retained in body")
+        if any(file.suffix.casefold() == ".zip" for file in package_files(source.parent)):
+            changes.append("Omitted nested ZIP archives from the Claude upload package")
     skill = "---\n" + yaml.safe_dump(meta, allow_unicode=True, sort_keys=False) + "---\n" + body
     report.update(target=target, normalization=changes, original_metadata=original_meta,
                   warning="Structure only; not an import, runtime, security or redistribution approval")
@@ -186,7 +188,9 @@ def export(entry, target, out, root=ROOT):
         for file in files:
             rel = file.relative_to(source.parent).as_posix()
             if target == "claude" and file != source and (
-                file.name == "SKILL.md" or ".claude-plugin" in file.relative_to(source.parent).parts
+                file.name == "SKILL.md"
+                or ".claude-plugin" in file.relative_to(source.parent).parts
+                or file.suffix.casefold() == ".zip"
             ):
                 continue
             info = zipfile.ZipInfo(name + "/" + rel, date_time=(2020, 1, 1, 0, 0, 0))

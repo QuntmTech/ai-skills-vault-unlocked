@@ -801,7 +801,8 @@
     "format": "structurally-valid",
     "target": "claude",
     "normalization": [
-      "Shortened discovery description to 200 characters; full description retained in body"
+      "Shortened discovery description to 200 characters; full description retained in body",
+      "Omitted nested ZIP archives from the Claude upload package"
     ],
     "original_metadata": {
       "name": "browser",
@@ -6904,7 +6905,8 @@
     "format": "structurally-valid",
     "target": "claude",
     "normalization": [
-      "Shortened discovery description to 200 characters; full description retained in body"
+      "Shortened discovery description to 200 characters; full description retained in body",
+      "Omitted nested ZIP archives from the Claude upload package"
     ],
     "original_metadata": {
       "name": "browser",
